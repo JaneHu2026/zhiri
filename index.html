@@ -417,7 +417,7 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
   </header>
 
   <div class="demo-banner" id="demoBanner">
-    <span><b>第一阶段</b> · 当前为演示数据，操作会保存在本机浏览器中</span>
+    <span><b>演示模式</b> · 当前为演示数据，操作会保存在本机浏览器中</span>
     <button class="db-x" id="demoBannerX" title="知道了">✕</button>
   </div>
 
@@ -535,6 +535,7 @@ function buildMock() {
   const catId = (type, name) => categories.find(c => c.type === type && c.name === name).id;
 
   return {
+    _demo: true,
     user: { id: 'u_local', name: '知日用户', createdAt: '2026-07-01' },
     settings: { theme: 'light', bannerDismissed: false },
     todos: [
@@ -665,15 +666,44 @@ function buildMock() {
   };
 }
 
+const IS_DEMO = new URLSearchParams(location.search).has('demo');
+
 function loadData() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (raw) {
       const d = JSON.parse(raw);
-      if (d && d.todos && d.transactions) return d;
+      if (d && d.todos && d.transactions) {
+        if (!IS_DEMO) {
+          // 正式版：若本地存的是演示数据（或旧演示特征），清空业务数据、隐藏演示横幅
+          const demoLike = d._demo || (d.todos.length > 0 && d.todos[0].text && String(d.todos[0].text).indexOf('核对本月结算单') !== -1);
+          if (demoLike) {
+            d.todos = []; d.transactions = []; d.focusItems = []; d.focusSessions = [];
+            d.settings = d.settings || {}; d.settings.bannerDismissed = true;
+          }
+          d._demo = false;
+        } else {
+          // 演示模式：若是正式空数据，换回演示数据
+          if (!d._demo && d.todos.length === 0) {
+            const fresh = buildMock();
+            saveData(fresh);
+            return fresh;
+          }
+          d._demo = true;
+        }
+        saveData(d);
+        return d;
+      }
     }
   } catch (_) { /* 损坏则重建 */ }
   const fresh = buildMock();
+  if (!IS_DEMO) {
+    fresh.todos = []; fresh.transactions = []; fresh.focusItems = []; fresh.focusSessions = [];
+    fresh.settings = fresh.settings || {}; fresh.settings.bannerDismissed = true;
+    fresh._demo = false;
+  } else {
+    fresh.settings = fresh.settings || {}; fresh.settings.bannerDismissed = false;
+  }
   saveData(fresh);
   return fresh;
 }
