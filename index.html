@@ -1,0 +1,1889 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F8F7F2">
+<meta name="description" content="知日 · 个人工作台（待办 / 记账 / 新闻 / 学习 / 专注）">
+<title>知日 · 个人工作台</title>
+<style>
+/* ============ 设计系统 ============ */
+:root{
+  --bg:#F8F7F2;            /* 页面背景（暖米白） */
+  --surface:#FFFFFF;       /* 卡片表面 */
+  --card:#FFFFFF;
+  --text:#272C28;          /* 主文字 */
+  --text-dim:#7B827C;      /* 次级文字 */
+  --text-faint:#A9B0A9;    /* 弱化文字 */
+  --green:#557263;         /* 主绿色 */
+  --green-deep:#344F42;    /* 深绿色 */
+  --green-soft:#E7EDE8;    /* 绿色浅底 */
+  --on-green:#FFFFFF;      /* 绿底上的文字 */
+  --line:#E6E5DE;          /* 分隔线 */
+  --line-soft:#EFEEE8;
+  --apricot:#D9B581;       /* 杏色点缀 */
+  --apricot-soft:#F5EBD9;
+  --lavender:#8E88B5;      /* 低饱和紫 */
+  --lavender-soft:#ECEAF4;
+  --mist:#7FA3B5;          /* 雾蓝 */
+  --mist-soft:#E4EDF2;
+  --danger:#B8554A;        /* 支出/删除（砖红，低饱和） */
+  --danger-soft:#F6E7E4;
+  --income:#4E7A63;        /* 收入绿 */
+  --income-soft:#E6EDE9;
+  --shadow:0 2px 12px rgba(52,79,66,.07);
+  --shadow-lg:0 8px 30px rgba(52,79,66,.14);
+  --radius:18px;
+  --radius-sm:12px;
+  --radius-xs:9px;
+  --font-serif:'Noto Serif SC','Songti SC','STSong','SimSun',Georgia,serif;
+  --font-sans:-apple-system,BlinkMacSystemFont,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',system-ui,sans-serif;
+  --nav-h:60px;
+}
+[data-theme="dark"]{
+  --bg:#1E221F; --surface:#262B27; --card:#2A302B;
+  --text:#E6E4DC; --text-dim:#9AA39B; --text-faint:#6F776F;
+  --green:#7FA08D; --green-deep:#C2D5C9; --green-soft:#303B34;
+  --on-green:#1E221F;
+  --line:#3A413B; --line-soft:#333A34;
+  --apricot:#CDAC7C; --apricot-soft:#3B352A;
+  --lavender:#A69FD3; --lavender-soft:#302E3C;
+  --mist:#8FB4C7; --mist-soft:#2B373E;
+  --danger:#D07A6E; --danger-soft:#3B2B28;
+  --income:#8FB89F; --income-soft:#29372F;
+  --shadow:0 2px 12px rgba(0,0,0,.28);
+  --shadow-lg:0 8px 30px rgba(0,0,0,.4);
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{
+  background:var(--bg); color:var(--text);
+  font-family:var(--font-sans); font-size:15px; line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+button{font-family:inherit;color:inherit;background:none;border:none;cursor:pointer}
+input,select,textarea{font-family:inherit;font-size:15px;color:var(--text)}
+::-webkit-scrollbar{width:0;height:0}
+#app{max-width:520px;margin:0 auto;min-height:100vh;position:relative}
+@media(min-width:560px){
+  #app{border-left:1px solid var(--line);border-right:1px solid var(--line);box-shadow:var(--shadow-lg)}
+}
+/* ============ 顶栏 ============ */
+.app-header{
+  position:sticky;top:0;z-index:30;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:calc(14px + env(safe-area-inset-top)) 18px 10px;
+  background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--line-soft);
+}
+.hd-left{min-width:0}
+.hd-date{font-size:12.5px;color:var(--text-dim);line-height:1.5}
+.hd-date b{font-size:15px;color:var(--text);font-weight:600;font-family:var(--font-serif);margin-right:2px}
+.hd-right{display:flex;gap:8px;align-items:center}
+.avatar{
+  width:44px;height:44px;min-width:44px;border-radius:50%;
+  background:var(--green-deep);color:var(--on-green);
+  font-family:var(--font-serif);font-size:19px;font-weight:600;
+  display:flex;align-items:center;justify-content:center;box-shadow:var(--shadow);
+}
+.icon-btn{
+  width:44px;height:44px;min-width:44px;min-height:44px;border-radius:14px;
+  display:flex;align-items:center;justify-content:center;font-size:18px;
+  background:var(--surface);border:1px solid var(--line);color:var(--text-dim);
+  transition:transform .12s;
+}
+.icon-btn:active{transform:scale(.93)}
+/* ============ 演示数据横幅 ============ */
+.demo-banner{
+  display:flex;align-items:center;gap:8px;
+  margin:12px 16px 0;padding:8px 12px;border-radius:12px;
+  background:var(--apricot-soft);border:1px solid color-mix(in srgb,var(--apricot) 45%,transparent);
+  font-size:12.5px;color:var(--text-dim);
+}
+.demo-banner b{color:var(--apricot);font-weight:700}
+.demo-banner .db-x{margin-left:auto;width:44px;height:44px;min-width:44px;border-radius:12px;font-size:14px;color:var(--text-dim)}
+/* ============ 页签摘要区（小字 + 大字标题） ============ */
+.tab-hero{margin:2px 2px 14px}
+.th-sub{font-size:12.5px;color:var(--text-dim);letter-spacing:.06em}
+.th-main{font-family:var(--font-serif);font-size:24px;font-weight:600;color:var(--green-deep);margin-top:3px;line-height:1.3}
+/* ============ 主区与页签 ============ */
+main{padding:14px 16px calc(var(--nav-h) + 90px + env(safe-area-inset-bottom))}
+.tab{display:none}
+.tab.active{display:block;animation:fadeIn .18s ease}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+.sec-head{display:flex;align-items:baseline;justify-content:space-between;margin:6px 2px 12px}
+.sec-title{font-family:var(--font-serif);font-size:20px;font-weight:600;color:var(--green-deep)}
+.sec-sub{font-size:12px;color:var(--text-dim)}
+/* ============ 通用组件 ============ */
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 8px;-webkit-overflow-scrolling:touch}
+.chip{
+  flex:none;min-height:44px;padding:0 18px;border-radius:22px;font-size:14px;font-weight:500;
+  display:inline-flex;align-items:center;gap:5px;
+  background:var(--surface);border:1px solid var(--line);color:var(--text-dim);
+  transition:all .15s;
+}
+.chip.on{background:var(--green-deep);border-color:var(--green-deep);color:var(--on-green);font-weight:600}
+.chip .dot{width:8px;height:8px;border-radius:50%}
+.seg{display:flex;background:var(--line-soft);border:1px solid var(--line);border-radius:14px;padding:3px;gap:2px}
+.seg button{
+  flex:1;min-height:44px;border-radius:11px;font-size:14px;color:var(--text-dim);
+  display:flex;align-items:center;justify-content:center;gap:4px;
+}
+.seg button.on{background:var(--card);color:var(--green-deep);font-weight:600;box-shadow:var(--shadow)}
+.btn{
+  min-height:44px;padding:0 18px;border-radius:14px;font-size:15px;font-weight:600;
+  display:inline-flex;align-items:center;justify-content:center;gap:6px;
+  background:var(--green-deep);color:var(--on-green);transition:transform .12s;
+}
+.btn:active{transform:scale(.96)}
+.btn.ghost{background:var(--surface);border:1px solid var(--line);color:var(--text-dim)}
+.btn.warn{background:var(--danger-soft);border:1px solid color-mix(in srgb,var(--danger) 40%,transparent);color:var(--danger)}
+.btn.block{width:100%}
+input.in,select.in,textarea.in{
+  width:100%;background:var(--bg);border:1px solid var(--line);border-radius:12px;
+  padding:12px 14px;outline:none;transition:border-color .15s;
+}
+input.in:focus,select.in:focus,textarea.in:focus{border-color:var(--green)}
+input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
+.fab{
+  position:fixed;z-index:25;right:max(18px,calc(50% - 244px));
+  bottom:calc(var(--nav-h) + 18px + env(safe-area-inset-bottom));
+  width:56px;height:56px;border-radius:50%;color:var(--on-green);
+  background:var(--green-deep);box-shadow:0 6px 20px rgba(52,79,66,.35);
+  display:flex;align-items:center;justify-content:center;
+}
+.fab svg{width:26px;height:26px}
+.fab:active{transform:scale(.92)}
+.empty{padding:44px 20px;text-align:center;color:var(--text-faint);font-size:13.5px;line-height:2}
+.empty .e-ico{font-size:34px;display:block;margin-bottom:6px}
+/* ============ 底部导航 ============ */
+.bottom-nav{
+  position:fixed;z-index:40;bottom:0;left:50%;transform:translateX(-50%);
+  width:100%;max-width:520px;height:calc(var(--nav-h) + env(safe-area-inset-bottom));
+  padding-bottom:env(safe-area-inset-bottom);
+  display:flex;background:var(--surface);border-top:1px solid var(--line);
+}
+.nav-item{
+  flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;
+  font-size:11px;color:var(--text-dim);min-height:44px;
+}
+.nav-item .ni-ico{width:22px;height:22px;display:flex;align-items:center;justify-content:center;transition:transform .15s}
+.nav-item .ni-ico svg{width:22px;height:22px;display:block}
+[data-theme="dark"] .ic-moon{display:none}
+[data-theme="light"] .ic-sun{display:none}
+.nav-item.on{color:var(--green-deep);font-weight:600}
+.nav-item.on .ni-ico{transform:translateY(-1px) scale(1.08)}
+.nav-item .ni-dot{width:4px;height:4px;border-radius:50%;background:var(--green);opacity:0;margin-top:1px}
+.nav-item.on .ni-dot{opacity:1}
+/* ============ 待办 ============ */
+.date-strip{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 10px;-webkit-overflow-scrolling:touch}
+.ds-item{
+  flex:none;width:52px;min-height:60px;border-radius:15px;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;
+  background:var(--surface);border:1px solid var(--line);color:var(--text-dim);
+}
+.ds-item .ds-w{font-size:11px}
+.ds-item .ds-d{font-size:16px;font-weight:600;color:var(--text)}
+.ds-item.is-today{border-color:var(--green)}
+.ds-item.on{background:var(--green-deep);border-color:var(--green-deep)}
+.ds-item.on .ds-w,.ds-item.on .ds-d{color:var(--on-green)}
+.todo-progress{display:flex;align-items:center;gap:10px;margin:2px 2px 12px}
+.tp-text{font-size:13px;color:var(--text-dim);white-space:nowrap}
+.tp-text b{color:var(--green-deep);font-size:14px}
+.tp-bar{flex:1;height:6px;border-radius:3px;background:var(--line-soft);overflow:hidden}
+.tp-fill{height:100%;border-radius:3px;background:var(--green);transition:width .3s}
+.todo-list{display:flex;flex-direction:column;gap:10px}
+.todo-item-wrap{position:relative;border-radius:16px;overflow:hidden;background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow)}
+.todo-item{
+  display:flex;align-items:center;gap:2px;padding:6px 8px;
+  background:var(--card);position:relative;z-index:2;
+  touch-action:pan-y;transition:transform .18s ease;
+}
+.todo-item.swiping{transition:none}
+.todo-item.dragging{opacity:.6;box-shadow:var(--shadow-lg);z-index:5;position:relative}
+.todo-item.done .td-text{text-decoration:line-through;color:var(--text-faint)}
+.todo-swipe{position:absolute;top:0;right:0;bottom:0;display:flex;z-index:1}
+.tsw-btn{
+  width:62px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+  font-size:11px;font-weight:600;color:#fff;
+}
+.tsw-btn svg{width:19px;height:19px}
+.tsw-edit{background:var(--green)}
+.tsw-del{background:var(--danger)}
+.swipe-hint{font-size:11.5px;color:var(--text-faint);text-align:right;margin:-4px 4px 8px}
+.grip{
+  width:38px;height:44px;min-width:38px;display:flex;align-items:center;justify-content:center;
+  color:var(--text-faint);font-size:13px;letter-spacing:-2px;touch-action:none;cursor:grab;
+}
+.check{
+  width:44px;height:44px;min-width:44px;display:flex;align-items:center;justify-content:center;
+}
+.ck-circle{
+  width:24px;height:24px;border-radius:50%;border:2px solid var(--green);
+  display:flex;align-items:center;justify-content:center;font-size:13px;color:var(--on-green);
+  transition:all .15s;background:transparent;
+}
+.check.on .ck-circle{background:var(--green);border-color:var(--green)}
+.td-main{flex:1;min-width:0;padding:4px 4px}
+.td-text{font-size:14.5px;word-break:break-all;transition:color .15s}
+.td-meta{display:flex;align-items:center;gap:6px;margin-top:3px;flex-wrap:wrap}
+.tag-pill{font-size:11px;padding:1px 8px;border-radius:8px;font-weight:500}
+.tag-work{background:var(--green-soft);color:var(--green-deep)}
+.tag-life{background:var(--apricot-soft);color:color-mix(in srgb,var(--apricot) 75%,var(--text))}
+.due-txt{font-size:11px;color:var(--text-faint)}
+.due-txt.soon{color:var(--danger)}
+.td-actions{display:flex}
+.td-actions .icon-btn{width:44px;min-width:44px;height:44px;min-height:44px;font-size:15px;border:none;background:transparent}
+.td-actions .icon-btn.warn{color:var(--danger)}
+/* ============ 记账 ============ */
+.acct-summary{
+  display:flex;align-items:stretch;margin-bottom:14px;
+  background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);
+}
+.acct-summary .as-col{flex:1;padding:14px 10px;text-align:center;min-width:0}
+.acct-summary .as-col+.as-col{border-left:1px solid var(--line-soft)}
+.acct-summary .as-label{font-size:11.5px;color:var(--text-dim);margin-bottom:4px}
+.acct-summary .as-val{font-size:16px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.acct-summary .income .as-val{color:var(--income)}
+.acct-summary .expense .as-val{color:var(--danger)}
+.acct-summary .balance .as-val{color:var(--green-deep)}
+.acct-balance{
+  display:flex;align-items:center;justify-content:space-between;
+  background:var(--green-deep);border-radius:var(--radius);
+  padding:16px 18px;margin-bottom:12px;color:var(--on-green);box-shadow:var(--shadow);
+}
+.acct-balance .ab-label{font-size:13px;opacity:.8}
+.acct-balance .ab-val{font-size:26px;font-weight:700;font-family:var(--font-serif);word-break:break-all;text-align:right}
+.acct-two{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}
+.acct-two .at-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:12px 15px}
+.at-card .at-label{font-size:11.5px;color:var(--text-dim);margin-bottom:3px}
+.at-card .at-val{font-size:19px;font-weight:700;word-break:break-all}
+.at-card.income .at-val{color:var(--income)}
+.at-card.expense .at-val{color:var(--danger)}
+.acct-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:14px}
+.acct-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:13px 12px}
+.acct-card .ac-label{font-size:12px;color:var(--text-dim);margin-bottom:4px}
+.acct-card .ac-val{font-size:16.5px;font-weight:700;word-break:break-all}
+.acct-card.income .ac-val{color:var(--income)}
+.acct-card.expense .ac-val{color:var(--danger)}
+.acct-card.balance .ac-val{color:var(--green-deep)}
+.acct-ops{display:flex;flex-direction:column;gap:10px;margin-bottom:14px}
+.acct-list{display:flex;flex-direction:column;gap:10px;margin-top:4px}
+.acct-day{border-radius:var(--radius);overflow:hidden;background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow)}
+.acct-day-head{display:flex;justify-content:space-between;padding:9px 14px;font-size:12.5px;color:var(--text-dim);background:var(--green-soft);border-bottom:1px solid var(--line-soft)}
+.acct-row{display:flex;align-items:center;gap:10px;padding:10px 14px;border-bottom:1px solid var(--line-soft);cursor:pointer}
+.acct-row:last-child{border-bottom:none}
+.acct-row:active{background:var(--line-soft)}
+.ac-ico{width:38px;height:38px;min-width:38px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:18px;background:var(--line-soft)}
+.ac-ico.income{background:var(--income-soft)}
+.ac-ico.expense{background:var(--danger-soft)}
+.ac-info{flex:1;min-width:0}
+.ac-name{font-size:14px;font-weight:500}
+.ac-note{font-size:11.5px;color:var(--text-faint);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ac-amt{font-size:14.5px;font-weight:700;white-space:nowrap}
+.ac-amt.income{color:var(--income)}
+.ac-amt.expense{color:var(--danger)}
+.stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+.cat-bar-row{display:flex;align-items:center;gap:8px;padding:7px 0}
+.cbr-ico{width:26px;min-width:26px;font-size:15px;text-align:center}
+.cbr-name{width:64px;min-width:64px;font-size:12.5px;color:var(--text-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cbr-track{flex:1;height:8px;border-radius:4px;background:var(--line-soft);overflow:hidden}
+.cbr-fill{height:100%;border-radius:4px;background:var(--green);transition:width .3s}
+.cbr-fill.expense{background:var(--danger)}
+.cbr-fill.income{background:var(--income)}
+.cbr-pct{width:38px;min-width:38px;text-align:right;font-size:12px;color:var(--text-dim)}
+.cbr-amt{width:66px;min-width:66px;text-align:right;font-size:12px;font-weight:600}
+.chart-box{width:100%;overflow-x:auto}
+/* ============ 新闻 ============ */
+.news-list{display:flex;flex-direction:column;gap:10px;margin-top:4px}
+.news-item{display:block;text-decoration:none;color:inherit;padding:14px 15px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+.news-item:active{background:var(--line-soft)}
+.ns-top{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+.ns-theme{font-size:11px;padding:2px 9px;border-radius:8px;background:var(--green-soft);color:var(--green-deep);font-weight:600}
+.ns-theme.gj{background:var(--mist-soft);color:color-mix(in srgb,var(--mist) 80%,var(--text))}
+.ns-title{font-family:var(--font-serif);font-size:16px;font-weight:600;line-height:1.5;margin-bottom:6px}
+.ns-sum{font-size:13px;color:var(--text-dim);line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:8px}
+.ns-foot{font-size:11.5px;color:var(--text-faint);display:flex;gap:10px}
+.ns-dedup{color:var(--apricot)}
+/* ============ 学习 ============ */
+.study-list{display:flex;flex-direction:column;gap:10px;margin-top:4px}
+.study-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+.sc-top{display:flex;align-items:center;gap:8px;padding:12px 14px 0}
+.sc-platform{font-size:11px;padding:2px 9px;border-radius:8px;font-weight:700;color:var(--on-green)}
+.pl-youtube{background:#C0392B}
+.pl-tiktok{background:#111;border:1px solid #555}
+.pl-douyin{background:#2B2B33}
+.pl-xhs{background:#B8554A}
+.pl-bilibili{background:#E6878A;color:#fff}
+.pl-facebook{background:#3B5B93}
+.pl-x{background:#1B1B1F;border:1px solid #444}
+.sc-heat{margin-left:auto;font-size:11.5px;color:var(--text-dim)}
+.sc-net{font-size:10.5px;padding:2px 8px;border-radius:8px;background:var(--apricot-soft);color:color-mix(in srgb,var(--apricot) 80%,var(--text))}
+.sc-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;line-height:1.5;padding:8px 14px 4px;cursor:pointer;display:block;text-decoration:none;color:inherit}
+.sc-title:active{color:var(--green)}
+.sc-meta{font-size:11.5px;color:var(--text-faint);padding:0 14px 8px;display:flex;gap:8px;flex-wrap:wrap}
+.sc-src-note{margin-left:auto;color:var(--apricot)}
+.sc-points{margin:0 14px 10px;padding:9px 12px;border-radius:12px;background:var(--green-soft);font-size:12.5px;line-height:1.75;color:var(--text-dim)}
+.sc-points b{color:var(--green-deep);font-weight:700}
+.sc-points li{margin-left:16px}
+.sc-actions{display:flex;align-items:center;gap:2px;border-top:1px solid var(--line-soft);padding:4px 6px}
+.sc-actions .icon-btn{width:44px;min-width:44px;height:44px;min-height:44px;font-size:16px;border:none;background:transparent}
+.sc-actions .icon-btn.on-fav{color:var(--apricot)}
+.sc-actions .icon-btn.on-watched{color:var(--green)}
+.sc-actions .icon-btn.on-later{color:var(--mist)}
+.sc-actions .icon-btn.on-fav svg,.sc-actions .icon-btn.on-watched svg,.sc-actions .icon-btn.on-later svg{fill:currentColor}
+.sc-go{margin-left:auto;font-size:12.5px;color:var(--green-deep);font-weight:600;padding:0 12px;min-height:44px;display:flex;align-items:center;gap:4px}
+/* ============ 专注 ============ */
+.focus-summary{background:var(--green-deep);border-radius:var(--radius);padding:16px 18px;margin-bottom:14px;color:var(--on-green)}
+.fs-label{font-size:12.5px;opacity:.75;margin-bottom:2px}
+.fs-val{font-size:30px;font-weight:700;font-family:var(--font-serif)}
+.fs-note{font-size:11.5px;opacity:.7;margin-top:3px}
+.focus-list{display:flex;flex-direction:column;gap:10px}
+.focus-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 15px}
+.focus-card.running{border-color:var(--green);box-shadow:0 0 0 3px var(--green-soft)}
+.fc-head{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.fc-name{font-size:15.5px;font-weight:600;font-family:var(--font-serif)}
+.fc-goal{font-size:11px;padding:2px 9px;border-radius:8px;background:var(--apricot-soft);color:color-mix(in srgb,var(--apricot) 75%,var(--text))}
+.fc-done{margin-left:auto;font-size:12px;color:var(--green);font-weight:700}
+.fc-timer{font-size:26px;font-weight:700;font-variant-numeric:tabular-nums;margin:2px 0 8px;color:var(--green-deep)}
+.focus-card.running .fc-timer{font-size:44px;line-height:1.2;margin:6px 0 12px}
+.focus-card.running .fc-timer .pulse{width:12px;height:12px}
+.fc-timer .pulse{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--danger);margin-right:8px;vertical-align:2px;animation:pl 1.2s infinite}
+@keyframes pl{0%,100%{opacity:1}50%{opacity:.25}}
+.fc-bar{height:7px;border-radius:4px;background:var(--line-soft);overflow:hidden;margin-bottom:8px}
+.fc-bar-fill{height:100%;border-radius:4px;background:var(--green);transition:width .3s}
+.fc-stats{display:flex;gap:14px;font-size:12px;color:var(--text-dim);margin-bottom:12px}
+.fc-stats b{color:var(--text);font-weight:600}
+.fc-ctl{display:flex;gap:8px}
+.fc-ctl .btn{flex:1}
+.fc-ctl .btn.stop{background:var(--danger);color:#fff}
+.fc-ctl .btn.resume{background:var(--green)}
+/* ============ 底部弹层/表单 ============ */
+.sheet-mask{position:fixed;inset:0;background:rgba(30,34,31,.45);z-index:50;opacity:0;pointer-events:none;transition:opacity .2s}
+.sheet-mask.show{opacity:1;pointer-events:auto}
+.sheet{
+  position:fixed;z-index:51;bottom:0;left:50%;transform:translateX(-50%) translateY(102%);
+  width:100%;max-width:520px;max-height:86vh;overflow-y:auto;
+  background:var(--surface);border-radius:22px 22px 0 0;border-top:1px solid var(--line);
+  box-shadow:var(--shadow-lg);transition:transform .26s cubic-bezier(.32,.72,.28,1);
+  padding:10px 18px calc(18px + env(safe-area-inset-bottom));
+}
+.sheet.show{transform:translateX(-50%) translateY(0)}
+.sheet .sheet-grip{width:38px;height:4px;border-radius:2px;background:var(--line);margin:4px auto 14px}
+.sheet-title{font-family:var(--font-serif);font-size:18px;font-weight:600;margin-bottom:14px;color:var(--green-deep)}
+.form-row{margin-bottom:14px}
+.form-label{font-size:12.5px;color:var(--text-dim);margin-bottom:6px;display:block}
+.form-actions{display:flex;gap:10px;margin-top:18px}
+.form-actions .btn{flex:1}
+.cat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.cat-cell{
+  min-height:56px;border-radius:13px;border:1px solid var(--line);background:var(--bg);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;font-size:11px;color:var(--text-dim);
+}
+.cat-cell .cc-ico{font-size:19px;line-height:1}
+.cat-cell.on{border-color:var(--green);background:var(--green-soft);color:var(--green-deep);font-weight:600}
+.cat-cell.add{border-style:dashed;color:var(--text-faint)}
+.mode-pick{display:flex;gap:8px}
+.mode-pick .btn{flex:1}
+.mode-pick .btn.on{outline:3px solid var(--green-soft)}
+.min-chips{display:flex;gap:8px;flex-wrap:wrap}
+.min-chips .chip{min-height:44px;padding:0 15px}
+/* ============ Toast ============ */
+.toast{
+  position:fixed;z-index:60;left:50%;transform:translateX(-50%) translateY(20px);
+  bottom:calc(var(--nav-h) + 26px + env(safe-area-inset-bottom));
+  max-width:82%;padding:10px 18px;border-radius:12px;font-size:13.5px;text-align:center;
+  background:var(--green-deep);color:var(--on-green);opacity:0;pointer-events:none;
+  transition:opacity .2s,transform .2s;box-shadow:var(--shadow-lg);
+}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+<div id="app">
+  <header class="app-header">
+    <div class="hd-left">
+      <div class="hd-date" id="hdDate"></div>
+    </div>
+    <div class="hd-right">
+      <button class="icon-btn" id="themeBtn" title="切换深色 / 浅色模式">
+        <svg class="ic-moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
+        <svg class="ic-sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5 5l1.6 1.6M17.4 17.4L19 19M19 5l-1.6 1.6M6.6 17.4L5 19"/></svg>
+      </button>
+      <div class="avatar" title="胡">胡</div>
+    </div>
+  </header>
+
+  <div class="demo-banner" id="demoBanner">
+    <span><b>第一阶段</b> · 当前为演示数据，操作会保存在本机浏览器中</span>
+    <button class="db-x" id="demoBannerX" title="知道了">✕</button>
+  </div>
+
+  <main id="main">
+    <section class="tab active" id="tab-todo"></section>
+    <section class="tab" id="tab-acct"></section>
+    <section class="tab" id="tab-news"></section>
+    <section class="tab" id="tab-study"></section>
+    <section class="tab" id="tab-focus"></section>
+  </main>
+
+  <nav class="bottom-nav">
+    <button class="nav-item on" data-tab="todo"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="3"/><path d="M8 11.5l2.5 2.5L16 8.5"/></svg></span><span>待办</span><span class="ni-dot"></span></button>
+    <button class="nav-item" data-tab="acct"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v9M15 9.8c0-1.6-1.3-2.8-3-2.8s-3 1.2-3 2.8 1.3 2.8 3 2.8 3 1.2 3 2.8-1.3 2.8-3 2.8-3-1.2-3-2.8"/></svg></span><span>记账</span><span class="ni-dot"></span></button>
+    <button class="nav-item" data-tab="news"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2.5"/><path d="M7 9h10M7 13h10M7 17h6"/></svg></span><span>新闻</span><span class="ni-dot"></span></button>
+    <button class="nav-item" data-tab="study"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 016.5 17H20V4H6.5A2.5 2.5 0 004 6.5v13z"/><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/></svg></span><span>学习</span><span class="ni-dot"></span></button>
+    <button class="nav-item" data-tab="focus"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></svg></span><span>专注</span><span class="ni-dot"></span></button>
+  </nav>
+</div>
+
+<div class="sheet-mask" id="sheetMask"></div>
+<div class="sheet" id="sheet"></div>
+<div class="toast" id="toast"></div>
+
+<script>
+/* ============================================================
+ * 知日 · 个人工作台  —  第一阶段（演示数据 + 本机持久化）
+ * 数据层为可替换接口：第二阶段将换为 IndexedDB 适配器
+ * ============================================================ */
+'use strict';
+
+/* ---------- 工具函数 ---------- */
+const pad2 = n => String(n).padStart(2, '0');
+const dateKey = d => `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
+const todayKey = () => dateKey(new Date());
+const parseKey = k => { const [y, m, d] = k.split('-').map(Number); return new Date(y, m - 1, d); };
+const daysAgo = n => new Date(Date.now() - n * 86400000);
+const fmtYMD = k => { const d = parseKey(k); return `${d.getMonth() + 1}月${d.getDate()}日`; };
+const fmtW = d => '周' + '日一二三四五六'[d.getDay()];
+const fmtWeekday = k => fmtW(parseKey(k));
+const uid = p => p + '_' + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const fmtMoney = n => '¥' + Number(n).toLocaleString('zh-CN', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const fmtHours = ms => (ms / 3600000).toFixed(1) + ' 小时';
+const fmtClock = ms => {
+  if (ms < 0) ms = 0;
+  const s = Math.floor(ms / 1000), h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), ss = s % 60;
+  return h > 0 ? `${h}:${pad2(m)}:${pad2(ss)}` : `${pad2(m)}:${pad2(ss)}`;
+};
+const fmtHeat = n => n >= 10000 ? (n / 10000).toFixed(n >= 1000000 ? 0 : 1) + '万' : String(n);
+const fmtUpdated = iso => {
+  const diff = Date.now() - new Date(iso).getTime();
+  if (diff < 3600000) return Math.max(1, Math.floor(diff / 60000)) + '分钟前';
+  if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前';
+  return Math.floor(diff / 86400000) + '天前';
+};
+const isToday = k => k === todayKey();
+
+/* ---------- 状态 ---------- */
+const state = {
+  tab: 'todo',
+  todoDate: todayKey(),
+  todoFilter: 'all',           // all | work | life
+  acctRange: 'month',        // month | year | custom
+  acctStart: '', acctEnd: '',
+  acctFilter: 'all',         // all | income | expense
+  acctGran: 'month',         // day | month | quarter | year
+  newsGroup: 'all',          // all | gn | gj
+  newsTheme: 'all',
+  studyFilter: 'all',        // all | youtube | tiktok | douyin | xhs
+  focusPeriod: 'today',      // today | week | month | all
+  focusRunning: null,        // 进行中的专注会话（时间戳恢复）
+  drag: null,
+};
+
+/* ---------- 数据层（第一阶段：localStorage，第二阶段换 IndexedDB） ---------- */
+const STORAGE_KEY = 'zhiri_v1';
+const RUNNING_KEY = 'zhiri_running_v1';
+
+function defaultCategories() {
+  return [
+    { id: 'c_in_1',  type: 'income',  name: '工资收入', icon: '💼', isDefault: true, order: 0 },
+    { id: 'c_in_2',  type: 'income',  name: '奖金',     icon: '🎁', isDefault: true, order: 1 },
+    { id: 'c_in_3',  type: 'income',  name: '理财收入', icon: '📈', isDefault: true, order: 2 },
+    { id: 'c_in_4',  type: 'income',  name: '其他收入', icon: '✨', isDefault: true, order: 3 },
+    { id: 'c_ex_1',  type: 'expense', name: '餐费',     icon: '🍜', isDefault: true, order: 0 },
+    { id: 'c_ex_2',  type: 'expense', name: '交通费',   icon: '🚌', isDefault: true, order: 1 },
+    { id: 'c_ex_3',  type: 'expense', name: '美容费',   icon: '💄', isDefault: true, order: 2 },
+    { id: 'c_ex_4',  type: 'expense', name: '租金物业费', icon: '🏠', isDefault: true, order: 3 },
+    { id: 'c_ex_5',  type: 'expense', name: '生活用品费', icon: '🛒', isDefault: true, order: 4 },
+    { id: 'c_ex_6',  type: 'expense', name: '服装费',   icon: '👗', isDefault: true, order: 5 },
+    { id: 'c_ex_7',  type: 'expense', name: '学习费',   icon: '📚', isDefault: true, order: 6 },
+    { id: 'c_ex_8',  type: 'expense', name: '通讯费',   icon: '📱', isDefault: true, order: 7 },
+    { id: 'c_ex_9',  type: 'expense', name: '会员费',   icon: '🎫', isDefault: true, order: 8 },
+    { id: 'c_ex_10', type: 'expense', name: '其他费用', icon: '📦', isDefault: true, order: 9 },
+    { id: 'c_ex_11', type: 'expense', name: '宠物',     icon: '🐾', isDefault: false, order: 10 },
+  ];
+}
+
+function buildMock() {
+  const T = todayKey();
+  const d = n => dateKey(daysAgo(n));
+  const t = (text, date, cat, done, o = {}) => ({
+    id: uid('td'), text, date, cat, done,
+    createdAt: (date + 'T09:00:00'), doneAt: done ? (date + 'T10:00:00') : null,
+    dueTime: o.dueTime || null, order: o.order ?? 0,
+  });
+  const tx = (type, catId, amount, date, note) => ({ id: uid('tx'), type, catId, amount, date, note: note || '' });
+  const s = (itemId, date, startedAt, durationMin) => ({
+    id: uid('fs'), itemId, date, mode: 'countup',
+    startedAt: date + 'T' + startedAt, endedAt: date + 'T' + startedAt, durationMs: durationMin * 60000,
+  });
+
+  const categories = defaultCategories();
+  const catId = (type, name) => categories.find(c => c.type === type && c.name === name).id;
+
+  return {
+    user: { id: 'u_local', name: '知日用户', createdAt: '2026-07-01' },
+    settings: { theme: 'light', bannerDismissed: false },
+    todos: [
+      // 今天（5 完成 / 3 未完成）
+      t('核对本月结算单', T, 'work', true,  { dueTime: '10:00', order: 0 }),
+      t('回复客户邮件',   T, 'work', true,  { order: 1 }),
+      t('更新店铺商品信息', T, 'work', false, { dueTime: '18:00', order: 2 }),
+      t('整理报销发票',   T, 'work', false, { order: 3 }),
+      t('去超市买菜',     T, 'life', true,  { order: 4 }),
+      t('预约下周体检',   T, 'life', true,  { order: 5 }),
+      t('阅读 30 分钟',   T, 'life', false, { order: 6 }),
+      t('给妈妈打电话',   T, 'life', true,  { order: 7 }),
+      // 昨天（历史记录）
+      t('提交周报',       d(1), 'work', true, { order: 0 }),
+      t('剪头发',         d(1), 'life', true, { order: 1 }),
+      // 前天
+      t('学完 PS 课程第 3 节', d(2), 'life', true,  { order: 0 }),
+      t('处理退货订单',   d(2), 'work', false, { order: 1 }),
+      // 未来
+      t('周末和朋友爬山', d(-1), 'life', false, { order: 0 }),
+      t('整理三季度预算', d(-2), 'work', false, { order: 1 }),
+    ],
+    categories,
+    transactions: [
+      tx('income',  catId('income', '工资收入'), 12000, d(20), '7 月工资'),
+      tx('income',  catId('income', '奖金'),      2000, d(18), '季度绩效'),
+      tx('income',  catId('income', '理财收入'),   356.8, d(6), '货币基金收益'),
+      tx('expense', catId('expense', '租金物业费'), 2800, d(8), '房租 + 物业'),
+      tx('expense', catId('expense', '餐费'),       35.5, d(0), '午餐'),
+      tx('expense', catId('expense', '交通费'),     12,   d(0), '地铁'),
+      tx('expense', catId('expense', '餐费'),       48,   d(1), '和朋友聚餐'),
+      tx('expense', catId('expense', '生活用品费'), 126.9, d(1), '纸巾、洗衣液'),
+      tx('expense', catId('expense', '美容费'),     298,  d(2), '护理'),
+      tx('expense', catId('expense', '餐费'),       26,   d(2), '早餐外卖'),
+      tx('expense', catId('expense', '通讯费'),     59,   d(3), '话费'),
+      tx('expense', catId('expense', '学习费'),     199,  d(4), '线上课程'),
+      tx('expense', catId('expense', '服装费'),     459,  d(5), '连衣裙'),
+      tx('expense', catId('expense', '会员费'),     25,   d(9), '视频会员'),
+      tx('expense', catId('expense', '餐费'),       33,   d(10), '咖啡'),
+      tx('expense', catId('expense', '宠物'),       89,   d(12), '猫粮'),
+      tx('expense', catId('expense', '其他费用'),   88,   d(14), '维修'),
+      tx('expense', catId('expense', '交通费'),     20,   d(16), '打车'),
+      tx('expense', catId('expense', '餐费'),       45,   d(18), '晚餐'),
+      tx('expense', catId('expense', '生活用品费'), 76,   d(20), '收纳盒'),
+      // 上个月（趋势图用）
+      tx('expense', catId('expense', '租金物业费'), 2800, d(38), '6 月房租'),
+      tx('expense', catId('expense', '餐费'),       30,   d(42), '午餐'),
+      tx('income',  catId('income', '工资收入'),  12000, d(44), '6 月工资'),
+      // 更早（本年/年趋势用）
+      tx('expense', catId('expense', '学习费'),     260,  d(75), '购书'),
+      tx('income',  catId('income', '奖金'),      1500,  d(80), '项目奖金'),
+    ],
+    news: {
+      fetchedAt: '08:00',
+      fetchedDate: T,
+      items: [
+        { id: uid('ns'), group: "gn", theme: "民生", title: "养老服务消费补贴惠及约200万名中度以上失能老年人", source: "人民网", time: "今天", url: "http://health.people.com.cn/n1/2026/0731/c14739-40771305.html", summary: "民政部第三季度例行新闻发布会消息：截至目前，向中度以上失能老年人发放养老服务消费补贴项目在全国范围内累计核销超200万人，补贴覆盖范围进一步扩大。", day: 0 },
+        { id: uid('ns'), group: "gn", theme: "民生", title: "新功能上线！12306推出入学新生预约购票服务", source: "中国新闻网", time: "今天", url: "https://www.chinanews.com.cn/gn/2026/07-31/10669816.shtml", summary: "据国铁集团客运中心消息，8月1日至30日，铁路12306手机客户端为学生提供入学新生预约购票服务，新生凭录取通知书即可提前预约车票，出行更方便。", day: 0 },
+        { id: uid('ns'), group: "gn", theme: "财经", title: "四部门联合发布22条措施 健全金融机构治理", source: "中国新闻网", time: "今天", url: "https://www.chinanews.com.cn/gn/2026/07-31/10669986.shtml", summary: "金融监管总局、中国人民银行、中国证监会、财政部近日联合发布《关于健全金融机构治理的实施意见》，提出22条具体措施，涉及股东股权、公司治理、薪酬激励等方面。", day: 0 },
+        { id: uid('ns'), group: "gn", theme: "医疗", title: "第12批药品集采首轮报价结束 265家企业拟中选", source: "中国新闻网", time: "今天", url: "https://www.chinanews.com.cn/cj/2026/07-31/10670056.shtml", summary: "第12批国家组织药品集中带量采购产生首轮报价结果，共有265家企业直接获得拟中选资格，药品价格有望进一步下降，患者用药负担继续减轻。", day: 0 },
+        { id: uid('ns'), group: "gn", theme: "环境", title: "雷雨天能给新能源车充电吗", source: "新华社", time: "今天", url: "https://www.news.cn/tech/20260731/e6486afaa5f24c33b833f8c492a8d1ed/c.html", summary: "雷电、暴雨天气下给新能源车充电是否安全？专业人士结合充电桩防水等级与使用规范，提醒雷雨时段注意充电接口防护与安全操作事项。", day: 0 },
+        { id: uid('ns'), group: "gn", theme: "社会", title: "官方通报贵州贵定洛北河伴漂服务：已责令运营公司停业整顿", source: "中国新闻网", time: "今天", url: "https://www.chinanews.com.cn/sh/2026/07-31/10669837.shtml", summary: "据贵定县人民政府网站消息，针对媒体报道的洛北河伴漂服务问题，贵定县联合调查组发布通报，已责令涉事运营公司停业整顿，并开展全面调查。", day: 0 },
+        { id: uid('ns'), group: "gj", theme: "财经", title: "国际观察丨欧洲经济复苏面临多重挑战", source: "新华社", time: "今天", url: "https://www.news.cn/world/20260731/50d21de1f553400cb7ad49aed7df178a/c.html", summary: "欧盟统计局数据显示，2026年第二季度欧元区经济温和复苏，通胀压力有所缓解。但能源转型、地缘冲突与内部政策分歧仍制约复苏进程。", day: 0 },
+        { id: uid('ns'), group: "gj", theme: "民生", title: "日媒：日本熊本地震死亡人数升至35人", source: "中国新闻网", time: "今天", url: "https://www.chinanews.com.cn/gj/2026/07-31/10669635.shtml", summary: "据日媒报道，日本熊本县政府发布消息，截至当地时间31日上午，此次地震造成的死亡人数已升至35人，救援和灾后安置工作仍在进行。", day: 0 },
+        { id: uid('ns'), group: "gj", theme: "政策", title: "无视广泛争议 日本成立“国家情报局”", source: "新华社", time: "今天", url: "https://www.news.cn/world/20260731/b76f23d211234b89a9b9ef0c37f46122/c.html", summary: "日本政府7月31日正式设立“国家情报局”，由首相高市早苗担任主席、9名阁僚组成高层协调机制，此举在国内外引发广泛争议。", day: 0 },
+        { id: uid('ns'), group: "gj", theme: "财经", title: "美联储年内连续第5次维持利率不变 内部出现分歧", source: "中国新闻网", time: "昨天", url: "https://www.chinanews.com.cn/gj/2026/07-30/10668941.shtml", summary: "美联储宣布继续将联邦基金利率目标区间维持在3.5%至3.75%不变，为年内连续第5次按兵不动。决策委员会内部对下一步政策走向出现分歧。", day: 1 },
+        { id: uid('ns'), group: "gj", theme: "环境", title: "格陵兰岛巨型冰山突然翻转 轰鸣声中掀起巨大水花", source: "新华社", time: "昨天", url: "https://www.news.cn/world/20260730/5e01a026fcd4436986e7f26181cf0976/c.html", summary: "据外媒报道，位于格陵兰岛伊卢利萨特海岸附近的一座巨型冰山近日突然翻转，场面被当地居民拍下并发布到网络，引发广泛关注。", day: 1 },
+        { id: uid('ns'), group: "gn", theme: "政策", title: "国家药监局发布公告 八项措施为化妆品注册备案“减负增效”", source: "新华社", time: "2天前", url: "https://www.news.cn/health/20260729/a533bbbe720b4a219c52ccea2d1258a1/c.html", summary: "国家药监局发布公告，落实《关于深化化妆品监管改革促进产业高质量发展的意见》，通过八项措施为化妆品注册备案减负增效，简化流程、压缩时限。", day: 2 },
+        { id: uid('ns'), group: "gn", theme: "医疗", title: "从“馆馆有中医”到“15分钟服务圈” “十五五”基层中医药服务再升级", source: "新华社", time: "2天前", url: "https://www.news.cn/health/20260729/9e27cf8a4b21429ab891e06131a0b7f0/c.html", summary: "基层医疗卫生机构中医馆的中医医师配备比率已达95.5%，基本实现“馆馆有中医”。“十五五”期间将推动中医药服务向“15分钟服务圈”升级。", day: 2 },
+        { id: uid('ns'), group: "gn", theme: "科技", title: "哈工大学生团队平均22岁“手搓”5厘米超薄卫星", source: "新华社", time: "4天前", url: "https://www.news.cn/local/20260727/de4c08d175524a8c927c14d35c4f1347/c.html", summary: "7月22日，哈工大学生团队研制的5厘米超薄卫星随引力一号遥四火箭升空，地面成功接收遥测数据。团队平均年龄22岁，实现从设计到在轨验证的全程自主。", day: 4 },
+        { id: uid('ns'), group: "gj", theme: "文化", title: "日本知名作家东野圭吾因大肠癌去世 终年68岁", source: "中国新闻网", time: "4天前", url: "https://www.chinanews.com.cn/gj/2026/07-27/10667259.shtml", summary: "据日本广播协会报道，当地时间7月23日，日本知名作家东野圭吾因大肠癌去世，终年68岁。其代表作《白夜行》《嫌疑人X的献身》等广为中国读者熟知。", day: 4 },
+      ],
+    },
+    study: [
+      { id: uid('sv'), platform: "youtube", author: "Andrej Karpathy", title: "Robots working together with Gemini Robotics 2", duration: "—", heat: 0, updated: daysAgo(2).toISOString(), url: "https://www.youtube.com/watch?v=fo9WirRIaVs", points: ["Gemini Robotics 2 展示了机器人的协作能力", "多机器人协同完成复杂任务", "感知—规划—执行一体化的最新进展"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "youtube", author: "Two Minute Papers", title: "Kimi K3 Just Broke The Economics Of AI", duration: "—", heat: 0, updated: daysAgo(2).toISOString(), url: "https://www.youtube.com/watch?v=Xj-QdEUxJkE", points: ["Kimi K3 以极低成本实现接近旗舰模型的效果", "推理成本下降如何改变 AI 应用生态", "开源模型与商业模型的竞争格局"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "youtube", author: "Two Minute Papers", title: "Claude Just Revealed AI's Biggest Problem", duration: "—", heat: 0, updated: daysAgo(2).toISOString(), url: "https://www.youtube.com/watch?v=axOcn--n_lM", points: ["Claude 暴露了当前 AI 最大的短板", "模型自我认知与幻觉问题分析", "对未来对齐研究的启示"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "youtube", author: "3Blue1Brown", title: "But what is cross-entropy? | Compression is Intelligence Part 2", duration: "—", heat: 0, updated: daysAgo(2).toISOString(), url: "https://www.youtube.com/watch?v=GlYgs6v2YfU", points: ["交叉熵与信息论的本质联系", "为什么分类任务用交叉熵损失", "压缩即智能的视角解读"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "youtube", author: "Andrej Karpathy", title: "Tasks that require whole-body control with Gemini Robotics 2", duration: "—", heat: 0, updated: daysAgo(2).toISOString(), url: "https://www.youtube.com/watch?v=nBftSI5mmHA", points: ["全身控制的灵巧操作任务", "机器人本体与手部的协同控制", "Gemini 多模态能力在机器人上的应用"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "bilibili", author: "阿硕讲ai", title: "把视频中的人物替换教程 让你马起飞", duration: "1:52", heat: 986197, updated: daysAgo(0).toISOString(), url: "https://www.bilibili.com/video/BV113Z7YrEKL", points: ["用 AI 工具快速替换视频中的人物", "从素材准备到合成导出的完整流程", "常用免费工具的对比"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "bilibili", author: "优设AIGC", title: "GPT4o用嘴P图成为现实，设计部名存实亡？", duration: "0:54", heat: 653384, updated: daysAgo(0).toISOString(), url: "https://www.bilibili.com/video/BV1PoZhYEEbT", points: ["GPT-4o 支持语音直接驱动图像编辑", "\"用嘴 P 图\"背后的多模态能力", "对设计工作流的冲击"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "bilibili", author: "Jack-Cui", title: "苏妈杀疯，AMD笔记本跑爆236B大模型！", duration: "2:30", heat: 557280, updated: daysAgo(0).toISOString(), url: "https://www.bilibili.com/video/BV1W5fAYTEMk", points: ["AMD 笔记本本地跑 236B 大模型", "端侧推理的性能与内存优化", "个人设备跑大模型的实用配置"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "bilibili", author: "艺类分子", title: "孟婆也会退休？AI短片《小孟来了》丨一万个平行宇宙", duration: "6:26", heat: 2250993, updated: daysAgo(0).toISOString(), url: "https://www.bilibili.com/video/BV1grgf61Ejx", points: ["AI 生成的动画短片完整作品", "从脚本到画面的 AI 工作流", "一人团队做动画的可能性"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "bilibili", author: "科技日常", title: "我国首个脑机接口指导价发布，震惊世界科技和医学两界", duration: "2:45", heat: 1474947, updated: daysAgo(0).toISOString(), url: "https://www.bilibili.com/video/BV11PZsY8EtB", points: ["我国发布首个脑机接口指导价", "脑机接口产业化的信号", "医疗与科技交叉领域新进展"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "xhs", author: "小鹿AI笔记", title: "零基础入门 AI 绘画，一篇看懂", duration: "—", heat: 23000, updated: daysAgo(0).toISOString(), url: "https://www.xiaohongshu.com/", points: ["从文生图到图生图的完整流程", "提示词、负面词、种子参数的入门", "免费工具与付费工具的取舍"], flags: { fav: true, watched: false, later: false } },
+      { id: uid('sv'), platform: "xhs", author: "木木学AI", title: "用 AI 写周报模板，3 分钟搞定", duration: "—", heat: 18000, updated: daysAgo(0).toISOString(), url: "https://www.xiaohongshu.com/", points: ["给 AI 结构化指令：成果、数据、下一步", "让 AI 先列提纲再展开", "保留个人语气，避免千篇一律"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "xhs", author: "AI成长日记", title: "提示词工程入门：学会和 AI 对话", duration: "—", heat: 12000, updated: daysAgo(0).toISOString(), url: "https://www.xiaohongshu.com/", points: ["角色设定 + 任务描述 + 输出格式", "少用笼统词，多用具体示例", "多轮追问比一次问全更有效"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "xhs", author: "效率研究所", title: "5 个免费 AI 工具，学生党效率翻倍", duration: "—", heat: 9600, updated: daysAgo(0).toISOString(), url: "https://www.xiaohongshu.com/", points: ["笔记、翻译、写作三类场景各推荐", "免费额度够用的才是真的好", "工具是杠杆，习惯才是根本"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "xhs", author: "元气AI手帐", title: "用 AI 做英语口语陪练，省钱又有效", duration: "—", heat: 8000, updated: daysAgo(0).toISOString(), url: "https://www.xiaohongshu.com/", points: ["语音对话式 AI 模拟真实场景", "让 AI 纠正发音并给出替代说法", "每天 10 分钟碎片时间即可坚持"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "douyin", author: "AI老白", title: "普通人如何用 AI 副业赚钱（避坑版）", duration: "—", heat: 82000, updated: daysAgo(0).toISOString(), url: "https://www.douyin.com/search/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E5%89%AF%E4%B8%9A", points: ["优先做离钱近的：代写、绘图、短视频脚本", "警惕\"躺赚\"课程和收徒套路", "先小规模验证再投入时间"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "douyin", author: "硅谷徐老师", title: "ChatGPT 最新版本实测：更强了还是更卷了", duration: "—", heat: 56000, updated: daysAgo(0).toISOString(), url: "https://www.douyin.com/search/ChatGPT%20%E5%AE%9E%E6%B5%8B", points: ["推理能力提升明显，复杂任务更稳", "长文本处理仍是短板", "建议按任务类型选择模型版本"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "douyin", author: "程序员鱼皮", title: "零基础学 Python，从安装到写第一个程序", duration: "—", heat: 45000, updated: daysAgo(0).toISOString(), url: "https://www.douyin.com/search/Python%20%E5%85%A5%E9%97%A8", points: ["环境安装与编辑器选择", "变量、条件、循环三大基础", "用一个小项目串起知识点"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "douyin", author: "秋叶excel", title: "AI 一键生成周报、PPT，打工人早下班", duration: "—", heat: 38000, updated: daysAgo(0).toISOString(), url: "https://www.douyin.com/search/AI%20%E7%94%9F%E6%88%90%E5%91%A8%E6%8A%A5", points: ["把周报拆成：成果 + 数据 + 计划", "PPT 生成后手动微调版式", "模板沉淀成自己的提示词库"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "douyin", author: "科技小辛", title: "手机端跑大模型实测：AI 真的能离线用？", duration: "—", heat: 21000, updated: daysAgo(0).toISOString(), url: "https://www.douyin.com/search/%E6%89%8B%E6%9C%BA%20%E5%A4%A7%E6%A8%A1%E5%9E%8B", points: ["端侧模型参数量与速度的取舍", "离线可用的典型场景", "功耗与发热的实测数据"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "facebook", author: "AI Explained", title: "How ChatGPT Really Works", duration: "—", heat: 400000, updated: daysAgo(0).toISOString(), url: "https://www.facebook.com/watch/search/?q=how%20chatgpt%20works", points: ["Transformer 架构的直觉理解", "训练三阶段：预训练、微调、对齐", "为什么需要 RLHF"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "facebook", author: "Tech with Tim", title: "Python for Beginners in 10 Minutes", duration: "—", heat: 350000, updated: daysAgo(0).toISOString(), url: "https://www.facebook.com/watch/search/?q=python%20beginner%20tutorial", points: ["安装与第一个程序", "核心语法速览", "推荐的学习路径"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "facebook", author: "The AI Daily", title: "Top 5 AI Tools for Students", duration: "—", heat: 280000, updated: daysAgo(0).toISOString(), url: "https://www.facebook.com/watch/search/?q=ai%20tools%20for%20students", points: ["笔记、文献、写作类工具盘点", "免费版够用的选择", "注意学校对 AI 使用的规定"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "facebook", author: "DeepLearning.AI", title: "What is Machine Learning?", duration: "—", heat: 220000, updated: daysAgo(0).toISOString(), url: "https://www.facebook.com/watch/search/?q=what%20is%20machine%20learning", points: ["监督/无监督/强化学习三大类", "过拟合与泛化的直观例子", "学 ML 前要准备什么"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "facebook", author: "Code.org", title: "How AI Works: 系列科普", duration: "—", heat: 190000, updated: daysAgo(0).toISOString(), url: "https://www.facebook.com/watch/search/?q=how%20ai%20works", points: ["AI 与人类决策的差异", "数据如何\"教会\"模型", "对就业与教育的影响"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "x", author: "@karpathy", title: "从零构建 GPT：神经网络逐行详解", duration: "—", heat: 450000, updated: daysAgo(0).toISOString(), url: "https://x.com/search?q=from%20scratch%20GPT&f=live", points: ["以文本预测为例讲透自回归语言模型", "注意力机制的矩阵运算实现", "训练与采样的完整代码流程"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "x", author: "@AndrewYNg", title: "机器学习入门：给新手的建议", duration: "—", heat: 300000, updated: daysAgo(0).toISOString(), url: "https://x.com/search?q=machine%20learning%20advice%20beginners&f=live", points: ["先动手做项目再补理论", "数学够用即可，不必等\"学完\"", "每两周做一个完整小项目"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "x", author: "@hwchase17", title: "LangChain 实战：5 个即学即用的技巧", duration: "—", heat: 160000, updated: daysAgo(0).toISOString(), url: "https://x.com/search?q=langchain%20tips&f=live", points: ["链（Chain）与代理（Agent）的区别", "提示模板的工程化写法", "本地模型接入的配置要点"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "x", author: "@ylecun", title: "AI 未来十年：Yann LeCun 的最新观点", duration: "—", heat: 210000, updated: daysAgo(0).toISOString(), url: "https://x.com/search?q=lecun%20future%20of%20ai&f=live", points: ["世界模型与自监督学习路线", "对\"AGI 即将到来\"的冷静分析", "开源生态的重要性"], flags: { fav: false, watched: false, later: false } },
+      { id: uid('sv'), platform: "x", author: "@sama", title: "AGI 路线图：Sam Altman 的讨论", duration: "—", heat: 260000, updated: daysAgo(0).toISOString(), url: "https://x.com/search?q=agi%20roadmap&f=live", points: ["能力跃迁的时间线判断", "算力与数据的瓶颈", "个人如何跟上 AI 时代"], flags: { fav: false, watched: false, later: false } }
+    ],
+    focusItems: [
+      { id: 'fi_1', name: '深度学习', goalMin: 120, color: 'green',  createdAt: '2026-07-05' },
+      { id: 'fi_2', name: '英语听力', goalMin: 60,  color: 'mist',   createdAt: '2026-07-10' },
+      { id: 'fi_3', name: '阅读',     goalMin: 45,  color: 'lavender', createdAt: '2026-07-15' },
+    ],
+    focusSessions: [
+      s('fi_1', T,     '09:10', 75),
+      s('fi_2', T,     '14:00', 25),
+      s('fi_1', d(1),  '10:00', 90),
+      s('fi_3', d(1),  '20:30', 30),
+      s('fi_1', d(2),  '09:20', 45),
+      s('fi_2', d(2),  '15:10', 40),
+      s('fi_3', d(3),  '21:00', 45),
+      s('fi_1', d(4),  '10:30', 60),
+      s('fi_1', d(7),  '09:00', 50),
+      s('fi_2', d(7),  '16:00', 30),
+      s('fi_3', d(11), '20:00', 30),
+      s('fi_1', d(11), '09:40', 40),
+      s('fi_1', d(36), '10:00', 60),
+      s('fi_2', d(36), '15:00', 45),
+      s('fi_3', d(36), '20:30', 40),
+    ],
+  };
+}
+
+function loadData() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) {
+      const d = JSON.parse(raw);
+      if (d && d.todos && d.transactions) return d;
+    }
+  } catch (_) { /* 损坏则重建 */ }
+  const fresh = buildMock();
+  saveData(fresh);
+  return fresh;
+}
+
+function saveData(d) {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(d || data)); } catch (_) {}
+}
+
+let data = loadData();
+
+/* ---------- 简约线条图标（SVG） ---------- */
+const SVG_PLUS  = '<svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>';
+const SVG_EDIT  = '<svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 013 3L7 19l-4 1 1-4z"/></svg>';
+const SVG_TRASH = '<svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4h8v2"/><path d="M6 6l1 14h10l1-14"/><path d="M10 10v6M14 10v6"/></svg>';
+const SVG_STAR  = '<svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M12 3.2l2.7 5.4 6 .9-4.3 4.2 1 6-5.4-2.9-5.4 2.9 1-6L3.3 9.5l6-.9z"/></svg>';
+const SVG_CHECK = '<svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 12.5l5 5L19.5 7"/></svg>';
+const SVG_CLOCK = '<svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></svg>';
+
+/* ---------- 主题 ---------- */
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  document.querySelector('meta[name="theme-color"]').setAttribute('content', theme === 'dark' ? '#1E221F' : '#F8F7F2');
+}
+function toggleTheme() {
+  const t = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  data.settings.theme = t; saveData();
+  applyTheme(t);
+}
+
+/* ---------- Toast / 弹层 ---------- */
+let toastTimer = null;
+function showToast(msg) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => el.classList.remove('show'), 1800);
+}
+function openSheet(html) {
+  document.getElementById('sheet').innerHTML = '<div class="sheet-grip"></div>' + html;
+  document.getElementById('sheet').classList.add('show');
+  document.getElementById('sheetMask').classList.add('show');
+}
+function closeSheet() {
+  document.getElementById('sheet').classList.remove('show');
+  document.getElementById('sheetMask').classList.remove('show');
+}
+
+/* ---------- 页签切换 ---------- */
+const renderers = {
+  todo: renderTodo, acct: renderAcct, news: renderNews,
+  study: renderStudy, focus: renderFocus,
+};
+function switchTab(name) {
+  state.tab = name;
+  document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
+  document.getElementById('tab-' + name).classList.add('active');
+  document.querySelectorAll('.nav-item').forEach(el =>
+    el.classList.toggle('on', el.dataset.tab === name));
+  renderers[name]();
+}
+/* ============================================================
+ * 页签一：待办
+ * ============================================================ */
+function renderTodo() {
+  const el = document.getElementById('tab-todo');
+  const date = state.todoDate;
+  const allTodos = (data.todos || []).filter(t => t.date === date).sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
+  const todos = state.todoFilter === 'all' ? allTodos : allTodos.filter(t => t.cat === state.todoFilter);
+  const done = todos.filter(t => t.done).length;
+  const pct = todos.length ? Math.round(done / todos.length * 100) : 0;
+
+  // 日期条（前后各 3 天）
+  const base = parseKey(date);
+  let strip = '<div class="date-strip">';
+  for (let i = -3; i <= 3; i++) {
+    const d = new Date(base); d.setDate(base.getDate() + i);
+    const k = dateKey(d);
+    const has = (data.todos || []).some(t => t.date === k);
+    strip += `<button class="ds-item ${k === date ? 'on' : ''} ${k === todayKey() ? 'is-today' : ''}" onclick="setTodoDate('${k}')">
+      <span class="ds-w">${fmtW(d)}</span><span class="ds-d">${d.getMonth() + 1}/${d.getDate()}</span>
+      ${has ? '<span style="font-size:8px;color:var(--apricot)">●</span>' : '<span style="font-size:8px">·</span>'}
+    </button>`;
+  }
+  strip += '</div>';
+
+  const label = isToday(date) ? '今日' : fmtYMD(date) + ' ' + fmtWeekday(date);
+  const prog = `<div class="todo-progress">
+    <span class="tp-text"><b>${label}</b> 完成 <b>${done}</b>/${todos.length} · ${pct}%</span>
+    <span class="tp-bar"><span class="tp-fill" style="width:${pct}%"></span></span>
+  </div>`;
+
+  const listHtml = todos.length ? `<div class="todo-list" id="todoList">${todos.map(todoItemHtml).join('')}</div>
+    <div class="swipe-hint">← 左滑待办可修改或删除</div>`
+    : `<div class="empty">这一天还没有待办<br>点右下角 + 添加</div>`;
+
+  el.innerHTML = `<div class="tab-hero">
+      <div class="th-sub">今日待办</div>
+      <div class="th-main">早上好，今天也稳稳来</div>
+    </div>
+    <div class="chips" style="padding-bottom:8px">
+      <button class="chip ${state.todoFilter === 'all' ? 'on' : ''}" onclick="setTodoFilter('all')">全部</button>
+      <button class="chip ${state.todoFilter === 'work' ? 'on' : ''}" onclick="setTodoFilter('work')">工作</button>
+      <button class="chip ${state.todoFilter === 'life' ? 'on' : ''}" onclick="setTodoFilter('life')">生活</button>
+    </div>
+    ${strip}${prog}${listHtml}
+    <button class="fab" onclick="openTodoAdd()" title="添加待办">${SVG_PLUS}</button>`;
+  bindTodoDrag();
+  bindTodoSwipe();
+}
+function setTodoFilter(f) { state.todoFilter = f; renderTodo(); }
+
+function todoItemHtml(t) {
+  const catPill = t.cat === 'work' ? '<span class="tag-pill tag-work">工作</span>'
+    : t.cat === 'life' ? '<span class="tag-pill tag-life">生活</span>' : '';
+  let dueHtml = '';
+  if (t.dueTime) {
+    const now = new Date();
+    const cur = pad2(now.getHours()) + ':' + pad2(now.getMinutes());
+    const overdue = !t.done && isToday(t.date) && t.dueTime < cur;
+    dueHtml = `<span class="due-txt ${overdue ? 'soon' : ''}">截止 ${esc(t.dueTime)}</span>`;
+  }
+  return `<div class="todo-item-wrap">
+    <div class="todo-swipe">
+      <button class="tsw-btn tsw-edit" onclick="openTodoEdit('${t.id}')">${SVG_EDIT}<span>修改</span></button>
+      <button class="tsw-btn tsw-del" onclick="tdDel('${t.id}')">${SVG_TRASH}<span>删除</span></button>
+    </div>
+    <div class="todo-item ${t.done ? 'done' : ''}" data-id="${t.id}">
+      <button class="check ${t.done ? 'on' : ''}" onclick="tdToggle('${t.id}')" title="标记完成 / 取消"><span class="ck-circle">✓</span></button>
+      <div class="td-main" onclick="openTodoEdit('${t.id}')">
+        <div class="td-text">${esc(t.text)}</div>
+        <div class="td-meta">${catPill}${dueHtml}</div>
+      </div>
+      <div class="grip" title="拖动排序">⋮⋮</div>
+    </div>
+  </div>`;
+}
+
+function setTodoDate(k) { state.todoDate = k; renderTodo(); }
+function goToday() { state.todoDate = todayKey(); renderTodo(); }
+
+function tdToggle(id) {
+  const t = data.todos.find(x => x.id === id);
+  if (!t) return;
+  t.done = !t.done;
+  t.doneAt = t.done ? new Date().toISOString() : null;
+  saveData(); renderTodo();
+}
+
+function tdCopy(id) {
+  const t = data.todos.find(x => x.id === id);
+  if (!t) return;
+  const copy = { ...t, id: uid('td'), done: false, doneAt: null, order: (t.order ?? 0) + 0.5 };
+  data.todos.push(copy);
+  saveData(); renderTodo();
+  showToast('已复制待办');
+}
+
+function tdDel(id) {
+  data.todos = data.todos.filter(x => x.id !== id);
+  saveData(); renderTodo();
+}
+
+function openTodoAdd() {
+  openSheet(`<div class="sheet-title">添加待办</div>
+    <div class="form-row"><input class="in" id="tText" placeholder="要做点什么？" maxlength="60"></div>
+    <div class="form-row">
+      <label class="form-label">标签</label>
+      <div class="chips" style="padding-bottom:0">
+        <button class="chip" id="tCatWork" onclick="pickTodoCat('work')">工作</button>
+        <button class="chip" id="tCatLife" onclick="pickTodoCat('life')">生活</button>
+        <button class="chip" id="tCatNone" onclick="pickTodoCat('')">不设置</button>
+      </div>
+    </div>
+    <div class="form-row">
+      <label class="form-label">截止时间（可选）</label>
+      <input class="in" type="time" id="tDue">
+    </div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveTodoAdd()">添加</button>
+    </div>`);
+  const cat = state._todoCat = state._todoCat || 'life';
+  refreshTodoCatPills(cat);
+  setTimeout(() => { const i = document.getElementById('tText'); if (i) i.focus(); }, 120);
+}
+
+let _editTodoId = null;
+function openTodoEdit(id) {
+  const t = data.todos.find(x => x.id === id);
+  if (!t) return;
+  _editTodoId = id;
+  state._todoCat = t.cat || '';
+  openSheet(`<div class="sheet-title">编辑待办</div>
+    <div class="form-row"><input class="in" id="tText" value="${esc(t.text)}" maxlength="60"></div>
+    <div class="form-row">
+      <label class="form-label">标签</label>
+      <div class="chips" style="padding-bottom:0">
+        <button class="chip" id="tCatWork" onclick="pickTodoCat('work')">工作</button>
+        <button class="chip" id="tCatLife" onclick="pickTodoCat('life')">生活</button>
+        <button class="chip" id="tCatNone" onclick="pickTodoCat('')">不设置</button>
+      </div>
+    </div>
+    <div class="form-row">
+      <label class="form-label">截止时间（可选）</label>
+      <input class="in" type="time" id="tDue" value="${esc(t.dueTime || '')}">
+    </div>
+    <div class="form-actions">
+      <button class="btn warn" onclick="tdDel('${t.id}');closeSheet()">删除</button>
+      <button class="btn ghost" onclick="tdCopy('${t.id}');closeSheet()">复制</button>
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveTodoEdit()">保存</button>
+    </div>`);
+  refreshTodoCatPills(state._todoCat);
+  setTimeout(() => { const i = document.getElementById('tText'); if (i) { i.focus(); i.select(); } }, 120);
+}
+function pickTodoCat(c) { state._todoCat = c; refreshTodoCatPills(c); }
+function refreshTodoCatPills(c) {
+  const set = (id, on) => { const el = document.getElementById(id); if (el) el.classList.toggle('on', on); };
+  set('tCatWork', c === 'work'); set('tCatLife', c === 'life'); set('tCatNone', c === '');
+}
+function saveTodoAdd() {
+  const text = document.getElementById('tText').value.trim();
+  if (!text) { showToast('请输入待办内容'); return; }
+  data.todos.push({
+    id: uid('td'), text, date: state.todoDate, cat: state._todoCat || null,
+    done: false, createdAt: new Date().toISOString(), doneAt: null,
+    dueTime: document.getElementById('tDue').value || null, order: data.todos.filter(t => t.date === state.todoDate).length,
+  });
+  saveData(); closeSheet(); renderTodo();
+}
+function saveTodoEdit() {
+  const t = data.todos.find(x => x.id === _editTodoId);
+  if (!t) return;
+  const text = document.getElementById('tText').value.trim();
+  if (!text) { showToast('请输入待办内容'); return; }
+  t.text = text; t.cat = state._todoCat || null;
+  t.dueTime = document.getElementById('tDue').value || null;
+  saveData(); closeSheet(); renderTodo();
+}
+
+/* ---------- 待办拖拽排序（Pointer 事件，鼠标/触屏通用） ---------- */
+function bindTodoDrag() {
+  const list = document.getElementById('todoList');
+  if (!list) return;
+  const items = () => Array.from(list.querySelectorAll('.todo-item'));
+  const grip = e => e.target.closest('.grip');
+  list.querySelectorAll('.todo-item').forEach(item => {
+    item.addEventListener('pointerdown', e => {
+      if (!grip(e)) return;
+      e.preventDefault();
+      const idx = items().indexOf(item);
+      state.drag = { id: item.dataset.id, fromIdx: idx, y: e.clientY, h: item.offsetHeight, moved: false };
+      item.classList.add('dragging');
+      try { item.setPointerCapture(e.pointerId); } catch (_) {}
+    });
+    item.addEventListener('pointermove', e => {
+      if (!state.drag || state.drag.id !== item.dataset.id) return;
+      const dy = e.clientY - state.drag.y;
+      if (Math.abs(dy) > 5) state.drag.moved = true;
+      item.style.transform = `translateY(${dy}px)`;
+      item.style.zIndex = 5;
+    });
+    item.addEventListener('pointerup', e => {
+      if (!state.drag || state.drag.id !== item.dataset.id) return;
+      const fromIdx = state.drag.fromIdx;
+      let toIdx = fromIdx;
+      items().forEach((other, i) => {
+        if (other === item) return;
+        const r = other.getBoundingClientRect();
+        if (e.clientY > r.top + r.height / 2) toIdx = i;
+      });
+      state.drag = null;
+      item.classList.remove('dragging');
+      item.style.transform = ''; item.style.zIndex = '';
+      if (toIdx !== fromIdx) {
+        const list2 = data.todos.filter(t => t.date === state.todoDate).sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
+        const [moved] = list2.splice(fromIdx, 1);
+        list2.splice(toIdx, 0, moved);
+        list2.forEach((t, i) => t.order = i);
+        saveData();
+      }
+      renderTodo();
+    });
+    item.addEventListener('pointercancel', () => {
+      if (state.drag && state.drag.id === item.dataset.id) {
+        state.drag = null; item.classList.remove('dragging');
+        item.style.transform = ''; item.style.zIndex = '';
+        renderTodo();
+      }
+    });
+  });
+}
+
+/* ---------- 待办左滑操作（修改 / 删除） ---------- */
+let swipe = null;
+function closeSwipe() {
+  if (!state.swipeOpenId) return;
+  const el = document.querySelector(`.todo-item[data-id="${state.swipeOpenId}"]`);
+  if (el) { el.classList.remove('swiping'); el.style.transform = ''; }
+  state.swipeOpenId = null;
+}
+function bindTodoSwipe() {
+  const list = document.getElementById('todoList');
+  if (!list) return;
+  list.querySelectorAll('.todo-item').forEach(item => {
+    item.addEventListener('pointerdown', e => {
+      if (e.target.closest('.grip')) return; // 拖拽排序由 grip 处理
+      if (e.target.closest('.check')) return; // 点击圆圈不动滑动
+      const id = item.dataset.id;
+      if (state.swipeOpenId && state.swipeOpenId !== id) closeSwipe();
+      swipe = { id, x: e.clientX, open: state.swipeOpenId === id, moved: false };
+      try { item.setPointerCapture(e.pointerId); } catch (_) {}
+    });
+    item.addEventListener('pointermove', e => {
+      if (!swipe || swipe.id !== item.dataset.id) return;
+      const dx = e.clientX - swipe.x;
+      if (Math.abs(dx) > 6) { swipe.moved = true; item.classList.add('swiping'); }
+      const base = swipe.open ? -124 : 0;
+      const t = Math.max(-124, Math.min(0, base + dx));
+      item.style.transform = `translateX(${t}px)`;
+    });
+    item.addEventListener('pointerup', e => {
+      if (!swipe || swipe.id !== item.dataset.id) return;
+      const dx = e.clientX - swipe.x;
+      const open = swipe.open ? dx < 40 : dx < -40;
+      if (open) {
+        item.style.transform = 'translateX(-124px)';
+        state.swipeOpenId = item.dataset.id;
+      } else {
+        item.style.transform = '';
+        state.swipeOpenId = null;
+      }
+      item.classList.remove('swiping');
+      swipe = null;
+    });
+    item.addEventListener('pointercancel', () => {
+      if (swipe && swipe.id === item.dataset.id) { swipe = null; item.classList.remove('swiping'); item.style.transform = ''; }
+    });
+  });
+}
+
+/* ============================================================
+ * 页签二：记账
+ * ============================================================ */
+function rangeFiltered() {
+  const all = data.transactions || [];
+  if (state.acctRange === 'custom' && state.acctStart && state.acctEnd)
+    return all.filter(t => t.date >= state.acctStart && t.date <= state.acctEnd);
+  if (state.acctRange === 'year')
+    return all.filter(t => t.date.slice(0, 4) === todayKey().slice(0, 4));
+  return all.filter(t => t.date.slice(0, 7) === todayKey().slice(0, 7));
+}
+function filteredTx() {
+  const range = rangeFiltered();
+  if (state.acctFilter === 'all') return range;
+  return range.filter(t => t.type === state.acctFilter);
+}
+function rangeLabel() {
+  if (state.acctRange === 'year') return todayKey().slice(0, 4) + ' 年';
+  if (state.acctRange === 'custom') return (state.acctStart || '?') + ' ~ ' + (state.acctEnd || '?');
+  return fmtYMD(todayKey()).slice(0, -2) + '月';
+}
+function catById(id) { return data.categories.find(c => c.id === id); }
+
+function renderAcct() {
+  const el = document.getElementById('tab-acct');
+  const tx = rangeFiltered();
+  const inc = tx.filter(t => t.type === 'income').reduce((s, t) => s + t.amount, 0);
+  const exp = tx.filter(t => t.type === 'expense').reduce((s, t) => s + t.amount, 0);
+  const bal = inc - exp;
+  const label = rangeLabel();
+
+  // 自定义区间输入
+  const customRow = state.acctRange === 'custom'
+    ? `<div class="chips" style="padding-bottom:0;gap:6px">
+        <input class="in" type="date" id="acStart" value="${esc(state.acctStart)}" style="flex:1;min-width:0" onchange="setAcctCustom()">
+        <span style="color:var(--text-faint);padding-top:10px">至</span>
+        <input class="in" type="date" id="acEnd" value="${esc(state.acctEnd)}" style="flex:1;min-width:0" onchange="setAcctCustom()">
+      </div>` : '';
+
+  // 记录列表（按日期分组）
+  const list = filteredTx();
+  const groups = {};
+  list.forEach(t => { (groups[t.date] = groups[t.date] || []).push(t); });
+  const dates = Object.keys(groups).sort().reverse();
+  const listHtml = dates.length ? dates.map(dk => {
+    const dayInc = groups[dk].filter(t => t.type === 'income').reduce((s, t) => s + t.amount, 0);
+    const dayExp = groups[dk].filter(t => t.type === 'expense').reduce((s, t) => s + t.amount, 0);
+    return `<div class="acct-day">
+      <div class="acct-day-head"><span>${fmtYMD(dk)} · ${fmtWeekday(dk)}</span>
+        <span>${dayInc ? '收 ' + fmtMoney(dayInc) : ''}${dayInc && dayExp ? '　' : ''}${dayExp ? '支 ' + fmtMoney(dayExp) : ''}</span></div>
+      ${groups[dk].map(t => {
+        const c = catById(t.catId) || { icon: '❓', name: '未分类' };
+        return `<div class="acct-row" onclick="openTxEdit('${t.id}')">
+          <span class="ac-ico ${t.type}">${esc(c.icon)}</span>
+          <span class="ac-info"><span class="ac-name">${esc(c.name)}</span>${t.note ? `<span class="ac-note">${esc(t.note)}</span>` : ''}</span>
+          <span class="ac-amt ${t.type}">${t.type === 'expense' ? '-' : '+'}${fmtMoney(t.amount)}</span>
+        </div>`;
+      }).join('')}
+    </div>`;
+  }).join('') : `<div class="empty">该范围内暂无记录<br>点右下角 + 记账</div>`;
+
+  const incPct = inc + exp > 0 ? (inc / (inc + exp) * 100).toFixed(0) : '0';
+  const expPct = inc + exp > 0 ? (exp / (inc + exp) * 100).toFixed(0) : '0';
+
+  el.innerHTML = `
+    <div class="tab-hero">
+      <div class="th-sub">财务小账本</div>
+      <div class="th-main">每一笔，都心里有数</div>
+    </div>
+    <div class="acct-balance">
+      <div class="ab-label">结余（收入 − 支出）</div>
+      <div class="ab-val" style="${bal < 0 ? 'color:#F0B7AE' : ''}">${fmtMoney(bal)}</div>
+    </div>
+    <div class="acct-two">
+      <div class="at-card income"><div class="at-label">收入</div><div class="at-val">${fmtMoney(inc)}</div></div>
+      <div class="at-card expense"><div class="at-label">支出</div><div class="at-val">${fmtMoney(exp)}</div></div>
+    </div>
+    <div class="acct-ops">
+      <div class="seg">
+        <button class="${state.acctRange === 'month' ? 'on' : ''}" onclick="setAcctRange('month')">本月</button>
+        <button class="${state.acctRange === 'year' ? 'on' : ''}" onclick="setAcctRange('year')">本年</button>
+        <button class="${state.acctRange === 'custom' ? 'on' : ''}" onclick="setAcctRange('custom')">自定义</button>
+      </div>
+      ${customRow}
+    </div>
+    <div class="card" style="padding:14px 15px;margin-bottom:14px">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
+        <span style="font-family:var(--font-serif);font-weight:600;font-size:15px;color:var(--green-deep)">支出趋势</span>
+        <span style="font-size:11px;color:var(--text-faint)">${label} · 仅统计支出</span>
+      </div>
+      <div class="seg" style="margin-bottom:10px">
+        <button class="${state.acctGran === 'day' ? 'on' : ''}" onclick="setAcctGran('day')">日</button>
+        <button class="${state.acctGran === 'month' ? 'on' : ''}" onclick="setAcctGran('month')">月</button>
+        <button class="${state.acctGran === 'quarter' ? 'on' : ''}" onclick="setAcctGran('quarter')">季</button>
+        <button class="${state.acctGran === 'year' ? 'on' : ''}" onclick="setAcctGran('year')">年</button>
+      </div>
+      <div class="chart-box">${trendChart()}</div>
+      <div style="display:flex;gap:14px;font-size:11.5px;color:var(--text-dim);margin-top:6px">
+        <span><span style="display:inline-block;width:16px;height:3px;border-radius:2px;background:var(--danger);margin-right:4px;vertical-align:2px"></span>支出</span>
+      </div>
+    </div>
+    <div class="card" style="padding:14px 15px;margin-bottom:14px">
+      <div style="font-family:var(--font-serif);font-weight:600;font-size:15px;color:var(--green-deep);margin-bottom:4px">分类占比</div>
+      <div style="font-size:11px;color:var(--text-faint);margin-bottom:8px">${state.acctFilter === 'income' ? '收入分类' : state.acctFilter === 'expense' ? '支出分类' : '支出 / 收入分类'} · ${label}</div>
+      ${acctCatBlocks()}
+    </div>
+    ${listHtml}
+    <button class="fab" onclick="openTxAdd()" title="记一笔">${SVG_PLUS}</button>`;
+}
+
+function setAcctRange(r) {
+  state.acctRange = r;
+  if (r === 'custom' && !state.acctStart) {
+    state.acctStart = dateKey(daysAgo(30)); state.acctEnd = todayKey();
+  }
+  renderAcct();
+}
+function setAcctCustom() {
+  state.acctStart = document.getElementById('acStart').value;
+  state.acctEnd = document.getElementById('acEnd').value;
+  if (state.acctStart && state.acctEnd && state.acctStart > state.acctEnd) {
+    showToast('开始日期不能晚于结束日期'); return;
+  }
+  renderAcct();
+}
+function setAcctFilter(f) { state.acctFilter = f; renderAcct(); }
+function setAcctGran(g) { state.acctGran = g; renderAcct(); }
+
+function catBars(type) {
+  const tx = rangeFiltered().filter(t => t.type === type);
+  const rows = {};
+  tx.forEach(t => rows[t.catId] = (rows[t.catId] || 0) + t.amount);
+  const total = Object.values(rows).reduce((s, v) => s + v, 0);
+  const arr = Object.entries(rows).map(([id, amt]) => ({ c: catById(id), amt })).filter(x => x.c).sort((a, b) => b.amt - a.amt);
+  if (!arr.length) return `<div class="empty" style="padding:16px 0">暂无${type === 'income' ? '收入' : '支出'}记录</div>`;
+  const max = Math.max(...arr.map(x => x.amt), 1);
+  const tname = type === 'income' ? '收入' : '支出';
+  return `<div style="font-size:12px;color:var(--text-dim);margin:2px 0 6px">${tname}</div>` + arr.slice(0, 8).map(({ c, amt }) => `
+    <div class="cat-bar-row">
+      <span class="cbr-ico">${esc(c.icon)}</span>
+      <span class="cbr-name">${esc(c.name)}</span>
+      <span class="cbr-track"><span class="cbr-fill ${type}" style="width:${(amt / max * 100).toFixed(1)}%"></span></span>
+      <span class="cbr-pct">${total ? (amt / total * 100).toFixed(0) : 0}%</span>
+      <span class="cbr-amt">${fmtMoney(amt)}</span>
+    </div>`).join('');
+}
+
+function trendBuckets(gran) {
+  const now = new Date(); const out = [];
+  if (gran === 'day') {
+    for (let i = 13; i >= 0; i--) { const d = daysAgo(i); out.push({ key: dateKey(d), label: `${d.getMonth() + 1}/${d.getDate()}`, full: dateKey(d) }); }
+  } else if (gran === 'month') {
+    for (let i = 5; i >= 0; i--) { const d = new Date(now.getFullYear(), now.getMonth() - i, 1); out.push({ key: `${d.getFullYear()}-${pad2(d.getMonth() + 1)}`, label: `${d.getMonth() + 1}月`, full: null }); }
+  } else if (gran === 'quarter') {
+    for (let i = 3; i >= 0; i--) { const m = now.getMonth() - i * 3; const d = new Date(now.getFullYear(), m, 1); out.push({ key: `${d.getFullYear()}-Q${Math.floor(d.getMonth() / 3) + 1}`, label: `Q${Math.floor(d.getMonth() / 3) + 1}`, full: null }); }
+  } else {
+    for (let i = 4; i >= 0; i--) { const y = now.getFullYear() - i; out.push({ key: String(y), label: `${y}`, full: null }); }
+  }
+  return out;
+}
+function inBucket(t, b) {
+  if (b.full) return t.date === b.full;
+  if (b.key.includes('Q')) { const [y, q] = b.key.split('-Q'); return t.date.slice(0, 4) === y && Math.floor((+t.date.slice(5, 7) - 1) / 3) + 1 === +q; }
+  if (/^\d{4}$/.test(b.key)) return t.date.slice(0, 4) === b.key;
+  return t.date.slice(0, 7) === b.key;
+}
+function fmtAxis(n) {
+  if (n >= 100000000) return (n / 100000000).toFixed(n % 100000000 === 0 ? 0 : 1) + '亿';
+  if (n >= 10000) return (n / 10000).toFixed(n % 10000 === 0 ? 0 : 1) + '万';
+  if (n >= 1000) return (n / 1000).toFixed(1) + 'k';
+  return String(Math.round(n));
+}
+function trendChart() {
+  const gran = state.acctGran;
+  const buckets = trendBuckets(gran);
+  const sums = buckets.map(b => {
+    let exp = 0;
+    (data.transactions || []).forEach(t => { if (t.type === 'expense' && inBucket(t, b)) exp += t.amount; });
+    return exp;
+  });
+  const max = Math.max(...sums, 1) * 1.15;
+  const W = 340, H = 150, padL = 34, padT = 8, padB = 16, plotH = H - padT - padB;
+  const plotW = W - padL;
+  const step = buckets.length > 1 ? plotW / (buckets.length - 1) : 0;
+  const pts = sums.map((v, i) => {
+    const x = padL + i * step;
+    const y = v > 0 ? H - padB - (v / max * plotH) : H - padB;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  const minW = padL + buckets.length * (gran === 'day' ? 24 : 46);
+  let svg = `<svg viewBox="0 0 ${W} ${H}" style="width:100%;min-width:${minW}px" xmlns="http://www.w3.org/2000/svg">`;
+  // 网格线 + Y 轴金额刻度
+  for (let i = 0; i <= 3; i++) {
+    const y = padT + plotH * i / 3;
+    const val = max * (1 - i / 3);
+    svg += `<line x1="${padL}" y1="${y.toFixed(1)}" x2="${W}" y2="${y.toFixed(1)}" stroke="var(--line-soft)" stroke-width="1"/>`;
+    svg += `<text x="${padL - 4}" y="${(y + 3).toFixed(1)}" text-anchor="end" font-size="9" fill="var(--text-faint)">¥${fmtAxis(val)}</text>`;
+  }
+  svg += `<polygon points="${padL},${H - padB} ${pts} ${W},${H - padB}" fill="var(--danger)" opacity=".08"/>`;
+  svg += `<polyline points="${pts}" fill="none" stroke="var(--danger)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>`;
+  sums.forEach((v, i) => {
+    const x = padL + i * step;
+    const y = v > 0 ? H - padB - (v / max * plotH) : H - padB;
+    svg += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3" fill="var(--card)" stroke="var(--danger)" stroke-width="2"/>`;
+    svg += `<text x="${x.toFixed(1)}" y="${H - 4}" text-anchor="middle" font-size="9.5" fill="var(--text-faint)">${buckets[i].label}</text>`;
+  });
+  return svg + '</svg>';
+}
+
+function exportCSV() {
+  const rows = [['日期', '类型', '分类', '金额', '备注']];
+  filteredTx().sort((a, b) => a.date < b.date ? 1 : -1).forEach(t => {
+    const c = catById(t.catId);
+    rows.push([t.date, t.type === 'income' ? '收入' : '支出', c ? c.name : '未分类', String(t.amount), t.note || '']);
+  });
+  const csv = '\ufeff' + rows.map(r => r.map(v => '"' + String(v).replace(/"/g, '""') + '"').join(',')).join('\r\n');
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
+  a.download = '知日记账_' + todayKey() + '.csv';
+  document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+  showToast('已导出 ' + (rows.length - 1) + ' 条记录');
+}
+
+/* ---------- 记账：新增 / 编辑 ---------- */
+let _editTxId = null;
+let _txType = 'expense';
+let _txCat = null;
+
+function openTxAdd() {
+  _editTxId = null; _txType = 'expense';
+  const cats = data.categories.filter(c => c.type === 'expense');
+  _txCat = cats[0] ? cats[0].id : null;
+  openSheet(txFormHtml('', todayKey(), '', false));
+  refreshTxType();
+  refreshTxCats();
+}
+function openTxEdit(id) {
+  const t = data.transactions.find(x => x.id === id);
+  if (!t) return;
+  _editTxId = id; _txType = t.type; _txCat = t.catId;
+  openSheet(txFormHtml(t.amount, t.date, t.note, true));
+  refreshTxType();
+  refreshTxCats();
+}
+function txFormHtml(amount, date, note, isEdit) {
+  return `<div class="sheet-title">${isEdit ? '编辑记录' : '记一笔'}</div>
+    <div class="form-row"><div class="mode-pick">
+      <button class="btn ghost" id="txTypeExp" onclick="pickTxType('expense')">支 出</button>
+      <button class="btn ghost" id="txTypeInc" onclick="pickTxType('income')">收 入</button>
+    </div></div>
+    <div class="form-row">
+      <label class="form-label">金额</label>
+      <input class="in" type="number" id="txAmount" value="${esc(String(amount))}" placeholder="0.00" inputmode="decimal" step="0.01" min="0">
+    </div>
+    <div class="form-row">
+      <label class="form-label">分类</label>
+      <div class="cat-grid" id="txCatGrid"></div>
+    </div>
+    <div class="form-row" style="display:flex;gap:8px">
+      <input class="in" type="date" id="txDate" value="${esc(date)}" style="flex:1;min-width:0">
+      <input class="in" id="txNote" value="${esc(note)}" placeholder="备注（可选）" maxlength="40" style="flex:1.6;min-width:0">
+    </div>
+    <div class="form-actions">
+      ${isEdit ? '<button class="btn warn" onclick="delTx()">删除</button>' : ''}
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveTx()">${isEdit ? '保存' : '添加'}</button>
+    </div>`;
+}
+function pickTxType(type) {
+  _txType = type;
+  const cats = data.categories.filter(c => c.type === type);
+  _txCat = cats.some(c => c.id === _txCat) ? _txCat : (cats[0] ? cats[0].id : null);
+  refreshTxType(); refreshTxCats();
+}
+function refreshTxType() {
+  const e = document.getElementById('txTypeExp'), i = document.getElementById('txTypeInc');
+  if (e) e.classList.toggle('on', _txType === 'expense');
+  if (i) i.classList.toggle('on', _txType === 'income');
+}
+function refreshTxCats() {
+  const grid = document.getElementById('txCatGrid');
+  if (!grid) return;
+  const cats = data.categories.filter(c => c.type === _txType);
+  grid.innerHTML = cats.map(c => `<button class="cat-cell ${c.id === _txCat ? 'on' : ''}" onclick="pickTxCat('${c.id}')">
+    <span class="cc-ico">${esc(c.icon)}</span><span>${esc(c.name)}</span></button>`).join('');
+}
+function pickTxCat(id) { _txCat = id; refreshTxCats(); }
+function saveTx() {
+  const amount = parseFloat(document.getElementById('txAmount').value);
+  const date = document.getElementById('txDate').value;
+  const note = document.getElementById('txNote').value.trim();
+  if (!amount || amount <= 0) { showToast('请输入有效金额'); return; }
+  if (!_txCat) { showToast('请选择分类'); return; }
+  if (!date) { showToast('请选择日期'); return; }
+  if (_editTxId) {
+    const t = data.transactions.find(x => x.id === _editTxId);
+    if (t) Object.assign(t, { amount, date, note, catId: _txCat, type: _txType });
+    showToast('已保存');
+  } else {
+    data.transactions.push({ id: uid('tx'), type: _txType, catId: _txCat, amount, date, note });
+    showToast('已记账');
+  }
+  saveData(); closeSheet(); renderAcct();
+}
+function delTx() {
+  data.transactions = data.transactions.filter(x => x.id !== _editTxId);
+  saveData(); closeSheet(); renderAcct();
+}
+
+/* ---------- 记账：分类管理 ---------- */
+function openCatManage() {
+  const sec = type => {
+    const cats = data.categories.filter(c => c.type === type);
+    return `<div style="font-size:12.5px;color:var(--text-dim);margin:10px 0 6px">${type === 'income' ? '收入分类' : '支出分类'}</div>
+      ${cats.map(c => `<div style="display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--line-soft)">
+        <span style="font-size:18px">${esc(c.icon)}</span>
+        <span style="flex:1;font-size:14px">${esc(c.name)}${c.isDefault ? '<span style="font-size:10.5px;color:var(--text-faint);margin-left:6px">默认</span>' : ''}</span>
+        <button class="icon-btn" style="width:44px;height:44px;min-width:44px;border:none;background:transparent" onclick="openCatEdit('${c.id}')">${SVG_EDIT}</button>
+        ${c.isDefault ? '' : `<button class="icon-btn" style="width:44px;height:44px;min-width:44px;border:none;background:transparent;color:var(--danger)" onclick="delCat('${c.id}')">${SVG_TRASH}</button>`}
+      </div>`).join('')}`;
+  };
+  openSheet(`<div class="sheet-title">分类管理</div>
+    ${sec('expense')}${sec('income')}
+    <div class="form-actions"><button class="btn block" onclick="openCatAdd()">＋ 新增自定义分类</button></div>
+    <div style="margin-top:10px;font-size:11.5px;color:var(--text-faint);text-align:center">默认分类不可删除；自定义分类可编辑、删除</div>`);
+}
+let _editCatId = null; let _catType = 'expense';
+function openCatAdd() { _editCatId = null; _catType = 'expense'; openSheet(catFormHtml('', '支出')); }
+function openCatEdit(id) {
+  const c = data.categories.find(x => x.id === id);
+  if (!c) return;
+  _editCatId = id; _catType = c.type;
+  openSheet(catFormHtml(c.name, c.type === 'income' ? '收入' : '支出'));
+}
+function catFormHtml(name, typeLabel) {
+  return `<div class="sheet-title">${_editCatId ? '编辑分类' : '新增分类'}</div>
+    <div class="form-row"><div class="mode-pick">
+      <button class="btn ghost ${_catType === 'expense' ? 'on' : ''}" onclick="pickCatType('expense')">支出</button>
+      <button class="btn ghost ${_catType === 'income' ? 'on' : ''}" onclick="pickCatType('income')">收入</button>
+    </div></div>
+    <div class="form-row">
+      <label class="form-label">图标（选一个 emoji）</label>
+      <input class="in" id="catIcon" value="" placeholder="🍀" maxlength="4">
+      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap" id="catIconPick">
+        ${['🍀','🧋','🎧','✈️','💊','🎮','🧹','📦','🎂','🏋️','💻','🧸'].map(ic => `<button class="chip" style="min-height:40px;padding:0 12px" onclick="pickCatIcon('${ic}')">${ic}</button>`).join('')}
+      </div>
+    </div>
+    <div class="form-row"><label class="form-label">分类名称</label><input class="in" id="catName" value="${esc(name)}" maxlength="8" placeholder="如：宠物"></div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveCat()">保存</button>
+    </div>`;
+}
+function pickCatType(t) { _catType = t; closeSheet(); _editCatId ? openCatEdit(_editCatId) : openCatAdd(); }
+function pickCatIcon(ic) {
+  const el = document.getElementById('catIcon');
+  if (el) { el.value = ic; el.focus(); }
+}
+function saveCat() {
+  const name = document.getElementById('catName').value.trim();
+  const icon = document.getElementById('catIcon').value.trim() || '🏷️';
+  if (!name) { showToast('请输入分类名称'); return; }
+  if (_editCatId) {
+    const c = data.categories.find(x => x.id === _editCatId);
+    if (c) { c.name = name; c.icon = icon; }
+  } else {
+    data.categories.push({ id: uid('c'), type: _catType, name, icon, isDefault: false, order: 99 });
+  }
+  saveData(); closeSheet(); renderAcct();
+}
+function delCat(id) {
+  const used = data.transactions.some(t => t.catId === id);
+  if (used) {
+    showToast('该分类下已有记录，不能删除');
+    return;
+  }
+  data.categories = data.categories.filter(c => c.id !== id);
+  saveData(); openCatManage();
+}
+
+/* ============================================================
+ * 页签三：新闻
+ * ============================================================ */
+function renderNews() {
+  const el = document.getElementById('tab-news');
+  const items = data.news ? data.news.items : [];
+  const sorted = [...items].sort((a, b) => (a.day ?? 9) - (b.day ?? 9));
+  const shown = state.newsGroup === 'all' ? sorted : sorted.filter(n => n.group === state.newsGroup);
+  const fetched = data.news ? `早报 · ${data.news.fetchedAt} 更新` : '';
+
+  el.innerHTML = `
+    <div class="tab-hero">
+      <div class="th-sub">${fetched}</div>
+      <div class="th-main">今天，发生了什么</div>
+    </div>
+    <div class="chips" style="padding-bottom:8px">
+      <button class="chip ${state.newsGroup === 'all' ? 'on' : ''}" onclick="setNewsGroup('all')">全部</button>
+      <button class="chip ${state.newsGroup === 'gn' ? 'on' : ''}" onclick="setNewsGroup('gn')">国内</button>
+      <button class="chip ${state.newsGroup === 'gj' ? 'on' : ''}" onclick="setNewsGroup('gj')">国际</button>
+    </div>
+    <div class="news-list">${shown.length ? shown.map(n => `
+      <a class="news-item" href="${esc(n.url)}" target="_blank" rel="noopener">
+        <div class="ns-top"><span class="ns-theme ${n.group === 'gj' ? 'gj' : ''}">${esc(n.theme)}</span>
+          <span style="font-size:11px;color:var(--text-faint)">${n.group === 'gn' ? '国内' : '国际'}</span></div>
+        <div class="ns-title">${esc(n.title)}</div>
+        <div class="ns-sum">${esc(n.summary)}</div>
+        <div class="ns-foot"><span>${esc(n.source)}</span><span>${esc(n.time)}</span><span class="ns-dedup">原文</span></div>
+      </a>`).join('') : `<div class="empty">暂无内容</div>`}
+    </div>`;
+}
+function setNewsGroup(g) { state.newsGroup = g; state.newsTheme = 'all'; renderNews(); }
+function setNewsTheme(t) { state.newsTheme = t; renderNews(); }
+
+/* ============================================================
+ * 页签四：学习
+ * ============================================================ */
+const PLATFORM_META = {
+  youtube:  { name: 'YouTube',  cls: 'pl-youtube' },
+  tiktok:   { name: 'TikTok',   cls: 'pl-tiktok' },
+  douyin:   { name: '抖音',     cls: 'pl-douyin' },
+  xhs:      { name: '小红书',   cls: 'pl-xhs' },
+  bilibili: { name: 'B站',      cls: 'pl-bilibili' },
+  facebook: { name: 'Facebook', cls: 'pl-facebook' },
+  x:        { name: 'X',        cls: 'pl-x' },
+};
+const OVERSEAS_PLATFORMS = ['youtube', 'facebook', 'x'];
+const SEARCH_ONLY_PLATFORMS = ['douyin', 'facebook', 'x'];
+const XHS_HOME = ['xhs'];
+function renderStudy() {
+  const el = document.getElementById('tab-study');
+  const items = (data.study || []).filter(v => state.studyFilter === 'all' || v.platform === state.studyFilter);
+  el.innerHTML = `
+    <div class="tab-hero">
+      <div class="th-sub">AI学习流 · 今日精选</div>
+      <div class="th-main">看懂热点，也带走方法</div>
+    </div>
+    <div class="chips" style="padding-bottom:8px">
+      <button class="chip ${state.studyFilter === 'all' ? 'on' : ''}" onclick="setStudyFilter('all')">全部</button>
+      <button class="chip ${state.studyFilter === 'youtube' ? 'on' : ''}" onclick="setStudyFilter('youtube')">YouTube</button>
+      <button class="chip ${state.studyFilter === 'douyin' ? 'on' : ''}" onclick="setStudyFilter('douyin')">抖音</button>
+      <button class="chip ${state.studyFilter === 'xhs' ? 'on' : ''}" onclick="setStudyFilter('xhs')">小红书</button>
+      <button class="chip ${state.studyFilter === 'bilibili' ? 'on' : ''}" onclick="setStudyFilter('bilibili')">B站</button>
+      <button class="chip ${state.studyFilter === 'facebook' ? 'on' : ''}" onclick="setStudyFilter('facebook')">Facebook</button>
+      <button class="chip ${state.studyFilter === 'x' ? 'on' : ''}" onclick="setStudyFilter('x')">X</button>
+    </div>
+    <div class="study-list">${items.length ? items.map(v => {
+      const pm = PLATFORM_META[v.platform] || { name: v.platform, cls: '' };
+      const f = v.flags || {};
+      const overseas = OVERSEAS_PLATFORMS.includes(v.platform);
+      const searchOnly = SEARCH_ONLY_PLATFORMS.includes(v.platform);
+      return `<div class="study-card">
+        <div class="sc-top">
+          <span class="sc-platform ${pm.cls}">${pm.name}</span>
+          ${overseas ? '<span class="sc-net">海外平台 · 需网络工具</span>' : ''}
+          <span class="sc-heat">${fmtHeat(v.heat)}</span>
+        </div>
+        <a class="sc-title" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a>
+        <div class="sc-meta"><span>${esc(v.author)}</span><span>${esc(v.duration)}</span><span>${fmtUpdated(v.updated)}</span>${searchOnly ? '<span class="sc-src-note">官方搜索结果页</span>' : ''}${XHS_HOME.includes(v.platform) ? '<span class="sc-src-note">平台主页 · 站内搜 AI 学习</span>' : ''}</div>
+        <div class="sc-points"><b>要点</b><ul>${v.points.map(p => `<li>${esc(p)}</li>`).join('')}</ul></div>
+        <div class="sc-actions">
+          <button class="icon-btn ${f.fav ? 'on-fav' : ''}" onclick="toggleFlag('${v.id}','fav')" title="收藏">${SVG_STAR}</button>
+          <button class="icon-btn ${f.watched ? 'on-watched' : ''}" onclick="toggleFlag('${v.id}','watched')" title="已看">${SVG_CHECK}</button>
+          <button class="icon-btn ${f.later ? 'on-later' : ''}" onclick="toggleFlag('${v.id}','later')" title="稍后学习">${SVG_CLOCK}</button>
+          <a class="sc-go" href="${esc(v.url)}" target="_blank" rel="noopener">观看 ↗</a>
+        </div>
+      </div>`;
+    }).join('') : `<div class="empty">该平台暂无内容</div>`}
+    </div>`;
+}
+function setStudyFilter(f) { state.studyFilter = f; renderStudy(); }
+function toggleFlag(id, key) {
+  const v = data.study.find(x => x.id === id);
+  if (!v) return;
+  v.flags = v.flags || {};
+  v.flags[key] = !v.flags[key];
+  saveData(); renderStudy();
+  const names = { fav: '收藏', watched: '已看', later: '稍后学习' };
+  showToast(v.flags[key] ? '已加入' + names[key] : '已取消' + names[key]);
+}
+/* ============================================================
+ * 页签五：专注（计时基于时间戳，锁屏/关闭后恢复不依赖前端定时器）
+ * ============================================================ */
+const ITEM_COLORS = ['green', 'mist', 'lavender'];
+
+function sessionsForItem(id) { return (data.focusSessions || []).filter(s => s.itemId === id); }
+function itemTodayMs(id) { return sessionsForItem(id).filter(s => s.date === todayKey()).reduce((a, s) => a + s.durationMs, 0); }
+function itemTotalMs(id) { return sessionsForItem(id).reduce((a, s) => a + s.durationMs, 0); }
+function todayTotalMs() { return (data.focusSessions || []).filter(s => s.date === todayKey()).reduce((a, s) => a + s.durationMs, 0); }
+function weekTotalMs() {
+  const now = new Date();
+  const diff = now.getDay() === 0 ? 6 : now.getDay() - 1;
+  const mon = new Date(now); mon.setDate(now.getDate() - diff);
+  const wk = dateKey(mon);
+  return (data.focusSessions || []).filter(s => s.date >= wk && s.date <= todayKey()).reduce((a, s) => a + s.durationMs, 0);
+}
+
+/* ---------- 计时核心（时间戳计算，与前端定时器无关） ---------- */
+function focusActiveMs(r) {
+  const start = new Date(r.startedAt).getTime();
+  const paused = r.totalPausedMs || 0;
+  if (r.pausedAt) return new Date(r.pausedAt).getTime() - start - paused;
+  return Date.now() - start - paused;
+}
+function focusRemainingMs(r) {
+  if (r.mode !== 'countdown') return null;
+  return Math.max(0, (r.countdownMin * 60000) - focusActiveMs(r));
+}
+
+function saveRunning() {
+  try {
+    if (state.focusRunning) localStorage.setItem(RUNNING_KEY, JSON.stringify(state.focusRunning));
+    else localStorage.removeItem(RUNNING_KEY);
+  } catch (_) {}
+}
+function restoreRunning() {
+  try {
+    const raw = localStorage.getItem(RUNNING_KEY);
+    if (!raw) return;
+    const r = JSON.parse(raw);
+    const item = data.focusItems.find(x => x.id === r.itemId);
+    if (!item) { localStorage.removeItem(RUNNING_KEY); return; }
+    const age = Date.now() - new Date(r.startedAt).getTime();
+    if (age > 24 * 3600000) { localStorage.removeItem(RUNNING_KEY); return; } // 过期状态丢弃
+    state.focusRunning = r;
+    // 倒计时若在关闭期间已结束：补记一次并通知
+    if (r.mode === 'countdown' && !r.pausedAt && focusRemainingMs(r) <= 0) {
+      finalizeFocus(false);
+    }
+  } catch (_) { localStorage.removeItem(RUNNING_KEY); }
+}
+
+function pickFocusItem(id) {
+  const item = data.focusItems.find(x => x.id === id);
+  if (!item) return;
+  if (state.focusRunning) { showToast('已有专注正在进行'); return; }
+  state._focusItemId = id; state._focusMode = 'countup'; state._focusMin = 25;
+  openSheet(`<div class="sheet-title">开始专注 · ${esc(item.name)}</div>
+    <div class="form-row"><div class="mode-pick">
+      <button class="btn ghost on" id="fmUp" onclick="pickFocusMode('countup')">正计时</button>
+      <button class="btn ghost" id="fmDown" onclick="pickFocusMode('countdown')">倒计时</button>
+    </div></div>
+    <div class="form-row" id="countdownRow" style="display:none">
+      <label class="form-label">倒计时时长（分钟）</label>
+      <div class="min-chips">
+        ${[15, 25, 45, 60].map(m => `<button class="chip" onclick="pickFocusMin(${m})">${m} 分钟</button>`).join('')}
+      </div>
+      <div style="display:flex;gap:8px;margin-top:8px;align-items:center">
+        <span style="font-size:12.5px;color:var(--text-dim)">自定义</span>
+        <input class="in" type="number" id="fmCustom" value="25" min="1" max="600" inputmode="numeric" style="width:100px" onchange="pickFocusMinFromInput()">
+      </div>
+    </div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="startFocusNow()">开始专注</button>
+    </div>`);
+}
+function pickFocusMode(m) {
+  state._focusMode = m;
+  const up = document.getElementById('fmUp'), dn = document.getElementById('fmDown');
+  if (up) up.classList.toggle('on', m === 'countup');
+  if (dn) dn.classList.toggle('on', m === 'countdown');
+  const row = document.getElementById('countdownRow');
+  if (row) row.style.display = m === 'countdown' ? 'block' : 'none';
+}
+function pickFocusMin(m) { state._focusMin = m; const i = document.getElementById('fmCustom'); if (i) i.value = m; }
+function pickFocusMinFromInput() {
+  const v = parseInt(document.getElementById('fmCustom').value, 10);
+  if (v > 0) state._focusMin = v;
+}
+function startFocusNow() {
+  const item = data.focusItems.find(x => x.id === state._focusItemId);
+  if (!item) return;
+  if (state._focusMode === 'countdown') {
+    const v = parseInt(document.getElementById('fmCustom').value, 10);
+    if (!v || v <= 0) { showToast('请输入倒计时时长'); return; }
+    state._focusMin = v;
+  }
+  ensureNotifPermission();
+  state.focusRunning = {
+    itemId: item.id, mode: state._focusMode, startedAt: new Date().toISOString(),
+    pausedAt: null, totalPausedMs: 0,
+    countdownMin: state._focusMode === 'countdown' ? state._focusMin : 0,
+  };
+  saveRunning(); closeSheet(); renderFocus();
+  showToast(state._focusMode === 'countdown' ? `倒计时 ${state._focusMin} 分钟开始` : '开始计时');
+}
+
+function pauseFocus() {
+  if (!state.focusRunning || state.focusRunning.pausedAt) return;
+  state.focusRunning.pausedAt = new Date().toISOString();
+  saveRunning(); renderFocus();
+}
+function resumeFocus() {
+  const r = state.focusRunning;
+  if (!r || !r.pausedAt) return;
+  r.totalPausedMs = (r.totalPausedMs || 0) + (Date.now() - new Date(r.pausedAt).getTime());
+  r.pausedAt = null;
+  saveRunning(); renderFocus();
+}
+function endFocus() {
+  if (!state.focusRunning) return;
+  finalizeFocus(true);
+}
+function finalizeFocus(manual) {
+  const r = state.focusRunning;
+  state.focusRunning = null;
+  saveRunning();
+  if (!r) return;
+  let ms = focusActiveMs(r);
+  if (ms < 1000) { showToast('计时太短，未记录'); renderFocus(); return; }
+  const item = data.focusItems.find(x => x.id === r.itemId);
+  const durMin = Math.round(ms / 60000 * 10) / 10;
+  data.focusSessions.push({
+    id: uid('fs'), itemId: r.itemId, date: todayKey(), mode: r.mode,
+    startedAt: r.startedAt, endedAt: new Date().toISOString(), durationMs: ms,
+  });
+  saveData(); renderFocus();
+  if (r.mode === 'countdown' && !manual) {
+    notifyFocusDone(item ? item.name : '', Math.max(1, Math.round(r.countdownMin)));
+  } else {
+    showToast(`已记录 ${fmtHours(ms)}${item ? ' · ' + item.name : ''}`);
+  }
+}
+
+/* ---------- 通知 ---------- */
+function ensureNotifPermission() {
+  if ('Notification' in window && Notification.permission === 'default') {
+    try { Notification.requestPermission(); } catch (_) {}
+  }
+}
+function notifyFocusDone(name, min) {
+  const body = `「${name}」专注 ${min} 分钟完成，休息一下吧 ☕`;
+  if ('Notification' in window && Notification.permission === 'granted') {
+    try { new Notification('知日 · 专注结束', { body, tag: 'zhiri-focus', renotify: true }); } catch (_) {}
+  }
+  showToast(body);
+  if (navigator.vibrate) { try { navigator.vibrate([200, 100, 200]); } catch (_) {} }
+  beep();
+}
+function beep() {
+  try {
+    const Ctx = window.AudioContext || window.webkitAudioContext;
+    const ctx = new Ctx();
+    const o = ctx.createOscillator(), g = ctx.createGain();
+    o.connect(g); g.connect(ctx.destination);
+    o.frequency.value = 880;
+    g.gain.setValueAtTime(0.08, ctx.currentTime);
+    g.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.7);
+    o.start(); o.stop(ctx.currentTime + 0.75);
+  } catch (_) {}
+}
+
+/* ---------- 渲染 ---------- */
+function renderFocus() {
+  const el = document.getElementById('tab-focus');
+  const todayMs = todayTotalMs();
+  const weekMs = weekTotalMs();
+  const r = state.focusRunning;
+
+  const itemsHtml = data.focusItems.length ? data.focusItems.map(item => {
+    const isRunning = r && r.itemId === item.id;
+    const todayMs_i = itemTodayMs(item.id);
+    const totalMs = itemTotalMs(item.id);
+    const goalMs = item.goalMin * 60000;
+    const pct = Math.min(100, Math.round(todayMs_i / goalMs * 100));
+    const reached = todayMs_i >= goalMs;
+
+    let timerHtml = '', ctlHtml = '';
+    if (isRunning) {
+      const remain = focusRemainingMs(r);
+      const disp = r.mode === 'countdown' ? fmtClock(remain) : fmtClock(focusActiveMs(r));
+      const label = r.mode === 'countdown' ? `剩余 ${disp}` : `已专注 ${disp}`;
+      timerHtml = `<div class="fc-timer"><span class="pulse"></span><span class="fc-timer-text">${label}</span></div>`;
+      if (r.pausedAt) {
+        ctlHtml = `<div class="fc-ctl">
+          <button class="btn resume" onclick="resumeFocus()">▶ 继续</button>
+          <button class="btn stop" onclick="endFocus()">⏹ 结束并记录</button>
+        </div>`;
+      } else {
+        ctlHtml = `<div class="fc-ctl">
+          <button class="btn ghost" onclick="pauseFocus()">⏸ 暂停</button>
+          <button class="btn stop" onclick="endFocus()">⏹ 结束并记录</button>
+        </div>`;
+      }
+    } else {
+      timerHtml = `<div class="fc-timer" style="color:var(--text-dim);font-size:15px;font-weight:500;margin-top:6px">${reached ? '✓ 今日目标已达成' : '今日 ' + fmtHours(todayMs_i) + ' / 目标 ' + fmtHours(goalMs)}</div>`;
+      ctlHtml = `<div class="fc-ctl"><button class="btn" onclick="pickFocusItem('${item.id}')">▶ 开始</button></div>`;
+    }
+
+    const dotColor = item.color === 'mist' ? 'var(--mist)' : item.color === 'lavender' ? 'var(--lavender)' : 'var(--green)';
+    return `<div class="focus-card ${isRunning ? 'running' : ''}">
+      <div class="fc-head">
+        <span style="width:10px;height:10px;border-radius:50%;background:${dotColor};display:inline-block"></span>
+        <span class="fc-name">${esc(item.name)}</span>
+        <span class="fc-goal">每日目标 ${fmtHours(goalMs)}</span>
+        ${reached ? '<span class="fc-done">✓ 达成</span>' : ''}
+        <button class="icon-btn" style="margin-left:auto;width:44px;min-width:44px;height:44px;min-height:44px;border:none;background:transparent" onclick="openFocusEdit('${item.id}')" title="编辑">✎</button>
+      </div>
+      ${timerHtml}
+      <div class="fc-bar"><span class="fc-bar-fill" style="width:${pct}%"></span></div>
+      <div class="fc-stats">
+        <span>今日 <b>${fmtHours(todayMs_i)}</b></span>
+        <span>累计 <b>${fmtHours(totalMs)}</b></span>
+      </div>
+      ${ctlHtml}
+    </div>`;
+  }).join('') : `<div class="empty">还没有专注事项<br>点右下角 + 新建</div>`;
+
+  el.innerHTML = `
+    <div class="tab-hero">
+      <div class="th-sub">沉浸此刻 · ${fmtW(new Date())}</div>
+      <div class="th-main">把时间，留给重要的事</div>
+    </div>
+    <div class="focus-summary">
+      <div class="fs-label">今日累计专注</div>
+      <div class="fs-val">${fmtHours(todayMs)}</div>
+      <div class="fs-note">本周累计 ${fmtHours(weekMs)} · 共 ${data.focusItems.length} 个事项</div>
+    </div>
+    <div class="focus-list">${itemsHtml}</div>
+    <button class="fab" onclick="openFocusAdd()" title="新建专注事项">${SVG_PLUS}</button>`;
+}
+
+function openFocusAdd() {
+  state._editFocusId = null;
+  openSheet(`<div class="sheet-title">添加专注事项</div>
+    <div class="form-row"><label class="form-label">名称</label><input class="in" id="fiName" placeholder="如：深度学习" maxlength="12"></div>
+    <div class="form-row"><label class="form-label">每日目标（分钟）</label><input class="in" type="number" id="fiGoal" value="60" min="1" max="1440" inputmode="numeric"></div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveFocusItem()">添加</button>
+    </div>`);
+  setTimeout(() => { const i = document.getElementById('fiName'); if (i) i.focus(); }, 120);
+}
+function openFocusEdit(id) {
+  const item = data.focusItems.find(x => x.id === id);
+  if (!item) return;
+  state._editFocusId = id;
+  openSheet(`<div class="sheet-title">编辑专注事项</div>
+    <div class="form-row"><label class="form-label">名称</label><input class="in" id="fiName" value="${esc(item.name)}" maxlength="12"></div>
+    <div class="form-row"><label class="form-label">每日目标（分钟）</label><input class="in" type="number" id="fiGoal" value="${item.goalMin}" min="1" max="1440" inputmode="numeric"></div>
+    <div class="form-actions">
+      <button class="btn warn" onclick="askDelFocus()">删除事项</button>
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveFocusItem()">保存</button>
+    </div>`);
+}
+function saveFocusItem() {
+  const name = document.getElementById('fiName').value.trim();
+  const goal = parseInt(document.getElementById('fiGoal').value, 10);
+  if (!name) { showToast('请输入名称'); return; }
+  if (!goal || goal <= 0) { showToast('目标时长需大于 0'); return; }
+  if (state._editFocusId) {
+    const item = data.focusItems.find(x => x.id === state._editFocusId);
+    if (item) { item.name = name; item.goalMin = goal; }
+  } else {
+    data.focusItems.push({
+      id: uid('fi'), name, goalMin: goal,
+      color: ITEM_COLORS[data.focusItems.length % ITEM_COLORS.length],
+      createdAt: new Date().toISOString(),
+    });
+  }
+  saveData(); closeSheet(); renderFocus();
+}
+function askDelFocus() {
+  const item = data.focusItems.find(x => x.id === state._editFocusId);
+  if (!item) return;
+  const n = sessionsForItem(item.id).length;
+  openSheet(`<div class="sheet-title">删除「${esc(item.name)}」？</div>
+    <div style="font-size:13.5px;color:var(--text-dim);margin-bottom:6px">该事项的 ${n} 条专注记录也会一并删除，且无法恢复。</div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn warn" onclick="confirmDelFocus()">确认删除</button>
+    </div>`);
+}
+function confirmDelFocus() {
+  const id = state._editFocusId;
+  if (state.focusRunning && state.focusRunning.itemId === id) { showToast('请先结束进行中的专注'); return; }
+  data.focusItems = data.focusItems.filter(x => x.id !== id);
+  data.focusSessions = data.focusSessions.filter(s => s.itemId !== id);
+  saveData(); closeSheet(); renderFocus();
+}
+
+/* ---------- 全局计时心跳（仅负责刷新显示；时长始终由时间戳计算） ---------- */
+let focusTick = null;
+function startFocusTick() {
+  if (focusTick) return;
+  focusTick = setInterval(() => {
+    const r = state.focusRunning;
+    if (!r) return;
+    // 倒计时归零 → 结束并通知
+    if (r.mode === 'countdown' && !r.pausedAt && focusRemainingMs(r) <= 0) {
+      finalizeFocus(false);
+      return;
+    }
+    const el = document.getElementById('tab-focus');
+    if (el) {
+      // 只更新文本 span，保留脉冲点（修复旧版 textContent 覆盖导致的心跳停止）
+      const timerText = el.querySelector('.fc-timer-text');
+      if (timerText) {
+        const remain = focusRemainingMs(r);
+        const disp = r.mode === 'countdown' ? fmtClock(remain) : fmtClock(focusActiveMs(r));
+        const label = r.mode === 'countdown' ? `剩余 ${disp}` : `已专注 ${disp}`;
+        if (timerText.textContent !== label) timerText.textContent = label;
+      }
+    }
+  }, 1000);
+}
+/* ============================================================
+ * 初始化与全局事件
+ * ============================================================ */
+function init() {
+  // 头部日期
+  const now = new Date();
+  document.getElementById('hdDate').textContent =
+    `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日 · ${fmtW(now)}`;
+
+  // 主题
+  const savedTheme = (data.settings && data.settings.theme) || 'light';
+  applyTheme(savedTheme);
+  document.getElementById('themeBtn').addEventListener('click', toggleTheme);
+
+  // 演示横幅
+  if (data.settings && data.settings.bannerDismissed) {
+    const b = document.getElementById('demoBanner');
+    if (b) b.style.display = 'none';
+  }
+  document.getElementById('demoBannerX').addEventListener('click', () => {
+    data.settings = data.settings || {};
+    data.settings.bannerDismissed = true;
+    saveData();
+    document.getElementById('demoBanner').style.display = 'none';
+  });
+
+  // 底部导航
+  document.querySelectorAll('.nav-item').forEach(btn => {
+    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+  });
+
+  // 弹层：点遮罩关闭
+  document.getElementById('sheetMask').addEventListener('click', closeSheet);
+
+  // 专注：恢复进行中的会话（时间戳恢复）+ 心跳
+  restoreRunning();
+  startFocusTick();
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) renderFocus();
+  });
+
+  // 暴露最小测试接口（仅开发调试用；应用自身不记录任何金额日志）
+  window.__zhiri = { state, data, saveData, renderAll: () => renderers[state.tab]() };
+
+  switchTab('todo');
+}
+
+/* ---------- 记账：分类占比（按当前筛选显示对应区块） ---------- */
+function acctCatBlocks() {
+  const f = state.acctFilter;
+  let html = '';
+  if (f === 'all' || f === 'expense') html += catBars('expense');
+  if (f === 'all' || f === 'income') html += catBars('income');
+  return html;
+}
+
+/* ---------- 启动 ---------- */
+init();
+
+
+</script>
+</body>
+</html>
