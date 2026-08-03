@@ -493,6 +493,91 @@ const state = {
   drag: null,
 };
 
+/* ============================================================
+ * 外部内容源：复用工作台 GitHub Actions 每日抓取的数据
+ * （工作台与知日同域 janehu2026.github.io，前端直接读取）
+ * ============================================================ */
+const EXT_BASE = 'https://janehu2026.github.io/workbench/';
+const THEME_KW = [
+  ['民生', /医保|养老|社保|补贴|菜价|消费品|生活|供水|供电|出行|民生/],
+  ['政策', /政策|文件|发布|印发|规定|措施|条例|部署|意见/],
+  ['财经', /经济|金融|央行|利率|财政|市场|物价|就业|外贸|增长|关税/],
+  ['科技', /科技|AI|人工智能|航天|芯片|机器人|卫星|量子|算力|模型/],
+  ['医疗', /医疗|医保|医院|药品|健康|疾病|疫苗|门诊|卫生/],
+  ['社会', /社会|社区|改造|救援|通报|服务|保障|志愿者/],
+  ['环境', /环境|生态|气候|天气|高温|能源|台风|洪水|污染|排放/],
+  ['教育', /教育|学校|学生|高考|教师|教材|课程|大学/],
+  ['文化', /文化|电影|作家|艺术|音乐|出版/],
+  ['体育', /体育|奥运|足球|比赛|联赛/],
+];
+function guessTheme(title) {
+  for (const [name, re] of THEME_KW) { if (re.test(title)) return name; }
+  return '要闻';
+}
+function dayLabel(day) {
+  if (day <= 0) return '今天';
+  if (day === 1) return '昨天';
+  return day + '天前';
+}
+function convertNews(n) {
+  const out = [];
+  const now = new Date();
+  (n.items || []).forEach(g => {
+    const group = (g.cat === 'gj') ? 'gj' : 'gn';
+    (g.items || []).forEach(it => {
+      const t = (it.title || '').trim();
+      if (!t) return;
+      let day = 9;
+      if (it.pubDate) {
+        const d = new Date(it.pubDate);
+        if (!isNaN(d.getTime())) day = Math.max(0, Math.floor((now.getTime() - d.getTime()) / 86400000));
+      }
+      out.push({
+        id: uid('ns'), group, theme: guessTheme(t), title: t,
+        source: it.source || '', time: dayLabel(day), url: it.link || '#',
+        summary: it.desc || '（点击查看原文）', day,
+      });
+    });
+  });
+  out.sort((a, b) => a.day - b.day);
+  return { fetchedAt: n.fetchedAt || '08:00', fetchedDate: n.fetchedDate || todayKey(), items: out.slice(0, 40) };
+}
+function convertStudy(s) {
+  const MAP = [
+    [/YouTube/i, 'youtube'], [/B站|bilibili/i, 'bilibili'], [/小红书|XHS/i, 'xhs'],
+    [/抖音/i, 'douyin'], [/TikTok/i, 'tiktok'], [/Facebook/i, 'facebook'], [/Twitter|\bX\b/i, 'x'],
+  ];
+  const out = [];
+  (s.items || []).forEach(g => {
+    let platform = 'douyin';
+    for (const [re, p] of MAP) { if (re.test(g.label || '')) { platform = p; break; } }
+    (g.items || []).forEach(it => {
+      const t = (it.title || '').trim();
+      if (!t) return;
+      out.push({
+        id: uid('sv'), platform, author: it.source || '', title: t,
+        duration: it.duration || '—', heat: it.heat || 0,
+        updated: new Date((s.fetchedDate || todayKey()) + 'T08:00:00').toISOString(),
+        url: it.link || '#', points: [], flags: { fav: false, watched: false, later: false },
+      });
+    });
+  });
+  return out.slice(0, 30);
+}
+async function loadExternalFeed() {
+  if (IS_DEMO) return;
+  try {
+    const [n, s] = await Promise.all([
+      fetch(EXT_BASE + 'news.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null),
+      fetch(EXT_BASE + 'study.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null),
+    ]);
+    let changed = false;
+    if (n && n.items && n.items.length) { data.news = convertNews(n); changed = true; }
+    if (s && s.items && s.items.length) { data.study = convertStudy(s); changed = true; }
+    if (changed) { saveData(); if (renderers[state.tab]) renderers[state.tab](); }
+  } catch (_) { /* 拉取失败则保留内置快照 */ }
+}
+
 /* ---------- 数据层（第一阶段：localStorage，第二阶段换 IndexedDB） ---------- */
 const STORAGE_KEY = 'zhiri_v1';
 const RUNNING_KEY = 'zhiri_running_v1';
@@ -1501,11 +1586,11 @@ function renderStudy() {
         <div class="sc-top">
           <span class="sc-platform ${pm.cls}">${pm.name}</span>
           ${overseas ? '<span class="sc-net">海外平台 · 需网络工具</span>' : ''}
-          <span class="sc-heat">${fmtHeat(v.heat)}</span>
+          <span class="sc-heat">${v.heat > 0 ? fmtHeat(v.heat) : '今日更新'}</span>
         </div>
         <a class="sc-title" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a>
         <div class="sc-meta"><span>${esc(v.author)}</span><span>${esc(v.duration)}</span><span>${fmtUpdated(v.updated)}</span>${searchOnly ? '<span class="sc-src-note">官方搜索结果页</span>' : ''}${XHS_HOME.includes(v.platform) ? '<span class="sc-src-note">平台主页 · 站内搜 AI 学习</span>' : ''}</div>
-        <div class="sc-points"><b>要点</b><ul>${v.points.map(p => `<li>${esc(p)}</li>`).join('')}</ul></div>
+        ${v.points && v.points.length ? `<div class="sc-points"><b>要点</b><ul>${v.points.map(p => `<li>${esc(p)}</li>`).join('')}</ul></div>` : ''}
         <div class="sc-actions">
           <button class="icon-btn ${f.fav ? 'on-fav' : ''}" onclick="toggleFlag('${v.id}','fav')" title="收藏">${SVG_STAR}</button>
           <button class="icon-btn ${f.watched ? 'on-watched' : ''}" onclick="toggleFlag('${v.id}','watched')" title="已看">${SVG_CHECK}</button>
@@ -1894,6 +1979,9 @@ function init() {
   document.addEventListener('visibilitychange', () => {
     if (!document.hidden) renderFocus();
   });
+
+  // 每日内容：拉取云端最新新闻/学习（失败自动保留内置快照）
+  loadExternalFeed();
 
   // 暴露最小测试接口（仅开发调试用；应用自身不记录任何金额日志）
   window.__zhiri = { state, data, saveData, renderAll: () => renderers[state.tab]() };
