@@ -412,6 +412,7 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
         <svg class="ic-moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
         <svg class="ic-sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5 5l1.6 1.6M17.4 17.4L19 19M19 5l-1.6 1.6M6.6 17.4L5 19"/></svg>
       </button>
+      <button class="icon-btn" id="dataBtn" title="数据备份 / 恢复"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M4 19h16"/></svg></button>
       <div class="avatar" title="胡">胡</div>
     </div>
   </header>
@@ -1129,6 +1130,73 @@ function bindTodoSwipe() {
       if (swipe && swipe.id === item.dataset.id) { swipe = null; item.classList.remove('swiping'); item.style.transform = ''; }
     });
   });
+}
+
+/* ---------- 数据管理：备份 / 恢复 / 重置 ---------- */
+function openDataManage() {
+  const d = data;
+  const todoN = d.todos ? d.todos.length : 0;
+  const txN = d.transactions ? d.transactions.length : 0;
+  const fsN = d.focusSessions ? d.focusSessions.length : 0;
+  openSheet(`<div class="sheet-title">数据管理</div>
+    <div style="font-size:13px;color:var(--text-dim);margin-bottom:12px;line-height:1.7">
+      当前本机数据：待办 ${todoN} 条 · 账目 ${txN} 笔 · 专注记录 ${fsN} 条<br>
+      数据保存在本机浏览器中，更换手机或清除浏览器数据前请先备份。
+    </div>
+    <div class="form-row">
+      <button class="btn block" onclick="exportBackup()">⬇ 导出备份（下载数据文件）</button>
+    </div>
+    <div class="form-row">
+      <label class="form-label">从备份文件恢复</label>
+      <input class="in" type="file" id="backupFile" accept=".json,application/json" style="padding:10px">
+    </div>
+    <div class="form-row">
+      <button class="btn warn block" onclick="askResetData()">清空全部数据</button>
+    </div>
+    <div style="font-size:11.5px;color:var(--text-faint);text-align:center">备份文件包含你的全部记录，请自行妥善保管</div>`);
+  const fi = document.getElementById('backupFile');
+  if (fi) fi.addEventListener('change', importBackup);
+}
+function exportBackup() {
+  const blob = new Blob([JSON.stringify(data, null, 1)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = '知日备份_' + todayKey() + '.json';
+  document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+  showToast('备份已导出，请妥善保存该文件');
+}
+function importBackup(e) {
+  const file = e.target.files && e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const d = JSON.parse(reader.result);
+      if (!d || !Array.isArray(d.todos) || !Array.isArray(d.transactions)) {
+        showToast('备份文件格式不正确'); return;
+      }
+      data = d;
+      saveData();
+      closeSheet();
+      showToast('恢复成功');
+      setTimeout(() => location.reload(), 600);
+    } catch (_) { showToast('备份文件无法读取'); }
+  };
+  reader.readAsText(file);
+}
+function askResetData() {
+  openSheet(`<div class="sheet-title">清空全部数据？</div>
+    <div style="font-size:13.5px;color:var(--text-dim);margin-bottom:6px">将删除本机全部待办、账目和专注记录，<b>无法恢复</b>。建议先导出备份。</div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn warn" onclick="confirmResetData()">确认清空</button>
+    </div>`);
+}
+function confirmResetData() {
+  try { localStorage.removeItem(STORAGE_KEY); } catch (_) {}
+  closeSheet();
+  location.reload();
 }
 
 /* ============================================================
@@ -1952,6 +2020,9 @@ function init() {
   const savedTheme = (data.settings && data.settings.theme) || 'light';
   applyTheme(savedTheme);
   document.getElementById('themeBtn').addEventListener('click', toggleTheme);
+
+  // 数据管理（备份 / 恢复 / 重置）
+  document.getElementById('dataBtn').addEventListener('click', openDataManage);
 
   // 演示横幅
   if (data.settings && data.settings.bannerDismissed) {
