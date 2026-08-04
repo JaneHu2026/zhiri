@@ -486,6 +486,17 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hb-check{width:100%;min-height:44px;border-radius:12px;border:1.5px dashed var(--line);color:var(--text-dim);font-size:13.5px;font-weight:600;display:flex;align-items:center;justify-content:center;gap:6px}
 .hb-check.done{background:var(--green);border-color:var(--green);color:var(--on-green);border-style:solid}
 .hb-check:disabled{opacity:.4}
+/* 简洁清单式打卡 */
+.hb-todayline{font-size:12.5px;color:var(--text-dim);text-align:center;padding:2px 0 12px}
+.hb-simple-list{display:flex;flex-direction:column;gap:8px}
+.hb-simple{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);padding:10px 14px 10px 16px}
+.hbs-name-btn{flex:1;display:flex;align-items:center;gap:10px;text-align:left;min-height:52px;background:none;border:none;padding:0;min-width:0}
+.hbs-txt{display:flex;flex-direction:column;gap:2px;min-width:0}
+.hbs-n{font-size:15.5px;font-weight:600;font-family:var(--font-serif);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hbs-s{font-size:11.5px;color:var(--text-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hb-circle{width:48px;height:48px;min-width:48px;border-radius:50%;border:1.5px solid var(--line);background:var(--card);display:flex;align-items:center;justify-content:center;color:transparent;transition:all .15s}
+.hb-circle svg{width:22px;height:22px}
+.hb-circle.done{background:var(--green);border-color:var(--green);color:var(--on-green)}
 .hcal{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:12px;margin-bottom:12px}
 .hcal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
 .hcal-head .hcal-nav{display:flex;align-items:center;gap:4px}
@@ -2444,75 +2455,37 @@ function weekStart(k) {
   return dateKey(addDays(d, -dow));
 }
 
-/* ---------- 渲染 ---------- */
+/* ---------- 渲染（简洁清单式） ---------- */
 function renderHabit() {
   const el = document.getElementById('tab-habit');
   const habits = data.habits || [];
-  const selDay = state.habitDay || todayKey();
-  const filter = state.habitFilter || 'all';
   const today = todayKey();
+  const doneToday = habits.filter(h => habitDayDone(h, today)).length;
+  const pct = habits.length ? Math.round(doneToday / habits.length * 100) : 0;
 
-  // 连续坚持卡
-  const maxStreak = Math.max(0, ...habits.map(h => habitMaxStreak(h)));
-  const weekDone = habits.filter(h => habitDayDone(h, today)).length;
-  const weekPct = habits.length ? Math.round(weekDone / habits.length * 100) : 0;
-
-  // 一周日期栏
-  const wk = weekStart(today);
-  let wkHtml = '';
-  for (let i = 0; i < 7; i++) {
-    const k = dateKey(addDays(parseKey(wk), i));
-    const d = parseKey(k);
-    const doneN = habits.filter(h => habitDayDone(h, k)).length;
-    const isToday = k === today;
-    const isFuture = k > today;
-    const isSel = k === selDay;
-    wkHtml += `<button class="hbwk-day ${isToday ? 'today' : ''} ${isFuture ? 'future' : ''} ${isSel ? 'sel' : ''}" onclick="setHabitDay('${k}')">
-      <span class="hbwk-w">${WEEK_CN[i].slice(0, 1)}</span>
-      <span class="hbwk-d">${d.getDate()}</span>
-      <span class="hbwk-n ${doneN ? 'on' : ''}">${doneN ? doneN : ''}</span>
-    </button>`;
-  }
-
-  // 列表
-  const list = habits.filter(h => filter === 'all' || h.cat === filter);
-  const listHtml = list.length ? `<div class="habit-list">${list.map(h => {
-    const done = habitDayDone(h, selDay);
-    const ratio = habitDayRatio(h, selDay);
-    const val = habitDayVal(h, selDay);
+  const listHtml = habits.length ? `<div class="hb-simple-list">${habits.map(h => {
+    const done = habitDayDone(h, today);
+    const val = habitDayVal(h, today);
     const t = h.targetType === 'once' ? 1 : (h.target || 1);
     const u = h.unit || '';
     const streak = habitStreak(h);
-    const onDay = habitOnDay(h, selDay);
-    const catName = (HABIT_CATS.find(c => c.id === h.cat) || { name: '自定义' }).name;
     const progressText = h.targetType === 'once'
-      ? (done ? '已完成' : '未完成')
+      ? (done ? '今日已完成' : '待打卡')
       : (h.targetType === 'weekly'
         ? `${Math.min(val, t)}/${t} 次`
-        : `${Math.min(val, t)}/${t}${u}`);
-    return `<div class="habit-card">
-      <div class="hb-head">
+        : `${Math.min(val, t)}/${t}${u}${done ? ' · 已达成' : ''}`);
+    return `<div class="hb-simple">
+      <button class="hbs-name-btn" onclick="openHabitEdit('${h.id}')">
         <span class="hb-dot" style="background:${HABIT_COLOR_VAR[h.color] || 'var(--green)'}"></span>
-        <span class="hb-name">${esc(h.name)}</span>
-        <span class="hb-cat">${esc(catName)}</span>
-        <span class="hb-streak">连续 ${streak} 天</span>
-        <button class="hb-edit" onclick="openHabitEdit('${h.id}')" title="编辑习惯">${SVG_EDIT}</button>
-      </div>
-      <div class="hb-goal">${esc(habitGoalText(h))}${h.remindTime ? ' · 提醒 ' + esc(h.remindTime) : ''}${!onDay ? ' · 今天不重复' : ''}</div>
-      <div class="hb-prog"><span class="hb-prog-t">${progressText}</span><span class="hb-prog-bar"><span class="hb-prog-fill" style="width:${Math.round(ratio * 100)}%"></span></span></div>
-      <button class="hb-check ${done ? 'done' : ''}" onclick="tapHabit('${h.id}')" ${onDay && (selDay <= today || h.allowCatchup) ? '' : 'disabled'}>
-        ${done ? '✓ 已完成' : (h.targetType === 'once' || h.targetType === 'weekly' ? '打卡' : '＋ 记一次')}
+        <span class="hbs-txt">
+          <span class="hbs-n">${esc(h.name)}</span>
+          <span class="hbs-s">${progressText} · 连续 ${streak} 天</span>
+        </span>
       </button>
+      <button class="hb-circle ${done ? 'done' : ''}" onclick="tapHabit('${h.id}')" title="打卡">${done ? SVG_CHECK : ''}</button>
     </div>`;
   }).join('')}</div>`
-    : `<div class="empty">这个分类还没有习惯<br>点右上角 ＋ 新建</div>`;
-
-  // 月度足迹
-  const mFoot = monthFootprint(habits);
-
-  // 统计
-  const statView = state.habitStat || 'week';
-  const statHtml = habitStats(habits, statView);
+    : `<div class="empty">还没有习惯<br>点右上角 ＋ 新建</div>`;
 
   el.innerHTML = `
     <div class="tab-hero">
@@ -2520,31 +2493,8 @@ function renderHabit() {
       <div class="th-main">微小坚持，也值得被看见</div>
       <button class="hero-add" onclick="openHabitAdd()" title="新增习惯">${SVG_PLUS}</button>
     </div>
-    <div class="privacy-note">数据仅保存在本机浏览器中，不会上传</div>
-    <div class="hb-master">
-      <div class="hbm-num">${maxStreak}<span>天</span></div>
-      <div class="hbm-info">
-        <div class="hbm-t">最长连续坚持</div>
-        <div class="hbm-s">本周完成 ${weekPct}%${weekPct >= 70 ? ' · 正在成为更好的自己' : ' · 今天重新开始也很好'}</div>
-      </div>
-    </div>
-    <div class="hb-weekbar">${wkHtml}</div>
-    <div class="chips">
-      <button class="chip ${filter === 'all' ? 'on' : ''}" onclick="setHabitFilter('all')">全部</button>
-      ${HABIT_CATS.map(c => `<button class="chip ${filter === c.id ? 'on' : ''}" onclick="setHabitFilter('${c.id}')">${c.name}</button>`).join('')}
-    </div>
-    ${listHtml}
-    <div class="hb-section">本月足迹</div>
-    ${mFoot}
-    <div class="hb-section">习惯统计
-      <span class="hb-seg">
-        <button class="${statView === 'week' ? 'on' : ''}" onclick="setHabitStat('week')">本周</button>
-        <button class="${statView === 'month' ? 'on' : ''}" onclick="setHabitStat('month')">本月</button>
-        <button class="${statView === 'q3' ? 'on' : ''}" onclick="setHabitStat('q3')">近三月</button>
-      </span>
-    </div>
-    ${statHtml}
-    <div style="height:24px"></div>`;
+    <div class="hb-todayline">今天完成 <b>${doneToday}</b>/${habits.length}${habits.length ? (pct >= 70 ? ' · 保持就好' : ' · 今天重新开始也很好') : ''}</div>
+    ${listHtml}`;
 }
 
 /* ---------- 月度足迹（热力图） ---------- */
