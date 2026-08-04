@@ -498,7 +498,7 @@ const state = {
  * 外部内容源：复用工作台 GitHub Actions 每日抓取的数据
  * （工作台与知日同域 janehu2026.github.io，前端直接读取）
  * ============================================================ */
-const EXT_BASE = 'https://janehu2026.github.io/workbench/';
+const EXT_BASE = 'https://janehu2026.github.io/zhiri/';
 const THEME_KW = [
   ['民生', /医保|养老|社保|补贴|菜价|消费品|生活|供水|供电|出行|民生/],
   ['政策', /政策|文件|发布|印发|规定|措施|条例|部署|意见/],
@@ -573,8 +573,23 @@ async function loadExternalFeed() {
       fetch(EXT_BASE + 'study.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null),
     ]);
     let changed = false;
-    if (n && n.items && n.items.length) { data.news = convertNews(n); changed = true; }
-    if (s && s.items && s.items.length) { data.study = convertStudy(s); changed = true; }
+    if (n && n.items && n.items.length) {
+      // 知日原生格式（group/theme/...）直接用；旧格式走转换
+      if (n.items[0].group) {
+        data.news = { fetchedAt: n.fetchedAt || '08:00', fetchedDate: n.fetchedDate || todayKey(), items: n.items.slice(0, 40) };
+      } else {
+        data.news = convertNews(n);
+      }
+      changed = true;
+    }
+    if (s && s.items && s.items.length) {
+      if (s.items[0].platform) {
+        data.study = s.items.slice(0, 30);
+      } else {
+        data.study = convertStudy(s);
+      }
+      changed = true;
+    }
     if (changed) { saveData(); if (renderers[state.tab]) renderers[state.tab](); }
   } catch (_) { /* 拉取失败则保留内置快照 */ }
 }
