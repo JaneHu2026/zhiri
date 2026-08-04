@@ -1,5 +1,5 @@
 /* 知日 Service Worker — 离线可用 + 网络优先更新策略 */
-const CACHE = 'zhiri-v2';
+const CACHE = 'zhiri-v3';
 const PRECACHE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
