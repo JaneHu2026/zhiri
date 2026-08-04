@@ -829,6 +829,14 @@ function buildMock() {
 }
 
 const IS_DEMO = new URLSearchParams(location.search).has('demo');
+const VER = 'v2.5 · 2026-08-04';   // 版本标记（数据管理面板可见）
+
+/* 全局错误提示：任何 JS 错误都显示在屏幕上，避免"点了没反应"无法排查 */
+window.addEventListener('error', function (e) {
+  try {
+    showToast('⚠️ 出错了：' + (e.message || '未知错误'));
+  } catch (_) {}
+});
 
 /* ---------- 存储键：正式版与演示版完全隔离 ---------- */
 const STORAGE_KEY = IS_DEMO ? 'zhiri_demo_v1' : 'zhiri_v1';
@@ -1292,7 +1300,7 @@ function openDataManage() {
     <div class="form-row">
       <button class="btn warn block" onclick="askResetData()">清空全部数据</button>
     </div>
-    <div style="font-size:11.5px;color:var(--text-faint);text-align:center">备份文件包含你的全部记录，请自行妥善保管</div>`);
+    <div style="font-size:11.5px;color:var(--text-faint);text-align:center;line-height:1.8">备份文件包含你的全部记录，请自行妥善保管<br>${VER}</div>`);
   const fi = document.getElementById('backupFile');
   if (fi) fi.addEventListener('change', importBackup);
 }
