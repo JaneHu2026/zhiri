@@ -2455,22 +2455,40 @@ function weekStart(k) {
   return dateKey(addDays(d, -dow));
 }
 
-/* ---------- 渲染（简洁清单式） ---------- */
+/* ---------- 渲染（简洁清单式 + 一周日期栏） ---------- */
 function renderHabit() {
   const el = document.getElementById('tab-habit');
   const habits = data.habits || [];
   const today = todayKey();
+  const selDay = state.habitDay || today;
   const doneToday = habits.filter(h => habitDayDone(h, today)).length;
   const pct = habits.length ? Math.round(doneToday / habits.length * 100) : 0;
 
+  // 一周日期栏（上面周几单字，下面几号）
+  const wk = weekStart(today);
+  let wkHtml = '';
+  for (let i = 0; i < 7; i++) {
+    const k = dateKey(addDays(parseKey(wk), i));
+    const d = parseKey(k);
+    const doneN = habits.filter(h => habitDayDone(h, k)).length;
+    const isToday = k === today;
+    const isFuture = k > today;
+    const isSel = k === selDay;
+    wkHtml += `<button class="hbwk-day ${isToday ? 'today' : ''} ${isFuture ? 'future' : ''} ${isSel ? 'sel' : ''}" onclick="setHabitDay('${k}')">
+      <span class="hbwk-w">${WEEK_CN[i].slice(1)}</span>
+      <span class="hbwk-d">${d.getDate()}</span>
+      <span class="hbwk-n ${doneN ? 'on' : ''}">${doneN ? doneN : ''}</span>
+    </button>`;
+  }
+
   const listHtml = habits.length ? `<div class="hb-simple-list">${habits.map(h => {
-    const done = habitDayDone(h, today);
-    const val = habitDayVal(h, today);
+    const done = habitDayDone(h, selDay);
+    const val = habitDayVal(h, selDay);
     const t = h.targetType === 'once' ? 1 : (h.target || 1);
     const u = h.unit || '';
     const streak = habitStreak(h);
     const progressText = h.targetType === 'once'
-      ? (done ? '今日已完成' : '待打卡')
+      ? (done ? (selDay === today ? '今日已完成' : '已完成') : (selDay === today ? '待打卡' : '未完成'))
       : (h.targetType === 'weekly'
         ? `${Math.min(val, t)}/${t} 次`
         : `${Math.min(val, t)}/${t}${u}${done ? ' · 已达成' : ''}`);
@@ -2493,6 +2511,7 @@ function renderHabit() {
       <div class="th-main">微小坚持，也值得被看见</div>
       <button class="hero-add" onclick="openHabitAdd()" title="新增习惯">${SVG_PLUS}</button>
     </div>
+    <div class="hb-weekbar">${wkHtml}</div>
     <div class="hb-todayline">今天完成 <b>${doneToday}</b>/${habits.length}${habits.length ? (pct >= 70 ? ' · 保持就好' : ' · 今天重新开始也很好') : ''}</div>
     ${listHtml}`;
 }
