@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#F8F7F2">
 <meta name="description" content="知日 · 个人工作台（待办 / 记账 / 新闻 / 学习 / 专注）">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="知日">
 <title>知日 · 个人工作台</title>
 <style>
 /* ============ 设计系统 ============ */
@@ -2122,6 +2127,11 @@ function init() {
 
   // 第二阶段：IndexedDB 持久化接管（异步，完成后重渲染）
   upgradeStorage();
+
+  // 第四阶段：PWA — 注册 Service Worker（离线可用；需 HTTPS 或 localhost）
+  if ('serviceWorker' in navigator && !IS_DEMO) {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  }
 
   // 暴露最小测试接口（仅开发调试用；应用自身不记录任何金额日志）
   window.__zhiri = { state, data, saveData, renderAll: () => renderers[state.tab]() };
