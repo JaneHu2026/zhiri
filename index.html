@@ -494,8 +494,8 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hbs-txt{display:flex;flex-direction:column;gap:2px;min-width:0}
 .hbs-n{font-size:15.5px;font-weight:600;font-family:var(--font-serif);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .hbs-s{font-size:11.5px;color:var(--text-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.hb-circle{width:48px;height:48px;min-width:48px;border-radius:50%;border:1.5px solid var(--line);background:var(--card);display:flex;align-items:center;justify-content:center;color:transparent;transition:all .15s}
-.hb-circle svg{width:22px;height:22px}
+.hb-circle{width:38px;height:38px;min-width:38px;border-radius:50%;border:1.5px solid var(--line);background:var(--card);display:flex;align-items:center;justify-content:center;color:transparent;transition:all .15s}
+.hb-circle svg{width:18px;height:18px}
 .hb-circle.done{background:var(--green);border-color:var(--green);color:var(--on-green)}
 .hcal{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:12px;margin-bottom:12px}
 .hcal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
@@ -1852,6 +1852,18 @@ function delCat(id) {
   saveData(); openCatManage();
 }
 
+/* 清理摘要中的 HTML 注释/实体残留（央视视频文章等） */
+function cleanSummary(s) {
+  if (!s) return '（点击查看原文）';
+  return s
+    .replace(/\[!--.*?--\][a-zA-Z0-9]{4,20}/g, '')   // 注释 + 紧跟的视频ID
+    .replace(/\[!--.*?--\]/g, '')
+    .replace(/<!--.*?-->/g, '')
+    .replace(/&[a-zA-Z#0-9]{2,8};/g, ' ')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/^\s+|\s+$/g, '') || '（点击查看原文）';
+}
+
 /* ============================================================
  * 页签三：新闻
  * ============================================================ */
@@ -1877,7 +1889,7 @@ function renderNews() {
         <div class="ns-top"><span class="ns-theme ${n.group === 'gj' ? 'gj' : ''}">${esc(n.theme)}</span>
           <span style="font-size:11px;color:var(--text-faint)">${n.group === 'gn' ? '国内' : '国际'}</span></div>
         <div class="ns-title">${esc(n.title)}</div>
-        <div class="ns-sum">${esc(n.summary)}</div>
+        <div class="ns-sum">${cleanSummary(n.summary)}</div>
         <div class="ns-foot"><span>${esc(n.source)}</span><span>${esc(n.time)}</span><span class="ns-dedup">原文</span></div>
       </a>`).join('') : `<div class="empty">暂无内容</div>`}
     </div>`;
@@ -2080,7 +2092,8 @@ function finalizeFocus(manual) {
   state.focusRunning = null;
   saveRunning();
   if (!r) return;
-  let ms = focusActiveMs(r);
+  // 倒计时已完成（done）→ 按完整目标时长记录；正计时/提前结束 → 按实际时长
+  let ms = (r.mode === 'countdown' && r.done) ? (r.countdownMin || 0) * 60000 : focusActiveMs(r);
   if (ms < 1000) { showToast('计时太短，未记录'); renderFocus(); return; }
   const item = data.focusItems.find(x => x.id === r.itemId);
   const durMin = Math.round(ms / 60000 * 10) / 10;
@@ -2089,11 +2102,7 @@ function finalizeFocus(manual) {
     startedAt: r.startedAt, endedAt: new Date().toISOString(), durationMs: ms,
   });
   saveData(); renderFocus();
-  if (r.mode === 'countdown' && !manual) {
-    notifyFocusDone(item ? item.name : '', Math.max(1, Math.round(r.countdownMin)));
-  } else {
-    showToast(`已记录 ${fmtHours(ms)}${item ? ' · ' + item.name : ''}`);
-  }
+  showToast(`已记录 ${fmtHours(ms)}${item ? ' · ' + item.name : ''}`);
 }
 
 /* ---------- 通知 ---------- */
@@ -2108,7 +2117,7 @@ function notifyFocusDone(name, min) {
     try { new Notification('知日 · 专注结束', { body, tag: 'zhiri-focus', renotify: true }); } catch (_) {}
   }
   showToast(body);
-  if (navigator.vibrate) { try { navigator.vibrate([200, 100, 200]); } catch (_) {} }
+  if (navigator.vibrate) { try { navigator.vibrate([300, 150, 300, 150, 600]); } catch (_) {} }  // 明显震动提醒
   beep();
 }
 function beep() {
@@ -2141,16 +2150,21 @@ function renderFocus() {
 
     let timerHtml = '', ctlHtml = '';
     if (isRunning) {
-      const remain = focusRemainingMs(r);
-      const disp = r.mode === 'countdown' ? fmtClock(remain) : fmtClock(focusActiveMs(r));
-      const label = r.mode === 'countdown' ? `剩余 ${disp}` : `已专注 ${disp}`;
-      timerHtml = `<div class="fc-timer"><span class="pulse"></span><span class="fc-timer-text">${label}</span></div>`;
-      if (r.pausedAt) {
+      if (r.done) {
+        // 倒计时已到：震动提醒后等待手动结束
+        timerHtml = `<div class="fc-timer fc-done-timer"><span class="pulse"></span><span class="fc-timer-text">时间到！</span></div>`;
+        ctlHtml = `<div class="fc-ctl"><button class="btn stop" onclick="endFocus()">⏹ 结束并记录</button></div>`;
+      } else if (r.pausedAt) {
+        timerHtml = `<div class="fc-timer"><span class="pulse"></span><span class="fc-timer-text">已暂停 · ${fmtClock(focusRemainingMs(r))} 剩余</span></div>`;
         ctlHtml = `<div class="fc-ctl">
           <button class="btn resume" onclick="resumeFocus()">▶ 继续</button>
           <button class="btn stop" onclick="endFocus()">⏹ 结束并记录</button>
         </div>`;
       } else {
+        const remain = focusRemainingMs(r);
+        const disp = r.mode === 'countdown' ? fmtClock(remain) : fmtClock(focusActiveMs(r));
+        const label = r.mode === 'countdown' ? `剩余 ${disp}` : `已专注 ${disp}`;
+        timerHtml = `<div class="fc-timer"><span class="pulse"></span><span class="fc-timer-text">${label}</span></div>`;
         ctlHtml = `<div class="fc-ctl">
           <button class="btn ghost" onclick="pauseFocus()">⏸ 暂停</button>
           <button class="btn stop" onclick="endFocus()">⏹ 结束并记录</button>
@@ -2261,9 +2275,13 @@ function startFocusTick() {
   focusTick = setInterval(() => {
     const r = state.focusRunning;
     if (!r) return;
-    // 倒计时归零 → 结束并通知
-    if (r.mode === 'countdown' && !r.pausedAt && focusRemainingMs(r) <= 0) {
-      finalizeFocus(false);
+    // 倒计时归零 → 震动+通知提醒，等待手动点"结束并记录"
+    if (r.mode === 'countdown' && !r.pausedAt && !r.done && focusRemainingMs(r) <= 0) {
+      r.done = true;
+      saveRunning();
+      const item = data.focusItems.find(x => x.id === r.itemId);
+      notifyFocusDone(item ? item.name : '', Math.max(1, Math.round(r.countdownMin)));
+      renderFocus();
       return;
     }
     const el = document.getElementById('tab-focus');
@@ -2271,9 +2289,16 @@ function startFocusTick() {
       // 只更新文本 span，保留脉冲点（修复旧版 textContent 覆盖导致的心跳停止）
       const timerText = el.querySelector('.fc-timer-text');
       if (timerText) {
-        const remain = focusRemainingMs(r);
-        const disp = r.mode === 'countdown' ? fmtClock(remain) : fmtClock(focusActiveMs(r));
-        const label = r.mode === 'countdown' ? `剩余 ${disp}` : `已专注 ${disp}`;
+        let label;
+        if (r.done) {
+          label = '时间到！';
+        } else if (r.pausedAt) {
+          label = `已暂停 · ${fmtClock(focusRemainingMs(r))} 剩余`;
+        } else {
+          const remain = focusRemainingMs(r);
+          const disp = r.mode === 'countdown' ? fmtClock(remain) : fmtClock(focusActiveMs(r));
+          label = r.mode === 'countdown' ? `剩余 ${disp}` : `已专注 ${disp}`;
+        }
         if (timerText.textContent !== label) timerText.textContent = label;
       }
     }
@@ -2512,7 +2537,7 @@ function renderHabit() {
 
   el.innerHTML = `
     <div class="tab-hero">
-      <div class="th-sub">习惯养成 · ${fmtYMD(today)}</div>
+      <div class="th-sub">习惯养成</div>
       <div class="th-main">微小坚持，也值得被看见</div>
       <button class="hero-add" onclick="openHabitAdd()" title="新增习惯">${SVG_PLUS}</button>
     </div>
@@ -2909,7 +2934,6 @@ function healthPredHtml() {
       <span class="lg"><i style="background:var(--bean-soft);border:1px dashed var(--bean)"></i>预测经期</span>
       <span class="lg"><i style="background:var(--mist-soft);border:1px solid var(--mist)"></i>易孕期</span>
       <span class="lg"><i style="background:var(--lavender-soft);border:1px solid var(--lavender)"></i>排卵预测</span>
-      <span class="lg"><i style="background:transparent;border:none"><span class="hcal-dot" style="position:static;display:inline-block"></span>已记录信息</span>
     </div>
   </div>`;
 
