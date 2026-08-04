@@ -1,0 +1,279 @@
+{
+ "fetchedAt": "01:08",
+ "fetchedDate": "2026-08-04",
+ "source": "zhiri-server",
+ "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Another DeepSeek Moment Has Arrived",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-03T09:47:34+00:00",
+   "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+   "points": [
+    "❤️ 在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-02T15:01:10+00:00",
+   "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+   "points": [
+    "❤️ 在这里查看 Lambda 并注册他们的 GPU 云：📝 论文可以在这里找到：🙏 我们要感谢我们的 ge"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Kimi K3 Just Broke The Economics Of AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-29T12:37:50+00:00",
+   "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+   "points": [
+    "❤️ 在这里查看 Lambda 并注册他们的 GPU Cloud： 📝 该论文可在此处获取：尝试 Kimi K3（视可用情况而定）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The 64 sugar cubes puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-24T15:05:39+00:00",
+   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+   "points": [
+    "查看所有每月谜题："
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "OpenAI hacked HuggingFace",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-22T16:28:16+00:00",
+   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+   "points": [
+    "HuggingFace 对事件的报道： OpenAI 对事件的报道："
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "GPT 6 potentially LEAKS!!!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-21T22:00:07+00:00",
+   "url": "https://www.youtube.com/watch?v=u5esm1--kUo",
+   "points": [
+    "上周，Hugging Face 在检测并遏制后披露了一种新型安全事件⁠(opens in a new window)"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "You Can Just Download More Tokens/Sec",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-20T15:05:01+00:00",
+   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
+   "points": [
+    "谈论 DeepSeek DSpark / DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等等。写下w"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-17T21:55:53+00:00",
+   "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
+   "points": [
+    "🔗 链接 🔗 我挑战 Kimi K3 vs Fable 5 vs Sol 5.6 来制作《奥德赛》.... 只需一个提示！结果是stu"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "中国青年报",
+   "title": "动手能力超强！13岁男生用废纸板和胶水，“手搓”各种武器装备模型。",
+   "duration": "0:38",
+   "heat": 7948559,
+   "updated": "2026-08-04T01:08:13.703861",
+   "url": "https://www.bilibili.com/video/BV1FcGP6GEWV",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "星辉绿野",
+   "title": "假如你和十万人一起相亲【AI全民制作人】",
+   "duration": "3:13",
+   "heat": 1150900,
+   "updated": "2026-08-04T01:08:13.703875",
+   "url": "https://www.bilibili.com/video/BV1CtGV6yEUR",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "嘞是唐孃孃",
+   "title": "《全世界最会用AI的人》",
+   "duration": "2:09",
+   "heat": 2435127,
+   "updated": "2026-08-04T01:08:13.703878",
+   "url": "https://www.bilibili.com/video/BV12uGN6RETc",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "趣共享资源",
+   "title": "每天认识一个强大的网站【第1期】 一个全面的设备维修教程网站，甚至还有修飞机的教程！",
+   "duration": "0:37",
+   "heat": 2924045,
+   "updated": "2026-08-04T01:08:13.703879",
+   "url": "https://www.bilibili.com/video/BV1x8X6YFEF8",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "差评硬件部",
+   "title": "游戏开发者大会上，我看见中国游戏厂商在疯狂秀操作【X.PIN】",
+   "duration": "11:06",
+   "heat": 174854,
+   "updated": "2026-08-04T01:08:13.703881",
+   "url": "https://www.bilibili.com/video/BV1GtZpYKEPo",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "符文战场",
+   "title": "【开发者日志】全新卡面来袭！产品细节首次曝光！",
+   "duration": "5:05",
+   "heat": 665144,
+   "updated": "2026-08-04T01:08:13.703883",
+   "url": "https://www.bilibili.com/video/BV1scZpY9EHr",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "鱼C-小甲鱼",
+   "title": "为什么代码总有Bug❓",
+   "duration": "0:19",
+   "heat": 648025,
+   "updated": "2026-08-04T01:08:13.703884",
+   "url": "https://www.bilibili.com/video/BV1XhZBYEEp3",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花叔v",
+   "title": "挑战用手机写代码！我开发了第二个「小猫补光灯」｜登上了AppStore排行榜",
+   "duration": "8:51",
+   "heat": 171434,
+   "updated": "2026-08-04T01:08:13.703886",
+   "url": "https://www.bilibili.com/video/BV1S8ZCYsEB9",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  }
+ ]
+}
