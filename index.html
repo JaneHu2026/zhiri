@@ -834,13 +834,23 @@ const IS_DEMO = new URLSearchParams(location.search).has('demo');
 const STORAGE_KEY = IS_DEMO ? 'zhiri_demo_v1' : 'zhiri_v1';
 const RUNNING_KEY = IS_DEMO ? 'zhiri_running_demo_v1' : 'zhiri_running_v1';
 
+/* 旧数据迁移：补齐新字段默认值（升级前的老数据没有 habits/health） */
+function ensureDefaults(d) {
+  if (!Array.isArray(d.habits)) d.habits = [];
+  if (!d.health || typeof d.health !== 'object') {
+    d.health = { cycleLen: 28, periodLen: 5, lastPeriodStart: '', periods: [] };
+  }
+  if (!Array.isArray(d.health.periods)) d.health.periods = [];
+  return d;
+}
+
 /* 同步初始读取（localStorage 即时副本；IndexedDB 由 upgradeStorage 异步接管） */
 function loadData() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (raw) {
       const d = JSON.parse(raw);
-      if (d && d.todos && d.transactions) return d; // 直接返回，不做任何清理
+      if (d && d.todos && d.transactions) return ensureDefaults(d); // 直接返回，不做任何清理
     }
   } catch (_) { /* 损坏则重建 */ }
   const fresh = buildMock();
@@ -912,10 +922,10 @@ async function upgradeStorage() {
   try {
     const idbData = await idbGet(IDB_KEY);
     if (idbData && idbData.todos && idbData.transactions) {
-      data = idbData; // IndexedDB 为主
+      data = ensureDefaults(idbData); // IndexedDB 为主（旧数据自动补齐新字段）
       try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch (_) {}
     } else {
-      await idbSet(IDB_KEY, data); // 首次：把当前数据迁入 IndexedDB
+      await idbSet(IDB_KEY, ensureDefaults(data)); // 首次：把当前数据迁入 IndexedDB
     }
   } catch (_) { /* IndexedDB 不可用时继续用 localStorage */ }
   if (renderers[state.tab]) renderers[state.tab]();
@@ -2328,6 +2338,7 @@ function refreshHabitColorPick() {
 function saveHabitItem() {
   const name = document.getElementById('hbName').value.trim();
   if (!name) { showToast('请输入习惯名称'); return; }
+  data.habits = data.habits || [];   // 旧数据迁移兜底
   if (state._editHabitId) {
     const h = data.habits.find(x => x.id === state._editHabitId);
     if (h) { h.name = name; h.color = state._habitColor; }
@@ -2337,10 +2348,12 @@ function saveHabitItem() {
   saveData(); closeSheet(); renderHabit();
 }
 function delHabitItem() {
+  data.habits = data.habits || [];
   data.habits = data.habits.filter(x => x.id !== state._editHabitId);
   saveData(); closeSheet(); renderHabit();
 }
 function toggleHabitDay(id) {
+  data.habits = data.habits || [];
   const h = data.habits.find(x => x.id === id);
   if (!h) return;
   h.records = h.records || {};
