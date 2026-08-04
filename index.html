@@ -767,10 +767,11 @@ function buildMock() {
 
 const IS_DEMO = new URLSearchParams(location.search).has('demo');
 
-/* ---------- 数据层：正式版与演示版存储完全隔离，绝不自动删除用户数据 ---------- */
+/* ---------- 存储键：正式版与演示版完全隔离 ---------- */
 const STORAGE_KEY = IS_DEMO ? 'zhiri_demo_v1' : 'zhiri_v1';
 const RUNNING_KEY = IS_DEMO ? 'zhiri_running_demo_v1' : 'zhiri_running_v1';
 
+/* 同步初始读取（localStorage 即时副本；IndexedDB 由 upgradeStorage 异步接管） */
 function loadData() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
@@ -787,12 +788,72 @@ function loadData() {
   } else {
     fresh.settings = fresh.settings || {}; fresh.settings.bannerDismissed = false;
   }
-  saveData(fresh);
+  // 只写 localStorage 副本，不写 IndexedDB —— 避免覆盖 IDB 中可能存在的更完整数据
+  // （IndexedDB 由 upgradeStorage 统一接管：有则用之，无则迁入）
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(fresh)); } catch (_) {}
   return fresh;
 }
 
+/* ---------- IndexedDB 持久层（第二阶段：主存储，localStorage 双写副本） ---------- */
+const IDB_NAME = 'zhiri_db';
+const IDB_STORE = 'kv';
+let _idb = null;
+function idbOpen() {
+  if (_idb) return Promise.resolve(_idb);
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open(IDB_NAME, 1);
+    req.onupgradeneeded = () => {
+      const db = req.result;
+      if (!db.objectStoreNames.contains(IDB_STORE)) db.createObjectStore(IDB_STORE);
+    };
+    req.onsuccess = () => { _idb = req.result; resolve(_idb); };
+    req.onerror = () => reject(req.error);
+  });
+}
+function idbSet(key, val) {
+  return idbOpen().then(db => new Promise((resolve, reject) => {
+    const tx = db.transaction(IDB_STORE, 'readwrite');
+    tx.objectStore(IDB_STORE).put(val, key);
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+  }));
+}
+function idbGet(key) {
+  return idbOpen().then(db => new Promise((resolve, reject) => {
+    const tx = db.transaction(IDB_STORE, 'readonly');
+    const req = tx.objectStore(IDB_STORE).get(key);
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  }));
+}
+function idbDel(key) {
+  return idbOpen().then(db => new Promise((resolve, reject) => {
+    const tx = db.transaction(IDB_STORE, 'readwrite');
+    tx.objectStore(IDB_STORE).delete(key);
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+  }));
+}
+
+/* ---------- 数据层（第二阶段：IndexedDB 主存储 + localStorage 双写副本） ---------- */
 function saveData(d) {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(d || data)); } catch (_) {}
+  const obj = d || data;
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(obj)); } catch (_) {}
+  try { idbSet('main', obj).catch(() => {}); } catch (_) {}
+}
+
+/* 启动时异步升级：IndexedDB 优先，localStorage 迁移/副本 */
+async function upgradeStorage() {
+  try {
+    const idbData = await idbGet('main');
+    if (idbData && idbData.todos && idbData.transactions) {
+      data = idbData; // IndexedDB 为主
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch (_) {}
+    } else {
+      await idbSet('main', data); // 首次：把当前数据迁入 IndexedDB
+    }
+  } catch (_) { /* IndexedDB 不可用时继续用 localStorage */ }
+  if (renderers[state.tab]) renderers[state.tab]();
 }
 
 let data = loadData();
@@ -1199,6 +1260,7 @@ function askResetData() {
 }
 function confirmResetData() {
   try { localStorage.removeItem(STORAGE_KEY); } catch (_) {}
+  try { idbDel('main').catch(() => {}); } catch (_) {}
   closeSheet();
   location.reload();
 }
@@ -2057,6 +2119,9 @@ function init() {
 
   // 每日内容：拉取云端最新新闻/学习（失败自动保留内置快照）
   loadExternalFeed();
+
+  // 第二阶段：IndexedDB 持久化接管（异步，完成后重渲染）
+  upgradeStorage();
 
   // 暴露最小测试接口（仅开发调试用；应用自身不记录任何金额日志）
   window.__zhiri = { state, data, saveData, renderAll: () => renderers[state.tab]() };
