@@ -34,6 +34,7 @@
   --mist-soft:#E4EDF2;
   --danger:#B8554A;        /* 支出/删除（砖红，低饱和） */
   --danger-soft:#F6E7E4;
+  --bean:#C07A72; --bean-deep:#A85E56; --bean-soft:#F3E4E1; --bean-line:#E8D2CD;  /* 健康页豆沙红系 */
   --income:#4E7A63;        /* 收入绿 */
   --income-soft:#E6EDE9;
   --shadow:0 2px 12px rgba(52,79,66,.07);
@@ -379,7 +380,102 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .fc-ctl .btn{flex:1}
 .fc-ctl .btn.stop{background:var(--danger);color:#fff}
 .fc-ctl .btn.resume{background:var(--green)}
-/* ============ 习惯打卡 ============ */
+/* ============ 习惯打卡（完整版） ============ */
+.privacy-note{font-size:11.5px;color:var(--text-faint);background:var(--line-soft);border-radius:10px;padding:6px 12px;margin-bottom:12px;text-align:center}
+.tab-hero{position:relative}
+.hero-add{position:absolute;right:2px;top:8px;width:44px;height:44px;border-radius:50%;background:var(--green);color:var(--on-green);display:flex;align-items:center;justify-content:center;box-shadow:var(--shadow)}
+.hero-add svg{width:22px;height:22px}
+.hb-master{background:var(--green-deep);border-radius:var(--radius);padding:18px;color:var(--on-green);display:flex;align-items:center;gap:16px;margin-bottom:12px;box-shadow:var(--shadow)}
+.hbm-num{font-family:var(--font-serif);font-size:40px;font-weight:600;line-height:1}
+.hbm-num span{font-size:15px;font-weight:400;margin-left:3px}
+.hbm-t{font-size:13px;opacity:.85}
+.hbm-s{font-size:11.5px;opacity:.7;margin-top:4px}
+.hb-weekbar{display:flex;gap:6px;margin-bottom:12px}
+.hbwk-day{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;padding:8px 0 6px;border-radius:14px;background:var(--card);border:1px solid var(--line);min-height:66px}
+.hbwk-day.today{background:var(--green-deep);border-color:var(--green-deep)}
+.hbwk-day.today .hbwk-w,.hbwk-day.today .hbwk-d{color:var(--on-green)}
+.hbwk-day.future{opacity:.45}
+.hbwk-day.sel{box-shadow:0 0 0 1.5px var(--green)}
+.hbwk-w{font-size:11px;color:var(--text-dim)}
+.hbwk-d{font-size:15px;font-weight:600}
+.hbwk-n{font-size:10px;color:var(--green);min-height:12px}
+.hbwk-n.on{font-weight:700}
+.hb-cat{font-size:10.5px;color:var(--text-faint);background:var(--line-soft);padding:2px 8px;border-radius:7px}
+.hb-goal{font-size:12px;color:var(--text-dim);margin-bottom:8px}
+.hb-prog{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.hb-prog-t{font-size:12.5px;font-weight:600;color:var(--text);min-width:64px}
+.hb-prog-bar{flex:1;height:7px;border-radius:4px;background:var(--line-soft);overflow:hidden}
+.hb-prog-fill{display:block;height:100%;background:var(--green);border-radius:4px;transition:width .3s}
+.hb-section{font-family:var(--font-serif);font-size:16px;font-weight:600;color:var(--green-deep);margin:18px 0 10px;display:flex;align-items:center;justify-content:space-between}
+.hb-seg{display:flex;background:var(--line-soft);border-radius:10px;padding:2px}
+.hb-seg button{min-width:44px;height:32px;border-radius:8px;font-size:12px;color:var(--text-dim);padding:0 10px}
+.hb-seg button.on{background:var(--card);color:var(--green-deep);font-weight:600;box-shadow:var(--shadow)}
+.hb-month{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px}
+.hbm2-row{display:flex;gap:6px;margin-bottom:12px}
+.hbm2-item{flex:1;text-align:center;font-size:11px;color:var(--text-dim);line-height:1.5}
+.hbm2-item b{display:block;font-size:17px;font-family:var(--font-serif);color:var(--green-deep);font-weight:600}
+.hf-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;margin-bottom:8px}
+.hf-cell{aspect-ratio:1;border-radius:4px;background:var(--line-soft)}
+.hf-cell.l1{background:color-mix(in srgb,var(--green) 30%,var(--green-soft))}
+.hf-cell.l2{background:color-mix(in srgb,var(--green) 60%,var(--green-soft))}
+.hf-cell.l3{background:var(--green)}
+.hf-cell.future{opacity:.25}
+.hf-legend{display:flex;align-items:center;justify-content:flex-end;gap:5px;font-size:10px;color:var(--text-faint)}
+.hf-legend .hf-cell{width:11px;height:11px;border-radius:3px}
+.hb-stats{display:flex;flex-direction:column;gap:8px}
+.hb-stat-row{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:12px 14px}
+.hbs-name{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:600;margin-bottom:7px}
+.hbs-rate{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.hbs-rate b{font-size:14px;min-width:44px}
+.hbs-bar{flex:1;height:6px;border-radius:3px;background:var(--line-soft);overflow:hidden}
+.hbs-bar span{display:block;height:100%;background:var(--green);border-radius:3px}
+.hbs-meta{font-size:11.5px;color:var(--text-dim)}
+.hbs-tone{font-size:11.5px;color:var(--text-faint);margin-top:4px}
+.hb-adv{margin:4px 0 10px;border:1px solid var(--line);border-radius:12px;padding:0 12px;background:var(--line-soft)}
+.hb-adv summary{font-size:13px;color:var(--text-dim);padding:10px 0;cursor:pointer;list-style:none}
+.hb-adv summary::before{content:'▸ ';color:var(--green)}
+.hb-adv[open] summary::before{content:'▾ '}
+/* ============ 健康 · 经期跟踪（完整版） ============ */
+.hp-main{background:var(--bean-deep);border-radius:var(--radius);padding:20px 18px;color:#fff;margin-bottom:12px;box-shadow:var(--shadow)}
+.hpm-days{font-family:var(--font-serif);font-size:44px;font-weight:600;line-height:1}
+.hpm-days span{font-size:15px;font-weight:400;margin-left:6px}
+.hpm-sub{font-size:13px;opacity:.9;margin-top:6px}
+.hpm-line{height:6px;border-radius:3px;background:rgba(255,255,255,.25);overflow:hidden;margin:12px 0 8px}
+.hpm-line span{display:block;height:100%;background:rgba(255,255,255,.85);border-radius:3px}
+.hpm-meta{font-size:12px;opacity:.85}
+.hp-cards{display:flex;gap:10px;margin-bottom:12px}
+.hp-card{flex:1;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px}
+.hp-card.fertile{border-color:var(--mist)}
+.hp-card.ov{border-color:var(--lavender)}
+.hpc-label{font-size:12px;color:var(--text-dim);margin-bottom:5px}
+.hpc-val{font-size:15.5px;font-weight:600;font-family:var(--font-serif);color:var(--green-deep)}
+.hp-card.fertile .hpc-val{color:var(--mist-blue-deep)}
+.hp-card.ov .hpc-val{color:var(--lavender)}
+.hpc-note{font-size:11px;color:var(--text-faint);margin-top:5px}
+.hcal-cell.recorded{background:var(--bean);color:#fff;font-weight:600}
+.hcal-cell.pred{background:var(--bean-soft);color:var(--bean-deep);font-weight:600;border:1px dashed var(--bean)}
+.hcal-cell.fertile{background:var(--mist-soft);color:var(--mist-blue-deep)}
+.hcal-cell.ov{background:var(--lavender-soft);color:var(--lavender);font-weight:700;box-shadow:inset 0 0 0 1.5px var(--lavender)}
+.hcal-cell.today{box-shadow:inset 0 0 0 1.5px var(--green-deep)}
+.hcal-dot{width:4px;height:4px;border-radius:50%;background:var(--apricot);position:absolute;bottom:3px;left:50%;transform:translateX(-50%)}
+.hcal-cell{position:relative}
+.hcal-legend{display:flex;gap:12px;font-size:10.5px;color:var(--text-dim);margin-top:10px;flex-wrap:wrap}
+.hcal-legend .lg{display:flex;align-items:center;gap:5px}
+.hcal-legend .lg i{width:11px;height:11px;border-radius:3.5px;display:inline-block}
+.hdr{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;margin-bottom:12px}
+.hdr-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;color:var(--green-deep);margin-bottom:10px}
+.hdr-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:10px}
+.sym-btn{min-height:44px;border-radius:12px;border:1px solid var(--line);background:var(--line-soft);font-size:13px;color:var(--text);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:6px 4px}
+.sym-btn.on{background:var(--bean-soft);border-color:var(--bean);color:var(--bean-deep);font-weight:600}
+.sym-lv{font-size:10px;color:var(--bean);font-style:normal}
+.hplist{display:flex;flex-direction:column;gap:6px}
+.hplist-item{display:flex;align-items:center;justify-content:space-between;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 6px 8px 14px;font-size:13px}
+.ht-top{display:flex;gap:6px;margin-bottom:6px}
+.ht-item{flex:1;text-align:center;font-size:10.5px;color:var(--text-dim);line-height:1.5}
+.ht-item b{display:block;font-size:15px;font-family:var(--font-serif);color:var(--bean-deep);font-weight:600}
+.hp-tips{margin:6px 0 18px;display:flex;flex-direction:column;gap:8px}
+.hpt{font-size:12px;color:var(--text-dim);background:var(--bean-soft);border-radius:12px;padding:10px 12px;line-height:1.7}
+/* ============ 习惯卡片与月历基础（复用） ============ */
 .habit-list{display:flex;flex-direction:column;gap:10px}
 .habit-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 15px}
 .hb-head{display:flex;align-items:center;gap:8px;margin-bottom:10px}
@@ -387,20 +483,9 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hb-name{font-size:15.5px;font-weight:600;font-family:var(--font-serif)}
 .hb-streak{font-size:11px;color:var(--text-dim);background:var(--line-soft);padding:2px 9px;border-radius:8px;margin-left:4px}
 .hb-edit{margin-left:auto;width:40px;height:44px;min-width:40px;display:flex;align-items:center;justify-content:center;color:var(--text-faint);border:none;background:transparent}
-.hb-week{display:flex;gap:4px;margin-bottom:12px}
-.hb-day{flex:1;display:flex;flex-direction:column;align-items:center;gap:4px}
-.hb-day .hd-label{font-size:10px;color:var(--text-faint)}
-.hb-day .hd-dot{width:22px;height:22px;border-radius:50%;border:1.5px solid var(--line);display:flex;align-items:center;justify-content:center;font-size:10px;color:transparent}
-.hb-day.on .hd-dot{background:var(--green);border-color:var(--green)}
-.hb-day.today .hd-dot{border-color:var(--green-deep);box-shadow:0 0 0 2px var(--green-soft)}
 .hb-check{width:100%;min-height:44px;border-radius:12px;border:1.5px dashed var(--line);color:var(--text-dim);font-size:13.5px;font-weight:600;display:flex;align-items:center;justify-content:center;gap:6px}
 .hb-check.done{background:var(--green);border-color:var(--green);color:var(--on-green);border-style:solid}
-/* ============ 健康 · 经期跟踪 ============ */
-.health-status{background:var(--green-deep);border-radius:var(--radius);padding:16px 18px;margin-bottom:12px;color:var(--on-green);display:flex;align-items:center;justify-content:space-between;gap:10px}
-.hs-main .hs-state{font-size:19px;font-weight:700;font-family:var(--font-serif);margin-bottom:2px}
-.hs-main .hs-sub{font-size:12px;opacity:.8}
-.hs-next{text-align:right;font-size:12px;opacity:.85;line-height:1.6}
-.hs-next b{display:block;font-size:14px;font-weight:700}
+.hb-check:disabled{opacity:.4}
 .hcal{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:12px;margin-bottom:12px}
 .hcal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
 .hcal-head .hcal-nav{display:flex;align-items:center;gap:4px}
@@ -410,14 +495,6 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hcal-wd{text-align:center;font-size:10.5px;color:var(--text-faint);padding:4px 0}
 .hcal-cell{aspect-ratio:1;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:13px;color:var(--text);position:relative}
 .hcal-cell.other{color:var(--text-faint);opacity:.5}
-.hcal-cell.today{box-shadow:inset 0 0 0 1.5px var(--green-deep)}
-.hcal-cell.period{background:var(--green);color:var(--on-green);font-weight:600}
-.hcal-cell.fertile{background:var(--apricot-soft);color:color-mix(in srgb,var(--apricot) 75%,var(--text))}
-.hcal-cell.ovulation{background:var(--lavender-soft);color:var(--lavender);font-weight:700}
-.hcal-legend{display:flex;gap:14px;font-size:11px;color:var(--text-dim);margin-top:10px;flex-wrap:wrap}
-.hcal-legend .lg{display:flex;align-items:center;gap:5px}
-.hcal-legend .lg i{width:11px;height:11px;border-radius:3.5px;display:inline-block}
-.health-ops{display:flex;gap:8px;margin-bottom:12px}
 /* ============ 底部弹层/表单 ============ */
 .sheet-mask{position:fixed;inset:0;background:rgba(30,34,31,.45);z-index:50;opacity:0;pointer-events:none;transition:opacity .2s}
 .sheet-mask.show{opacity:1;pointer-events:auto}
@@ -492,12 +569,12 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 
   <nav class="bottom-nav">
     <button class="nav-item on" data-tab="todo"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="3"/><path d="M8 11.5l2.5 2.5L16 8.5"/></svg></span><span>待办</span><span class="ni-dot"></span></button>
+    <button class="nav-item" data-tab="habit"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2.5L4.5 13.5H11l-1 8 8.5-11H12z"/></svg></span><span>习惯</span><span class="ni-dot"></span></button>
     <button class="nav-item" data-tab="acct"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v9M15 9.8c0-1.6-1.3-2.8-3-2.8s-3 1.2-3 2.8 1.3 2.8 3 2.8 3 1.2 3 2.8-1.3 2.8-3 2.8-3-1.2-3-2.8"/></svg></span><span>记账</span><span class="ni-dot"></span></button>
     <button class="nav-item" data-tab="news"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2.5"/><path d="M7 9h10M7 13h10M7 17h6"/></svg></span><span>新闻</span><span class="ni-dot"></span></button>
     <button class="nav-item" data-tab="study"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 016.5 17H20V4H6.5A2.5 2.5 0 004 6.5v13z"/><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/></svg></span><span>学习</span><span class="ni-dot"></span></button>
-    <button class="nav-item" data-tab="focus"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></svg></span><span>专注</span><span class="ni-dot"></span></button>
-    <button class="nav-item" data-tab="habit"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2.5L4.5 13.5H11l-1 8 8.5-11H12z"/></svg></span><span>打卡</span><span class="ni-dot"></span></button>
     <button class="nav-item" data-tab="health"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5S3.5 15.5 3.5 9.6A4.6 4.6 0 0112 7a4.6 4.6 0 018.5 2.6c0 5.9-8.5 10.9-8.5 10.9z"/></svg></span><span>健康</span><span class="ni-dot"></span></button>
+    <button class="nav-item" data-tab="focus"><span class="ni-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/></svg></span><span>专注</span><span class="ni-dot"></span></button>
   </nav>
 </div>
 
@@ -808,19 +885,23 @@ function buildMock() {
       { id: 'fi_3', name: '健身', goalMin: 45, color: 'apricot', createdAt: '2026-07-01' },
     ],
     habits: [
-      { id: 'hb_d1', name: '喝水 8 杯', color: 'green', createdAt: '2026-07-10', records: {
-        [d(0)]: true, [d(1)]: true, [d(2)]: true, [d(3)]: true, [d(4)]: true, [d(5)]: false, [d(6)]: true,
-      } },
-      { id: 'hb_d2', name: '阅读 30 分钟', color: 'mist', createdAt: '2026-07-10', records: {
-        [d(0)]: true, [d(1)]: true, [d(2)]: false, [d(3)]: true, [d(4)]: true, [d(5)]: true, [d(6)]: true,
-      } },
-      { id: 'hb_d3', name: '早睡 23:00 前', color: 'lavender', createdAt: '2026-07-10', records: {
-        [d(0)]: false, [d(1)]: true, [d(2)]: true, [d(3)]: true, [d(4)]: false, [d(5)]: true, [d(6)]: true,
-      } },
+      { id: 'hb_d1', name: '喝够八杯水', cat: 'health', color: 'mist', targetType: 'count', target: 8, unit: '杯', repeatDays: [1,2,3,4,5,6,7], startDate: '2026-07-20', remindTime: '09:00', allowCatchup: true, createdAt: '2026-07-20', records: { [d(0)]: 6, [d(1)]: 8, [d(2)]: 5, [d(3)]: 8, [d(4)]: 7, [d(5)]: 8, [d(6)]: 8 } },
+      { id: 'hb_d2', name: '阅读半小时', cat: 'growth', color: 'green', targetType: 'duration', target: 30, unit: '分钟', repeatDays: [1,2,3,4,5,6,7], startDate: '2026-07-20', remindTime: '21:00', allowCatchup: true, createdAt: '2026-07-20', records: { [d(0)]: 30, [d(1)]: 30, [d(2)]: 12, [d(3)]: 30, [d(4)]: 25, [d(5)]: 30, [d(6)]: 30 } },
+      { id: 'hb_d3', name: '晚间拉伸', cat: 'health', color: 'apricot', targetType: 'duration', target: 15, unit: '分钟', repeatDays: [1,2,3,4,5,6,7], startDate: '2026-07-20', remindTime: '22:00', allowCatchup: true, createdAt: '2026-07-20', records: { [d(0)]: 0, [d(1)]: 15, [d(2)]: 15, [d(3)]: 0, [d(4)]: 15, [d(5)]: 10, [d(6)]: 15 } },
+      { id: 'hb_d4', name: '23:00前入睡', cat: 'health', color: 'lavender', targetType: 'once', target: 1, unit: '', repeatDays: [1,2,3,4,5,6,7], startDate: '2026-07-20', remindTime: '22:40', allowCatchup: false, createdAt: '2026-07-20', records: { [d(0)]: true, [d(1)]: true, [d(2)]: true, [d(3)]: true, [d(4)]: false, [d(5)]: true, [d(6)]: true } },
+      { id: 'hb_d5', name: '背 20 个单词', cat: 'growth', color: 'bean', targetType: 'qty', target: 20, unit: '个', repeatDays: [1,2,3,4,5,6,7], startDate: '2026-07-20', remindTime: '08:00', allowCatchup: true, createdAt: '2026-07-20', records: { [d(0)]: 12, [d(1)]: 20, [d(2)]: 20, [d(3)]: 18, [d(4)]: 20, [d(5)]: 20, [d(6)]: 16 } },
+      { id: 'hb_d6', name: '不喝含糖饮料', cat: 'life', color: 'green', targetType: 'once', target: 1, unit: '', repeatDays: [1,2,3,4,5,6,7], startDate: '2026-07-20', remindTime: '', allowCatchup: true, createdAt: '2026-07-20', records: { [d(0)]: false, [d(1)]: true, [d(2)]: true, [d(3)]: true, [d(4)]: true, [d(5)]: true, [d(6)]: true } },
     ],
     health: {
       cycleLen: 28, periodLen: 5, lastPeriodStart: d(12),
-      periods: [{ start: d(12), end: d(8) }],
+      firstPeriodStart: d(96),
+      periods: [
+        { start: d(96), end: d(92) },
+        { start: d(67), end: d(63) },
+        { start: d(38), end: d(34) },
+        { start: d(12), end: d(8) },
+      ],
+      symptoms: { [d(0)]: { flow: 'medium', pain: 'mild', fatigue: true } },
     },
     focusSessions: [
       s('fi_1', T,     '09:10', 75),
@@ -856,13 +937,30 @@ window.addEventListener('error', function (e) {
 const STORAGE_KEY = IS_DEMO ? 'zhiri_demo_v1' : 'zhiri_v1';
 const RUNNING_KEY = IS_DEMO ? 'zhiri_running_demo_v1' : 'zhiri_running_v1';
 
-/* 旧数据迁移：补齐新字段默认值（升级前的老数据没有 habits/health） */
+/* 旧数据迁移：补齐新字段默认值（升级前的老数据没有 habits/health 新字段） */
 function ensureDefaults(d) {
   if (!Array.isArray(d.habits)) d.habits = [];
+  d.habits.forEach(h => {
+    h.records = h.records || {};
+    if (!h.targetType) {
+      // 旧版习惯（名称+颜色+records）→ 迁移为新模型
+      h.targetType = 'once'; h.target = 1; h.unit = '';
+      h.cat = h.cat || 'life';
+      h.repeatDays = [1, 2, 3, 4, 5, 6, 7];
+      h.startDate = (h.createdAt || '').slice(0, 10) || todayKey();
+      h.remindTime = ''; h.allowCatchup = true;
+    } else {
+      h.cat = h.cat || 'life';
+      h.repeatDays = h.repeatDays && h.repeatDays.length ? h.repeatDays : [1, 2, 3, 4, 5, 6, 7];
+      h.allowCatchup = h.allowCatchup !== false;
+      h.unit = h.unit || '';
+    }
+  });
   if (!d.health || typeof d.health !== 'object') {
     d.health = { cycleLen: 28, periodLen: 5, lastPeriodStart: '', periods: [] };
   }
   if (!Array.isArray(d.health.periods)) d.health.periods = [];
+  if (!d.health.symptoms || typeof d.health.symptoms !== 'object') d.health.symptoms = {};
   return d;
 }
 
@@ -2244,128 +2342,410 @@ function acctCatBlocks() {
 init();
 
 /* ============================================================
- * 页签六：习惯打卡
+ * 页签二：习惯打卡（完整版）
+ * 目标类型：once 每日一次 / count 次数 / duration 时长 / qty 数量 / weekly 每周
  * ============================================================ */
-const HABIT_COLORS = ['green', 'mist', 'lavender', 'apricot'];
-const HABIT_COLOR_VAR = { green: 'var(--green)', mist: 'var(--mist)', lavender: 'var(--lavender)', apricot: 'var(--apricot)' };
+const HABIT_CATS = [
+  { id: 'health', name: '健康' },
+  { id: 'growth', name: '成长' },
+  { id: 'life', name: '生活' },
+];
+const HABIT_COLORS = ['green', 'mist', 'lavender', 'apricot', 'bean'];
+const HABIT_COLOR_VAR = { green: 'var(--green)', mist: 'var(--mist)', lavender: 'var(--lavender)', apricot: 'var(--apricot)', bean: 'var(--bean)' };
+const HABIT_TYPES = [
+  { id: 'once', name: '每日完成一次' },
+  { id: 'count', name: '目标次数（如喝 8 杯水）' },
+  { id: 'duration', name: '目标时长（如阅读 30 分钟）' },
+  { id: 'qty', name: '数量目标（如背 20 个单词）' },
+  { id: 'weekly', name: '每周目标（如每周运动 3 次）' },
+];
+const WEEK_CN = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
 
+/* 习惯当天完成值（number） */
+function habitDayVal(h, k) {
+  const v = (h.records || {})[k];
+  return typeof v === 'number' ? v : (v ? 1 : 0);
+}
+/* 当天是否完成 */
+function habitDayDone(h, k) {
+  if (h.targetType === 'weekly') {
+    // 本周完成天数
+    const wk = weekStart(k);
+    let n = 0;
+    for (let i = 0; i < 7; i++) {
+      const d = dateKey(addDays(parseKey(wk), i));
+      if ((h.records || {})[d]) n++;
+    }
+    return n >= (h.target || 1);
+  }
+  return habitDayVal(h, k) >= (h.targetType === 'once' ? 1 : (h.target || 1));
+}
+/* 当天进度 0~1 */
+function habitDayRatio(h, k) {
+  const t = h.targetType === 'once' ? 1 : (h.target || 1);
+  if (h.targetType === 'weekly') {
+    const wk = weekStart(k);
+    let n = 0;
+    for (let i = 0; i < 7; i++) {
+      if ((h.records || {})[dateKey(addDays(parseKey(wk), i))]) n++;
+    }
+    return Math.min(1, n / t);
+  }
+  return Math.min(1, habitDayVal(h, k) / t);
+}
+/* 目标文案 */
+function habitGoalText(h) {
+  const t = h.target || 1;
+  const u = h.unit || '';
+  switch (h.targetType) {
+    case 'once': return '每日完成一次';
+    case 'count': return '每天 ' + t + u;
+    case 'duration': return '每天 ' + t + u;
+    case 'qty': return '每天 ' + t + u;
+    case 'weekly': return '每周 ' + t + ' 次';
+  }
+  return '';
+}
+/* 当前连续天数（今天未完成则从昨天数起） */
 function habitStreak(h) {
   const rec = h.records || {};
+  let d = new Date();
+  if (!habitDayDone(h, todayKey())) d = addDays(d, -1);
   let n = 0;
-  for (let i = 0; i < 365; i++) {
-    if (rec[dateKey(daysAgo(i))]) n++;
+  while (n < 730) {
+    if (habitDayDone(h, dateKey(d))) { n++; d = addDays(d, -1); }
     else break;
   }
   return n;
 }
+/* 历史最长连续 */
+function habitMaxStreak(h) {
+  const rec = h.records || {};
+  const keys = Object.keys(rec).filter(k => habitDayDone(h, k)).sort();
+  let best = 0, cur = 0, prev = null;
+  keys.forEach(k => {
+    if (prev && (parseKey(k) - parseKey(prev)) === 86400000) cur++;
+    else cur = 1;
+    if (cur > best) best = cur;
+    prev = k;
+  });
+  return best;
+}
+/* 指定日期是否应打卡（重复日） */
+function habitOnDay(h, k) {
+  const d = parseKey(k);
+  const dow = (d.getDay() + 6) % 7 + 1;   // 1=周一
+  const r = h.repeatDays || [1, 2, 3, 4, 5, 6, 7];
+  return r.includes(dow);
+}
+function weekStart(k) {
+  const d = parseKey(k);
+  const dow = (d.getDay() + 6) % 7;
+  return dateKey(addDays(d, -dow));
+}
 
+/* ---------- 渲染 ---------- */
 function renderHabit() {
   const el = document.getElementById('tab-habit');
   const habits = data.habits || [];
+  const selDay = state.habitDay || todayKey();
+  const filter = state.habitFilter || 'all';
   const today = todayKey();
-  const doneToday = habits.filter(h => h.records && h.records[today]).length;
-  const pct = habits.length ? Math.round(doneToday / habits.length * 100) : 0;
 
-  const listHtml = habits.length ? `<div class="habit-list">${habits.map(h => {
-    const rec = h.records || {};
+  // 连续坚持卡
+  const maxStreak = Math.max(0, ...habits.map(h => habitMaxStreak(h)));
+  const weekDone = habits.filter(h => habitDayDone(h, today)).length;
+  const weekPct = habits.length ? Math.round(weekDone / habits.length * 100) : 0;
+
+  // 一周日期栏
+  const wk = weekStart(today);
+  let wkHtml = '';
+  for (let i = 0; i < 7; i++) {
+    const k = dateKey(addDays(parseKey(wk), i));
+    const d = parseKey(k);
+    const doneN = habits.filter(h => habitDayDone(h, k)).length;
+    const isToday = k === today;
+    const isFuture = k > today;
+    const isSel = k === selDay;
+    wkHtml += `<button class="hbwk-day ${isToday ? 'today' : ''} ${isFuture ? 'future' : ''} ${isSel ? 'sel' : ''}" onclick="setHabitDay('${k}')">
+      <span class="hbwk-w">${WEEK_CN[i].slice(0, 1)}</span>
+      <span class="hbwk-d">${d.getDate()}</span>
+      <span class="hbwk-n ${doneN ? 'on' : ''}">${doneN ? doneN : ''}</span>
+    </button>`;
+  }
+
+  // 列表
+  const list = habits.filter(h => filter === 'all' || h.cat === filter);
+  const listHtml = list.length ? `<div class="habit-list">${list.map(h => {
+    const done = habitDayDone(h, selDay);
+    const ratio = habitDayRatio(h, selDay);
+    const val = habitDayVal(h, selDay);
+    const t = h.targetType === 'once' ? 1 : (h.target || 1);
+    const u = h.unit || '';
     const streak = habitStreak(h);
-    // 最近 7 天（今天在右）
-    let weekHtml = '';
-    for (let i = 6; i >= 0; i--) {
-      const d = daysAgo(i);
-      const k = dateKey(d);
-      const on = !!rec[k];
-      const isToday = k === today;
-      weekHtml += `<div class="hb-day ${on ? 'on' : ''} ${isToday ? 'today' : ''}">
-        <span class="hd-label">${'日一二三四五六'[d.getDay()]}</span>
-        <span class="hd-dot">${on ? '✓' : ''}</span>
-      </div>`;
-    }
-    const done = !!rec[today];
+    const onDay = habitOnDay(h, selDay);
+    const catName = (HABIT_CATS.find(c => c.id === h.cat) || { name: '自定义' }).name;
+    const progressText = h.targetType === 'once'
+      ? (done ? '已完成' : '未完成')
+      : (h.targetType === 'weekly'
+        ? `${Math.min(val, t)}/${t} 次`
+        : `${Math.min(val, t)}/${t}${u}`);
     return `<div class="habit-card">
       <div class="hb-head">
         <span class="hb-dot" style="background:${HABIT_COLOR_VAR[h.color] || 'var(--green)'}"></span>
         <span class="hb-name">${esc(h.name)}</span>
+        <span class="hb-cat">${esc(catName)}</span>
         <span class="hb-streak">连续 ${streak} 天</span>
         <button class="hb-edit" onclick="openHabitEdit('${h.id}')" title="编辑习惯">${SVG_EDIT}</button>
       </div>
-      <div class="hb-week">${weekHtml}</div>
-      <button class="hb-check ${done ? 'done' : ''}" onclick="toggleHabitDay('${h.id}')">
-        ${done ? '✓ 今天已打卡' : '打卡今天'}
+      <div class="hb-goal">${esc(habitGoalText(h))}${h.remindTime ? ' · 提醒 ' + esc(h.remindTime) : ''}${!onDay ? ' · 今天不重复' : ''}</div>
+      <div class="hb-prog"><span class="hb-prog-t">${progressText}</span><span class="hb-prog-bar"><span class="hb-prog-fill" style="width:${Math.round(ratio * 100)}%"></span></span></div>
+      <button class="hb-check ${done ? 'done' : ''}" onclick="tapHabit('${h.id}')" ${onDay && (selDay <= today || h.allowCatchup) ? '' : 'disabled'}>
+        ${done ? '✓ 已完成' : (h.targetType === 'once' || h.targetType === 'weekly' ? '打卡' : '＋ 记一次')}
       </button>
     </div>`;
   }).join('')}</div>`
-    : `<div class="empty">还没有习惯<br>点右下角 + 新建第一个习惯</div>`;
+    : `<div class="empty">这个分类还没有习惯<br>点右上角 ＋ 新建</div>`;
+
+  // 月度足迹
+  const mFoot = monthFootprint(habits);
+
+  // 统计
+  const statView = state.habitStat || 'week';
+  const statHtml = habitStats(habits, statView);
 
   el.innerHTML = `
     <div class="tab-hero">
-      <div class="th-sub">习惯打卡 · ${fmtYMD(today)}</div>
-      <div class="th-main">把坚持，变成习惯</div>
+      <div class="th-sub">习惯养成 · ${fmtYMD(today)}</div>
+      <div class="th-main">微小坚持，也值得被看见</div>
+      <button class="hero-add" onclick="openHabitAdd()" title="新增习惯">${SVG_PLUS}</button>
     </div>
-    <div class="todo-progress">
-      <span class="tp-text">今日打卡 <b>${doneToday}</b>/${habits.length} · ${pct}%</span>
-      <span class="tp-bar"><span class="tp-fill" style="width:${pct}%"></span></span>
+    <div class="privacy-note">数据仅保存在本机浏览器中，不会上传</div>
+    <div class="hb-master">
+      <div class="hbm-num">${maxStreak}<span>天</span></div>
+      <div class="hbm-info">
+        <div class="hbm-t">最长连续坚持</div>
+        <div class="hbm-s">本周完成 ${weekPct}%${weekPct >= 70 ? ' · 正在成为更好的自己' : ' · 今天重新开始也很好'}</div>
+      </div>
+    </div>
+    <div class="hb-weekbar">${wkHtml}</div>
+    <div class="chips">
+      <button class="chip ${filter === 'all' ? 'on' : ''}" onclick="setHabitFilter('all')">全部</button>
+      ${HABIT_CATS.map(c => `<button class="chip ${filter === c.id ? 'on' : ''}" onclick="setHabitFilter('${c.id}')">${c.name}</button>`).join('')}
     </div>
     ${listHtml}
-    <button class="fab" onclick="openHabitAdd()" title="新建习惯">${SVG_PLUS}</button>`;
+    <div class="hb-section">本月足迹</div>
+    ${mFoot}
+    <div class="hb-section">习惯统计
+      <span class="hb-seg">
+        <button class="${statView === 'week' ? 'on' : ''}" onclick="setHabitStat('week')">本周</button>
+        <button class="${statView === 'month' ? 'on' : ''}" onclick="setHabitStat('month')">本月</button>
+        <button class="${statView === 'q3' ? 'on' : ''}" onclick="setHabitStat('q3')">近三月</button>
+      </span>
+    </div>
+    ${statHtml}
+    <div style="height:24px"></div>`;
+}
+
+/* ---------- 月度足迹（热力图） ---------- */
+function monthFootprint(habits) {
+  const now = new Date();
+  const y = now.getFullYear(), m = now.getMonth();
+  const days = new Date(y, m + 1, 0).getDate();
+  const todayD = now.getDate();
+  let doneDays = 0, totalPct = 0, dayCnt = 0;
+  const perDay = [];
+  for (let d = 1; d <= days; d++) {
+    const k = dateKey(new Date(y, m, d));
+    const active = habits.filter(h => habitOnDay(h, k));
+    if (!active.length) { perDay.push(0); continue; }
+    const done = active.filter(h => habitDayDone(h, k)).length;
+    const ratio = done / active.length;
+    perDay.push(d <= todayD ? ratio : -1);
+    if (d <= todayD) {
+      dayCnt++;
+      totalPct += ratio;
+      if (ratio >= 1) doneDays++;
+    }
+  }
+  const avgPct = dayCnt ? Math.round(totalPct / dayCnt * 100) : 0;
+  const bestHabit = habits.length
+    ? habits.reduce((a, b) => (habitStreak(b) > habitStreak(a) ? b : a))
+    : null;
+  const lv = r => r < 0 ? 'future' : r === 0 ? 'l0' : r < 0.5 ? 'l1' : r < 1 ? 'l2' : 'l3';
+  const cells = perDay.map((r, i) => `<span class="hf-cell ${lv(r)}" title="${m + 1}月${i + 1}日"></span>`).join('');
+  return `<div class="hb-month">
+    <div class="hbm2-row">
+      <div class="hbm2-item"><b>${doneDays}</b>天<br>全勤日</div>
+      <div class="hbm2-item"><b>${avgPct}%</b><br>本月完成率</div>
+      <div class="hbm2-item"><b>${bestHabit ? esc(bestHabit.name) : '—'}</b><br>最稳定习惯</div>
+      <div class="hbm2-item"><b>${habits.length ? Math.max(...habits.map(h => habitMaxStreak(h))) : 0}</b>天<br>最长连续</div>
+    </div>
+    <div class="hf-grid">${cells}</div>
+    <div class="hf-legend"><span>少</span><i class="hf-cell l0"></i><i class="hf-cell l1"></i><i class="hf-cell l2"></i><i class="hf-cell l3"></i><span>多</span></div>
+  </div>`;
+}
+
+/* ---------- 统计视图 ---------- */
+function habitStats(habits, view) {
+  const now = new Date();
+  let start, label;
+  if (view === 'week') { start = weekStart(todayKey()); label = '本周'; }
+  else if (view === 'month') { start = dateKey(new Date(now.getFullYear(), now.getMonth(), 1)); label = '本月'; }
+  else { start = dateKey(addDays(now, -89)); label = '近三月'; }
+  if (!habits.length) return `<div class="empty">暂无习惯数据</div>`;
+  const rows = habits.map(h => {
+    let total = 0, done = 0;
+    const dowCnt = [0, 0, 0, 0, 0, 0, 0];
+    const d = parseKey(start);
+    while (d <= now) {
+      const k = dateKey(d);
+      if (habitOnDay(h, k)) {
+        total++;
+        if (habitDayDone(h, k)) { done++; dowCnt[(d.getDay() + 6) % 7]++; }
+      }
+      d.setDate(d.getDate() + 1);
+    }
+    const rate = total ? Math.round(done / total * 100) : 0;
+    const bestDow = dowCnt.indexOf(Math.max(...dowCnt));
+    const dowText = total ? (dowCnt[bestDow] ? '完成集中在' + WEEK_CN[bestDow] : '暂无足够数据') : '暂无足够数据';
+    const tone = rate >= 70 ? '还可以慢慢来，这一阶段已经很稳' : rate >= 40 ? '这一周已经完成了大部分目标' : '今天重新开始也很好';
+    return `<div class="hb-stat-row">
+      <div class="hbs-name"><span class="hb-dot" style="background:${HABIT_COLOR_VAR[h.color] || 'var(--green)'}"></span>${esc(h.name)}</div>
+      <div class="hbs-rate"><b>${rate}%</b><span class="hbs-bar"><span style="width:${rate}%"></span></span></div>
+      <div class="hbs-meta">连续 ${habitStreak(h)} 天 · 最长 ${habitMaxStreak(h)} 天 · ${dowText}</div>
+      <div class="hbs-tone">${tone}</div>
+    </div>`;
+  }).join('');
+  return `<div class="hb-stats">${rows}</div>`;
+}
+
+/* ---------- 交互 ---------- */
+function setHabitFilter(f) { state.habitFilter = f; renderHabit(); }
+function setHabitDay(k) { state.habitDay = k; renderHabit(); }
+function setHabitStat(v) { state.habitStat = v; renderHabit(); }
+
+function tapHabit(id) {
+  const h = data.habits.find(x => x.id === id);
+  if (!h) return;
+  const k = state.habitDay || todayKey();
+  h.records = h.records || {};
+  const v = h.records[k];
+  if (h.targetType === 'once' || h.targetType === 'weekly') {
+    if (v) delete h.records[k];
+    else h.records[k] = true;
+  } else {
+    const cur = typeof v === 'number' ? v : (v ? 1 : 0);
+    const t = h.target || 1;
+    if (cur >= t) delete h.records[k];   // 已达成 → 点击清零
+    else h.records[k] = cur + 1;
+  }
+  saveData(); renderHabit();
 }
 
 function openHabitAdd() {
   state._editHabitId = null;
   state._habitColor = 'green';
-  openSheet(`<div class="sheet-title">新建习惯</div>
-    <div class="form-row"><label class="form-label">习惯名称</label>
-      <input class="in" id="hbName" placeholder="如：喝水 8 杯、早睡、阅读 30 分钟" maxlength="12"></div>
-    <div class="form-row"><label class="form-label">颜色</label>
-      <div class="chips" style="padding-bottom:0" id="hbColorPick">
-        ${HABIT_COLORS.map(c => `<button class="chip" style="width:44px;height:44px;padding:0;justify-content:center" onclick="pickHabitColor('${c}')"><span style="width:20px;height:20px;border-radius:50%;background:${HABIT_COLOR_VAR[c]};display:inline-block"></span></button>`).join('')}
-      </div></div>
-    <div class="form-actions">
-      <button class="btn ghost" onclick="closeSheet()">取消</button>
-      <button class="btn" onclick="saveHabitItem()">添加</button>
-    </div>`);
-  refreshHabitColorPick();
-  setTimeout(() => { const i = document.getElementById('hbName'); if (i) i.focus(); }, 120);
+  state._habitCat = 'life';
+  state._habitType = 'once';
+  state._habitTarget = 1;
+  state._habitUnit = '';
+  state._habitRepeat = [1, 2, 3, 4, 5, 6, 7];
+  state._habitCatchup = true;
+  habitFormHtml(null);
 }
-
 function openHabitEdit(id) {
   const h = data.habits.find(x => x.id === id);
   if (!h) return;
   state._editHabitId = id;
   state._habitColor = h.color || 'green';
-  openSheet(`<div class="sheet-title">编辑习惯</div>
-    <div class="form-row"><label class="form-label">习惯名称</label>
-      <input class="in" id="hbName" value="${esc(h.name)}" maxlength="12"></div>
-    <div class="form-row"><label class="form-label">颜色</label>
-      <div class="chips" style="padding-bottom:0" id="hbColorPick">
-        ${HABIT_COLORS.map(c => `<button class="chip" style="width:44px;height:44px;padding:0;justify-content:center" onclick="pickHabitColor('${c}')"><span style="width:20px;height:20px;border-radius:50%;background:${HABIT_COLOR_VAR[c]};display:inline-block"></span></button>`).join('')}
-      </div></div>
-    <div class="form-actions">
-      <button class="btn warn" onclick="delHabitItem()">删除</button>
-      <button class="btn ghost" onclick="closeSheet()">取消</button>
-      <button class="btn" onclick="saveHabitItem()">保存</button>
-    </div>`);
-  refreshHabitColorPick();
-  setTimeout(() => { const i = document.getElementById('hbName'); if (i) { i.focus(); i.select(); } }, 120);
+  state._habitCat = h.cat || 'life';
+  state._habitType = h.targetType || 'once';
+  state._habitTarget = h.target || 1;
+  state._habitUnit = h.unit || '';
+  state._habitRepeat = h.repeatDays || [1, 2, 3, 4, 5, 6, 7];
+  state._habitCatchup = h.allowCatchup !== false;
+  habitFormHtml(h);
 }
-
-function pickHabitColor(c) { state._habitColor = c; refreshHabitColorPick(); }
-function refreshHabitColorPick() {
-  const pick = document.getElementById('hbColorPick');
-  if (!pick) return;
-  [...pick.querySelectorAll('.chip')].forEach((el, i) => {
-    el.classList.toggle('on', HABIT_COLORS[i] === state._habitColor);
-  });
+function habitFormHtml(h) {
+  const isEdit = !!h;
+  openSheet(`<div class="sheet-title">${isEdit ? '编辑习惯' : '新增习惯'}</div>
+    <div class="form-row"><label class="form-label">习惯名称</label>
+      <input class="in" id="hbName" value="${isEdit ? esc(h.name) : ''}" placeholder="如：喝够八杯水" maxlength="12"></div>
+    <div class="form-row"><label class="form-label">分类</label>
+      <div class="chips" id="hbCatPick">${HABIT_CATS.map(c => `<button class="chip ${state._habitCat === c.id ? 'on' : ''}" onclick="pickHabitCat('${c.id}')">${c.name}</button>`).join('')}</div></div>
+    <div class="form-row"><label class="form-label">目标类型</label>
+      <div class="chips" id="hbTypePick">${HABIT_TYPES.map(t => `<button class="chip ${state._habitType === t.id ? 'on' : ''}" onclick="pickHabitType('${t.id}')">${t.name}</button>`).join('')}</div></div>
+    <div class="form-row" id="hbTargetRow" style="${state._habitType === 'once' ? 'display:none' : ''}">
+      <label class="form-label">目标值</label>
+      <div style="display:flex;gap:8px">
+        <input class="in" type="number" id="hbTarget" value="${state._habitTarget}" min="1" max="999" inputmode="numeric" style="flex:1">
+        <input class="in" id="hbUnit" value="${esc(state._habitUnit)}" placeholder="单位(杯/分钟/个)" style="flex:1.4" maxlength="4">
+      </div></div>
+    <div class="form-row"><label class="form-label">颜色</label>
+      <div class="chips" id="hbColorPick">${HABIT_COLORS.map(c => `<button class="chip" style="width:44px;height:44px;padding:0;justify-content:center" onclick="pickHabitColor('${c}')"><span style="width:20px;height:20px;border-radius:50%;background:${HABIT_COLOR_VAR[c]};display:inline-block"></span></button>`).join('')}</div></div>
+    <details class="hb-adv">
+      <summary>高级设置</summary>
+      <div class="form-row"><label class="form-label">重复日期</label>
+        <div class="chips" id="hbRepeatPick">${WEEK_CN.map((w, i) => `<button class="chip ${state._habitRepeat.includes(i + 1) ? 'on' : ''}" onclick="toggleHabitRepeat(${i + 1})">${w}</button>`).join('')}</div></div>
+      <div class="form-row"><label class="form-label">开始日期</label>
+        <input class="in" type="date" id="hbStart" value="${isEdit && h.startDate ? esc(h.startDate) : todayKey()}"></div>
+      <div class="form-row"><label class="form-label">提醒时间（可选）</label>
+        <input class="in" type="time" id="hbRemind" value="${isEdit && h.remindTime ? esc(h.remindTime) : ''}"></div>
+      <div class="form-row"><label class="form-label" style="display:flex;align-items:center;gap:8px">
+        <input type="checkbox" id="hbCatchup" ${state._habitCatchup ? 'checked' : ''} style="width:20px;height:20px"> 允许补打卡</label></div>
+    </details>
+    <div class="form-actions">
+      ${isEdit ? `<button class="btn warn" onclick="delHabitItem()">删除</button>` : ''}
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveHabitItem()">${isEdit ? '保存' : '添加'}</button>
+    </div>`);
+  refreshHabitPicks();
+  setTimeout(() => { const i = document.getElementById('hbName'); if (i) i.focus(); }, 120);
+}
+function pickHabitCat(c) { state._habitCat = c; refreshHabitPicks(); }
+function pickHabitType(t) {
+  state._habitType = t;
+  state._habitTarget = t === 'weekly' ? 3 : (t === 'count' ? 8 : t === 'duration' ? 30 : t === 'qty' ? 20 : 1);
+  state._habitUnit = t === 'duration' ? '分钟' : (t === 'qty' ? '个' : (t === 'count' ? '' : ''));
+  habitFormHtml(null);
+}
+function pickHabitColor(c) { state._habitColor = c; refreshHabitPicks(); }
+function toggleHabitRepeat(i) {
+  const r = state._habitRepeat;
+  state._habitRepeat = r.includes(i) ? r.filter(x => x !== i) : [...r, i];
+  refreshHabitPicks();
+}
+function refreshHabitPicks() {
+  const pick = (id) => document.getElementById(id);
+  const cp = pick('hbCatPick'); if (cp) [...cp.querySelectorAll('.chip')].forEach((el, i) => el.classList.toggle('on', HABIT_CATS[i].id === state._habitCat));
+  const tp = pick('hbTypePick'); if (tp) [...tp.querySelectorAll('.chip')].forEach((el, i) => el.classList.toggle('on', HABIT_TYPES[i].id === state._habitType));
+  const colp = pick('hbColorPick'); if (colp) [...colp.querySelectorAll('.chip')].forEach((el, i) => el.classList.toggle('on', HABIT_COLORS[i] === state._habitColor));
+  const rp = pick('hbRepeatPick'); if (rp) [...rp.querySelectorAll('.chip')].forEach((el, i) => el.classList.toggle('on', state._habitRepeat.includes(i + 1)));
+  const tr = pick('hbTargetRow'); if (tr) tr.style.display = state._habitType === 'once' ? 'none' : '';
 }
 function saveHabitItem() {
   const name = document.getElementById('hbName').value.trim();
   if (!name) { showToast('请输入习惯名称'); return; }
-  data.habits = data.habits || [];   // 旧数据迁移兜底
+  data.habits = data.habits || [];
+  const target = Math.max(1, parseInt(document.getElementById('hbTarget') ? document.getElementById('hbTarget').value : '1', 10) || 1);
+  const unit = document.getElementById('hbUnit') ? document.getElementById('hbUnit').value.trim() : '';
+  const repeat = state._habitRepeat.length ? state._habitRepeat : [1, 2, 3, 4, 5, 6, 7];
+  const start = document.getElementById('hbStart') ? document.getElementById('hbStart').value : todayKey();
+  const remind = document.getElementById('hbRemind') ? document.getElementById('hbRemind').value : '';
+  const catchup = !document.getElementById('hbCatchup') || document.getElementById('hbCatchup').checked;
   if (state._editHabitId) {
     const h = data.habits.find(x => x.id === state._editHabitId);
-    if (h) { h.name = name; h.color = state._habitColor; }
+    if (h) {
+      Object.assign(h, { name, cat: state._habitCat, color: state._habitColor, targetType: state._habitType, target, unit, repeatDays: repeat, startDate: start, remindTime: remind, allowCatchup: catchup });
+    }
   } else {
-    data.habits.push({ id: uid('hb'), name, color: state._habitColor, createdAt: new Date().toISOString(), records: {} });
+    data.habits.push({
+      id: uid('hb'), name, cat: state._habitCat, color: state._habitColor,
+      targetType: state._habitType, target, unit, repeatDays: repeat,
+      startDate: start, remindTime: remind, allowCatchup: catchup,
+      records: {}, createdAt: new Date().toISOString(),
+    });
   }
   saveData(); closeSheet(); renderHabit();
 }
@@ -2374,127 +2754,146 @@ function delHabitItem() {
   data.habits = data.habits.filter(x => x.id !== state._editHabitId);
   saveData(); closeSheet(); renderHabit();
 }
-function toggleHabitDay(id) {
-  data.habits = data.habits || [];
-  const h = data.habits.find(x => x.id === id);
-  if (!h) return;
-  h.records = h.records || {};
-  const t = todayKey();
-  if (h.records[t]) delete h.records[t];
-  else h.records[t] = true;
-  saveData(); renderHabit();
-}
 /* ============================================================
- * 页签七：健康 · 经期跟踪（预测：下次经期 / 排卵日 / 易孕期）
+ * 页签六：健康 · 经期跟踪（完整版）
+ * 预测：下次经期 / 易孕期 / 排卵日（均标注“预计”）
+ * 记录：经期历史 + 每日症状
  * ============================================================ */
+const SYMPTOM_DEFS = [
+  { key: 'spotting', name: '点滴出血' },
+  { key: 'pain', name: '腹痛', level: ['轻微', '中等', '严重'] },
+  { key: 'headache', name: '头痛' },
+  { key: 'backache', name: '腰酸' },
+  { key: 'breast', name: '乳房胀痛' },
+  { key: 'mood', name: '情绪波动' },
+  { key: 'fatigue', name: '疲倦' },
+  { key: 'sleep', name: '睡眠' },
+  { key: 'discharge', name: '分泌物' },
+  { key: 'temp', name: '基础体温' },
+];
+const FLOW_LEVELS = [{ id: 'light', name: '少量' }, { id: 'medium', name: '中等' }, { id: 'heavy', name: '较多' }];
+const PAIN_LEVELS = [{ id: 'mild', name: '轻微' }, { id: 'medium', name: '中等' }, { id: 'severe', name: '严重' }];
+
 function addDays(d, n) { const x = new Date(d); x.setDate(x.getDate() + n); return x; }
 function fmtMD(k) { const d = parseKey(k); return (d.getMonth() + 1) + '月' + d.getDate() + '日'; }
 function daysBetween(a, b) { return Math.round((b - a) / 86400000); }
 
-function healthConfig() {
-  const h = data.health || {};
+function healthCfg() {
+  const h = data.health = data.health || {};
   return {
     lastStart: h.lastPeriodStart || '',
     cycle: h.cycleLen || 28,
     period: h.periodLen || 5,
     periods: h.periods || [],
+    symptoms: h.symptoms || {},
+  };
+}
+function hPeriods() { data.health.periods = data.health.periods || []; return data.health.periods; }
+function hSymptoms() { data.health.symptoms = data.health.symptoms || {}; return data.health.symptoms; }
+
+/* 预测结果（均标注预计） */
+function healthPredict() {
+  const c = healthCfg();
+  if (!c.lastStart) return null;
+  const start = parseKey(c.lastStart);
+  const nextStart = addDays(start, c.cycle);
+  const nextEnd = addDays(nextStart, c.period - 1);
+  const ov = addDays(nextStart, -14);
+  const fertileS = addDays(ov, -5);
+  const fertileE = ov;
+  const today = parseKey(todayKey());
+  return {
+    cycleDay: Math.min(c.cycle, daysBetween(start, today) + 1),
+    daysTo: daysBetween(today, nextStart),
+    nextStart: dateKey(nextStart), nextEnd: dateKey(nextEnd),
+    ov: dateKey(ov), fertileS: dateKey(fertileS), fertileE: dateKey(fertileE),
+    progress: Math.min(100, Math.round(daysBetween(start, today) / c.cycle * 100)),
   };
 }
 
-/* 日历标记：dateKey -> 'period' | 'fertile' | 'ovulation' */
+/* 月历标记：dateKey -> 'recorded' | 'pred' | 'fertile' | 'ov' */
 function healthMarks() {
-  const c = healthConfig();
+  const c = healthCfg();
   const marks = {};
-  const addDay = (key, cls) => { if (!marks[key]) marks[key] = cls; };
-  const addRange = (startKey, days, cls) => {
-    if (!startKey) return;
-    const d = parseKey(startKey);
-    for (let i = 0; i < days; i++) {
-      addDay(dateKey(addDays(d, i)), cls);
-    }
-  };
-  // 已记录经期（按真实起止）
+  const put = (k, cls, force) => { if (!marks[k] || force) marks[k] = cls; };
+  // 已记录经期（实心豆沙红优先）
   c.periods.forEach(p => {
-    if (p.start && p.end) {
-      let d = parseKey(p.start);
-      const end = parseKey(p.end);
-      while (d <= end) { addDay(dateKey(d), 'period'); d = addDays(d, 1); }
-    }
+    if (!p.start || !p.end) return;
+    let d = parseKey(p.start); const end = parseKey(p.end);
+    while (d <= end) { put(dateKey(d), 'recorded'); d = addDays(d, 1); }
   });
-  if (c.lastStart) {
-    const start = parseKey(c.lastStart);
-    const nextStart = addDays(start, c.cycle);
-    addRange(c.lastStart, c.period, 'period');          // 最近一次经期
-    addRange(dateKey(nextStart), c.period, 'period');   // 预测下次经期
-    const ov = addDays(nextStart, -14);                 // 排卵日
-    for (let i = -5; i <= 1; i++) addDay(dateKey(addDays(ov, i)), 'fertile'); // 易孕期
-    addDay(dateKey(ov), 'ovulation');                   // 排卵日优先标记
+  const p = healthPredict();
+  if (p) {
+    let d = parseKey(p.nextStart);
+    for (let i = 0; i < c.period; i++) { put(dateKey(d), 'pred'); d = addDays(d, 1); }
+    d = parseKey(p.fertileS);
+    const fDays = Math.round((parseKey(p.fertileE) - parseKey(p.fertileS)) / 86400000);
+    for (let i = 0; i <= fDays; i++) { put(dateKey(d), 'fertile'); d = addDays(d, 1); }
+    put(p.ov, 'ov', true);   // 排卵日优先于易孕期
   }
   return marks;
 }
 
-function healthStatus() {
-  const c = healthConfig();
-  if (!c.lastStart) return null;
-  const todayK = todayKey();
-  const today = parseKey(todayK);
-  const start = parseKey(c.lastStart);
-  const nextStart = addDays(start, c.cycle);
-  const ov = addDays(nextStart, -14);
-  const inRange = (s, n) => {
-    const diff = daysBetween(s, today);
-    return diff >= 0 && diff < n;
-  };
-  const daysTo = daysBetween(today, nextStart);
-  if (inRange(start, c.period)) {
-    return { state: '经期第 ' + (daysBetween(start, today) + 1) + ' 天', sub: '注意保暖，好好休息', daysTo };
-  }
-  if (todayK === dateKey(ov)) {
-    return { state: '排卵日', sub: '受孕概率最高的日子', daysTo };
-  }
-  for (let i = -5; i <= 1; i++) {
-    if (todayK === dateKey(addDays(ov, i))) {
-      return { state: '易孕期', sub: '受孕概率较高，注意防护', daysTo };
-    }
-  }
-  if (inRange(nextStart, c.period)) {
-    return { state: '预测经期', sub: '按周期推算的经期', daysTo: 0 };
-  }
-  return { state: '安全期', sub: daysTo > 0 ? '距离下次经期还有 ' + daysTo + ' 天' : '已过预测经期，请及时记录', daysTo };
-}
-
+/* ---------- 渲染 ---------- */
 function renderHealth() {
   const el = document.getElementById('tab-health');
-  const c = healthConfig();
+  const tab = state.healthTab || 'pred';
+  el.innerHTML = `
+    <div class="tab-hero">
+      <div class="th-sub">健康 · 经期跟踪</div>
+      <div class="th-main">了解身体，从容每一天</div>
+    </div>
+    <div class="privacy-note">隐私保护：健康数据仅保存在本机浏览器中，不会上传任何服务器</div>
+    <div class="chips">
+      <button class="chip ${tab === 'pred' ? 'on' : ''}" onclick="setHealthTab('pred')">周期预测</button>
+      <button class="chip ${tab === 'base' ? 'on' : ''}" onclick="setHealthTab('base')">基础记录</button>
+    </div>
+    ${tab === 'pred' ? healthPredHtml() : healthBaseHtml()}`;
+}
+
+function setHealthTab(t) { state.healthTab = t; renderHealth(); }
+
+/* ---------- 周期预测 ---------- */
+function healthPredHtml() {
+  const c = healthCfg();
+  const p = healthPredict();
+  if (!p) {
+    return `<div class="card" style="padding:22px 18px;text-align:center">
+      <div style="font-family:var(--font-serif);font-size:17px;font-weight:600;margin-bottom:6px">还没有周期数据</div>
+      <div style="font-size:13px;color:var(--text-dim);line-height:1.8;margin-bottom:14px">请先到「基础记录」填写<br>最近一次经期开始日期和平均周期</div>
+      <button class="btn block" onclick="setHealthTab('base')">去填写基础记录</button>
+    </div>
+    ${healthTrendHtml()}${healthTipsHtml()}`;
+  }
   const marks = healthMarks();
-  const status = healthStatus();
-  const [cy, cm] = (state.hcalMonth || todayKey().slice(0, 7)).split('-').map(Number);
+  const sym = hSymptoms();
+
+  // 主卡
+  const mainCard = `<div class="hp-main">
+    <div class="hpm-left">
+      <div class="hpm-days">${p.daysTo >= 0 ? p.daysTo : 0}<span>天后</span></div>
+      <div class="hpm-sub">预计下次经期开始（${fmtMD(p.nextStart)}）</div>
+      <div class="hpm-line"><span style="width:${p.progress}%"></span></div>
+      <div class="hpm-meta">当前周期第 <b>${p.cycleDay}</b> 天 · 预计 ${fmtMD(p.nextStart)} ~ ${fmtMD(p.nextEnd)}</div>
+    </div>
+  </div>`;
 
   // 预测卡
-  let predHtml = '';
-  if (c.lastStart) {
-    const start = parseKey(c.lastStart);
-    const nextStart = addDays(start, c.cycle);
-    const ov = addDays(nextStart, -14);
-    const ovS = addDays(ov, -5), ovE = addDays(ov, 1);
-    predHtml = `<div class="card" style="padding:12px 15px;margin-bottom:12px">
-      <div style="display:flex;justify-content:space-between;font-size:13px;padding:4px 0">
-        <span style="color:var(--text-dim)">下次经期</span><b>${fmtMD(dateKey(nextStart))}</b></div>
-      <div style="display:flex;justify-content:space-between;font-size:13px;padding:4px 0;border-top:1px solid var(--line-soft)">
-        <span style="color:var(--text-dim)">排卵日</span><b style="color:var(--lavender)">${fmtMD(dateKey(ov))}</b></div>
-      <div style="display:flex;justify-content:space-between;font-size:13px;padding:4px 0;border-top:1px solid var(--line-soft)">
-        <span style="color:var(--text-dim)">易孕期</span><b style="color:color-mix(in srgb,var(--apricot) 75%,var(--text))">${fmtMD(dateKey(ovS))} ~ ${fmtMD(dateKey(ovE))}</b></div>
-    </div>`;
-  }
+  const predCards = `<div class="hp-cards">
+    <div class="hp-card fertile">
+      <div class="hpc-label">预计易孕期</div>
+      <div class="hpc-val">${fmtMD(p.fertileS)} ~ ${fmtMD(p.fertileE)}</div>
+      <div class="hpc-note">排卵前 5 天至排卵日 · 共 6 天</div>
+    </div>
+    <div class="hp-card ov">
+      <div class="hpc-label">预计排卵日</div>
+      <div class="hpc-val">${fmtMD(p.ov)}</div>
+      <div class="hpc-note">按下次经期前 14 天估算</div>
+    </div>
+  </div>`;
 
-  // 状态卡
-  const statusHtml = status
-    ? `<div class="hs-main"><div class="hs-state">${status.state}</div><div class="hs-sub">${status.sub}</div></div>
-       <div class="hs-next">下次经期<br><b>${c.lastStart ? fmtMD(dateKey(addDays(parseKey(c.lastStart), c.cycle))) : '—'}</b></div>`
-    : `<div class="hs-main"><div class="hs-state">尚未记录经期</div><div class="hs-sub">记录后自动预测下次经期 / 排卵日 / 易孕期</div></div>
-       <div class="hs-next">点击下方<br><b>记录经期</b>开始</div>`;
-
-  // 日历
+  // 月历
+  const [cy, cm] = (state.hcalMonth || todayKey().slice(0, 7)).split('-').map(Number);
   const first = new Date(cy, cm - 1, 1);
   const daysInMonth = new Date(cy, cm, 0).getDate();
   const startDow = first.getDay();
@@ -2504,65 +2903,135 @@ function renderHealth() {
     const k = dateKey(new Date(cy, cm - 1, d));
     const cls = marks[k] || '';
     const isToday = k === todayKey();
-    cells += `<div class="hcal-cell ${cls} ${isToday ? 'today' : ''}">${d}</div>`;
-  }
-
-  el.innerHTML = `
-    <div class="tab-hero">
-      <div class="th-sub">健康 · 经期跟踪</div>
-      <div class="th-main">了解身体，从容每一天</div>
-    </div>
-    <div class="health-status">${statusHtml}</div>
-    ${predHtml}
-    <div class="hcal">
-      <div class="hcal-head">
-        <span class="hcal-title">${cy}年${cm}月</span>
-        <div class="hcal-nav">
-          <button onclick="hcalMove(-1)" title="上个月">‹</button>
-          <button onclick="hcalToday()" title="回到本月">今</button>
-          <button onclick="hcalMove(1)" title="下个月">›</button>
-        </div>
-      </div>
-      <div class="hcal-grid">
-        ${'日一二三四五六'.split('').map(w => `<div class="hcal-wd">${w}</div>`).join('')}
-        ${cells}
-      </div>
-      <div class="hcal-legend">
-        <span class="lg"><i style="background:var(--green)"></i>经期</span>
-        <span class="lg"><i style="background:var(--apricot-soft);border:1px solid var(--apricot)"></i>易孕期</span>
-        <span class="lg"><i style="background:var(--lavender-soft);border:1px solid var(--lavender)"></i>排卵日</span>
-      </div>
-    </div>
-    <div class="health-ops">
-      <button class="btn block" onclick="openPeriodAdd()">记录经期</button>
-      <button class="btn ghost block" onclick="openHealthSettings()">周期设置</button>
+    const hasSym = !!sym[k];
+    cells += `<div class="hcal-cell ${cls} ${isToday ? 'today' : ''}" onclick="openDayRecord('${k}')">
+      ${d}${hasSym ? '<i class="hcal-dot"></i>' : ''}
     </div>`;
+  }
+  const cal = `<div class="hcal">
+    <div class="hcal-head">
+      <span class="hcal-title">${cy}年${cm}月</span>
+      <div class="hcal-nav">
+        <button onclick="hcalMove(-1)">‹</button>
+        <button onclick="hcalToday()">今</button>
+        <button onclick="hcalMove(1)">›</button>
+      </div>
+    </div>
+    <div class="hcal-grid">
+      ${'日一二三四五六'.split('').map(w => `<div class="hcal-wd">${w}</div>`).join('')}
+      ${cells}
+    </div>
+    <div class="hcal-legend">
+      <span class="lg"><i style="background:var(--bean)"></i>已记录经期</span>
+      <span class="lg"><i style="background:var(--bean-soft);border:1px dashed var(--bean)"></i>预测经期</span>
+      <span class="lg"><i style="background:var(--mist-soft);border:1px solid var(--mist)"></i>易孕期</span>
+      <span class="lg"><i style="background:var(--lavender-soft);border:1px solid var(--lavender)"></i>排卵预测</span>
+      <span class="lg"><i style="background:transparent;border:none"><span class="hcal-dot" style="position:static;display:inline-block"></span>已记录信息</span>
+    </div>
+  </div>`;
+
+  // 记录今天
+  const todayRec = sym[todayKey()] || {};
+  const recHtml = dayRecordHtml(todayRec, todayKey());
+
+  return mainCard + predCards + cal + recHtml + healthTrendHtml() + healthTipsHtml();
 }
 
-function hcalMove(n) {
-  const [y, m] = (state.hcalMonth || todayKey().slice(0, 7)).split('-').map(Number);
-  const d = new Date(y, m - 1 + n, 1);
-  state.hcalMonth = d.getFullYear() + '-' + pad2(d.getMonth() + 1);
+/* ---------- 每日记录 ---------- */
+function dayRecordHtml(rec, k) {
+  const on = key => !!rec[key];
+  const levelOn = (key, lv) => rec[key] === lv;
+  const isToday = k === todayKey();
+  return `<div class="hdr">
+    <div class="hdr-title">${isToday ? '记录今天' : fmtMD(k) + ' 的记录'}</div>
+    ${isToday ? `<div class="form-row"><label class="form-label">经量</label>
+      <div class="chips">${FLOW_LEVELS.map(l => `<button class="chip ${levelOn('flow', l.id) ? 'on' : ''}" onclick="toggleFlow('${l.id}')">${l.name}</button>`).join('')}</div></div>` : ''}
+    <div class="hdr-grid">
+      ${SYMPTOM_DEFS.map(s => {
+        if (s.key === 'pain' && !isToday) return '';
+        return `<button class="sym-btn ${on(s.key) ? 'on' : ''}" onclick="toggleSym('${s.key}')">
+          <span>${s.name}</span>${s.level && isToday ? `<i class="sym-lv">${rec[s.key] ? PAIN_LEVELS.find(x => x.id === rec[s.key]).name : ''}</i>` : ''}
+        </button>`;
+      }).join('')}
+    </div>
+    ${isToday ? `<div class="form-row"><label class="form-label">其他备注</label>
+      <input class="in" id="symNote" value="${esc(rec.note || '')}" placeholder="可记录情绪、身体状况等" maxlength="60"></div>
+      <div class="form-actions"><button class="btn block" onclick="saveSym('${k}')">保存今日记录</button></div>` : ''}
+  </div>`;
+}
+function openDayRecord(k) {
+  const sym = hSymptoms();
+  const rec = sym[k] || {};
+  openSheet(`<div class="sheet-title">${fmtMD(k)} 的记录${k !== todayKey() ? '（历史补记）' : ''}</div>
+    ${dayRecordHtml(rec, k)}
+    <div class="form-actions">
+      <button class="btn ghost" onclick="closeSheet()">取消</button>
+      <button class="btn" onclick="saveSym('${k}')">保存</button>
+    </div>`);
+}
+function toggleFlow(lv) {
+  const sym = hSymptoms();
+  const rec = sym[todayKey()] = sym[todayKey()] || {};
+  rec.flow = rec.flow === lv ? '' : lv;
   renderHealth();
 }
-function hcalToday() {
-  state.hcalMonth = todayKey().slice(0, 7);
+function toggleSym(key) {
+  const sym = hSymptoms();
+  const rec = sym[todayKey()] = sym[todayKey()] || {};
+  const def = SYMPTOM_DEFS.find(s => s.key === key);
+  if (def && def.level) {
+    const cur = rec[key];
+    const levels = def.level.map((_, i) => PAIN_LEVELS[i].id);
+    const idx = levels.indexOf(cur);
+    rec[key] = idx === -1 ? levels[0] : (idx + 1 < levels.length ? levels[idx + 1] : '');
+  } else {
+    rec[key] = rec[key] ? '' : true;
+  }
   renderHealth();
+}
+function saveSym(k) {
+  const sym = hSymptoms();
+  const rec = sym[k] = sym[k] || {};
+  const note = document.getElementById('symNote');
+  if (note) rec.note = note.value.trim();
+  saveData(); closeSheet(); renderHealth();
+  showToast('已保存');
 }
 
-/* 记录经期 */
-function openPeriodAdd() {
-  const c = healthConfig();
-  const defaultStart = c.lastStart ? dateKey(addDays(parseKey(c.lastStart), c.cycle)) : todayKey();
+/* ---------- 基础记录 ---------- */
+function healthBaseHtml() {
+  const c = healthCfg();
+  const list = c.periods.slice().sort((a, b) => a.start > b.start ? -1 : 1);
+  return `<div class="card" style="padding:16px">
+    <div class="form-row"><label class="form-label">初次月经日期（可选）</label>
+      <input class="in" type="date" id="hFirst" value="${esc(data.health.firstPeriodStart || '')}"></div>
+    <div class="form-row"><label class="form-label">最近一次经期开始日期 <b style="color:var(--bean)">*</b></label>
+      <input class="in" type="date" id="hLast" value="${esc(c.lastStart)}"></div>
+    <div class="form-row"><label class="form-label">平均月经周期（天，默认 28）</label>
+      <input class="in" type="number" id="hCycle" value="${c.cycle}" min="15" max="60" inputmode="numeric"></div>
+    <div class="form-row"><label class="form-label">经期持续时间（天，默认 5）</label>
+      <input class="in" type="number" id="hPeriod" value="${c.period}" min="1" max="15" inputmode="numeric"></div>
+    <div style="font-size:11.5px;color:var(--text-faint);line-height:1.7;margin-bottom:10px">月经周期从一次月经出血的第一天，计算至下一次月经开始前一天。<br>周期常见范围为 21~35 天，个体差异属正常现象，本工具不作疾病判断。</div>
+    <div class="form-actions">
+      <button class="btn ghost" onclick="recordPeriodQuick()">记录经期</button>
+      <button class="btn" onclick="saveHealthBase(true)">保存并查看预测</button>
+    </div>
+  </div>
+  <div class="hb-section">经期记录历史（${list.length} 次）</div>
+  <div class="hplist">
+    ${list.length ? list.map(p => `<div class="hplist-item"><span>${fmtMD(p.start)} ~ ${fmtMD(p.end)}</span>
+      <button class="icon-btn" style="width:44px;height:44px;color:var(--text-faint)" onclick="delPeriod('${p.start}')">${SVG_TRASH}</button></div>`).join('')
+      : '<div class="empty" style="padding:18px">还没有经期记录</div>'}
+  </div>`;
+}
+function recordPeriodQuick() {
+  const c = healthCfg();
+  const defStart = c.lastStart ? dateKey(addDays(parseKey(c.lastStart), c.cycle)) : todayKey();
   openSheet(`<div class="sheet-title">记录经期</div>
-    <div class="form-row">
-      <label class="form-label">开始日期</label>
-      <input class="in" type="date" id="pdStart" value="${esc(defaultStart)}">
-    </div>
-    <div class="form-row">
-      <label class="form-label">结束日期（可选，默认经期长度 ${c.period} 天）</label>
-      <input class="in" type="date" id="pdEnd" value="${esc(dateKey(addDays(parseKey(defaultStart), c.period - 1)))}">
-    </div>
+    <div class="form-row"><label class="form-label">开始日期</label>
+      <input class="in" type="date" id="pdStart" value="${esc(defStart)}"></div>
+    <div class="form-row"><label class="form-label">结束日期</label>
+      <input class="in" type="date" id="pdEnd" value="${esc(dateKey(addDays(parseKey(defStart), c.period - 1)))}"></div>
     <div class="form-actions">
       <button class="btn ghost" onclick="closeSheet()">取消</button>
       <button class="btn" onclick="savePeriod()">保存</button>
@@ -2572,49 +3041,110 @@ function savePeriod() {
   const s = document.getElementById('pdStart').value;
   const e = document.getElementById('pdEnd').value;
   if (!s) { showToast('请选择开始日期'); return; }
-  const c = healthConfig();
-  const end = (e && e >= s) ? e : dateKey(addDays(parseKey(s), c.period - 1));
-  data.health = data.health || {};
-  data.health.periods = data.health.periods || [];
-  // 若该开始日期已存在则替换
-  data.health.periods = data.health.periods.filter(p => p.start !== s);
-  data.health.periods.push({ start: s, end });
-  data.health.periods.sort((a, b) => a.start < b.start ? 1 : -1);
-  // 最近一次开始日取最新记录
-  if (!data.health.lastPeriodStart || s > data.health.lastPeriodStart) {
-    data.health.lastPeriodStart = s;
-  }
+  const end = (e && e >= s) ? e : dateKey(addDays(parseKey(s), (data.health.periodLen || 5) - 1));
+  const periods = hPeriods().filter(p => p.start !== s);
+  periods.push({ start: s, end });
+  periods.sort((a, b) => a.start > b.start ? -1 : 1);
+  data.health.periods = periods;
+  if (!data.health.lastPeriodStart || s > data.health.lastPeriodStart) data.health.lastPeriodStart = s;
   saveData(); closeSheet(); renderHealth();
   showToast('已记录');
 }
-
-/* 周期设置 */
-function openHealthSettings() {
-  const c = healthConfig();
-  openSheet(`<div class="sheet-title">周期设置</div>
-    <div class="form-row"><label class="form-label">平均周期（天，默认 28）</label>
-      <input class="in" type="number" id="hsCycle" value="${c.cycle}" min="15" max="60" inputmode="numeric"></div>
-    <div class="form-row"><label class="form-label">经期长度（天，默认 5）</label>
-      <input class="in" type="number" id="hsPeriod" value="${c.period}" min="1" max="15" inputmode="numeric"></div>
-    <div class="form-row"><label class="form-label">最近一次经期开始日</label>
-      <input class="in" type="date" id="hsLast" value="${esc(c.lastStart)}"></div>
-    <div class="form-actions">
-      <button class="btn ghost" onclick="closeSheet()">取消</button>
-      <button class="btn" onclick="saveHealthSettings()">保存</button>
-    </div>`);
+function delPeriod(s) {
+  data.health.periods = hPeriods().filter(p => p.start !== s);
+  saveData(); renderHealth();
 }
-function saveHealthSettings() {
-  const cyc = parseInt(document.getElementById('hsCycle').value, 10);
-  const per = parseInt(document.getElementById('hsPeriod').value, 10);
-  const last = document.getElementById('hsLast').value;
-  if (!cyc || cyc < 15 || cyc > 60) { showToast('周期需在 15~60 天之间'); return; }
-  if (!per || per < 1 || per > 15) { showToast('经期长度需在 1~15 天之间'); return; }
+function saveHealthBase(gotoPred) {
+  const last = document.getElementById('hLast').value;
+  const cyc = parseInt(document.getElementById('hCycle').value, 10);
+  const per = parseInt(document.getElementById('hPeriod').value, 10);
+  const first = document.getElementById('hFirst').value;
+  if (!last) { showToast('请填写最近一次经期开始日期'); return; }
+  if (!cyc || cyc < 15 || cyc > 60) { showToast('周期建议填 15~60 天之间的数值'); return; }
+  if (!per || per < 1 || per > 15) { showToast('经期长度建议填 1~15 天之间的数值'); return; }
   data.health = data.health || {};
+  data.health.lastPeriodStart = last;
   data.health.cycleLen = cyc;
   data.health.periodLen = per;
-  if (last) data.health.lastPeriodStart = last;
-  saveData(); closeSheet(); renderHealth();
-  showToast('设置已保存');
+  data.health.firstPeriodStart = first;
+  // 若该开始日期不在历史中，追加
+  if (!hPeriods().some(p => p.start === last)) {
+    data.health.periods.push({ start: last, end: dateKey(addDays(parseKey(last), per - 1)) });
+    data.health.periods.sort((a, b) => a.start > b.start ? -1 : 1);
+  }
+  saveData();
+  showToast('已保存');
+  if (gotoPred) setHealthTab('pred');
+}
+
+/* ---------- 周期趋势 ---------- */
+function healthTrendHtml() {
+  const ps = hPeriods().slice().sort((a, b) => a.start < b.start ? -1 : 1);
+  const cycles = [];
+  for (let i = 1; i < ps.length; i++) {
+    const len = daysBetween(parseKey(ps[i - 1].start), parseKey(ps[i].start));
+    if (len >= 10 && len <= 90) cycles.push(len);
+  }
+  const recent = cycles.slice(-6);
+  if (!recent.length) {
+    return `<div class="hb-section">周期趋势</div>
+      <div class="card" style="padding:16px">
+        <div style="font-size:12.5px;color:var(--text-faint);line-height:1.8">记录 2 次以上经期后，这里会展示最近 6 个周期的长度变化。<br>当前为演示数据示例：下图展示的是示例周期。</div>
+        ${demoTrendSvg()}
+      </div>`;
+  }
+  const avg = Math.round(recent.reduce((a, b) => a + b, 0) / recent.length);
+  const min = Math.min(...recent), max = Math.max(...recent);
+  const span = max - min;
+  const wave = span > 3 ? '存在一定波动' : '较为稳定';
+  const W = 280, H = 60, pad = 6;
+  const step = (W - pad * 2) / Math.max(1, recent.length - 1);
+  const minV = Math.min(...recent) - 1, maxV = Math.max(...recent) + 1;
+  const pts = recent.map((v, i) => `${(pad + i * step).toFixed(1)},${(H - pad - (v - minV) / (maxV - minV) * (H - pad * 2)).toFixed(1)}`).join(' ');
+  const lastIdx = recent.length - 1;
+  return `<div class="hb-section">周期趋势</div>
+    <div class="card" style="padding:16px">
+      <div class="ht-top">
+        <div class="ht-item"><b>${avg}</b>天<br>平均周期</div>
+        <div class="ht-item"><b>${min}</b>天<br>最短</div>
+        <div class="ht-item"><b>${max}</b>天<br>最长</div>
+        <div class="ht-item"><b>${wave}</b><br>波动</div>
+      </div>
+      <svg viewBox="0 0 ${W} ${H}" style="width:100%;height:64px;margin:8px 0">
+        <polyline points="${pts}" fill="none" stroke="var(--bean)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        ${recent.map((v, i) => `<circle cx="${pad + i * step}" cy="${(H - pad - (v - minV) / (maxV - minV) * (H - pad * 2)).toFixed(1)}" r="${i === lastIdx ? 3.5 : 2.5}" fill="${i === lastIdx ? 'var(--bean-deep)' : 'var(--bean)'}"/>`).join('')}
+      </svg>
+      <div style="font-size:11px;color:var(--text-faint);text-align:center">最近 ${recent.length} 个周期长度（天）· 仅作数据展示，不构成诊断</div>
+    </div>`;
+}
+function demoTrendSvg() {
+  const vals = [29, 31, 28, 30, 28];
+  const W = 280, H = 60, pad = 6;
+  const step = (W - pad * 2) / Math.max(1, vals.length - 1);
+  const pts = vals.map((v, i) => `${(pad + i * step).toFixed(1)},${(H - pad - (v - 26) / 8 * (H - pad * 2)).toFixed(1)}`).join(' ');
+  return `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:64px;margin:8px 0;opacity:.5">
+    <polyline points="${pts}" fill="none" stroke="var(--bean)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`;
+}
+
+/* ---------- 健康提示 ---------- */
+function healthTipsHtml() {
+  return `<div class="hp-tips">
+    <div class="hpt">周期、易孕期和排卵日期均为<b>估算</b>，实际时间可能因压力、睡眠、疾病、用药、激素和生活变化而不同。请勿将本预测作为避孕依据或医学诊断。</div>
+    <div class="hpt">如果出现持续异常出血、严重疼痛、连续多次月经缺失或其他担忧，请咨询专业医疗人员。</div>
+  </div>`;
+}
+
+/* 月历切月 */
+function hcalMove(n) {
+  const [y, m] = (state.hcalMonth || todayKey().slice(0, 7)).split('-').map(Number);
+  const d = new Date(y, m - 1 + n, 1);
+  state.hcalMonth = d.getFullYear() + '-' + pad2(d.getMonth() + 1);
+  renderHealth();
+}
+function hcalToday() {
+  state.hcalMonth = todayKey().slice(0, 7);
+  renderHealth();
 }
 
 </script>
