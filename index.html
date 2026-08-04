@@ -2505,6 +2505,11 @@ function renderHabit() {
   }).join('')}</div>`
     : `<div class="empty">还没有习惯<br>点右上角 ＋ 新建</div>`;
 
+  // 月度足迹 + 统计（保留功能，打卡交互简洁）
+  const mFoot = monthFootprint(habits);
+  const statView = state.habitStat || 'week';
+  const statHtml = habitStats(habits, statView);
+
   el.innerHTML = `
     <div class="tab-hero">
       <div class="th-sub">习惯养成 · ${fmtYMD(today)}</div>
@@ -2513,7 +2518,16 @@ function renderHabit() {
     </div>
     <div class="hb-weekbar">${wkHtml}</div>
     <div class="hb-todayline">今天完成 <b>${doneToday}</b>/${habits.length}${habits.length ? (pct >= 70 ? ' · 保持就好' : ' · 今天重新开始也很好') : ''}</div>
-    ${listHtml}`;
+    ${listHtml}
+    ${habits.length ? `<div class="hb-section">本月足迹</div>${mFoot}
+    <div class="hb-section">习惯统计
+      <span class="hb-seg">
+        <button class="${statView === 'week' ? 'on' : ''}" onclick="setHabitStat('week')">本周</button>
+        <button class="${statView === 'month' ? 'on' : ''}" onclick="setHabitStat('month')">本月</button>
+        <button class="${statView === 'q3' ? 'on' : ''}" onclick="setHabitStat('q3')">近三月</button>
+      </span>
+    </div>
+    ${statHtml}` : ''}`;
 }
 
 /* ---------- 月度足迹（热力图） ---------- */
