@@ -1,0 +1,41 @@
+name: zhiri-daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 北京时间 08:00
+  workflow_dispatch:       # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zhiri-daily
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 抓取当天新闻（央视/新华/人民网）
+        run: python fetch/news_fetch.py
+
+      - name: 抓取 AI 学习热点（YouTube/B站/抖音）
+        run: python fetch/study_fetch.py
+
+      - name: 提交数据并触发 Pages 更新
+        run: |
+          git config user.name "zhiri-bot"
+          git config user.email "zhiri-bot@users.noreply.github.com"
+          git add news.json study.json
+          if git diff --cached --quiet; then
+            echo "今日无数据变化"
+          else
+            git commit -m "每日内容 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
