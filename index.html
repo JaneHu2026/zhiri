@@ -580,8 +580,6 @@ async function loadExternalFeed() {
 }
 
 /* ---------- 数据层（第一阶段：localStorage，第二阶段换 IndexedDB） ---------- */
-const STORAGE_KEY = 'zhiri_v1';
-const RUNNING_KEY = 'zhiri_running_v1';
 
 function defaultCategories() {
   return [
@@ -754,32 +752,16 @@ function buildMock() {
 
 const IS_DEMO = new URLSearchParams(location.search).has('demo');
 
+/* ---------- 数据层：正式版与演示版存储完全隔离，绝不自动删除用户数据 ---------- */
+const STORAGE_KEY = IS_DEMO ? 'zhiri_demo_v1' : 'zhiri_v1';
+const RUNNING_KEY = IS_DEMO ? 'zhiri_running_demo_v1' : 'zhiri_running_v1';
+
 function loadData() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (raw) {
       const d = JSON.parse(raw);
-      if (d && d.todos && d.transactions) {
-        if (!IS_DEMO) {
-          // 正式版：若本地存的是演示数据（或旧演示特征），清空业务数据、隐藏演示横幅
-          const demoLike = d._demo || (d.todos.length > 0 && d.todos[0].text && String(d.todos[0].text).indexOf('核对本月结算单') !== -1);
-          if (demoLike) {
-            d.todos = []; d.transactions = []; d.focusItems = []; d.focusSessions = [];
-            d.settings = d.settings || {}; d.settings.bannerDismissed = true;
-          }
-          d._demo = false;
-        } else {
-          // 演示模式：若是正式空数据，换回演示数据
-          if (!d._demo && d.todos.length === 0) {
-            const fresh = buildMock();
-            saveData(fresh);
-            return fresh;
-          }
-          d._demo = true;
-        }
-        saveData(d);
-        return d;
-      }
+      if (d && d.todos && d.transactions) return d; // 直接返回，不做任何清理
     }
   } catch (_) { /* 损坏则重建 */ }
   const fresh = buildMock();
@@ -1138,10 +1120,16 @@ function openDataManage() {
   const todoN = d.todos ? d.todos.length : 0;
   const txN = d.transactions ? d.transactions.length : 0;
   const fsN = d.focusSessions ? d.focusSessions.length : 0;
+  const last = localStorage.getItem('zhiri_last_backup') || '';
+  let backupHint = '从未备份，建议现在导出一份';
+  if (last) {
+    const days = Math.floor((Date.now() - new Date(last + 'T00:00:00').getTime()) / 86400000);
+    backupHint = days <= 7 ? '上次备份：' + last + ' ✅' : '上次备份：' + last + '（已超过 7 天，建议重新备份）';
+  }
   openSheet(`<div class="sheet-title">数据管理</div>
     <div style="font-size:13px;color:var(--text-dim);margin-bottom:12px;line-height:1.7">
       当前本机数据：待办 ${todoN} 条 · 账目 ${txN} 笔 · 专注记录 ${fsN} 条<br>
-      数据保存在本机浏览器中，更换手机或清除浏览器数据前请先备份。
+      ${backupHint}
     </div>
     <div class="form-row">
       <button class="btn block" onclick="exportBackup()">⬇ 导出备份（下载数据文件）</button>
@@ -1164,6 +1152,7 @@ function exportBackup() {
   a.download = '知日备份_' + todayKey() + '.json';
   document.body.appendChild(a); a.click();
   setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+  try { localStorage.setItem('zhiri_last_backup', todayKey()); } catch (_) {}
   showToast('备份已导出，请妥善保存该文件');
 }
 function importBackup(e) {
