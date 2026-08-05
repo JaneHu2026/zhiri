@@ -1057,14 +1057,17 @@ function idbDel(key) {
 }
 
 /* ---------- 数据层（第二阶段：IndexedDB 主存储 + localStorage 双写副本） ---------- */
-function saveData(d) {
-  const obj = d || data;
+function makeSlim(obj) {
   // 新闻/学习是外部内容（云端拉取），不写入本地存储——避免大数组每次全量序列化导致卡顿/超限
-  const slim = {
+  return {
     ...obj,
     news: { fetchedAt: (obj.news && obj.news.fetchedAt) || '', fetchedDate: (obj.news && obj.news.fetchedDate) || '', items: [] },
     study: [],
   };
+}
+function saveData(d) {
+  const obj = d || data;
+  const slim = makeSlim(obj);
   try { localStorage.setItem(STORAGE_KEY, JSON.stringify(slim)); } catch (_) {}
   try { idbSet(IDB_KEY, slim).catch(() => {}); } catch (_) {}
 }
@@ -1076,15 +1079,36 @@ function ensureContent(d) {
   return d;
 }
 
-/* 启动时异步升级：IndexedDB 优先，localStorage 迁移/副本 */
+/* 启动时异步升级：IndexedDB 与 localStorage 取更完整的一份（防覆盖丢数据），再双写同步 */
 async function upgradeStorage() {
   try {
-    const idbData = await idbGet(IDB_KEY);
-    if (idbData && idbData.todos && idbData.transactions) {
-      data = ensureContent(ensureDefaults(idbData)); // IndexedDB 为主（旧数据自动补齐新字段）
-      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch (_) {}
+    let idbData = null, lsData = null;
+    try {
+      const r = localStorage.getItem(STORAGE_KEY);
+      if (r) {
+        const d = JSON.parse(r);
+        if (d && d.todos && d.transactions) lsData = d;
+      }
+    } catch (_) {}
+    try { idbData = await idbGet(IDB_KEY); } catch (_) {}
+    const score = d => (d.todos ? d.todos.length : 0) + (d.transactions ? d.transactions.length : 0)
+      + (d.focusSessions ? d.focusSessions.length : 0) + (d.habits ? d.habits.length : 0)
+      + ((d.health && d.health.periods) ? d.health.periods.length : 0);
+    let chosen = null;
+    if (idbData && idbData.todos && idbData.transactions && lsData) {
+      chosen = score(idbData) >= score(lsData) ? idbData : lsData;   // 取用户数据更完整的一份
+    } else if (idbData && idbData.todos && idbData.transactions) {
+      chosen = idbData;
+    } else if (lsData) {
+      chosen = lsData;
+    }
+    if (chosen) {
+      data = ensureContent(ensureDefaults(chosen));
+      const slim = makeSlim(data);
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(slim)); } catch (_) {}
+      try { await idbSet(IDB_KEY, slim); } catch (_) {}
     } else {
-      await idbSet(IDB_KEY, ensureContent(ensureDefaults(data))); // 首次：把当前数据迁入 IndexedDB
+      await idbSet(IDB_KEY, makeSlim(ensureContent(ensureDefaults(data))));
     }
   } catch (_) { /* IndexedDB 不可用时继续用 localStorage */ }
   if (renderers[state.tab]) renderers[state.tab]();
@@ -1898,7 +1922,9 @@ function cleanSummary(s) {
 function renderNews() {
   const el = document.getElementById('tab-news');
   const items = data.news ? data.news.items : [];
-  const sorted = [...items].sort((a, b) => (a.day ?? 9) - (b.day ?? 9));
+  // 只显示当天新闻（day<=0）；宁可少，不要昨天的
+  const todayItems = items.filter(n => (n.day ?? 9) <= 0);
+  const sorted = [...todayItems].sort((a, b) => (a.day ?? 9) - (b.day ?? 9));
   const shown = state.newsGroup === 'all' ? sorted : sorted.filter(n => n.group === state.newsGroup);
   const fetched = data.news ? `早报 · ${data.news.fetchedAt} 更新` : '';
 
@@ -1919,7 +1945,7 @@ function renderNews() {
         <div class="ns-title">${esc(n.title)}</div>
         <div class="ns-sum">${cleanSummary(n.summary)}</div>
         <div class="ns-foot"><span>${esc(n.source)}</span><span>${esc(n.time)}</span><span class="ns-dedup">原文</span></div>
-      </a>`).join('') : `<div class="empty">暂无内容</div>`}
+      </a>`).join('') : `<div class="empty">${items.length ? '今天的新闻还没发布，稍后自动刷新' : '暂无内容'}</div>`}
     </div>`;
 }
 function setNewsGroup(g) { state.newsGroup = g; state.newsTheme = 'all'; renderNews(); }
