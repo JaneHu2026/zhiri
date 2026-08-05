@@ -75,15 +75,22 @@ def fmt_dur(sec):
     except Exception:
         return '—'
 
-# ---------- YouTube ----------
+# ---------- YouTube（多频道最新 AI 视频 + 自动译中） ----------
 YT_CHANNELS = [
-    ('Andrej Karpathy', 'UCXUPKJO5MZQN11PqgIvyuvQ'),
-    ('3Blue1Brown', 'UCYO_jab_esuFRV4b17AJtAw'),
-    ('Two Minute Papers', 'UCbfYPyITQ-7l4upoX8nvctg'),
-    ('跟李沐学AI', 'UCDz_bzi6t_iY2GIJTHnxH6Q'),
-    ('AI Explained', 'UC_HhOkzorAO4_rRsTiiHZ_w'),
-    ('1littlecoder', 'UCpV_X0VrL8-jg3t6wYGS-1g'),
-    ('sentdex', 'UCfzlCWGWYyIQ0aLC5w48gBQ'),
+    ('Andrej Karpathy', 'UCXUPKJO5MZQN11PqgIvyuvQ'),          # LLM 深度学习教学
+    ('3Blue1Brown', 'UCYO_jab_esuFRV4b17AJtAw'),              # 深度学习可视化
+    ('Two Minute Papers', 'UCbfYPyITQ-7l4upoX8nvctg'),        # AI 论文/新模型解读
+    ('跟李沐学AI', 'UCDz_bzi6t_iY2GIJTHnxH6Q'),               # 中文 AI 深度学习教学
+    ('AI Explained', 'UC_HhOkzorAO4_rRsTiiHZ_w'),             # 新模型/Agent 资讯解读
+    ('1littlecoder', 'UCpV_X0VrL8-jg3t6wYGS-1g'),             # Agent/本地模型实战教程
+    ('sentdex', 'UCfzlCWGWYyIQ0aLC5w48gBQ'),                  # Python AI 编程实战
+    ('Wes Roth', 'UCjUv2vz7N2uX7q1mDgQ2k8g'),                 # AI 新模型/行业热点
+    ('Matt Wolfe', 'UCWnP1qK4tR5R1UqA6MQsGgA'),               # AI 工具/资讯周报
+    ('ColdFusion', 'UC4QZ_LzYJG9vi1MO0N5j3iw'),               # 科技趋势解读
+    ('The AI Daily Brief', 'UCNzszBnbeeYzUZ6d0lM9G7w'),       # AI 每日简报
+    ('Lex Clips', 'UCLPfNp95fG5aJSDnZfO4x8A'),                # AI 对谈精选
+    ('DigitalEngineer', 'UC9Q6md8qY0rYhTVY5gGGOzA'),          # AI 前沿资讯
+    ('Dave Ebbelaar', 'UC2hMWOaOlwr9vGmm4j8rfqA'),            # AI 实战教程
 ]
 YT_NS = {'a': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/schemas/2015',
          'media': 'http://search.yahoo.com/mrss/'}
@@ -95,7 +102,7 @@ def yt_items():
             url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + cid
             txt = get(url, timeout=15, extra={'Cookie': 'CONSENT=YES+cb.20210328-17-p0.en+FX+417'})
             root = ET.fromstring(txt)
-            for e in root.findall('a:entry', YT_NS)[:3]:
+            for e in root.findall('a:entry', YT_NS)[:2]:
                 vid = (e.findtext('yt:videoId', default='', namespaces=YT_NS) or '').strip()
                 if not vid:
                     continue
@@ -117,6 +124,13 @@ def yt_items():
         time.sleep(1)
     out.sort(key=lambda x: x['updated'], reverse=True)
     return out[:8]
+
+# B站严格 AI 关键词（宁缺毋滥，避免"模型/教程"等宽词误匹配娱乐内容）
+STRICT_AI_KEYS = ['人工智能', '大模型', '语言模型', '机器学习', '深度学习', '神经网络',
+                  'gpt', 'llm', 'openai', 'chatgpt', 'sora', 'aigc', '智能体', 'agent',
+                  '数字人', '自动驾驶', '机器人', '算力', 'ai', '芯片', 'ai眼镜',
+                  'midjourney', 'stable diffusion', 'kimi', 'deepseek', 'claude', 'gemini',
+                  '通义', '文心', '豆包', '元宝', '开源模型', '训练', '推理']
 
 # ---------- B站 ----------
 def bili_items():
@@ -140,7 +154,7 @@ def bili_items():
                 bvid = v.get('bvid', '')
                 if not t or not bvid or bvid in seen:
                     continue
-                if not any(k in t.lower() for k in AI_KEYS):
+                if not any(k in t.lower() for k in STRICT_AI_KEYS):
                     continue
                 seen.add(bvid)
                 out.append({

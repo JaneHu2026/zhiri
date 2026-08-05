@@ -51,6 +51,74 @@ def get(url, timeout=15):
     except LookupError:
         return raw.decode('utf-8', 'ignore')
 
+def zh_translate(text, limit=160):
+    """英文标题/摘要 → 中文（Google 免费接口，失败回退原文）"""
+    if not text:
+        return ''
+    ascii_ratio = sum(1 for c in text if ord(c) < 128) / max(1, len(text))
+    if ascii_ratio < 0.5:
+        return text
+    src = text[:limit]
+    try:
+        q = urllib.parse.quote(src)
+        j = json.loads(get('https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=' + q, timeout=10))
+        parts = [seg[0] for seg in (j[0] or []) if seg and seg[0]]
+        if parts:
+            return ''.join(parts).strip()[:200]
+    except Exception:
+        pass
+    return text
+
+def bbc_world_group(today):
+    """BBC World（国外权威官方源，RSS 当天 + 自动译中）"""
+    import xml.etree.ElementTree as ET
+    import time as _t
+    txt = get('https://feeds.bbci.co.uk/news/world/rss.xml', timeout=20)
+    root = ET.fromstring(txt)
+    out = []
+    for it in root.findall('.//item'):
+        pub = it.findtext('pubDate') or ''
+        try:
+            d = datetime.strptime(pub[:16], '%a, %d %b %Y')   # "Wed, 05 Aug 2026" 16字符
+            d = d.date()
+        except Exception:
+            continue
+        if d != today:
+            continue
+        title = re.sub(r'\s+', ' ', it.findtext('title') or '').strip()
+        if len(title) < 8:
+            continue
+        desc = re.sub(r'<[^>]+>', '', it.findtext('description') or '')
+        desc = re.sub(r'\s+', ' ', desc).strip()
+        out.append({'title': title, 'url': it.findtext('link') or '', 'desc': desc, 'pub': d})
+        if len(out) >= 8:
+            break
+    result = []
+    for i, it in enumerate(out[:8]):
+        result.append({
+            'group': 'gj', 'theme': '国际', 'title': zh_translate(it['title']),
+            'source': 'BBC', 'time': '今天', 'url': it['url'],
+            'summary': zh_translate(it['desc'][:140]) or '（点击查看原文）', 'day': 0,
+        })
+        _t.sleep(0.6)  # 错峰，避免翻译限流
+    return result
+
+def chinanews_gj_group(today):
+    """中新网国际（国内权威，URL 当天过滤）"""
+    h = get('https://www.chinanews.com.cn/gj/', timeout=15)
+    items = parse_links(h, [
+        (r'<a[^>]*href="(https?://www\.chinanews\.com\.cn/gj/\d{4}/\d{2}-\d{2}/[^"]+)"[^>]*>([^<]{8,60})</a>', 10),
+    ], limit=20)
+    return collect(today, 'gj', '中新网', 'https://www.chinanews.com.cn', items)
+
+def xinhua_world_group(today):
+    """新华网国际频道（URL 当天过滤）"""
+    h = get('https://www.news.cn/world/', timeout=15)
+    items = parse_links(h, [
+        (r'<a[^>]*href="(/(?:world/)?\d{6,8}/[^"]+\.html)"[^>]*>([^<]{10,60})</a>', 12),
+    ], limit=20)
+    return collect(today, 'gj', '新华网', 'https://www.news.cn', items)
+
 def url_date(url):
     """从文章 URL 提取日期：返回 (date) 或 None"""
     m = re.search(r'/(20\d{2})/(\d{2})-(\d{2})/', url)       # 中新网 /2026/08-03/
@@ -172,7 +240,12 @@ def main():
     except Exception as e:
         errors.append('新华: %s' % e)
 
-    # 3) 人民网国际（国际）
+    # 3) 国际新闻（BBC 国外权威 + 人民网国际/中新网国际/新华国际）
+    try:
+        g = bbc_world_group(today)
+        if g: groups.append(g)
+    except Exception as e:
+        errors.append('BBC: %s' % e)
     try:
         h = get('https://world.people.com.cn/')
         items = parse_links(h, [
@@ -182,6 +255,16 @@ def main():
         if g: groups.append(g)
     except Exception as e:
         errors.append('人民网国际: %s' % e)
+    try:
+        g = chinanews_gj_group(today)
+        if g: groups.append(g)
+    except Exception as e:
+        errors.append('中新网国际: %s' % e)
+    try:
+        g = xinhua_world_group(today)
+        if g: groups.append(g)
+    except Exception as e:
+        errors.append('新华国际: %s' % e)
 
     # 合并、排序（今天在前）
     all_items = [it for g in groups for it in g]
