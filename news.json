@@ -1,18 +1,8 @@
 {
- "fetchedAt": "06:22",
+ "fetchedAt": "11:45",
  "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“以天下之利为利”——中国元首外交的世界情怀与大国气派",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIpOSpmZyjgXuYMUcmv0L0260805.shtml",
-   "summary": "新华社北京8月4日电 “各国共同发展才是真发展。世界繁荣稳定不可能建立在贫者愈贫、富者愈富的基础之上。每个国家都想过上好日子，现代化不是哪个国家的特权。”",
-   "day": 0
-  },
   {
    "group": "gn",
    "theme": "教育",
@@ -25,22 +15,32 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "“避暑经济”持续升温 “凉资源”撬动“热消费”",
+   "theme": "要闻",
+   "title": "我国成功发射东方慧眼高光谱01 02星",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIcVuG4E7U7CuIrPbSbprx260804.shtml",
-   "summary": "cc80b4a47d65,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEurDXIwTNH302J54pBxHx260805.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "一件“空调马甲”，一种怎样的守护？",
+   "title": "为什么要做太空计算星座？专访中国工程院院士王坚",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/05/VIDEPMUPUp27XHFkW055KjLt260805.shtml",
-   "summary": "本期节目主要内容： 最近几天，在江苏南京，一款环卫工人身穿的“空调马甲”备受关注。给环卫工人配备“空调马甲”，实际上是从7月15日开始的，首批20件配发到玄武区部分路段的一线环卫工手中，让高温下的劳动者多一份清凉。（《新闻1+1》 20260804 一件“空调马甲”，一种怎样的守护？）",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEFbu3F8IdW7digyOVu3Zt260805.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "焕新闲置空间打造便民服务综合体 “居民点菜”推动社区共建共治共享",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTIaC5mG2oFXFpHK6GEMXXr260805.shtml",
+   "summary": "300c9f07ff3a,0,1,16:9,newPlayer8b9f47769447,0,1,16:9,newPlayer8abe2a4a0144,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -65,21 +65,21 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "六部门发文加强人民法院聘用制书记员队伍规范管理",
+   "theme": "财经",
+   "title": "时政微观察丨向新向优向好！中国经济展现强大韧性和活力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIbZUpWkB2YHVebj0Yut6H260805.shtml",
+   "url": "https://news.cctv.com/2026/08/05/ARTI76FW0eBCPmBTaKS7wacr260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "马某林抢劫再审抗诉案等作为最高检指导性案例发布",
+   "theme": "要闻",
+   "title": "神二十一号乘组返回后首次与记者见面",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIelRITJGuBKnErfVqQ1f1260805.shtml",
+   "url": "https://tv.cctv.com/2026/08/05/VIDElkFOzzRiAXxD1nBIjIal260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -116,6 +116,26 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "俄罗斯空袭造成至少17人死亡，泽伦斯基称拦截器本可以挽救生命",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+   "summary": "俄罗斯国防部表示，袭击了基辅及周边地区的后勤枢纽和供应中心。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴基斯坦限制国际媒体报道",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+   "summary": "任何为外国媒体工作的人，包括巴基斯坦人，现在都需要获得许可才能在三个主要城市以外的任何地方进行报道。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "特朗普表示，如果油价下跌，霍尔木兹海峡不尽快开放，伊朗将受到“严重打击”",
    "source": "BBC",
    "time": "今天",
@@ -126,31 +146,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "官员称俄罗斯弹道导弹袭击基辅造成至少14人死亡",
+   "title": "佩雷斯·希尔顿在直播期间自残，目前正在医院康复中",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-   "summary": "基辅军事当局负责人表示，俄罗斯“再次大规模攻击”该市周边地区。",
+   "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
+   "summary": "迈阿密警方告诉美国媒体，这位名人博主已从家中“安全找到”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "总统访问前，一名武装男子在特朗普高尔夫球场附近被捕",
+   "title": "墨西哥影响者在直播中被枪杀",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-   "summary": "这次逮捕发生在特朗普总统即将在加利福尼亚州沿海高尔夫球场举办筹款晚宴之前不久。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+   "summary": "塞萨尔·加斯特卢姆 (César Gastélum) 以喜剧和生活类帖子而闻名，他被一名骑摩托车的男子近距离杀死。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "当局表示，华盛顿野火纵火嫌疑人两次与其他火灾有关",
+   "title": "韩国创纪录热浪 气温飙升至42.5摄氏度",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-   "summary": "据称，37 岁的亚伦·法里纳奇 (Aaron Farinacci) 被发现在最近发生的火灾附近，并被发现有火柴和打火机。",
+   "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+   "summary": "至少有 19 人因热浪死亡，这是该国有记录以来最热的一天。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "因“坦克日”惨败警方突击搜查星巴克韩国总部",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+   "summary": "人们对星巴克提出投诉，称其对致命的光州起义轻描淡写。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "阿富汗拳击手因与苏格兰妇女之死有关而出庭",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+   "summary": "26 岁的谢里夫·艾哈迈德扎伊 (Sharif Ahmadzai) 因与爱丁堡伊丽莎白·罗斯 (Elisabeth Ross) 的死亡有关而被拘留。",
    "day": 0
   },
   {

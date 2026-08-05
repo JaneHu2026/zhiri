@@ -1,5 +1,5 @@
 {
- "fetchedAt": "06:22",
+ "fetchedAt": "11:46",
  "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
@@ -134,11 +134,27 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "打工喵i",
+   "title": "当我试图驯服AI做短剧（6）",
+   "duration": "1:14",
+   "heat": 2459901,
+   "updated": "2026-08-05T11:46:02.870642",
+   "url": "https://www.bilibili.com/video/BV1zT3R6jEct",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390584,
-   "updated": "2026-08-05T06:22:29.102656",
+   "heat": 390586,
+   "updated": "2026-08-05T11:46:02.870654",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -154,7 +170,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653393,
-   "updated": "2026-08-05T06:22:29.102666",
+   "updated": "2026-08-05T11:46:02.870656",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -169,8 +185,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557306,
-   "updated": "2026-08-05T06:22:29.102669",
+   "heat": 557311,
+   "updated": "2026-08-05T11:46:02.870658",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -185,8 +201,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155457,
-   "updated": "2026-08-05T06:22:29.102670",
+   "heat": 155461,
+   "updated": "2026-08-05T11:46:02.870659",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -201,8 +217,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611271,
-   "updated": "2026-08-05T06:22:29.102672",
+   "heat": 611273,
+   "updated": "2026-08-05T11:46:02.870661",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -217,8 +233,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2658873,
-   "updated": "2026-08-05T06:22:29.102674",
+   "heat": 2658879,
+   "updated": "2026-08-05T11:46:02.870662",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -234,24 +250,8 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58618,
-   "updated": "2026-08-05T06:22:29.102676",
+   "updated": "2026-08-05T11:46:02.870663",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "AI斌工厂",
-   "title": "你永远猜不到真正用途的蹦跶机器人",
-   "duration": "0:37",
-   "heat": 1015286,
-   "updated": "2026-08-05T06:22:29.102678",
-   "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [],
    "flags": {
     "fav": false,
