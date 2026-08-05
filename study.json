@@ -1,6 +1,6 @@
 {
- "fetchedAt": "01:08",
- "fetchedDate": "2026-08-04",
+ "fetchedAt": "02:21",
+ "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
   {
@@ -78,14 +78,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "OpenAI hacked HuggingFace",
+   "author": "3Blue1Brown",
+   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-22T16:28:16+00:00",
-   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+   "updated": "2026-07-16T11:56:04+00:00",
+   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
    "points": [
-    "HuggingFace 对事件的报道： OpenAI 对事件的报道："
+    "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
    ],
    "flags": {
     "fav": false,
@@ -96,50 +96,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "GPT 6 potentially LEAKS!!!",
+   "author": "3Blue1Brown",
+   "title": "100 random chords, how many intersections?",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-21T22:00:07+00:00",
-   "url": "https://www.youtube.com/watch?v=u5esm1--kUo",
+   "updated": "2026-06-16T18:04:05+00:00",
+   "url": "https://www.youtube.com/watch?v=wGffBCfrAsE",
    "points": [
-    "上周，Hugging Face 在检测并遏制后披露了一种新型安全事件⁠(opens in a new window)"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "You Can Just Download More Tokens/Sec",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-20T15:05:01+00:00",
-   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
-   "points": [
-    "谈论 DeepSeek DSpark / DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等等。写下w"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-17T21:55:53+00:00",
-   "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-   "points": [
-    "🔗 链接 🔗 我挑战 Kimi K3 vs Fable 5 vs Sol 5.6 来制作《奥德赛》.... 只需一个提示！结果是stu"
+    "与 MoMath 合作完成的一系列每月谜题的一部分。"
    ],
    "flags": {
     "fav": false,
@@ -153,41 +117,9 @@
    "author": "中国青年报",
    "title": "动手能力超强！13岁男生用废纸板和胶水，“手搓”各种武器装备模型。",
    "duration": "0:38",
-   "heat": 7948559,
-   "updated": "2026-08-04T01:08:13.703861",
+   "heat": 8847177,
+   "updated": "2026-08-05T02:21:09.912031",
    "url": "https://www.bilibili.com/video/BV1FcGP6GEWV",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "星辉绿野",
-   "title": "假如你和十万人一起相亲【AI全民制作人】",
-   "duration": "3:13",
-   "heat": 1150900,
-   "updated": "2026-08-04T01:08:13.703875",
-   "url": "https://www.bilibili.com/video/BV1CtGV6yEUR",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "嘞是唐孃孃",
-   "title": "《全世界最会用AI的人》",
-   "duration": "2:09",
-   "heat": 2435127,
-   "updated": "2026-08-04T01:08:13.703878",
-   "url": "https://www.bilibili.com/video/BV12uGN6RETc",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +133,8 @@
    "author": "趣共享资源",
    "title": "每天认识一个强大的网站【第1期】 一个全面的设备维修教程网站，甚至还有修飞机的教程！",
    "duration": "0:37",
-   "heat": 2924045,
-   "updated": "2026-08-04T01:08:13.703879",
+   "heat": 2924162,
+   "updated": "2026-08-05T02:21:09.912041",
    "url": "https://www.bilibili.com/video/BV1x8X6YFEF8",
    "points": [],
    "flags": {
@@ -217,8 +149,8 @@
    "author": "差评硬件部",
    "title": "游戏开发者大会上，我看见中国游戏厂商在疯狂秀操作【X.PIN】",
    "duration": "11:06",
-   "heat": 174854,
-   "updated": "2026-08-04T01:08:13.703881",
+   "heat": 174861,
+   "updated": "2026-08-05T02:21:09.912044",
    "url": "https://www.bilibili.com/video/BV1GtZpYKEPo",
    "points": [],
    "flags": {
@@ -233,8 +165,8 @@
    "author": "符文战场",
    "title": "【开发者日志】全新卡面来袭！产品细节首次曝光！",
    "duration": "5:05",
-   "heat": 665144,
-   "updated": "2026-08-04T01:08:13.703883",
+   "heat": 665145,
+   "updated": "2026-08-05T02:21:09.912046",
    "url": "https://www.bilibili.com/video/BV1scZpY9EHr",
    "points": [],
    "flags": {
@@ -250,7 +182,7 @@
    "title": "为什么代码总有Bug❓",
    "duration": "0:19",
    "heat": 648025,
-   "updated": "2026-08-04T01:08:13.703884",
+   "updated": "2026-08-05T02:21:09.912047",
    "url": "https://www.bilibili.com/video/BV1XhZBYEEp3",
    "points": [],
    "flags": {
@@ -265,10 +197,60 @@
    "author": "花叔v",
    "title": "挑战用手机写代码！我开发了第二个「小猫补光灯」｜登上了AppStore排行榜",
    "duration": "8:51",
-   "heat": 171434,
-   "updated": "2026-08-04T01:08:13.703886",
+   "heat": 171465,
+   "updated": "2026-08-05T02:21:09.912049",
    "url": "https://www.bilibili.com/video/BV1S8ZCYsEB9",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "阿硕讲ai",
+   "title": "把视频中的人物替换教程 让你马起飞",
+   "duration": "1:52",
+   "heat": 986209,
+   "updated": "2026-08-05T02:21:09.912050",
+   "url": "https://www.bilibili.com/video/BV113Z7YrEKL",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "优设AIGC",
+   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
+   "duration": "0:54",
+   "heat": 653393,
+   "updated": "2026-08-05T02:21:09.912052",
+   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "自动驾驶系统安全强制性国标发布",
+   "duration": "—",
+   "heat": 9117311,
+   "updated": "2026-08-05T02:21:09.912053",
+   "url": "https://www.douyin.com/search/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E6%A0%87%E5%8F%91%E5%B8%83?type=general",
+   "points": [
+    "热门话题「自动驾驶系统安全强制性国标发布」：相关视频 5 条"
+   ],
    "flags": {
     "fav": false,
     "watched": false,

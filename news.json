@@ -1,147 +1,97 @@
 {
- "fetchedAt": "01:07",
- "fetchedDate": "2026-08-04",
+ "fetchedAt": "02:20",
+ "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "中国式现代化为何关键在科技现代化？总书记作出战略指引",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/04/ARTI8xwQR52zbmoJ67iI4wj4260804.shtml",
-   "summary": "中国式现代化关键在科技现代化。“十五五”时期是科技强国建设的关键攻坚期。今年以来，着眼于“十五五”开局起步，习近平总书记围绕科技创新作出一系列重大决策部署，加快推进高水平科技自立自强。",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "要闻",
-   "title": "今年上半年1535名纪检监察干部被处分",
+   "title": "“以天下之利为利”——中国元首外交的世界情怀与大国气派",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/04/ARTIxC5A4v9q3XcwqiqgWckV260804.shtml",
-   "summary": "全国纪检监察机关共接收涉及纪检监察干部问题线索或反映1.55万余件次，处置涉及纪检监察干部问题线索1.42万余件，谈话函询纪检监察干部4385人次，对纪检监察干部立案1685人，处分1535人，移送司法机关138人。其中，处分厅局级干部59人、县处级干部356人。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "以数智技术赋能基层应急治理",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/04/ARTIfnxjJpXUWWWJlAwBoOYA260804.shtml",
-   "summary": "（作者为福建省习近平新时代中国特色社会主义思想研究中心特约研究员）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "到2030年我国将基本形成绿色低碳电力供给格局",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/04/VIDEuHbGVYzFb0xAIeuO0Uy2260804.shtml",
-   "summary": "《新型电力系统建设“十五五”规划》发布：2030年基本形成绿色低碳电力供给格局。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "各环节多举措应对高温“烤”验 守护夏日“菜篮子”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/04/ARTIC3jOECASnFxHOZhpi8AN260803.shtml",
-   "summary": "[!--begin:htmlVideoCode--]25fcead66a904b41b8485fce163c329f,0,1,16:9,newPlayer[!--end:htmlVideoCode--]",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "医疗",
-   "title": "这些区域桑拿天持续 防暑降温要注意这些健康常识",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/04/ARTIvO87ex7Vxh41NlIBq1ND260803.shtml",
-   "summary": "[!--begin:htmlVideoCode--]ce0aab498bac4866ae16826020e08be9,0,1,16:9,newPlayer[!--end:htmlVideoCode--]",
+   "url": "https://news.cctv.com/2026/08/05/ARTIpOSpmZyjgXuYMUcmv0L0260805.shtml",
+   "summary": "新华社北京8月4日电 “各国共同发展才是真发展。世界繁荣稳定不可能建立在贫者愈贫、富者愈富的基础之上。每个国家都想过上好日子，现代化不是哪个国家的特权。”",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "上半年我国软件业务收入同比增长9.5%",
+   "title": "“避暑经济”持续升温 “凉资源”撬动“热消费”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/04/VIDEDlHbKBE1iqwny6Eq0dyc260804.shtml",
+   "url": "https://news.cctv.com/2026/08/05/ARTIcVuG4E7U7CuIrPbSbprx260804.shtml",
+   "summary": "cc80b4a47d65,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "一件“空调马甲”，一种怎样的守护？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEPMUPUp27XHFkW055KjLt260805.shtml",
+   "summary": "本期节目主要内容： 最近几天，在江苏南京，一款环卫工人身穿的“空调马甲”备受关注。给环卫工人配备“空调马甲”，实际上是从7月15日开始的，首批20件配发到玄武区部分路段的一线环卫工手中，让高温下的劳动者多一份清凉。（《新闻1+1》 20260804 一件“空调马甲”，一种怎样的守护？）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "到2030年我国基本形成绿色低碳电力供给格局",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTIpJLPCBAsTWlS16aMGZ2a260805.shtml",
+   "summary": "国家发展改革委、国家能源局近日发布《新型电力系统建设“十五五”规划》，明确未来五年我国电力发展的总体思路，提出到2030年初步建成新型电力系统的战略目标，部署电力行业发展的主要目标、重大工程、重点任务。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "“小票根”解锁多元场景 “电影+”业态激发消费新活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTIxG7RFTqtVPB6yU95OTzO260805.shtml",
+   "summary": "进入暑期档，一批优质影片接连上映，带动观众以电影为纽带，感受时代的发展脉动。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "8月5日（出票日期）起 国内航线燃油附加费再次下调",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTIaci2mByIcU7VCPMfESug260805.shtml",
+   "summary": "多家航司发布公告称，8月5日（出票日期）起，国内航线燃油附加费将再次下调。其中，成人旅客800公里以上航线每位旅客收取70元燃油附加费，800公里（含）以下航线每位旅客收取40元燃油附加费，较此前分别下降了30元和10元。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "高温天暴汗后猛喝冰饮 易引发心梗",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTIDKYijepUu1t4EvIPoJmN260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“空中校车”上新 288米电梯托举山乡学子云端求学路",
+   "title": "日美加紧军事捆绑 鹿儿岛和平人士抗议",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/04/ARTIodWf8vQHn51gc8EB70pB260803.shtml",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEnmL5ADegtvVRBds9n1ov260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "文旅新探｜到锡林郭勒草原“追星”",
+   "title": "新大众文艺城市快闪来袭，西安街头赴一场文艺之约",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/ci/20260804/e32547264f964d60a93449506d356e11/c.html",
-   "summary": "文旅新探｜到锡林郭勒草原“追星”- 8月2日，游客在星空文化旅游营地游玩。",
+   "url": "https://www.news.cn/ci/20260805/2985c637847d4ee59e416ae02950568e/c.html",
+   "summary": "新大众文艺城市快闪来袭，西安街头赴一场文艺之约-",
    "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "内蒙古：指尖技艺绽放“幸福花”",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/ci/20260804/92bf56557c9343f1968c0489cd2ab086/c.html",
-   "summary": "内蒙古：指尖技艺绽放“幸福花”- 辛金亮是阿拉坦格日乐文化创意工作室负责人。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "清爽一夏｜“绕郭荷花”今更盛，杭州兴起“荷花热”",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/ci/20260804/21875853a76d47fe8587caa922799822/c.html",
-   "summary": "清爽一夏｜“绕郭荷花”今更盛，杭州兴起“荷花热”- 在杭州，人们对荷花的爱，是刻进骨子里的。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "中俄首条跨境索道主体工程完工",
-   "source": "人民网",
-   "time": "昨天",
-   "url": "https://world.people.com.cn/n1/2026/0803/c1002-40772860.html",
-   "summary": "新华社哈尔滨8月2日电（记者李建平王君宝）中俄首条跨境索道项目、黑河—布拉戈维申斯克跨黑龙江跨境客运索道项目主体工程已经完工，整体工程项目预计今年内可以全部完工，届时中俄之间人员往来效率将大幅提升。中",
-   "day": 1
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "美伊或将举行谈判 国际油价显著下跌",
-   "source": "人民网",
-   "time": "昨天",
-   "url": "http://world.people.com.cn/n1/2026/0803/c1002-40772841.html",
-   "summary": "新华社纽约8月2日电（记者刘亚南）由于市场预期美国和伊朗很快举行新一轮谈判，国际原油期货价格美东时间2日下午在新一周交易开始后显著下跌。截至美东时间2日19时，纽约商品交易所9月交货的轻质原油期货价格",
-   "day": 1
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "列国鉴丨记者观察：比利时，“薯条控…",
-   "source": "人民网",
-   "time": "昨天",
-   "url": "http://world.people.com.cn/n1/2026/0803/c1002-40772932.html",
-   "summary": "新华社布鲁塞尔8月2日电（记者康逸）提起比利时代表性食品，你可能会想到巧克力；若问比利时人，答案可能是“薯条”。他们甚至为薯条创造了一个节日——8月1日的“比利时薯条国际日”。今年的这一天，在首都布鲁",
-   "day": 1
   }
  ]
 }
