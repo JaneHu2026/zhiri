@@ -96,10 +96,13 @@ def parse_links(html, patterns, limit=20):
             if len(items) >= limit:
                 return items
     return items
-
 def article_desc(url):
+    """抓文章页，取 meta description 或正文首段作为简要内容"""
     try:
         h = get(url, timeout=8)
+        h = re.sub(r'<!--.*?-->', '', h, flags=re.S)  # 去掉 HTML 注释（央视视频站有 [!--begin:htmlVideoCode--] 残留）
+        h = re.sub(r'\[!--.*?--\][a-zA-Z0-9]{4,20}', '', h)
+        h = re.sub(r'\[!--.*?--\]', '', h)
         m = re.search(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']{20,200})', h)
         if not m:
             m = re.search(r'<meta[^>]+content=["\']([^"\']{20,200})["\'][^>]+name=["\']description["\']', h)
@@ -117,7 +120,7 @@ def article_desc(url):
     return ''
 
 def collect(today, group, source, base, items, with_summary=6):
-    """items: [(title, url)] -> 过滤当天/昨天 + 输出知日格式"""
+    """items: [(title, url)] -> 严格只保留当天发布的文章（宁缺毋滥，不补昨天）"""
     out = []
     for title, url in items:
         if not url.startswith('http'):
@@ -128,23 +131,17 @@ def collect(today, group, source, base, items, with_summary=6):
         day = (today - d).days
         if day < 0:
             day = 0
-        if day > 1:
-            continue  # 只保留当天和昨天
+        if day > 0:
+            continue  # 只要当天发布的新闻
         out.append({'title': title, 'url': url, 'day': day})
-    # 优先当天，排序稳定
-    out.sort(key=lambda x: (x['day'], 0))
-    # 当天不足 3 条时保留昨天，否则只留当天
-    today_n = sum(1 for x in out if x['day'] == 0)
-    if today_n >= 3:
-        out = [x for x in out if x['day'] == 0]
     result = []
     for i, it in enumerate(out[:8]):
         summary = article_desc(it['url']) if i < with_summary else ''
         result.append({
             'group': group, 'theme': guess_theme(it['title']),
             'title': it['title'], 'source': source,
-            'time': day_label(it['day']), 'url': it['url'],
-            'summary': summary or '（点击查看原文）', 'day': it['day'],
+            'time': '今天', 'url': it['url'],
+            'summary': summary or '（点击查看原文）', 'day': 0,
         })
     return result
 
