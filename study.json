@@ -1,221 +1,17 @@
 {
- "fetchedAt": "02:21",
+ "fetchedAt": "05:45",
  "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Another DeepSeek Moment Has Arrived",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-03T09:47:34+00:00",
-   "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-   "points": [
-    "❤️ 在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-02T15:01:10+00:00",
-   "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-   "points": [
-    "❤️ 在这里查看 Lambda 并注册他们的 GPU 云：📝 论文可以在这里找到：🙏 我们要感谢我们的 ge"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Kimi K3 Just Broke The Economics Of AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-29T12:37:50+00:00",
-   "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-   "points": [
-    "❤️ 在这里查看 Lambda 并注册他们的 GPU Cloud： 📝 该论文可在此处获取：尝试 Kimi K3（视可用情况而定）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The 64 sugar cubes puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-24T15:05:39+00:00",
-   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-   "points": [
-    "查看所有每月谜题："
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-16T11:56:04+00:00",
-   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-   "points": [
-    "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "100 random chords, how many intersections?",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-06-16T18:04:05+00:00",
-   "url": "https://www.youtube.com/watch?v=wGffBCfrAsE",
-   "points": [
-    "与 MoMath 合作完成的一系列每月谜题的一部分。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
-   "author": "中国青年报",
-   "title": "动手能力超强！13岁男生用废纸板和胶水，“手搓”各种武器装备模型。",
-   "duration": "0:38",
-   "heat": 8847177,
-   "updated": "2026-08-05T02:21:09.912031",
-   "url": "https://www.bilibili.com/video/BV1FcGP6GEWV",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "趣共享资源",
-   "title": "每天认识一个强大的网站【第1期】 一个全面的设备维修教程网站，甚至还有修飞机的教程！",
-   "duration": "0:37",
-   "heat": 2924162,
-   "updated": "2026-08-05T02:21:09.912041",
-   "url": "https://www.bilibili.com/video/BV1x8X6YFEF8",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "差评硬件部",
-   "title": "游戏开发者大会上，我看见中国游戏厂商在疯狂秀操作【X.PIN】",
-   "duration": "11:06",
-   "heat": 174861,
-   "updated": "2026-08-05T02:21:09.912044",
-   "url": "https://www.bilibili.com/video/BV1GtZpYKEPo",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "符文战场",
-   "title": "【开发者日志】全新卡面来袭！产品细节首次曝光！",
-   "duration": "5:05",
-   "heat": 665145,
-   "updated": "2026-08-05T02:21:09.912046",
-   "url": "https://www.bilibili.com/video/BV1scZpY9EHr",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "鱼C-小甲鱼",
-   "title": "为什么代码总有Bug❓",
-   "duration": "0:19",
-   "heat": 648025,
-   "updated": "2026-08-05T02:21:09.912047",
-   "url": "https://www.bilibili.com/video/BV1XhZBYEEp3",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花叔v",
-   "title": "挑战用手机写代码！我开发了第二个「小猫补光灯」｜登上了AppStore排行榜",
-   "duration": "8:51",
-   "heat": 171465,
-   "updated": "2026-08-05T02:21:09.912049",
-   "url": "https://www.bilibili.com/video/BV1S8ZCYsEB9",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿硕讲ai",
-   "title": "把视频中的人物替换教程 让你马起飞",
-   "duration": "1:52",
-   "heat": 986209,
-   "updated": "2026-08-05T02:21:09.912050",
-   "url": "https://www.bilibili.com/video/BV113Z7YrEKL",
+   "author": "玄离199",
+   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
+   "duration": "6:34",
+   "heat": 390584,
+   "updated": "2026-08-05T05:45:22.720510",
+   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
     "fav": false,
@@ -230,7 +26,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653393,
-   "updated": "2026-08-05T02:21:09.912052",
+   "updated": "2026-08-05T05:45:22.720522",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -241,16 +37,94 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "自动驾驶系统安全强制性国标发布",
-   "duration": "—",
-   "heat": 9117311,
-   "updated": "2026-08-05T02:21:09.912053",
-   "url": "https://www.douyin.com/search/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E6%A0%87%E5%8F%91%E5%B8%83?type=general",
-   "points": [
-    "热门话题「自动驾驶系统安全强制性国标发布」：相关视频 5 条"
-   ],
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557306,
+   "updated": "2026-08-05T05:45:22.720525",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155456,
+   "updated": "2026-08-05T05:45:22.720527",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611271,
+   "updated": "2026-08-05T05:45:22.720532",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2658873,
+   "updated": "2026-08-05T05:45:22.720534",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "CG迷李辰",
+   "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
+   "duration": "21:11",
+   "heat": 58618,
+   "updated": "2026-08-05T05:45:22.720536",
+   "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "AI斌工厂",
+   "title": "你永远猜不到真正用途的蹦跶机器人",
+   "duration": "0:37",
+   "heat": 1015286,
+   "updated": "2026-08-05T05:45:22.720538",
+   "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,

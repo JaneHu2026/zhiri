@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:20",
+ "fetchedAt": "05:45",
  "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
@@ -11,6 +11,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/05/ARTIpOSpmZyjgXuYMUcmv0L0260805.shtml",
    "summary": "新华社北京8月4日电 “各国共同发展才是真发展。世界繁荣稳定不可能建立在贫者愈贫、富者愈富的基础之上。每个国家都想过上好日子，现代化不是哪个国家的特权。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "教育",
+   "title": "科学教育迎来重大转变 从“看实验”到“做中学” 激发学生探求欲",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTILUN8z2PyJWf3IMb1T9Me260805.shtml",
+   "summary": "21d87507ebf8,0,1,16:9,newPlayer652c7ca6ca64,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -36,51 +46,61 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "到2030年我国基本形成绿色低碳电力供给格局",
+   "title": "千年古城如何留下游客？13个旅游特色村连成“村圈”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIpJLPCBAsTWlS16aMGZ2a260805.shtml",
-   "summary": "国家发展改革委、国家能源局近日发布《新型电力系统建设“十五五”规划》，明确未来五年我国电力发展的总体思路，提出到2030年初步建成新型电力系统的战略目标，部署电力行业发展的主要目标、重大工程、重点任务。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "“小票根”解锁多元场景 “电影+”业态激发消费新活力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIxG7RFTqtVPB6yU95OTzO260805.shtml",
-   "summary": "进入暑期档，一批优质影片接连上映，带动观众以电影为纽带，感受时代的发展脉动。",
+   "url": "https://news.cctv.com/2026/08/05/ARTIPRwgvWRKyuBb3p8KY97t260805.shtml",
+   "summary": "去乡村打卡，正在成为暑期消费的热门选择。在安徽省黄山市黟县，过去“看完宏村、西递就走”的游客，如今纷纷涌向周边村庄过夜，停留时间从半天拉长到两三天，而今年7月，在黟县过夜的游客反超核心景区接待量近25％。这座千年古城靠什么把游客留下来？",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "8月5日（出票日期）起 国内航线燃油附加费再次下调",
+   "title": "非洲野生动物大迁徙｜草原热气球之旅 不同视角观赏角马渡河",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIaci2mByIcU7VCPMfESug260805.shtml",
-   "summary": "多家航司发布公告称，8月5日（出票日期）起，国内航线燃油附加费将再次下调。其中，成人旅客800公里以上航线每位旅客收取70元燃油附加费，800公里（含）以下航线每位旅客收取40元燃油附加费，较此前分别下降了30元和10元。",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEl0e7vwoAFPRAVjRV2VgE260805.shtml",
+   "summary": "非洲野生动物大迁徙·坦桑尼亚：草原热气球之旅，不同视角观赏角马渡河。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "高温天暴汗后猛喝冰饮 易引发心梗",
+   "theme": "要闻",
+   "title": "六部门发文加强人民法院聘用制书记员队伍规范管理",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIDKYijepUu1t4EvIPoJmN260805.shtml",
+   "url": "https://news.cctv.com/2026/08/05/ARTIbZUpWkB2YHVebj0Yut6H260805.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "马某林抢劫再审抗诉案等作为最高检指导性案例发布",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/05/ARTIelRITJGuBKnErfVqQ1f1260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "日美加紧军事捆绑 鹿儿岛和平人士抗议",
-   "source": "央视新闻",
+   "title": "今年上半年1535名纪检监察干部被处分",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/05/VIDEnmL5ADegtvVRBds9n1ov260805.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20260805/b3fa24b8205b4df78f5136e7d69131ff/c.html",
+   "summary": "今年上半年1535名纪检监察干部被处分-\"通报显示，2026年上半年，全国纪检监察机关对纪检监察干部立案1685人，处分1535人。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "“东北超”点亮就业新解法",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260805/827704b50e884055888a9f40b48cd66a/c.html",
+   "summary": "“东北超”点亮就业新解法-\"针对外地青年球迷群体，沈阳推出“跨城来沈就业直通车”，外地求职者可凭观赛票根享受优先简历筛选、线上面试预约等专项支持。\"",
    "day": 0
   },
   {
@@ -91,6 +111,56 @@
    "time": "今天",
    "url": "https://www.news.cn/ci/20260805/2985c637847d4ee59e416ae02950568e/c.html",
    "summary": "新大众文艺城市快闪来袭，西安街头赴一场文艺之约-",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普表示，如果油价下跌，霍尔木兹海峡不尽快开放，伊朗将受到“严重打击”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+   "summary": "美国国务卿马可·卢比奥和财政部长斯科特·贝森特均宣布谈判已取得进展，允许恢复运输。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "官员称俄罗斯弹道导弹袭击基辅造成至少14人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+   "summary": "基辅军事当局负责人表示，俄罗斯“再次大规模攻击”该市周边地区。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "总统访问前，一名武装男子在特朗普高尔夫球场附近被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+   "summary": "这次逮捕发生在特朗普总统即将在加利福尼亚州沿海高尔夫球场举办筹款晚宴之前不久。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "当局表示，华盛顿野火纵火嫌疑人两次与其他火灾有关",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+   "summary": "据称，37 岁的亚伦·法里纳奇 (Aaron Farinacci) 被发现在最近发生的火灾附近，并被发现有火柴和打火机。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "旅美大熊猫“宝力”迎来5岁生日",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0805/c1002-40774195.html",
+   "summary": "8月4日，在美国首都华盛顿史密森学会国家动物园，旅美大熊猫“宝力”参加生日庆祝活动。 当天，旅美大熊猫“宝力”的5岁生日庆祝活动在史密森学会国家动物园举行。 新华社记者李睿摄",
    "day": 0
   }
  ]
