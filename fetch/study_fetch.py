@@ -89,23 +89,32 @@ YT_NS = {'a': 'http://www.w3.org/2005/Atom', 'yt': 'http://www.youtube.com/xml/s
          'media': 'http://search.yahoo.com/mrss/'}
 
 def yt_items():
+    """YouTube 7 频道最新 AI 视频：经 rss2json 中转抓取（Actions/本地均可直连；免费额度 7×7次/天 充足）"""
     out = []
     for name, cid in YT_CHANNELS:
         try:
-            url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + cid
-            txt = get(url, timeout=15, extra={'Cookie': 'CONSENT=YES+cb.20210328-17-p0.en+FX+417'})
-            root = ET.fromstring(txt)
-            for e in root.findall('a:entry', YT_NS)[:3]:
-                vid = (e.findtext('yt:videoId', default='', namespaces=YT_NS) or '').strip()
+            rss_url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + cid
+            url = 'https://api.rss2json.com/v1/api.json?rss_url=' + urllib.parse.quote(rss_url, safe='')
+            j = json.loads(get(url, timeout=15))
+            if j.get('status') != 'ok' or not j.get('items'):
+                continue
+            for e in j['items'][:3]:
+                # rss2json 无 id 字段：从 link (?v=) 或 guid (yt:video:) 提取视频 ID
+                vid = ''
+                m = re.search(r'[?&]v=([\w-]{6,})', e.get('link') or '')
+                if m:
+                    vid = m.group(1)
+                if not vid and 'yt:video:' in (e.get('guid') or ''):
+                    vid = e.get('guid', '').split('yt:video:')[-1].strip()
                 if not vid:
                     continue
-                pub = e.findtext('a:published', default='', namespaces=YT_NS) or ''
-                desc = clean_desc(e.findtext('media:group/media:description', default='', namespaces=YT_NS) or '', 200)
+                pub = e.get('pubDate', '')
+                desc = clean_desc(e.get('description') or '', 200)
                 desc = re.sub(r'https?://\S+', '', desc)
                 desc = re.sub(r'\s+', ' ', desc).strip(' -·–|')
                 out.append({
                     'platform': 'youtube', 'author': name,
-                    'title': e.findtext('a:title', default='', namespaces=YT_NS) or '',
+                    'title': e.get('title') or '',
                     'duration': '—',
                     'heat': 0,
                     'updated': pub,
@@ -114,7 +123,7 @@ def yt_items():
                 })
         except Exception:
             pass
-        time.sleep(1)
+        time.sleep(1.2)
     out.sort(key=lambda x: x['updated'], reverse=True)
     return out[:8]
 
