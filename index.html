@@ -750,6 +750,7 @@ async function loadExternalFeed() {
     if (s && s.items && s.items.length) {
       if (s.items[0].platform) {
         data.study = s.items.slice(0, 30);
+        data.studyFetched = s.fetchedAt || '';
       } else {
         data.study = convertStudy(s);
       }
@@ -1971,7 +1972,7 @@ function renderStudy() {
   const items = (data.study || []).filter(v => state.studyFilter === 'all' || v.platform === state.studyFilter);
   el.innerHTML = `
     <div class="tab-hero">
-      <div class="th-sub">AI学习流 · 今日精选</div>
+      <div class="th-sub">AI学习流 · ${data.studyFetched ? '今日 ' + esc(data.studyFetched) + ' 更新' : '今日精选'}</div>
       <div class="th-main">看懂热点，也带走方法</div>
     </div>
     <div class="chips" style="padding-bottom:8px">
