@@ -1,8 +1,136 @@
 {
- "fetchedAt": "06:06",
+ "fetchedAt": "06:22",
  "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Another DeepSeek Moment Has Arrived",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-03 09:47:34",
+   "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-02 15:01:10",
+   "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Kimi K3 Just Broke The Economics Of AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-29 12:37:50",
+   "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The 64 sugar cubes puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-24 15:05:39",
+   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "OpenAI hacked HuggingFace",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-22 16:28:16",
+   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "You Can Just Download More Tokens/Sec",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-20 15:05:01",
+   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-16 11:56:04",
+   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "In search of frontier AI at home",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-09 15:02:53",
+   "url": "https://www.youtube.com/watch?v=31MvP7yHzxM",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "bilibili",
@@ -10,7 +138,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 390584,
-   "updated": "2026-08-05T06:06:20.012779",
+   "updated": "2026-08-05T06:22:29.102656",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -26,7 +154,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653393,
-   "updated": "2026-08-05T06:06:20.012791",
+   "updated": "2026-08-05T06:22:29.102666",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -42,7 +170,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557306,
-   "updated": "2026-08-05T06:06:20.012794",
+   "updated": "2026-08-05T06:22:29.102669",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -58,7 +186,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155457,
-   "updated": "2026-08-05T06:06:20.012796",
+   "updated": "2026-08-05T06:22:29.102670",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -74,7 +202,7 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611271,
-   "updated": "2026-08-05T06:06:20.012801",
+   "updated": "2026-08-05T06:22:29.102672",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -90,7 +218,7 @@
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
    "heat": 2658873,
-   "updated": "2026-08-05T06:06:20.012803",
+   "updated": "2026-08-05T06:22:29.102674",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -106,7 +234,7 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58618,
-   "updated": "2026-08-05T06:06:20.012806",
+   "updated": "2026-08-05T06:22:29.102676",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -122,7 +250,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015286,
-   "updated": "2026-08-05T06:06:20.012808",
+   "updated": "2026-08-05T06:22:29.102678",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [],
    "flags": {
