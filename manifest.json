@@ -1,7 +1,7 @@
 {
-  "name": "知日 · 个人工作台",
-  "short_name": "知日",
-  "description": "待办 / 记账 / 新闻 / 学习 / 专注 个人工作台",
+  "name": "胡 · 个人工作台",
+  "short_name": "胡",
+  "description": "待办 / 记账 / 新闻 / 学习 / 习惯 / 健康 / 专注 个人工作台",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",
