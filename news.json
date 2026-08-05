@@ -1,8 +1,38 @@
 {
- "fetchedAt": "11:45",
+ "fetchedAt": "18:12",
  "fetchedDate": "2026-08-05",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "砥砺初心使命 把党建设得更加坚强有力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/05/VIDE7IibFphujvoGJDwivrqW260805.shtml",
+   "summary": "【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】砥砺初心使命，把党建设得更加坚强有力。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "神舟二十一号航天员乘组与记者见面会在北京举行",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEpjQssBzKQbrb1mxckJBf260805.shtml",
+   "summary": "会上介绍，神舟二十一号乘组目前身心状态良好，肌肉力量、耐力和运动心肺功能基本恢复至飞行前水平，已转入恢复观察阶段，待完成健康评估总结后，转入正常训练和工作。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "上半年我国服务进出口总额实现较快增长",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEeBe7jVuh4IOEPfkHIi7K260805.shtml",
+   "summary": "今年以来，知识密集型服务出口持续保持较快增长，上半年同比增长12.8%，在服务出口总额中的占比达到53.5%。其中，个人文化和娱乐服务、知识产权使用费出口增长最快，产业含金量持续提升。受入境游升温的带动，今年上半年，旅行服务出口也保持了30%以上的较快增速。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "教育",
@@ -11,16 +41,6 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/05/ARTILUN8z2PyJWf3IMb1T9Me260805.shtml",
    "summary": "21d87507ebf8,0,1,16:9,newPlayer652c7ca6ca64,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "我国成功发射东方慧眼高光谱01 02星",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/05/VIDEurDXIwTNH302J54pBxHx260805.shtml",
-   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -35,51 +55,31 @@
   },
   {
    "group": "gn",
+   "theme": "要闻",
+   "title": "活力中国调研行｜人才嵌入产业链",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEgG7PUdhcHXyYpqQHNGjV260805.shtml",
+   "summary": "上午9时，苏州市具身智能机器人创新中心就忙碌起来。训练场中，这个挂着“哈尔滨工业大学苏州高等研究院”标识的区域格外醒目，不时有企业前来咨询问题。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "社会",
    "title": "焕新闲置空间打造便民服务综合体 “居民点菜”推动社区共建共治共享",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/05/ARTIaC5mG2oFXFpHK6GEMXXr260805.shtml",
-   "summary": "300c9f07ff3a,0,1,16:9,newPlayer8b9f47769447,0,1,16:9,newPlayer8abe2a4a0144,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "千年古城如何留下游客？13个旅游特色村连成“村圈”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTIPRwgvWRKyuBb3p8KY97t260805.shtml",
-   "summary": "去乡村打卡，正在成为暑期消费的热门选择。在安徽省黄山市黟县，过去“看完宏村、西递就走”的游客，如今纷纷涌向周边村庄过夜，停留时间从半天拉长到两三天，而今年7月，在黟县过夜的游客反超核心景区接待量近25％。这座千年古城靠什么把游客留下来？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "非洲野生动物大迁徙｜草原热气球之旅 不同视角观赏角马渡河",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/05/VIDEl0e7vwoAFPRAVjRV2VgE260805.shtml",
-   "summary": "非洲野生动物大迁徙·坦桑尼亚：草原热气球之旅，不同视角观赏角马渡河。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "时政微观察丨向新向优向好！中国经济展现强大韧性和活力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/05/ARTI76FW0eBCPmBTaKS7wacr260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "神二十一号乘组返回后首次与记者见面",
+   "title": "网传“九寨沟湖水靠染色”系谣言 “九寨蓝”如何形成？真相来了",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/05/VIDElkFOzzRiAXxD1nBIjIal260805.shtml",
+   "url": "https://tv.cctv.com/2026/08/05/VIDEVtiFvhvyjYn9kymCyLgi260805.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -116,7 +116,27 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯空袭造成至少17人死亡，泽伦斯基称拦截器本可以挽救生命",
+   "title": "左翼政治局外人赢得密歇根州民主党参议院初选",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+   "summary": "埃及移民之子阿卜杜勒·赛义德如果 11 月当选，将成为第一位穆斯林美国参议员。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "警方称德国机场发现携带爆炸物的无人机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+   "summary": "这架无人机在乌克兰货机附近被发现，随后另一个物体在半空中与一架货机相撞。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "乌克兰称需要更多导弹拦截器 俄罗斯空袭造成21人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
@@ -126,31 +146,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴基斯坦限制国际媒体报道",
+   "title": "为什么一些科学家对 SpaceX 火箭坠入月球感到兴奋",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
-   "summary": "任何为外国媒体工作的人，包括巴基斯坦人，现在都需要获得许可才能在三个主要城市以外的任何地方进行报道。",
+   "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+   "summary": "虽然这次碰撞是一次意外，但它对行星地质学家来说是一份独特的科学礼物，可以为未来的太空探索提供重要数据。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普表示，如果油价下跌，霍尔木兹海峡不尽快开放，伊朗将受到“严重打击”",
+   "title": "联合国人权事务高级专员对三月份以来伊朗处决人数增加感到震惊",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国国务卿马可·卢比奥和财政部长斯科特·贝森特均宣布谈判已取得进展，允许恢复运输。",
+   "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+   "summary": "沃尔克·蒂尔克表示，已有 56 人因与国家安全相关的指控而被处决，其中 27 人因与 1 月抗议活动有关的案件而被处决。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "佩雷斯·希尔顿在直播期间自残，目前正在医院康复中",
+   "title": "意大利垃圾处理工人帮助中奖者找到被丢弃的价值 100 万欧元的彩票",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-   "summary": "迈阿密警方告诉美国媒体，这位名人博主已从家中“安全找到”。",
+   "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+   "summary": "当家人告诉他们他玩了多年的号码已经被抽出后，这名球员才意识到他们把这张改变人生的彩票扔进了垃圾桶。",
    "day": 0
   },
   {
@@ -166,31 +186,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "韩国创纪录热浪 气温飙升至42.5摄氏度",
+   "title": "祖马访问印度后，南非计划对前领导人出国旅行制定新规定",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
-   "summary": "至少有 19 人因热浪死亡，这是该国有记录以来最热的一天。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "因“坦克日”惨败警方突击搜查星巴克韩国总部",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-   "summary": "人们对星巴克提出投诉，称其对致命的光州起义轻描淡写。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "阿富汗拳击手因与苏格兰妇女之死有关而出庭",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-   "summary": "26 岁的谢里夫·艾哈迈德扎伊 (Sharif Ahmadzai) 因与爱丁堡伊丽莎白·罗斯 (Elisabeth Ross) 的死亡有关而被拘留。",
+   "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+   "summary": "雅各布·祖马与一名据称是南非腐败丑闻核心的商人合影",
    "day": 0
   },
   {
