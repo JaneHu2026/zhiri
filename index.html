@@ -341,6 +341,10 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .pl-bilibili{background:#E6878A;color:#fff}
 .pl-facebook{background:#3B5B93}
 .pl-x{background:#1B1B1F;border:1px solid #444}
+.pl-jqz{background:#344F42;color:#fff}
+.pl-qbit{background:#3E63B4;color:#fff}
+.pl-ithome{background:#E8844A;color:#fff}
+.pl-hn{background:#FF6600;color:#fff}
 .sc-heat{margin-left:auto;font-size:11.5px;color:var(--text-dim)}
 .sc-net{font-size:10.5px;padding:2px 8px;border-radius:8px;background:var(--apricot-soft);color:color-mix(in srgb,var(--apricot) 80%,var(--text))}
 .sc-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;line-height:1.5;padding:8px 14px 4px;cursor:pointer;display:block;text-decoration:none;color:inherit}
@@ -1996,20 +2000,26 @@ function setNewsTheme(t) { state.newsTheme = t; renderNews(); }
  * 页签四：学习
  * ============================================================ */
 const PLATFORM_META = {
-  youtube:  { name: 'YouTube',  cls: 'pl-youtube' },
-  tiktok:   { name: 'TikTok',   cls: 'pl-tiktok' },
-  douyin:   { name: '抖音',     cls: 'pl-douyin' },
-  xhs:      { name: '小红书',   cls: 'pl-xhs' },
-  bilibili: { name: 'B站',      cls: 'pl-bilibili' },
-  facebook: { name: 'Facebook', cls: 'pl-facebook' },
-  x:        { name: 'X',        cls: 'pl-x' },
+  youtube:    { name: 'YouTube',    cls: 'pl-youtube' },
+  tiktok:     { name: 'TikTok',     cls: 'pl-tiktok' },
+  douyin:     { name: '抖音',       cls: 'pl-douyin' },
+  xhs:        { name: '小红书',     cls: 'pl-xhs' },
+  bilibili:   { name: 'B站',        cls: 'pl-bilibili' },
+  facebook:   { name: 'Facebook',   cls: 'pl-facebook' },
+  x:          { name: 'X',          cls: 'pl-x' },
+  jiqizhixin: { name: '机器之心',   cls: 'pl-jqz' },
+  qbitai:     { name: '量子位',     cls: 'pl-qbit' },
+  ithome:     { name: 'IT之家',     cls: 'pl-ithome' },
+  hn:         { name: 'Hacker News', cls: 'pl-hn' },
 };
+const STUDY_ORDER = ['youtube', 'bilibili', 'douyin', 'xhs', 'jiqizhixin', 'qbitai', 'ithome', 'hn'];
 const OVERSEAS_PLATFORMS = ['youtube', 'facebook', 'x'];
 const SEARCH_ONLY_PLATFORMS = ['douyin', 'facebook', 'x'];
 const XHS_HOME = ['xhs'];
 function renderStudy() {
   const el = document.getElementById('tab-study');
   const items = (data.study || []).filter(v => state.studyFilter === 'all' || v.platform === state.studyFilter);
+  const plats = STUDY_ORDER.filter(p => (data.study || []).some(v => v.platform === p));
   el.innerHTML = `
     <div class="tab-hero">
       <div class="th-sub">AI学习流 · ${data.studyFetched ? '今日 ' + esc(data.studyFetched) + ' 更新' : '今日精选'}</div>
@@ -2017,18 +2027,13 @@ function renderStudy() {
     </div>
     <div class="chips" style="padding-bottom:8px">
       <button class="chip ${state.studyFilter === 'all' ? 'on' : ''}" onclick="setStudyFilter('all')">全部</button>
-      <button class="chip ${state.studyFilter === 'youtube' ? 'on' : ''}" onclick="setStudyFilter('youtube')">YouTube</button>
-      <button class="chip ${state.studyFilter === 'douyin' ? 'on' : ''}" onclick="setStudyFilter('douyin')">抖音</button>
-      <button class="chip ${state.studyFilter === 'xhs' ? 'on' : ''}" onclick="setStudyFilter('xhs')">小红书</button>
-      <button class="chip ${state.studyFilter === 'bilibili' ? 'on' : ''}" onclick="setStudyFilter('bilibili')">B站</button>
-      <button class="chip ${state.studyFilter === 'facebook' ? 'on' : ''}" onclick="setStudyFilter('facebook')">Facebook</button>
-      <button class="chip ${state.studyFilter === 'x' ? 'on' : ''}" onclick="setStudyFilter('x')">X</button>
+      ${plats.map(p => `<button class="chip ${state.studyFilter === p ? 'on' : ''}" onclick="setStudyFilter('${p}')">${(PLATFORM_META[p] || {}).name || p}</button>`).join('')}
     </div>
     <div class="study-list">${items.length ? items.map(v => {
       const pm = PLATFORM_META[v.platform] || { name: v.platform, cls: '' };
       const f = v.flags || {};
       const overseas = OVERSEAS_PLATFORMS.includes(v.platform);
-      const searchOnly = SEARCH_ONLY_PLATFORMS.includes(v.platform);
+      const isArticle = !v.duration || v.duration === '—' || v.duration === '';
       return `<div class="study-card">
         <div class="sc-top">
           <span class="sc-platform ${pm.cls}">${pm.name}</span>
@@ -2036,13 +2041,13 @@ function renderStudy() {
           <span class="sc-heat">${v.heat > 0 ? fmtHeat(v.heat) : '今日更新'}</span>
         </div>
         <a class="sc-title" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a>
-        <div class="sc-meta"><span>${esc(v.author)}</span><span>${esc(v.duration)}</span><span>${fmtUpdated(v.updated)}</span>${searchOnly ? '<span class="sc-src-note">官方搜索结果页</span>' : ''}${XHS_HOME.includes(v.platform) ? '<span class="sc-src-note">平台主页 · 站内搜 AI 学习</span>' : ''}</div>
-        ${v.points && v.points.length ? `<div class="sc-points"><b>要点</b><ul>${v.points.map(p => `<li>${esc(p)}</li>`).join('')}</ul></div>` : ''}
+        <div class="sc-meta"><span>${esc(v.author || pm.name)}</span><span>${isArticle ? '资讯' : esc(v.duration)}</span><span>${fmtUpdated(v.updated)}</span></div>
+        ${v.points && v.points.length ? `<div class="sc-points"><b>简介</b><ul>${v.points.map(p => `<li>${esc(p)}</li>`).join('')}</ul></div>` : ''}
         <div class="sc-actions">
           <button class="icon-btn ${f.fav ? 'on-fav' : ''}" onclick="toggleFlag('${v.id}','fav')" title="收藏">${SVG_STAR}</button>
           <button class="icon-btn ${f.watched ? 'on-watched' : ''}" onclick="toggleFlag('${v.id}','watched')" title="已看">${SVG_CHECK}</button>
           <button class="icon-btn ${f.later ? 'on-later' : ''}" onclick="toggleFlag('${v.id}','later')" title="稍后学习">${SVG_CLOCK}</button>
-          <a class="sc-go" href="${esc(v.url)}" target="_blank" rel="noopener">观看 ↗</a>
+          <a class="sc-go" href="${esc(v.url)}" target="_blank" rel="noopener">${isArticle ? '阅读 ↗' : '观看 ↗'}</a>
         </div>
       </div>`;
     }).join('') : `<div class="empty">该平台暂无内容</div>`}
