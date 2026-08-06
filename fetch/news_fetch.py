@@ -12,7 +12,7 @@ news_fetch.py — 知日新闻抓取（GitHub Actions 每日 08:00 调用，输�
 """
 import html as html_mod
 import json, os, re, sys, urllib.request
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'news.json')
 UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}

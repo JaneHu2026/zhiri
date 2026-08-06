@@ -10,7 +10,7 @@ study_fetch.py — 知日学习页抓取（GitHub Actions 每日 08:00 调用，
 """
 import json, os, re, sys, time, urllib.parse, urllib.request, http.cookiejar
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'study.json')
 UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
