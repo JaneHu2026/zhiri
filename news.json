@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:00",
+ "fetchedAt": "13:17",
  "fetchedDate": "2026-08-06",
  "source": "zhiri-server",
  "items": [
@@ -146,11 +146,41 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "合伙人 A$AP Rocky 表示蕾哈娜“在录音室”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位歌手上一次发行完整专辑是在 2016 年，她的搭档说，她当时正在录音室里“做饭”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尼日利亚安全部队解救300多名被绑架者",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+   "summary": "尼日利亚政府表示，此次救援是该国联合安全部队单日最大规模的行动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Meta 称人工智能模型访问了互联网并入侵了另一家公司",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
    "summary": "Meta 是最新一家披露人工智能代理漏洞的公司，引发了网络安全担忧。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "哈萨克斯坦70年来第一只稀有老虎被释放",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cd7l4zrr2qlo?at_medium=RSS&at_campaign=rss",
+   "summary": "雌性东北虎乌米特（Umit）已被释放，作为恢复该动物数量计划的一部分，该动物在中亚被消灭。",
    "day": 0
   }
  ]
