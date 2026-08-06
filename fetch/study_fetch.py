@@ -109,7 +109,8 @@ def yt_items():
                 if not vid:
                     continue
                 pub = e.get('pubDate', '')
-                desc = clean_desc(e.get('description') or '', 200)
+                raw = e.get('content') or e.get('description') or e.get('title') or ''
+                desc = clean_desc(raw, 200)
                 desc = re.sub(r'https?://\S+', '', desc)
                 desc = re.sub(r'\s+', ' ', desc).strip(' -·–|')
                 out.append({
@@ -159,18 +160,135 @@ def bili_items():
                 if not any(k in t.lower() for k in STRICT_AI_KEYS):
                     continue
                 seen.add(bvid)
+                desc = ''
+                try:
+                    j2 = json.loads(op.open(urllib.request.Request('https://api.bilibili.com/x/web-interface/view?bvid=' + bvid, headers=UA), timeout=10).read().decode('utf-8', 'ignore'))
+                    if j2.get('code') == 0:
+                        desc = re.sub(r'\s+', ' ', (j2['data'].get('desc') or '')).strip()[:110]
+                except Exception:
+                    pass
                 out.append({
                     'platform': 'bilibili', 'author': (v.get('owner') or {}).get('name', ''),
                     'title': t, 'duration': fmt_dur(v.get('duration', 0)),
                     'heat': (v.get('stat') or {}).get('view', 0),
                     'updated': '',
                     'url': 'https://www.bilibili.com/video/' + bvid,
-                    'desc': '',
+                    'desc': desc,
                 })
         except Exception:
             pass
         time.sleep(0.5)
     return out[:8]
+
+# ---------- AI 资讯源（文章类，放开平台：机器之心 / 量子位 / IT之家 / Hacker News） ----------
+def article_desc(url):
+    """抓文章页 meta description / og:description 作为中文简介（无则返回空）"""
+    try:
+        h = get(url, timeout=10)
+        h = re.sub(r'<!--.*?-->', '', h, flags=re.S)
+        m = re.search(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']{15,160})', h)
+        if not m:
+            m = re.search(r'<meta[^>]+content=["\']([^"\']{15,160})["\'][^>]+name=["\']description["\']', h)
+        if not m:
+            m = re.search(r'property=["\']og:description["\'][^>]+content=["\']([^"\']{15,160})', h)
+        if not m:
+            m = re.search(r'<meta[^>]+content=["\']([^"\']{15,160})["\'][^>]+property=["\']og:description["\']', h)
+        if m:
+            return re.sub(r'\s+', ' ', m.group(1)).strip()
+    except Exception:
+        pass
+    return ''
+
+def jiqizhixin_items():
+    """机器之心（AI 科技媒体，最新文章）"""
+    try:
+        h = get('https://www.jiqizhixin.com/', timeout=15)
+    except Exception:
+        return []
+    items = re.findall(r'href="(/articles/[\w-]+)"[^>]*>\s*([^<]{10,80})<', h)
+    out = []
+    for url, title in items[:8]:
+        if url in [x['url'] for x in out]:
+            continue
+        full = 'https://www.jiqizhixin.com' + url
+        out.append({
+            'platform': 'jiqizhixin', 'author': '机器之心',
+            'title': re.sub(r'\s+', ' ', title).strip(),
+            'duration': '—', 'heat': 0, 'updated': '',
+            'url': full, 'desc': article_desc(full),
+        })
+        time.sleep(0.4)
+    return out[:6]
+
+def qbitai_items():
+    """量子位（AI 资讯媒体，最新文章）"""
+    try:
+        h = get('https://www.qbitai.com/', timeout=15)
+    except Exception:
+        return []
+    items = re.findall(r'href="(https://www\.qbitai\.com/\d{4}/\d{2}/[^"]+)"[^>]*>([^<]{10,60})</a>', h)
+    out = []
+    for url, title in items:
+        if url in [x['url'] for x in out]:
+            continue
+        out.append({
+            'platform': 'qbitai', 'author': '量子位',
+            'title': re.sub(r'\s+', ' ', title).strip(),
+            'duration': '—', 'heat': 0, 'updated': '',
+            'url': url, 'desc': article_desc(url),
+        })
+        time.sleep(0.4)
+        if len(out) >= 6:
+            break
+    return out
+
+def ithome_items():
+    """IT之家（科技资讯，AI 频道）"""
+    try:
+        h = get('https://www.ithome.com/', timeout=15)
+    except Exception:
+        return []
+    items = re.findall(r'href="(/0/\d+/\d+\.htm)"[^>]*>([^<]{10,70})</a>', h)
+    out = []
+    for url, title in items:
+        if url in [x['url'] for x in out]:
+            continue
+        t = re.sub(r'\s+', ' ', title).strip()
+        if not any(k in t.lower() for k in STRICT_AI_KEYS):
+            continue
+        full = 'https://www.ithome.com' + url
+        out.append({
+            'platform': 'ithome', 'author': 'IT之家',
+            'title': t, 'duration': '—', 'heat': 0, 'updated': '',
+            'url': full, 'desc': article_desc(full),
+        })
+        time.sleep(0.4)
+        if len(out) >= 6:
+            break
+    return out
+
+def hn_items():
+    """Hacker News：AI 相关最新讨论/资讯（Algolia 免费 API，标题自动译中）"""
+    try:
+        j = json.loads(get('https://hn.algolia.com/api/v1/search_by_date?query=artificial%20intelligence&tags=story&hitsPerPage=20', timeout=15))
+    except Exception:
+        return []
+    out = []
+    for hit in j.get('hits') or []:
+        url = hit.get('url') or ('https://news.ycombinator.com/item?id=' + str(hit.get('objectID') or ''))
+        title = (hit.get('title') or '').strip()
+        if not title or len(title) < 10:
+            continue
+        out.append({
+            'platform': 'hn', 'author': 'Hacker News',
+            'title': zh_translate(title),
+            'duration': '—', 'heat': hit.get('points') or 0, 'updated': (hit.get('created_at') or '')[:10],
+            'url': url,
+            'desc': zh_translate(title[:120]),
+        })
+        if len(out) >= 6:
+            break
+    return out
 
 # ---------- 抖音 ----------
 def douyin_items():
@@ -198,7 +316,9 @@ def douyin_items():
 def main():
     groups = []
     errors = []
-    for name, fn in [('YouTube', yt_items), ('B站', bili_items), ('抖音', douyin_items)]:
+    for name, fn in [('YouTube', yt_items), ('B站', bili_items), ('抖音', douyin_items),
+                     ('机器之心', jiqizhixin_items), ('量子位', qbitai_items),
+                     ('IT之家', ithome_items), ('Hacker News', hn_items)]:
         try:
             items = fn()
             if items:
