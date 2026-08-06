@@ -290,6 +290,57 @@ def hn_items():
             break
     return out
 
+def zhihu_items():
+    """知乎热榜（经 RSSHub 公共实例中转；AI 关键词过滤；平台反爬严格，失败则静默）"""
+    try:
+        txt = get('https://rsshub.app/zhihu/hotlist', timeout=15)
+        root = ET.fromstring(txt)
+    except Exception:
+        return []
+    out = []
+    for it in root.findall('.//item'):
+        t = re.sub(r'\s+', ' ', it.findtext('title') or '').strip()
+        if len(t) < 8:
+            continue
+        if not any(k in t.lower() for k in STRICT_AI_KEYS):
+            continue
+        desc = re.sub(r'<[^>]+>', '', it.findtext('description') or '')
+        desc = re.sub(r'\s+', ' ', desc).strip(' -·–|')[:110]
+        out.append({
+            'platform': 'zhihu', 'author': '知乎热榜',
+            'title': t, 'duration': '—', 'heat': 0, 'updated': '',
+            'url': it.findtext('link') or '', 'desc': desc,
+        })
+        if len(out) >= 6:
+            break
+    return out
+
+def weibo_items():
+    """微博 AI 关键词搜索（经 RSSHub 中转；平台反爬严格，失败则静默）"""
+    try:
+        q = urllib.parse.quote('AI')
+        txt = get('https://rsshub.app/weibo/keyword/' + q, timeout=15)
+        root = ET.fromstring(txt)
+    except Exception:
+        return []
+    out = []
+    for it in root.findall('.//item')[:15]:
+        t = re.sub(r'\s+', ' ', it.findtext('title') or '').strip()
+        if len(t) < 8:
+            continue
+        if not any(k in t.lower() for k in STRICT_AI_KEYS):
+            continue
+        desc = re.sub(r'<[^>]+>', '', it.findtext('description') or '')
+        desc = re.sub(r'\s+', ' ', desc).strip(' -·–|')[:110]
+        out.append({
+            'platform': 'weibo', 'author': '微博',
+            'title': t, 'duration': '—', 'heat': 0, 'updated': '',
+            'url': it.findtext('link') or '', 'desc': desc,
+        })
+        if len(out) >= 6:
+            break
+    return out
+
 # ---------- 抖音 ----------
 def douyin_items():
     try:
@@ -318,7 +369,8 @@ def main():
     errors = []
     for name, fn in [('YouTube', yt_items), ('B站', bili_items), ('抖音', douyin_items),
                      ('机器之心', jiqizhixin_items), ('量子位', qbitai_items),
-                     ('IT之家', ithome_items), ('Hacker News', hn_items)]:
+                     ('IT之家', ithome_items), ('Hacker News', hn_items),
+                     ('知乎', zhihu_items), ('微博', weibo_items)]:
         try:
             items = fn()
             if items:
