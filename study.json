@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:12",
- "fetchedDate": "2026-08-05",
+ "fetchedAt": "11:40",
+ "fetchedDate": "2026-08-06",
  "source": "zhiri-server",
  "items": [
   {
@@ -86,6 +86,22 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "GPT 6 potentially LEAKS!!!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-21 22:00:07",
+   "url": "https://www.youtube.com/watch?v=u5esm1--kUo",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "sentdex",
    "title": "You Can Just Download More Tokens/Sec",
    "duration": "—",
@@ -102,28 +118,12 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+   "author": "1littlecoder",
+   "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-16 11:56:04",
-   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "In search of frontier AI at home",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-09 15:02:53",
-   "url": "https://www.youtube.com/watch?v=31MvP7yHzxM",
+   "updated": "2026-07-17 21:55:53",
+   "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
    "points": [],
    "flags": {
     "fav": false,
@@ -137,8 +137,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390589,
-   "updated": "2026-08-05T18:12:29.573666",
+   "heat": 390591,
+   "updated": "2026-08-06T03:40:06.159166",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -153,8 +153,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653393,
-   "updated": "2026-08-05T18:12:29.573678",
+   "heat": 653394,
+   "updated": "2026-08-06T03:40:06.159176",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -170,7 +170,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557313,
-   "updated": "2026-08-05T18:12:29.573680",
+   "updated": "2026-08-06T03:40:06.159179",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155464,
-   "updated": "2026-08-05T18:12:29.573683",
+   "heat": 155465,
+   "updated": "2026-08-06T03:40:06.159181",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611273,
-   "updated": "2026-08-05T18:12:29.573685",
+   "heat": 611274,
+   "updated": "2026-08-06T03:40:06.159182",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2658883,
-   "updated": "2026-08-05T18:12:29.573686",
+   "heat": 2658890,
+   "updated": "2026-08-06T03:40:06.159184",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58619,
-   "updated": "2026-08-05T18:12:29.573688",
+   "heat": 58620,
+   "updated": "2026-08-06T03:40:06.159186",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015286,
-   "updated": "2026-08-05T18:12:29.573691",
+   "updated": "2026-08-06T03:40:06.159188",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [],
    "flags": {
