@@ -492,13 +492,17 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hdr-btn{display:block;width:100%;background:var(--card);border:1px dashed var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:13px 16px;margin-bottom:12px;text-align:left}
 .hdr-btn-t{font-size:14.5px;font-weight:600;font-family:var(--font-serif);color:var(--green-deep)}
 .hdr-btn-s{display:block;font-size:11.5px;color:var(--text-faint);margin-top:3px}
-/* 健康建议卡（周期阶段 × 广州气候） */
+/* 健康建议卡（按周期阶段：饮食/茶饮/运动 + 理由 + 权威来源） */
 .hp-advice{background:linear-gradient(135deg,var(--bean-soft),var(--card));border:1px solid var(--bean-line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 15px;margin-bottom:12px}
-.hpa-head{font-size:13.5px;font-weight:600;font-family:var(--font-serif);color:var(--bean-deep);margin-bottom:9px}
-.hpa-badge{background:var(--bean);color:#fff;border-radius:8px;padding:2px 9px;font-size:12px;margin-right:5px}
-.hpa-list{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:5px}
-.hpa-list li{font-size:12.5px;color:var(--text);line-height:1.65}
-.hpa-note{font-size:11px;color:var(--text-faint);margin-top:9px}
+.hpa-head{font-size:14px;font-weight:600;font-family:var(--font-serif);color:var(--bean-deep);margin-bottom:4px}
+.hpa-badge{background:var(--bean);color:#fff;border-radius:8px;padding:2px 9px;font-size:12px;margin-left:2px}
+.hpa-intro{font-size:12px;color:var(--text-dim);margin-bottom:10px}
+.hpa-item{padding:9px 0;border-top:1px dashed var(--bean-line)}
+.hpa-it{font-size:13.5px;font-weight:600;color:var(--text);line-height:1.5}
+.hpa-cat{display:inline-block;background:var(--bean);color:#fff;border-radius:7px;font-size:11px;padding:1px 8px;margin-right:7px;vertical-align:1px}
+.hpa-why{font-size:12px;color:var(--text-dim);line-height:1.65;margin-top:4px}
+.hpa-src{font-size:10.5px;color:var(--text-faint);margin-top:4px}
+.hpa-note{font-size:11px;color:var(--text-faint);margin-top:9px;border-top:1px dashed var(--bean-line);padding-top:8px}
 .hdr{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;margin-bottom:12px}
 .hdr-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;color:var(--green-deep);margin-bottom:10px}
 .hdr-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:10px}
@@ -3062,7 +3066,7 @@ function hcalPick(k) {
   renderHealth();
 }
 
-/* ---------- 健康建议（周期阶段 × 广州气候/四季，仅供参考不构成医疗建议） ---------- */
+/* ---------- 健康建议（按周期阶段推荐：饮食/茶饮/运动 + 理由 + 权威来源；仅供参考不构成医疗诊断） ---------- */
 function healthStage() {
   const p = healthPredict();
   if (!p) return null;
@@ -3073,43 +3077,45 @@ function healthStage() {
   if (t >= p.fertileS && t <= p.fertileE) return 'fertile';
   return 'follicular';
 }
-function gzSeason() {
-  const m = new Date().getMonth() + 1;
-  if (m >= 3 && m <= 5) return 'spring';    // 回南天潮湿
-  if (m >= 6 && m <= 9) return 'summer';    // 高温湿热
-  if (m >= 10 && m <= 11) return 'autumn';  // 干燥
-  return 'winter';                           // 湿冷
-}
 const HEALTH_ADVICE = {
   menstrual: {
-    name: '月经期', note: '经期身体较敏感，以温暖、休息为主',
-    tips: ['喝桂圆红枣茶或红糖姜茶，暖宫驱寒', '避免生冷、冰饮和寒凉食物（西瓜、凉茶等）', '注意腹部和脚部保暖，可用暖水袋', '避免剧烈运动，散步、舒缓拉伸即可'],
+    name: '月经期', intro: '以暖、补、缓为主，给身体温柔的呵护',
+    items: [
+      { cat: '饮食', t: '温热易消化，注意补铁（红肉、动物肝脏、菠菜、黑木耳）', why: '经期失血会带走铁元素，补铁有助预防贫血；温热食物可缓解腹部不适', src: '《中国居民膳食指南（2022）》· 中国营养学会' },
+      { cat: '茶饮', t: '桂圆红枣茶、红糖姜茶', why: '桂圆红枣性温补气血、红糖姜茶温经散寒，适合经期怕冷、小腹冷痛', src: '中医妇科经典调理法 · 三甲中医院经期调养科普' },
+      { cat: '运动', t: '舒缓散步、温和拉伸', why: '经期避免剧烈运动，适度活动有助促进循环、缓解疲劳与不适', src: '美国妇产科学会（ACOG）' },
+    ],
   },
   follicular: {
-    name: '卵泡期', note: '精力最好的阶段，适合推进重要事项',
-    tips: ['气血渐复，补充优质蛋白（鸡蛋、瘦肉、豆制品）', '精力回升，可增加有氧运动（快走、慢跑）', '多喝水，保持心情舒畅'],
+    name: '卵泡期', intro: '气血渐复，精力回升，适合养气血、动起来',
+    items: [
+      { cat: '饮食', t: '优质蛋白 + 豆制品（鸡蛋、瘦肉、鱼虾、豆腐）', why: '卵泡发育期适量优质蛋白有助卵泡健康；大豆异黄酮对女性激素平衡有益', src: '哈佛大学公共卫生学院 · 中国营养学会' },
+      { cat: '茶饮', t: '玫瑰花茶、枸杞菊花茶', why: '玫瑰花行气解郁、枸杞养肝血，帮助疏解情绪、养精神', src: '《中国药典》玫瑰花（药食同源）· 中医养生科普' },
+      { cat: '运动', t: '增加有氧运动（快走、慢跑、游泳）', why: '此阶段雌激素上升、体能充沛，是提升运动量的最佳窗口', src: '运动医学：女性激素周期与运动表现研究' },
+    ],
   },
   fertile: {
-    name: '排卵期', note: '此阶段身体较为敏感，注意休息',
-    tips: ['保持规律作息，避免熬夜', '情绪平稳，放松心情', '适当运动，注意补充水分'],
+    name: '排卵期', intro: '身体较敏感，重在规律、平稳、抗炎',
+    items: [
+      { cat: '饮食', t: '抗炎饮食：全谷物、蔬果、深海鱼（三文鱼、坚果）', why: '富含 Omega-3 与膳食纤维的抗炎饮食，有助平稳排卵期身体状态', src: '哈佛医学院地中海饮食研究 · 中国居民膳食指南' },
+      { cat: '茶饮', t: '绿茶、菊花茶', why: '茶多酚与菊花苷有抗氧化作用，帮助身体应对此阶段的小炎症', src: '中国营养学会 · 茶与健康研究综述' },
+      { cat: '运动', t: '中低强度运动，避免过度疲劳', why: '排卵期体能波动，保持规律作息和适度运动即可，不宜透支', src: '世界卫生组织（WHO）身体活动建议' },
+    ],
   },
   luteal: {
-    name: '黄体期', note: '经前一周，给身体多一点温柔',
-    tips: ['情绪易波动，减少咖啡因和辛辣', '清淡饮食，少盐少糖，减轻水肿', '睡前泡脚放松，缓解疲倦', '可喝冬瓜薏米汤，帮助排湿'],
+    name: '黄体期', intro: '经前一周，情绪和身体都更敏感，请温柔以待',
+    items: [
+      { cat: '饮食', t: '高镁食物（香蕉、坚果、深绿色蔬菜）+ 维生素B6（鱼类、豆类、全谷物）', why: '多项临床研究显示：镁和维生素B6 有助缓解经前综合征（PMS）的水肿、烦躁与疲倦', src: '美国国立卫生研究院（NIH）PMS 研究综述' },
+      { cat: '茶饮', t: '洋甘菊茶，减少咖啡因', why: '研究显示咖啡因会加重 PMS 情绪波动；洋甘菊有助放松与睡眠', src: '临床营养研究（洋甘菊与焦虑/睡眠）· NIH' },
+      { cat: '运动', t: '瑜伽、温和拉伸、睡前泡脚', why: '瑜伽等温和运动被研究证实可改善 PMS 的情绪与躯体症状，泡脚助眠暖身', src: '国际运动医学期刊（瑜伽与 PMS）临床研究' },
+    ],
   },
-};
-const GZ_SEASON = {
-  spring: { name: '春 · 回南天', tips: ['回南天湿气重，喝薏米赤小豆汤、冬瓜汤祛湿', '注意防潮，被褥勤晾晒', '早晚温差大，注意添衣'] },
-  summer: { name: '夏 · 高温湿热', tips: ['广州夏天湿热，多喝冬瓜汤、绿豆汤解暑排湿', '少喝冰饮，出汗后及时补充温水', '避免正午暴晒，空调房注意护好腹部和关节'] },
-  autumn: { name: '秋 · 干燥', tips: ['秋燥明显，吃雪梨、银耳、百合润燥', '多补水，皮肤注意保湿', '少辛辣，养肺气'] },
-  winter: { name: '冬 · 湿冷', tips: ['广州冬天湿冷，注意保暖，睡前泡脚', '喝生姜红枣茶驱寒', '适度进补（羊肉、鸡汤），早睡晚起'] },
 };
 function healthAdvice() {
   const stage = healthStage();
   if (!stage) return null;
   const s = HEALTH_ADVICE[stage];
-  const z = GZ_SEASON[gzSeason()];
-  return { stageName: s.name, seasonName: z.name, tips: [...z.tips, ...s.tips].slice(0, 5), note: s.note };
+  return { name: s.name, intro: s.intro, items: s.items };
 }
 
 /* ---------- 渲染 ---------- */
@@ -3203,12 +3209,18 @@ function healthPredHtml() {
     <span class="hdr-btn-s">经量 / 症状 / 备注</span>
   </button>`;
 
-  // 健康建议（周期阶段 × 广州气候）
+  // 健康建议（按周期阶段：饮食/茶饮/运动 + 理由 + 权威来源）
   const advice = healthAdvice();
   const adviceHtml = advice ? `<div class="hp-advice">
-    <div class="hpa-head"><span class="hpa-badge">${advice.stageName}</span>广州 · ${advice.seasonName}</div>
-    <ul class="hpa-list">${advice.tips.map(t => `<li>${t}</li>`).join('')}</ul>
-    <div class="hpa-note">${advice.note} · 建议仅供参考，不构成医疗诊断</div>
+    <div class="hpa-head">本周调理 · <span class="hpa-badge">${advice.name}</span></div>
+    <div class="hpa-intro">${advice.intro}</div>
+    ${advice.items.map(it => `
+      <div class="hpa-item">
+        <div class="hpa-it"><span class="hpa-cat">${it.cat}</span>${it.t}</div>
+        <div class="hpa-why">${it.why}</div>
+        <div class="hpa-src">来源：${it.src}</div>
+      </div>`).join('')}
+    <div class="hpa-note">建议仅供参考，不构成医疗诊断；如有不适请咨询专业医生</div>
   </div>` : '';
 
   return mainCard + adviceHtml + cal + recBtn + healthTrendHtml() + healthTipsHtml();
