@@ -479,6 +479,10 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hcal-legend{display:flex;gap:12px;font-size:10.5px;color:var(--text-dim);margin-top:10px;flex-wrap:wrap}
 .hcal-legend .lg{display:flex;align-items:center;gap:5px}
 .hcal-legend .lg i{width:11px;height:11px;border-radius:3.5px;display:inline-block}
+/* 记录今天弹窗入口 */
+.hdr-btn{display:block;width:100%;background:var(--card);border:1px dashed var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:13px 16px;margin-bottom:12px;text-align:left}
+.hdr-btn-t{font-size:14.5px;font-weight:600;font-family:var(--font-serif);color:var(--green-deep)}
+.hdr-btn-s{display:block;font-size:11.5px;color:var(--text-faint);margin-top:3px}
 .hdr{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;margin-bottom:12px}
 .hdr-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;color:var(--green-deep);margin-bottom:10px}
 .hdr-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:10px}
@@ -2247,7 +2251,7 @@ function renderFocus() {
       <button class="chip ${state._focusMode === 'countdown' ? 'on' : ''}" onclick="pickFocusMode('countdown')">倒计时</button>
     </div>
     ${state._focusMode === 'countdown' ? `<div class="chips" style="justify-content:center">
-      ${[25, 30, 45, 60].map(m => `<button class="chip ${state._focusMin === m ? 'on' : ''}" onclick="pickFocusMin(${m})">${m}分</button>`).join('')}
+      ${[15, 30, 45, 60].map(m => `<button class="chip ${state._focusMin === m ? 'on' : ''}" onclick="pickFocusMin(${m})">${m}分</button>`).join('')}
       <input class="in" id="fmCustom" type="number" value="${state._focusMin || 30}" min="1" max="600" inputmode="numeric" style="width:86px;height:40px;text-align:center" onchange="pickFocusMinFromInput()">
     </div>` : ''}
   </div>`;
@@ -3073,11 +3077,15 @@ function healthPredHtml() {
     </div>
   </div>`;
 
-  // 记录今天
-  const todayRec = sym[todayKey()] || {};
-  const recHtml = dayRecordHtml(todayRec, todayKey());
+  // 记录今天（弹窗式入口，不占页面空间）
+  const todayRec = hSymptoms()[todayKey()] || {};
+  const hasToday = Object.keys(todayRec).length > 0;
+  const recBtn = `<button class="hdr-btn" onclick="openDayRecord('${todayKey()}')">
+    <span class="hdr-btn-t">${hasToday ? '今日已记录 · 点此修改' : '＋ 记录今天'}</span>
+    <span class="hdr-btn-s">经量 / 症状 / 备注</span>
+  </button>`;
 
-  return mainCard + predCards + cal + recHtml + healthTrendHtml() + healthTipsHtml();
+  return mainCard + predCards + cal + recBtn + healthTrendHtml() + healthTipsHtml();
 }
 
 /* ---------- 每日记录 ---------- */
@@ -3092,14 +3100,13 @@ function dayRecordHtml(rec, k) {
     <div class="hdr-grid">
       ${SYMPTOM_DEFS.map(s => {
         if (s.key === 'pain' && !isToday) return '';
-        return `<button class="sym-btn ${on(s.key) ? 'on' : ''}" onclick="toggleSym('${s.key}')">
+        return `<button class="sym-btn ${on(s.key) ? 'on' : ''}" data-key="${s.key}" onclick="toggleSym('${s.key}')">
           <span>${s.name}</span>${s.level && isToday ? `<i class="sym-lv">${rec[s.key] ? PAIN_LEVELS.find(x => x.id === rec[s.key]).name : ''}</i>` : ''}
         </button>`;
       }).join('')}
     </div>
     ${isToday ? `<div class="form-row"><label class="form-label">其他备注</label>
-      <input class="in" id="symNote" value="${esc(rec.note || '')}" placeholder="可记录情绪、身体状况等" maxlength="60"></div>
-      <div class="form-actions"><button class="btn block" onclick="saveSym('${k}')">保存今日记录</button></div>` : ''}
+      <input class="in" id="symNote" value="${esc(rec.note || '')}" placeholder="可记录情绪、身体状况等" maxlength="60"></div>` : ''}
   </div>`;
 }
 function openDayRecord(k) {
@@ -3116,7 +3123,14 @@ function toggleFlow(lv) {
   const sym = hSymptoms();
   const rec = sym[todayKey()] = sym[todayKey()] || {};
   rec.flow = rec.flow === lv ? '' : lv;
-  renderHealth();
+  const sheet = document.querySelector('.sheet');
+  if (sheet) {
+    // 弹窗内局部刷新经量 chips
+    sheet.querySelectorAll('.chips .chip').forEach(c => {
+      const target = FLOW_LEVELS.find(x => x.name === c.textContent.trim());
+      c.classList.toggle('on', target ? rec.flow === target.id : false);
+    });
+  } else renderHealth();
 }
 function toggleSym(key) {
   const sym = hSymptoms();
@@ -3130,7 +3144,21 @@ function toggleSym(key) {
   } else {
     rec[key] = rec[key] ? '' : true;
   }
-  renderHealth();
+  const sheet = document.querySelector('.sheet');
+  if (sheet) {
+    // 弹窗内局部刷新按钮状态
+    const btn = sheet.querySelector(`.sym-btn[data-key="${key}"]`);
+    if (btn) {
+      btn.classList.toggle('on', !!rec[key]);
+      const lv = btn.querySelector('.sym-lv');
+      if (lv && def && def.level) {
+        const name = rec[key] ? ((PAIN_LEVELS.find(x => x.id === rec[key]) || {}).name || '') : '';
+        lv.textContent = name;
+      }
+    }
+  } else {
+    renderHealth();
+  }
 }
 function saveSym(k) {
   const sym = hSymptoms();
