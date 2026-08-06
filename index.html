@@ -462,10 +462,12 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hp-card{flex:1;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px}
 .hp-card.fertile{border-color:var(--mist)}
 .hp-card.ov{border-color:var(--lavender)}
+.hp-card.luteal{border-color:var(--mist)}
 .hpc-label{font-size:12px;color:var(--text-dim);margin-bottom:5px}
 .hpc-val{font-size:15.5px;font-weight:600;font-family:var(--font-serif);color:var(--green-deep)}
 .hp-card.fertile .hpc-val{color:var(--mist-blue-deep)}
 .hp-card.ov .hpc-val{color:var(--lavender)}
+.hp-card.luteal .hpc-val{color:var(--mist-blue-deep)}
 .hpc-note{font-size:11px;color:var(--text-faint);margin-top:5px}
 .hcal-cell.recorded{background:var(--bean);color:#fff;font-weight:600}
 .hcal-cell.pred{background:var(--bean-soft);color:var(--bean-deep);font-weight:600;border:1px dashed var(--bean)}
@@ -1543,7 +1545,7 @@ function filteredTx() {
 function rangeLabel() {
   if (state.acctRange === 'year') return todayKey().slice(0, 4) + ' 年';
   if (state.acctRange === 'custom') return (state.acctStart || '?') + ' ~ ' + (state.acctEnd || '?');
-  return fmtYMD(todayKey()).slice(0, -2) + '月';
+  return (new Date().getMonth() + 1) + '月';
 }
 function catById(id) { return data.categories.find(c => c.id === id); }
 
@@ -1592,6 +1594,7 @@ function renderAcct() {
     <div class="tab-hero">
       <div class="th-sub">财务小账本</div>
       <div class="th-main">每一笔，都心里有数</div>
+      <button class="hero-add" style="background:var(--card);color:var(--green-deep);border:1px solid var(--line);box-shadow:var(--shadow);width:auto;padding:0 14px;border-radius:20px;font-size:13px" onclick="openCateManage()" title="分类管理">分类＋</button>
     </div>
     <div class="acct-balance">
       <div class="ab-label">结余（收入 − 支出）</div>
@@ -2076,7 +2079,7 @@ function pickFocusItem(id) {
   const item = data.focusItems.find(x => x.id === id);
   if (!item) return;
   if (state.focusRunning) { showToast('已有专注正在进行'); return; }
-  state._focusItemId = id; state._focusMode = 'countup'; state._focusMin = 25;
+  state._focusItemId = id; state._focusMode = 'countup'; state._focusMin = 30;
   openSheet(`<div class="sheet-title">开始专注 · ${esc(item.name)}</div>
     <div class="form-row"><div class="mode-pick">
       <button class="btn ghost on" id="fmUp" onclick="pickFocusMode('countup')">正计时</button>
@@ -2214,7 +2217,7 @@ function renderFocus() {
     clockLabel = r.mode === 'countdown' ? '剩余时间' : '已专注';
     if (r.mode === 'countdown') clockPct = Math.max(0, Math.min(100, Math.round(focusRemainingMs(r) / ((r.countdownMin || 1) * 60000) * 100)));
   } else {
-    const def = state._focusMode === 'countdown' ? (state._focusMin || 25) : 0;
+    const def = state._focusMode === 'countdown' ? (state._focusMin || 30) : 0;
     clockTime = state._focusMode === 'countdown' ? fmtClock(def * 60000) : '00:00';
     clockLabel = state._focusMode === 'countdown' ? '点击开始倒计时' : '点击开始正计时';
   }
@@ -2244,8 +2247,8 @@ function renderFocus() {
       <button class="chip ${state._focusMode === 'countdown' ? 'on' : ''}" onclick="pickFocusMode('countdown')">倒计时</button>
     </div>
     ${state._focusMode === 'countdown' ? `<div class="chips" style="justify-content:center">
-      ${[25, 45, 60].map(m => `<button class="chip ${state._focusMin === m ? 'on' : ''}" onclick="pickFocusMin(${m})">${m}分</button>`).join('')}
-      <input class="in" id="fmCustom" type="number" value="${state._focusMin || 25}" min="1" max="600" inputmode="numeric" style="width:86px;height:40px;text-align:center" onchange="pickFocusMinFromInput()">
+      ${[25, 30, 45, 60].map(m => `<button class="chip ${state._focusMin === m ? 'on' : ''}" onclick="pickFocusMin(${m})">${m}分</button>`).join('')}
+      <input class="in" id="fmCustom" type="number" value="${state._focusMin || 30}" min="1" max="600" inputmode="numeric" style="width:86px;height:40px;text-align:center" onchange="pickFocusMinFromInput()">
     </div>` : ''}
   </div>`;
 
@@ -2934,12 +2937,15 @@ function healthPredict() {
   const ov = addDays(nextStart, -14);
   const fertileS = addDays(ov, -5);
   const fertileE = ov;
+  const lutealS = addDays(ov, 1);          // 黄体期：排卵次日开始
+  const lutealE = addDays(nextStart, -1);  // 至下次经期前一天
   const today = parseKey(todayKey());
   return {
     cycleDay: Math.min(c.cycle, daysBetween(start, today) + 1),
     daysTo: daysBetween(today, nextStart),
     nextStart: dateKey(nextStart), nextEnd: dateKey(nextEnd),
     ov: dateKey(ov), fertileS: dateKey(fertileS), fertileE: dateKey(fertileE),
+    lutealS: dateKey(lutealS), lutealE: dateKey(lutealE),
     progress: Math.min(100, Math.round(daysBetween(start, today) / c.cycle * 100)),
   };
 }
@@ -3021,7 +3027,12 @@ function healthPredHtml() {
     <div class="hp-card ov">
       <div class="hpc-label">预计排卵日</div>
       <div class="hpc-val">${fmtMD(p.ov)}</div>
-      <div class="hpc-note">按下次经期前 14 天估算</div>
+      <div class="hpc-note">下次经期前约 14 天</div>
+    </div>
+    <div class="hp-card luteal">
+      <div class="hpc-label">预计黄体期</div>
+      <div class="hpc-val">${fmtMD(p.lutealS)} ~ ${fmtMD(p.lutealE)}</div>
+      <div class="hpc-note">排卵后至下次经期前</div>
     </div>
   </div>`;
 
