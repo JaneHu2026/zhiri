@@ -290,15 +290,37 @@ def hn_items():
             break
     return out
 
+RSSHUB_INSTANCES = [
+    'https://rsshub.app',
+    'https://rsshub.rssforever.com',
+    'https://rsshub.pseudoyu.com',
+    'https://rsshub.ktachibana.party',
+    'https://rsshub-2.genshin.wiki',
+]
+
+def rsshub_fetch(route):
+    """依次尝试多个 RSSHub 公共实例，返回解析后的 item 列表（全部失败返回 []）"""
+    import xml.etree.ElementTree as ET
+    last = None
+    for inst in RSSHUB_INSTANCES:
+        try:
+            txt = get(inst + route, timeout=12)
+            root = ET.fromstring(txt)
+            its = root.findall('.//item')
+            if its:
+                return its
+        except Exception as e:
+            last = e
+            continue
+    return []
+
 def zhihu_items():
-    """知乎热榜（经 RSSHub 公共实例中转；AI 关键词过滤；平台反爬严格，失败则静默）"""
-    try:
-        txt = get('https://rsshub.app/zhihu/hotlist', timeout=15)
-        root = ET.fromstring(txt)
-    except Exception:
+    """知乎热榜（经 RSSHub 多实例中转；AI 关键词过滤；平台反爬严格，失败则静默）"""
+    its = rsshub_fetch('/zhihu/hotlist')
+    if not its:
         return []
     out = []
-    for it in root.findall('.//item'):
+    for it in its:
         t = re.sub(r'\s+', ' ', it.findtext('title') or '').strip()
         if len(t) < 8:
             continue
@@ -316,15 +338,13 @@ def zhihu_items():
     return out
 
 def weibo_items():
-    """微博 AI 关键词搜索（经 RSSHub 中转；平台反爬严格，失败则静默）"""
-    try:
-        q = urllib.parse.quote('AI')
-        txt = get('https://rsshub.app/weibo/keyword/' + q, timeout=15)
-        root = ET.fromstring(txt)
-    except Exception:
+    """微博 AI 关键词搜索（经 RSSHub 多实例中转；平台反爬严格，失败则静默）"""
+    q = urllib.parse.quote('AI')
+    its = rsshub_fetch('/weibo/keyword/' + q)
+    if not its:
         return []
     out = []
-    for it in root.findall('.//item')[:15]:
+    for it in its[:15]:
         t = re.sub(r'\s+', ' ', it.findtext('title') or '').strip()
         if len(t) < 8:
             continue
