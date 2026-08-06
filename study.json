@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:40",
+ "fetchedAt": "13:00",
  "fetchedDate": "2026-08-06",
  "source": "zhiri-server",
  "items": [
@@ -12,7 +12,9 @@
    "heat": 0,
    "updated": "2026-08-05 13:54:29",
    "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-   "points": [],
+   "points": [
+    "价值十亿美元的人工智能竞赛刚刚结束"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -28,7 +30,9 @@
    "heat": 0,
    "updated": "2026-08-03 09:47:34",
    "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-   "points": [],
+   "points": [
+    "另一个 DeepSeek 时刻已经到来"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -44,7 +48,9 @@
    "heat": 0,
    "updated": "2026-08-02 15:01:10",
    "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-   "points": [],
+   "points": [
+    "NVIDIA 的 AI 了解为何仅复制人类还不够"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -60,7 +66,9 @@
    "heat": 0,
    "updated": "2026-07-24 15:05:39",
    "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-   "points": [],
+   "points": [
+    "64块方糖拼图"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -76,7 +84,9 @@
    "heat": 0,
    "updated": "2026-07-22 16:28:16",
    "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-   "points": [],
+   "points": [
+    "OpenAI 攻击了 HuggingFace"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -92,7 +102,9 @@
    "heat": 0,
    "updated": "2026-07-21 22:00:07",
    "url": "https://www.youtube.com/watch?v=u5esm1--kUo",
-   "points": [],
+   "points": [
+    "GPT 6 可能泄露！！！"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -108,7 +120,9 @@
    "heat": 0,
    "updated": "2026-07-20 15:05:01",
    "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
-   "points": [],
+   "points": [
+    "您可以每秒下载更多代币"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -124,7 +138,27 @@
    "heat": 0,
    "updated": "2026-07-17 21:55:53",
    "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-   "points": [],
+   "points": [
+    "我向《Kimi K3》、《神鬼寓言 5》、《索尔 5.6》发起挑战，制作《奥德赛》……"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影视飓风",
+   "title": "太卷了！改变视频行业的AI又迭代了什么？",
+   "duration": "9:58",
+   "heat": 1094855,
+   "updated": "2026-08-06T05:00:48.480929",
+   "url": "https://www.bilibili.com/video/BV1teuc63E6D",
+   "points": [
+    "五个月前，我们聊过 Seedance2.0 给视频行业带来的改变。如今 Seedance 直接带来全套全家桶，进一步放大了自身优势。这次更新究竟带来了哪些新变化？它又是否会给整个视频行业带来更大的冲击？如果你喜欢这期视频"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -137,10 +171,12 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390591,
-   "updated": "2026-08-06T03:40:06.159166",
+   "heat": 390592,
+   "updated": "2026-08-06T05:00:48.480937",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
+   "points": [
+    "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -154,9 +190,11 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653394,
-   "updated": "2026-08-06T03:40:06.159176",
+   "updated": "2026-08-06T05:00:48.480940",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
+   "points": [
+    "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -170,7 +208,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557313,
-   "updated": "2026-08-06T03:40:06.159179",
+   "updated": "2026-08-06T05:00:48.480942",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -186,9 +224,11 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155465,
-   "updated": "2026-08-06T03:40:06.159181",
+   "updated": "2026-08-06T05:00:48.480944",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [],
+   "points": [
+    "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -202,9 +242,11 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611274,
-   "updated": "2026-08-06T03:40:06.159182",
+   "updated": "2026-08-06T05:00:48.480946",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -217,10 +259,12 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2658890,
-   "updated": "2026-08-06T03:40:06.159184",
+   "heat": 2658893,
+   "updated": "2026-08-06T05:00:48.480948",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
-   "points": [],
+   "points": [
+    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -234,8 +278,80 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58620,
-   "updated": "2026-08-06T03:40:06.159186",
+   "updated": "2026-08-06T05:00:48.480950",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
+   "points": [
+    "银河录像局CG迷8折优惠注册链接，https://nf.video/zp5gG 优惠券用完后购买任何产品都可以输入优惠码cgmi享受额外优惠 GPT4o官方网址 https://chatgpt.com"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-06T05:00:48.480952",
+   "url": "https://www.qbitai.com/2026/08/467196.html",
+   "points": [
+    "与此同时，哈萨比斯卸任谷歌DeepMind CEO"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-06T05:00:48.480953",
+   "url": "https://www.qbitai.com/2026/08/467034.html",
+   "points": [
+    "兔展智能发布RabbitVis，让AI真正走完设计全流程"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-06T05:00:48.480955",
+   "url": "https://www.qbitai.com/2026/08/467036.html",
+   "points": [
+    "MiniMax H3也能开箱即用了"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "又一家AI基金暴雷了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-06T05:00:48.480957",
+   "url": "https://www.qbitai.com/2026/08/467001.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -245,14 +361,140 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "AI斌工厂",
-   "title": "你永远猜不到真正用途的蹦跶机器人",
-   "duration": "0:37",
-   "heat": 1015286,
-   "updated": "2026-08-06T03:40:06.159188",
-   "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-06T05:00:48.480958",
+   "url": "https://www.qbitai.com/2026/08/466998.html",
+   "points": [
+    "阿里巴巴淘天集团开启2027届应届生招聘。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-06T05:00:48.480959",
+   "url": "https://www.qbitai.com/2026/08/466739.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了",
+   "duration": "—",
+   "heat": 10,
+   "updated": "2026-08-06",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+   "points": [
+    "埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "时间旅行者正在使用 LinkedIn 向我们传授人工智能知识",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-08-05",
+   "url": "https://www.ft.com/content/4a4b442c-7ae4-4553-bcab-d744d8d46c79",
+   "points": [
+    "时间旅行者正在使用 LinkedIn 向我们传授人工智能知识"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "我求求你：永远不要用人工智能写作",
+   "duration": "—",
+   "heat": 10,
+   "updated": "2026-08-05",
+   "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
+   "points": [
+    "我求求你：永远不要用人工智能写作"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "时间旅行者正在使用 LinkedIn 向我们传授人工智能知识",
+   "duration": "—",
+   "heat": 4,
+   "updated": "2026-08-05",
+   "url": "https://www.ft.com/content/4a4b442c-7ae4-4553-bcab-d744d8d46c79",
+   "points": [
+    "时间旅行者正在使用 LinkedIn 向我们传授人工智能知识"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能搜索正在将 Reddit 评论变成广告",
+   "duration": "—",
+   "heat": 6,
+   "updated": "2026-08-05",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+   "points": [
+    "人工智能搜索正在将 Reddit 评论变成广告"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "我求求你：永远不要用人工智能写作",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-08-05",
+   "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
+   "points": [
+    "我求求你：永远不要用人工智能写作"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
