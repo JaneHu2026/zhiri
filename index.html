@@ -492,6 +492,13 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hdr-btn{display:block;width:100%;background:var(--card);border:1px dashed var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:13px 16px;margin-bottom:12px;text-align:left}
 .hdr-btn-t{font-size:14.5px;font-weight:600;font-family:var(--font-serif);color:var(--green-deep)}
 .hdr-btn-s{display:block;font-size:11.5px;color:var(--text-faint);margin-top:3px}
+/* 健康建议卡（周期阶段 × 广州气候） */
+.hp-advice{background:linear-gradient(135deg,var(--bean-soft),var(--card));border:1px solid var(--bean-line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 15px;margin-bottom:12px}
+.hpa-head{font-size:13.5px;font-weight:600;font-family:var(--font-serif);color:var(--bean-deep);margin-bottom:9px}
+.hpa-badge{background:var(--bean);color:#fff;border-radius:8px;padding:2px 9px;font-size:12px;margin-right:5px}
+.hpa-list{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:5px}
+.hpa-list li{font-size:12.5px;color:var(--text);line-height:1.65}
+.hpa-note{font-size:11px;color:var(--text-faint);margin-top:9px}
 .hdr{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;margin-bottom:12px}
 .hdr-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;color:var(--green-deep);margin-bottom:10px}
 .hdr-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:10px}
@@ -2167,6 +2174,7 @@ function startFocusNow() {
   }
   state._focusItemId = item.id;
   ensureNotifPermission();
+  unlockAudio();   // iOS：用户手势解锁音频上下文，倒计时结束才能响铃
   state.focusRunning = {
     itemId: item.id, mode: state._focusMode, startedAt: new Date().toISOString(),
     pausedAt: null, totalPausedMs: 0,
@@ -2211,6 +2219,14 @@ function finalizeFocus(manual) {
 }
 
 /* ---------- 通知 ---------- */
+let _focusCtx = null;   // 全局音频上下文（iOS 需用户手势解锁后复用，倒计时结束才能出声）
+function unlockAudio() {
+  try {
+    const Ctx = window.AudioContext || window.webkitAudioContext;
+    if (!_focusCtx) _focusCtx = new Ctx();
+    if (_focusCtx.state === 'suspended') _focusCtx.resume();
+  } catch (_) {}
+}
 function ensureNotifPermission() {
   if ('Notification' in window && Notification.permission === 'default') {
     try { Notification.requestPermission(); } catch (_) {}
@@ -2219,22 +2235,27 @@ function ensureNotifPermission() {
 function notifyFocusDone(name, min) {
   const body = `「${name}」专注 ${min} 分钟完成，休息一下吧 ☕`;
   if ('Notification' in window && Notification.permission === 'granted') {
-    try { new Notification('知日 · 专注结束', { body, tag: 'zhiri-focus', renotify: true }); } catch (_) {}
+    try { new Notification('胡 · 专注结束', { body, tag: 'zhiri-focus', renotify: true }); } catch (_) {}
   }
   showToast(body);
-  if (navigator.vibrate) { try { navigator.vibrate([300, 150, 300, 150, 600]); } catch (_) {} }  // 明显震动提醒
-  beep();
+  // iPhone 不支持 navigator.vibrate（震动 API 仅安卓）——用系统通知（锁屏震动/响铃）+ 声音提醒
+  if (navigator.vibrate) { try { navigator.vibrate([300, 150, 300, 150, 600]); } catch (_) {} }
+  beep(3);
 }
-function beep() {
+function beep(times) {
   try {
-    const Ctx = window.AudioContext || window.webkitAudioContext;
-    const ctx = new Ctx();
-    const o = ctx.createOscillator(), g = ctx.createGain();
-    o.connect(g); g.connect(ctx.destination);
-    o.frequency.value = 880;
-    g.gain.setValueAtTime(0.08, ctx.currentTime);
-    g.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.7);
-    o.start(); o.stop(ctx.currentTime + 0.75);
+    if (!_focusCtx) return;
+    const ctx = _focusCtx;
+    const n = times || 3;
+    for (let i = 0; i < n; i++) {
+      const t0 = ctx.currentTime + i * 0.28;
+      const o = ctx.createOscillator(), g = ctx.createGain();
+      o.connect(g); g.connect(ctx.destination);
+      o.frequency.value = 880;
+      g.gain.setValueAtTime(0.09, t0);
+      g.gain.exponentialRampToValueAtTime(0.001, t0 + 0.2);
+      o.start(t0); o.stop(t0 + 0.22);
+    }
   } catch (_) {}
 }
 
@@ -3041,6 +3062,56 @@ function hcalPick(k) {
   renderHealth();
 }
 
+/* ---------- 健康建议（周期阶段 × 广州气候/四季，仅供参考不构成医疗建议） ---------- */
+function healthStage() {
+  const p = healthPredict();
+  if (!p) return null;
+  const c = healthCfg();
+  const t = todayKey();
+  if (p.cycleDay <= (c.period || 5)) return 'menstrual';   // 经期第 1~N 天
+  if (t >= p.lutealS && t <= p.lutealE) return 'luteal';
+  if (t >= p.fertileS && t <= p.fertileE) return 'fertile';
+  return 'follicular';
+}
+function gzSeason() {
+  const m = new Date().getMonth() + 1;
+  if (m >= 3 && m <= 5) return 'spring';    // 回南天潮湿
+  if (m >= 6 && m <= 9) return 'summer';    // 高温湿热
+  if (m >= 10 && m <= 11) return 'autumn';  // 干燥
+  return 'winter';                           // 湿冷
+}
+const HEALTH_ADVICE = {
+  menstrual: {
+    name: '月经期', note: '经期身体较敏感，以温暖、休息为主',
+    tips: ['喝桂圆红枣茶或红糖姜茶，暖宫驱寒', '避免生冷、冰饮和寒凉食物（西瓜、凉茶等）', '注意腹部和脚部保暖，可用暖水袋', '避免剧烈运动，散步、舒缓拉伸即可'],
+  },
+  follicular: {
+    name: '卵泡期', note: '精力最好的阶段，适合推进重要事项',
+    tips: ['气血渐复，补充优质蛋白（鸡蛋、瘦肉、豆制品）', '精力回升，可增加有氧运动（快走、慢跑）', '多喝水，保持心情舒畅'],
+  },
+  fertile: {
+    name: '排卵期', note: '此阶段身体较为敏感，注意休息',
+    tips: ['保持规律作息，避免熬夜', '情绪平稳，放松心情', '适当运动，注意补充水分'],
+  },
+  luteal: {
+    name: '黄体期', note: '经前一周，给身体多一点温柔',
+    tips: ['情绪易波动，减少咖啡因和辛辣', '清淡饮食，少盐少糖，减轻水肿', '睡前泡脚放松，缓解疲倦', '可喝冬瓜薏米汤，帮助排湿'],
+  },
+};
+const GZ_SEASON = {
+  spring: { name: '春 · 回南天', tips: ['回南天湿气重，喝薏米赤小豆汤、冬瓜汤祛湿', '注意防潮，被褥勤晾晒', '早晚温差大，注意添衣'] },
+  summer: { name: '夏 · 高温湿热', tips: ['广州夏天湿热，多喝冬瓜汤、绿豆汤解暑排湿', '少喝冰饮，出汗后及时补充温水', '避免正午暴晒，空调房注意护好腹部和关节'] },
+  autumn: { name: '秋 · 干燥', tips: ['秋燥明显，吃雪梨、银耳、百合润燥', '多补水，皮肤注意保湿', '少辛辣，养肺气'] },
+  winter: { name: '冬 · 湿冷', tips: ['广州冬天湿冷，注意保暖，睡前泡脚', '喝生姜红枣茶驱寒', '适度进补（羊肉、鸡汤），早睡晚起'] },
+};
+function healthAdvice() {
+  const stage = healthStage();
+  if (!stage) return null;
+  const s = HEALTH_ADVICE[stage];
+  const z = GZ_SEASON[gzSeason()];
+  return { stageName: s.name, seasonName: z.name, tips: [...z.tips, ...s.tips].slice(0, 5), note: s.note };
+}
+
 /* ---------- 渲染 ---------- */
 function renderHealth() {
   const el = document.getElementById('tab-health');
@@ -3132,7 +3203,15 @@ function healthPredHtml() {
     <span class="hdr-btn-s">经量 / 症状 / 备注</span>
   </button>`;
 
-  return mainCard + cal + recBtn + healthTrendHtml() + healthTipsHtml();
+  // 健康建议（周期阶段 × 广州气候）
+  const advice = healthAdvice();
+  const adviceHtml = advice ? `<div class="hp-advice">
+    <div class="hpa-head"><span class="hpa-badge">${advice.stageName}</span>广州 · ${advice.seasonName}</div>
+    <ul class="hpa-list">${advice.tips.map(t => `<li>${t}</li>`).join('')}</ul>
+    <div class="hpa-note">${advice.note} · 建议仅供参考，不构成医疗诊断</div>
+  </div>` : '';
+
+  return mainCard + adviceHtml + cal + recBtn + healthTrendHtml() + healthTipsHtml();
 }
 
 /* ---------- 每日记录 ---------- */
