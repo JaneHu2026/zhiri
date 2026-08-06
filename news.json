@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:29",
+ "fetchedAt": "15:58",
  "fetchedDate": "2026-08-06",
  "source": "zhiri-server",
  "items": [
@@ -11,6 +11,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/06/ARTImIqGiSWHaL64cuisTKoa260803.shtml",
    "summary": "消费关乎民生冷暖，联动产业发展，是拉动经济增长的主引擎。我国拥有超14亿人口，人均国内生产总值突破1万美元，是全球最大、最有潜力的消费市场。今年上半年，我国服务零售额同比增长5.3%，增速高于商品零售额4.2个百分点。数字消费、绿色消费等增长潜力加快释放，更多智能绿色产品进入百姓生活。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "年中经济观察：超长期特别国债让民生福祉可感可及",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/06/ARTIOGYyGtvNAOnSoSd1xo7k260806.shtml",
+   "summary": "a05b8fa851c1,0,1,16:9,newPlayer22f24da1473d,0,1,16:9,newPlayer2867fb4627b8,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -56,30 +66,20 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "推进作风建设常态化长效化",
+   "title": "上半年我国机械工业行业运行稳中有进",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/06/ARTI7jOa82gkE9oFhJCYnSZx260806.shtml",
-   "summary": "党的作风就是党的形象，关系人心向背，关系党的生死存亡。习近平党建思想鲜明提出“坚持推进作风建设常态化长效化”，强调这是保持党同人民群众血肉联系的有效途径。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "数据有了“身份证” 我国正稳步推进数据产权登记",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/06/ARTIA9nlG4n9MXqYB3O2TEO5260806.shtml",
+   "url": "https://tv.cctv.com/2026/08/06/VIDEq8WjK9SOZSGT18oQZi5E260806.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "税收数据显示：传统产业转型提速 新兴产业增势强劲",
+   "title": "推进作风建设常态化长效化",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/06/VIDEqIQU5adCsGAdSiaDdydS260806.shtml",
+   "url": "https://news.cctv.com/2026/08/06/ARTI7jOa82gkE9oFhJCYnSZx260806.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -136,11 +136,41 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "在敖德萨，没有人能免受俄罗斯新的黑海袭击的影响",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+   "summary": "变黑的船只和被毁的码头标志着俄罗斯最近对乌克兰海岸线的袭击激增。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
    "summary": "美国和阿曼都没有对拟议的重要水道协议发表评论。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度记者塔伦·泰帕尔 (Tarun Tejpal) 因 2013 年强奸案被定罪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+   "summary": "孟买高等法院果阿法官推翻了 2021 年初审法院的判决，免除了 Tejpal 的所有指控。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "乌干达足球队长在街头帮派袭击中被殴打致死，引发愤怒",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+   "summary": "警方称，这名 27 岁的男子在抵抗抢劫企图后被疑似劫匪杀害。",
    "day": 0
   },
   {
@@ -160,7 +190,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
-   "summary": "尼日利亚政府表示，此次救援是该国联合安全部队单日最大规模的行动。",
+   "summary": "政府表示，这次救援是该国联合安全部队单日最大规模的行动。",
    "day": 0
   },
   {
