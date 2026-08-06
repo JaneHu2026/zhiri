@@ -473,6 +473,7 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .hcal-cell.pred{background:var(--bean-soft);color:var(--bean-deep);font-weight:600;border:1px dashed var(--bean)}
 .hcal-cell.fertile{background:var(--mist-soft);color:var(--mist-blue-deep)}
 .hcal-cell.ov{background:var(--lavender-soft);color:var(--lavender);font-weight:700;box-shadow:inset 0 0 0 1.5px var(--lavender)}
+.hcal-cell.luteal{background:var(--pink-soft);color:var(--bean-deep)}
 .hcal-cell.today{box-shadow:inset 0 0 0 1.5px var(--green-deep)}
 .hcal-dot{width:4px;height:4px;border-radius:50%;background:var(--apricot);position:absolute;bottom:3px;left:50%;transform:translateX(-50%)}
 .hcal-cell{position:relative}
@@ -1598,7 +1599,7 @@ function renderAcct() {
     <div class="tab-hero">
       <div class="th-sub">财务小账本</div>
       <div class="th-main">每一笔，都心里有数</div>
-      <button class="hero-add" style="background:var(--card);color:var(--green-deep);border:1px solid var(--line);box-shadow:var(--shadow);width:auto;padding:0 14px;border-radius:20px;font-size:13px" onclick="openCateManage()" title="分类管理">分类＋</button>
+      <button class="hero-add" style="background:var(--card);color:var(--green-deep);border:1px solid var(--line);box-shadow:var(--shadow);width:auto;padding:0 14px;border-radius:20px;font-size:13px" onclick="openCatManage()" title="分类管理">分类＋</button>
     </div>
     <div class="acct-balance">
       <div class="ab-label">结余（收入 − 支出）</div>
@@ -2954,7 +2955,7 @@ function healthPredict() {
   };
 }
 
-/* 月历标记：dateKey -> 'recorded' | 'pred' | 'fertile' | 'ov' */
+  // 月历标记：dateKey -> 'recorded' | 'pred' | 'fertile' | 'ov' | 'luteal'
 function healthMarks() {
   const c = healthCfg();
   const marks = {};
@@ -2973,8 +2974,30 @@ function healthMarks() {
     const fDays = Math.round((parseKey(p.fertileE) - parseKey(p.fertileS)) / 86400000);
     for (let i = 0; i <= fDays; i++) { put(dateKey(d), 'fertile'); d = addDays(d, 1); }
     put(p.ov, 'ov', true);   // 排卵日优先于易孕期
+    d = parseKey(p.lutealS);
+    const lDays = Math.round((parseKey(p.lutealE) - parseKey(p.lutealS)) / 86400000);
+    for (let i = 0; i <= lDays; i++) { put(dateKey(d), 'luteal'); d = addDays(d, 1); }  // 黄体期（不覆盖已标记）
   }
   return marks;
+}
+
+/* 日历点击：标记/取消该日为经期开始（美柚式） */
+function hcalPick(k) {
+  const periods = hPeriods();
+  const idx = periods.findIndex(p => p.start === k);
+  if (idx >= 0) {
+    periods.splice(idx, 1);
+    showToast('已取消 ' + fmtMD(k) + ' 经期记录');
+  } else {
+    const c = healthCfg();
+    periods.push({ start: k, end: dateKey(addDays(parseKey(k), (c.period || 5) - 1)) });
+    periods.sort((a, b) => a.start > b.start ? -1 : 1);
+    if (!data.health.lastPeriodStart || k > data.health.lastPeriodStart) data.health.lastPeriodStart = k;
+    showToast('已标记 ' + fmtMD(k) + ' 为经期开始');
+  }
+  data.health.periods = periods;
+  saveData();
+  renderHealth();
 }
 
 /* ---------- 渲染 ---------- */
@@ -3021,26 +3044,7 @@ function healthPredHtml() {
     </div>
   </div>`;
 
-  // 预测卡
-  const predCards = `<div class="hp-cards">
-    <div class="hp-card fertile">
-      <div class="hpc-label">预计易孕期</div>
-      <div class="hpc-val">${fmtMD(p.fertileS)} ~ ${fmtMD(p.fertileE)}</div>
-      <div class="hpc-note">排卵前 5 天至排卵日 · 共 6 天</div>
-    </div>
-    <div class="hp-card ov">
-      <div class="hpc-label">预计排卵日</div>
-      <div class="hpc-val">${fmtMD(p.ov)}</div>
-      <div class="hpc-note">下次经期前约 14 天</div>
-    </div>
-    <div class="hp-card luteal">
-      <div class="hpc-label">预计黄体期</div>
-      <div class="hpc-val">${fmtMD(p.lutealS)} ~ ${fmtMD(p.lutealE)}</div>
-      <div class="hpc-note">排卵后至下次经期前</div>
-    </div>
-  </div>`;
-
-  // 月历
+  // 月历（点击日期 = 标记/取消经期，美柚式）
   const [cy, cm] = (state.hcalMonth || todayKey().slice(0, 7)).split('-').map(Number);
   const first = new Date(cy, cm - 1, 1);
   const daysInMonth = new Date(cy, cm, 0).getDate();
@@ -3052,7 +3056,7 @@ function healthPredHtml() {
     const cls = marks[k] || '';
     const isToday = k === todayKey();
     const hasSym = !!sym[k];
-    cells += `<div class="hcal-cell ${cls} ${isToday ? 'today' : ''}" onclick="openDayRecord('${k}')">
+    cells += `<div class="hcal-cell ${cls} ${isToday ? 'today' : ''}" onclick="hcalPick('${k}')">
       ${d}${hasSym ? '<i class="hcal-dot"></i>' : ''}
     </div>`;
   }
@@ -3073,8 +3077,10 @@ function healthPredHtml() {
       <span class="lg"><i style="background:var(--bean)"></i>已记录经期</span>
       <span class="lg"><i style="background:var(--bean-soft);border:1px dashed var(--bean)"></i>预测经期</span>
       <span class="lg"><i style="background:var(--mist-soft);border:1px solid var(--mist)"></i>易孕期</span>
-      <span class="lg"><i style="background:var(--lavender-soft);border:1px solid var(--lavender)"></i>排卵预测</span>
+      <span class="lg"><i style="background:var(--lavender-soft);border:1px solid var(--lavender)"></i>排卵日</span>
+      <span class="lg"><i style="background:var(--pink-soft);border:1px solid var(--bean-line)"></i>黄体期</span>
     </div>
+    <div style="font-size:11px;color:var(--text-faint);margin-top:8px;text-align:center">点击日期即可标记 / 取消经期开始</div>
   </div>`;
 
   // 记录今天（弹窗式入口，不占页面空间）
@@ -3085,7 +3091,7 @@ function healthPredHtml() {
     <span class="hdr-btn-s">经量 / 症状 / 备注</span>
   </button>`;
 
-  return mainCard + predCards + cal + recBtn + healthTrendHtml() + healthTipsHtml();
+  return mainCard + cal + recBtn + healthTrendHtml() + healthTipsHtml();
 }
 
 /* ---------- 每日记录 ---------- */
