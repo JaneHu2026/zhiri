@@ -345,6 +345,8 @@ input.in::placeholder,textarea.in::placeholder{color:var(--text-faint)}
 .pl-qbit{background:#3E63B4;color:#fff}
 .pl-ithome{background:#E8844A;color:#fff}
 .pl-hn{background:#FF6600;color:#fff}
+.pl-zhihu{background:#0F88EB;color:#fff}
+.pl-weibo{background:#E6162D;color:#fff}
 .sc-heat{margin-left:auto;font-size:11.5px;color:var(--text-dim)}
 .sc-net{font-size:10.5px;padding:2px 8px;border-radius:8px;background:var(--apricot-soft);color:color-mix(in srgb,var(--apricot) 80%,var(--text))}
 .sc-title{font-family:var(--font-serif);font-size:15.5px;font-weight:600;line-height:1.5;padding:8px 14px 4px;cursor:pointer;display:block;text-decoration:none;color:inherit}
@@ -2011,8 +2013,10 @@ const PLATFORM_META = {
   qbitai:     { name: '量子位',     cls: 'pl-qbit' },
   ithome:     { name: 'IT之家',     cls: 'pl-ithome' },
   hn:         { name: 'Hacker News', cls: 'pl-hn' },
+  zhihu:      { name: '知乎',       cls: 'pl-zhihu' },
+  weibo:      { name: '微博',       cls: 'pl-weibo' },
 };
-const STUDY_ORDER = ['youtube', 'bilibili', 'douyin', 'xhs', 'jiqizhixin', 'qbitai', 'ithome', 'hn'];
+const STUDY_ORDER = ['youtube', 'bilibili', 'douyin', 'xhs', 'jiqizhixin', 'qbitai', 'ithome', 'hn', 'zhihu', 'weibo'];
 const OVERSEAS_PLATFORMS = ['youtube', 'facebook', 'x'];
 const SEARCH_ONLY_PLATFORMS = ['douyin', 'facebook', 'x'];
 const XHS_HOME = ['xhs'];
