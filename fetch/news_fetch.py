@@ -269,7 +269,7 @@ def main():
     # 合并、排序（今天在前）
     all_items = [it for g in groups for it in g]
     all_items.sort(key=lambda x: x['day'])
-    now = datetime.now()
+    now = datetime.utcnow() + timedelta(hours=8)  # 北京时间（Actions 服务器为 UTC）
     payload = {
         'fetchedAt': now.strftime('%H:%M'),
         'fetchedDate': now.strftime('%Y-%m-%d'),

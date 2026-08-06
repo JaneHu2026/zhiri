@@ -223,7 +223,7 @@ def main():
                 'flags': {'fav': False, 'watched': False, 'later': False},
             })
 
-    now = datetime.now()
+    now = datetime.utcnow() + timedelta(hours=8)  # 北京时间（Actions 服务器为 UTC）
     payload = {
         'fetchedAt': now.strftime('%H:%M'),
         'fetchedDate': now.strftime('%Y-%m-%d'),
