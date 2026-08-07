@@ -1,16 +1,16 @@
 {
- "fetchedAt": "20:30",
- "fetchedDate": "2026-08-07",
+ "fetchedAt": "00:11",
+ "fetchedDate": "2026-08-08",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "领航丨夯实基础开新局",
+   "title": "奋力开创中国式现代化建设新局面 |",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/07/ARTIRLYJJ3t0U8BO4eHVRpnr260807.shtml",
-   "summary": "面对外部环境变乱交织，国内一些新情况、老问题交织叠加的复杂局面，习近平总书记锚定“十五五”时期经济社会发展重大战略任务，作出一系列重大决策部署，扎实推动高质量发展，集中力量办好自己的事，引领“十五五”良好开局。",
+   "url": "https://news.cctv.com/2026/08/07/ARTIFB2Nc1gBoNrHsPO1EIvV260807.shtml",
+   "summary": "记者丨时冉 陈汉章 张毅伟 谢晓光 马喆 刘会民 李炜 吴倩 辛乔",
    "day": 0
   },
   {
@@ -106,6 +106,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "泰国学生在家中和学校开枪 七人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+   "summary": "当局称，这名 14 岁的男子杀害了他的祖父母，然后枪杀了学校的五名老师。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
    "source": "BBC",
    "time": "今天",
@@ -121,6 +131,26 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
    "summary": "巴基斯坦表示，在中东冲突中，对三人中任何一个人的攻击都相当于对所有人的攻击。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "如果意大利在休达过境后未能解除边境管制，西班牙威胁进行报复",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+   "summary": "上周大批移民从摩洛哥越境前往休达后，意大利表示不会接受“最后通牒或强制措施”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "墨西哥和秘鲁在庇护争端后恢复外交关系",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+   "summary": "2025 年 11 月，秘鲁前总理贝齐·查韦斯 (Betssy Chávez) 向墨西哥大使馆寻求庇护后，两国关系破裂。",
    "day": 0
   },
   {
@@ -146,41 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国达成12亿美元协议，向德国公司支付停止海上风电项目的费用",
+   "title": "特朗普政府将向德国公司支付 12 亿美元以停止美国风电项目",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-   "summary": "RWE 的赔偿是一系列取消风能项目交易中的最新一项，而风能项目长期以来一直受到特朗普的嘲笑。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“蟑螂”抗议后，印度各邦掀起了新的青年骚乱",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-   "summary": "在印度共产党的抗议活动震惊德里几周后，一场由青年领导的新的就业和招聘运动正在贾坎德邦集结。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "两人因法国主播死亡事件被定罪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-   "summary": "46 岁的拉斐尔·格雷文 (Raphaël Graven) 于 2025 年 8 月去世，流媒体平台 Kick 现场直播了他的死讯。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "德国机场无人机炸弹袭击：俄罗斯可能参与其中吗？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 从之前的案件中看到证据表明，与俄罗斯有关的代理人不仅处理无人机和爆炸物，而且还将它们运送到",
+   "summary": "RWE 的赔偿是一系列取消风能项目交易中的最新一项，风能项目长期以来一直受到特朗普的嘲笑。",
    "day": 0
   },
   {
