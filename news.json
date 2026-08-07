@@ -1,5 +1,5 @@
 {
- "fetchedAt": "00:11",
+ "fetchedAt": "07:50",
  "fetchedDate": "2026-08-08",
  "source": "zhiri-server",
  "items": [
@@ -106,21 +106,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泰国学生在家中和学校开枪 七人死亡",
+   "title": "由于休达移民涌入问题加剧，西班牙对意大利实施边境管制",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-   "summary": "当局称，这名 14 岁的男子杀害了他的祖父母，然后枪杀了学校的五名老师。",
+   "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+   "summary": "在约 78,000 名移民从邻国摩洛哥涌入西班牙飞地休达后，意大利实施了边境管制。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
+   "title": "枪击事件造成八人死亡后，泰国总理誓言要出台更严格的枪支法",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-   "summary": "除了该裁决之外，Meta 还被勒令在此案中支付 3.75 亿美元的罚款，总计 9.42 亿美元。",
+   "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+   "summary": "一名 14 岁少年向自家和学校开枪，然后开枪自杀，造成 8 人死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泰国学生说，当我的老师被枪杀时，我正站在她面前",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+   "summary": "这名学生说，在袭击造成五名老师死亡后，她担心再也见不到她的母亲了。",
    "day": 0
   },
   {
@@ -136,51 +146,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "如果意大利在休达过境后未能解除边境管制，西班牙威胁进行报复",
+   "title": "西班牙警方破获“最大”走私网络，逮捕 78 人",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-   "summary": "上周大批移民从摩洛哥越境前往休达后，意大利表示不会接受“最后通牒或强制措施”。",
+   "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+   "summary": "该团伙将合成毒品从西班牙运往阿尔及利亚，然后利用回程走私移民和武器。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "墨西哥和秘鲁在庇护争端后恢复外交关系",
+   "title": "被绑架的稀有塞尔维亚鹰获救后放归野外",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-   "summary": "2025 年 11 月，秘鲁前总理贝齐·查韦斯 (Betssy Chávez) 向墨西哥大使馆寻求庇护后，两国关系破裂。",
+   "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+   "summary": "鹰费利克斯第一次在塞尔维亚筑巢时被绑架，最后在中东遇到了索要赎金的偷猎者。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普再次试图通过新的行政命令限制美国出生公民权",
+   "title": "亨特·拜登告诉 BBC，他的赦免对美国或他父亲的遗产“不利”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-   "summary": "该行政命令禁止生育旅游，并扩大了子女不符合美国出生权公民资格的人的现有定义",
+   "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+   "summary": "在一次广泛的 BBC 采访中，这位前总统的儿子否认有任何竞选公职的兴趣，并表示他父亲的癌症已经",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
+   "title": "索菲亚·拉福尔特扎 (Sophia Laforteza) 离开凯瑟伊 (Katseye)，成为今年第二位离开的成员",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-   "summary": "飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普政府将向德国公司支付 12 亿美元以停止美国风电项目",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-   "summary": "RWE 的赔偿是一系列取消风能项目交易中的最新一项，风能项目长期以来一直受到特朗普的嘲笑。",
+   "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+   "summary": "这一消息是在乐队成员曼农·班纳曼 (Manon Bannerman) 退出乐团之后发布的。",
    "day": 0
   },
   {
