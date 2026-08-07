@@ -1,62 +1,8 @@
 {
- "fetchedAt": "13:02",
+ "fetchedAt": "20:32",
  "fetchedDate": "2026-08-07",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "The Billion Dollar AI Race Just Broke",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-05 13:54:29",
-   "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-   "points": [
-    "价值十亿美元的人工智能竞赛刚刚结束"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Another DeepSeek Moment Has Arrived",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-03 09:47:34",
-   "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-   "points": [
-    "另一个 DeepSeek 时刻已经到来"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-02 15:01:10",
-   "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-   "points": [
-    "NVIDIA 的 AI 了解为何仅复制人类还不够"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -149,12 +95,84 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "100 random chords, how many intersections?",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-06-16 18:04:05",
+   "url": "https://www.youtube.com/watch?v=wGffBCfrAsE",
+   "points": [
+    "100个随机和弦，有多少个交叉点？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "巨构ai",
+   "title": "巨构：玄同无待【AI全民制作人】",
+   "duration": "1:02",
+   "heat": 1009812,
+   "updated": "2026-08-07T12:32:26.738749",
+   "url": "https://www.bilibili.com/video/BV1FTMS6cEjW",
+   "points": [
+    "无无既无，化化不化。 动非形动，静亦非静。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "影视飓风",
    "title": "太卷了！改变视频行业的AI又迭代了什么？",
    "duration": "9:58",
-   "heat": 1408131,
-   "updated": "2026-08-07T05:02:35.027035",
+   "heat": 1545013,
+   "updated": "2026-08-07T12:32:26.738763",
    "url": "https://www.bilibili.com/video/BV1teuc63E6D",
    "points": [
     "五个月前，我们聊过 Seedance2.0 给视频行业带来的改变。如今 Seedance 直接带来全套全家桶，进一步放大了自身优势。这次更新究竟带来了哪些新变化？它又是否会给整个视频行业带来更大的冲击？如果你喜欢这期视频"
@@ -168,14 +186,14 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "巨构ai",
-   "title": "巨构：行深般若【AI全民制作人】",
-   "duration": "1:02",
-   "heat": 900223,
-   "updated": "2026-08-07T05:02:35.027045",
-   "url": "https://www.bilibili.com/video/BV1bhuc6VEym",
+   "author": "路人甲导演",
+   "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
+   "duration": "24:58",
+   "heat": 1439999,
+   "updated": "2026-08-07T12:32:26.738766",
+   "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
    "points": [
-    "极目所见，皆是法相；向内观照，实为心源。"
+    "当学历对应网文中的战力境界，小明修仙传25分钟优化纯享版。"
    ],
    "flags": {
     "fav": false,
@@ -189,8 +207,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390603,
-   "updated": "2026-08-07T05:02:35.027048",
+   "heat": 390610,
+   "updated": "2026-08-07T12:32:26.738768",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -208,7 +226,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653397,
-   "updated": "2026-08-07T05:02:35.027051",
+   "updated": "2026-08-07T12:32:26.738770",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -225,8 +243,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557318,
-   "updated": "2026-08-07T05:02:35.027053",
+   "heat": 557321,
+   "updated": "2026-08-07T12:32:26.738772",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -241,8 +259,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155474,
-   "updated": "2026-08-07T05:02:35.027055",
+   "heat": 155476,
+   "updated": "2026-08-07T12:32:26.738774",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -259,8 +277,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611276,
-   "updated": "2026-08-07T05:02:35.027057",
+   "heat": 611280,
+   "updated": "2026-08-07T12:32:26.738776",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -273,15 +291,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2658911,
-   "updated": "2026-08-07T05:02:35.027060",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-07T12:32:26.738778",
+   "url": "https://www.qbitai.com/2026/08/468324.html",
    "points": [
-    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
+    "AI语音“听、说、创”一站式满足"
    ],
    "flags": {
     "fav": false,
@@ -291,16 +309,30 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "戚薇用AI解锁末世",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
    "duration": "—",
-   "heat": 7684566,
-   "updated": "2026-08-07T05:02:35.027062",
-   "url": "https://www.douyin.com/search/%E6%88%9A%E8%96%87%E7%94%A8AI%E8%A7%A3%E9%94%81%E6%9C%AB%E4%B8%96?type=general",
-   "points": [
-    "热门话题「戚薇用AI解锁末世」：相关视频 3 条"
-   ],
+   "heat": 0,
+   "updated": "2026-08-07T12:32:26.738779",
+   "url": "https://www.qbitai.com/2026/08/466738.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-07T12:32:26.738781",
+   "url": "https://www.qbitai.com/2026/08/468305.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -314,7 +346,7 @@
    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-07T05:02:35.027065",
+   "updated": "2026-08-07T12:32:26.738782",
    "url": "https://www.qbitai.com/2026/08/467877.html",
    "points": [
     "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测"
@@ -332,7 +364,7 @@
    "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-07T05:02:35.027067",
+   "updated": "2026-08-07T12:32:26.738784",
    "url": "https://www.qbitai.com/2026/08/467879.html",
    "points": [],
    "flags": {
@@ -348,7 +380,7 @@
    "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-07T05:02:35.027068",
+   "updated": "2026-08-07T12:32:26.738786",
    "url": "https://www.qbitai.com/2026/08/467871.html",
    "points": [
     "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
@@ -361,15 +393,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "AI SSD：大模型推理的存储范式转移",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "印度IT行业在人工智能的影响下幸存下来",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-07T05:02:35.027070",
-   "url": "https://www.qbitai.com/2026/08/467840.html",
+   "heat": 2,
+   "updated": "2026-08-07",
+   "url": "https://economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
    "points": [
-    "算力、网络、内存与存储开始围绕每个Token协同"
+    "印度IT行业在人工智能的影响下幸存下来"
    ],
    "flags": {
     "fav": false,
@@ -379,30 +411,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能用于设计新病毒",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-07T05:02:35.027072",
-   "url": "https://www.qbitai.com/2026/08/467834.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "智元下架了首席科学家罗剑岚",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-07T05:02:35.027074",
-   "url": "https://www.qbitai.com/2026/08/467730.html",
-   "points": [],
+   "heat": 41,
+   "updated": "2026-08-07",
+   "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
+   "points": [
+    "人工智能用于设计新病毒"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -451,7 +469,7 @@
    "author": "Hacker News",
    "title": "微软文件显示，其人工智能收入的“约 70%”来自 OpenAI",
    "duration": "—",
-   "heat": 46,
+   "heat": 48,
    "updated": "2026-08-06",
    "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai",
    "points": [
@@ -474,42 +492,6 @@
    "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
    "points": [
     "印度IT行业在人工智能的影响下幸存下来"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Rogue OpenAI 模型联手突破测试环境",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-08-06",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-openai-models-behind-unprecedented-cybersecurity-incident-teamed-up-to-break-out-of-their-testing-environment-multiple-agents-left-each-other-messages-for-months-communicating-undetected",
-   "points": [
-    "Rogue OpenAI 模型联手突破测试环境"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了",
-   "duration": "—",
-   "heat": 11,
-   "updated": "2026-08-06",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-   "points": [
-    "埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了"
    ],
    "flags": {
     "fav": false,

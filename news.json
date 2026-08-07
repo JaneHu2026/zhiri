@@ -1,58 +1,8 @@
 {
- "fetchedAt": "13:01",
+ "fetchedAt": "20:30",
  "fetchedDate": "2026-08-07",
  "source": "zhiri-server",
  "items": [
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "年中经济观察｜服务实体经济 财政金融打出“组合拳”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/07/VIDE82T6EKt3MXPtl3xUqUuY260807.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "战高温 保民生｜北京电网负荷破纪录 青海、黑龙江绿电组团进京",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/07/VIDE46FAcdmRgFtqZDBQzjRd260807.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "耗能大产业 降碳大行动｜50年老厂绿色蝶变 另辟蹊径节能降碳",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/07/VIDEMcyFcoOUrZxm8iowEEu4260807.shtml",
-   "summary": "耗能大产业，降碳大行动：50年老厂绿色蝶变，另辟蹊径节能降碳。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "夯实基础｜串珠成链 多元消费业态激活乡村活力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/07/VIDEP5eOWdCUEFFZIrJb0epw260807.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全球首座16兆瓦张力腿浮式风电平台投运 记者探访“海上大风车”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/07/VIDEpT0e5nvKaMBTnS5Su6zm260807.shtml",
-   "summary": "全球首座16兆瓦张力腿浮式风电平台投运：记者探访“海上大风车”。",
-   "day": 0
-  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -65,21 +15,71 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "超30万亿元！我国货贸进出口延续增长",
+   "theme": "要闻",
+   "title": "习近平总书记今年以来治国理政纪实",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/07/ARTIoyNdH6ACSqp1cYo3uOZj260807.shtml",
+   "url": "https://news.cctv.com/2026/08/07/ARTIFB2Nc1gBoNrHsPO1EIvV260807.shtml",
+   "summary": "记者丨时冉 陈汉章 张毅伟 谢晓光 马喆 刘会民 李炜 吴倩 辛乔",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "新思想引领新征程｜服务消费扩容升级 激发内需新活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/07/ARTIGGTCGB7MXaOwqfIf1LMu260807.shtml",
+   "summary": "盛夏时节，大江南北消费热力十足。在电影院里看比赛、品美食，在商场里逛热带雨林、体验极限运动，“出圈”“跨界”背后，藏着百姓消费账单的新变化，买体验、买服务正在成为新趋势。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "奋力实现“十五五”良好开局｜抢占制高点 上海培育未来产业新模式",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/07/ARTI3VtDt8yDl9HYekyWgfx0260807.shtml",
+   "summary": "c1bbe2bce325,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "“提速”“领跑”“活力” 感知外贸转型升级的“新质爆发力”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/07/ARTIIwX87HGB4frRuHDcSGls260807.shtml",
+   "summary": "fb4218fd23f1,0,1,16:9,newPlayer0c413bd70594,0,1,16:9,newPlayer10044ed00b2f,0,1,16:9,newPlayerf99294b039e1,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "新场景串联多元新业态 特色消费场景点亮夏日文旅",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/07/ARTI9x064Qquifv0bB2uNE40260807.shtml",
+   "summary": "8905b5437f92,0,1,16:9,newPlayerbb6dc101530e,0,1,16:9,newPlayer28a02495b95d,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "财政金融“组合拳”激发民间投资活力 实现“1+1＞2”政策效果",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/07/ARTIkZqeuwbomu2UIQftpQyj260807.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国家数据局：推进数据产权登记“一次登记 全国通用”",
+   "title": "出口势头强劲！专精特新“小巨人”企业综合竞争力增强",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/07/VIDETpAFKDU2jEbtLJDy4pS2260807.shtml",
+   "url": "https://news.cctv.com/2026/08/07/ARTIymKM54MNWiTmLBFuPFwM260807.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -110,27 +110,17 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-   "summary": "新墨西哥州的一名法官命令 Instagram、Facebook 和 Whatsapp 母公司为其伤害儿童的行为再支付 5.67 亿美元。",
+   "summary": "除了该裁决之外，Meta 还被勒令在此案中支付 3.75 亿美元的罚款，总计 9.42 亿美元。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行",
+   "title": "沙特阿拉伯、土耳其和巴基斯坦签署防务协定",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-   "summary": "欧洲管理机构欧足联表示，国际足联在周三的一次会议上对主席詹尼·因凡蒂诺的支持“没有改变任何事情”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-   "summary": "飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
+   "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+   "summary": "巴基斯坦表示，在中东冲突中，对三人中任何一个人的攻击都相当于对所有人的攻击。",
    "day": 0
   },
   {
@@ -146,6 +136,36 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+   "summary": "飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国达成12亿美元协议，向德国公司支付停止海上风电项目的费用",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+   "summary": "RWE 的赔偿是一系列取消风能项目交易中的最新一项，而风能项目长期以来一直受到特朗普的嘲笑。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“蟑螂”抗议后，印度各邦掀起了新的青年骚乱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+   "summary": "在印度共产党的抗议活动震惊德里几周后，一场由青年领导的新的就业和招聘运动正在贾坎德邦集结。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "两人因法国主播死亡事件被定罪",
    "source": "BBC",
    "time": "今天",
@@ -156,31 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普对关键芯片材料征收15%关税以对抗中国",
+   "title": "德国机场无人机炸弹袭击：俄罗斯可能参与其中吗？",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-   "summary": "此举旨在保护美国公司，因为它们面临着来自中国芯片行业日益激烈的竞争。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "苏丹的隐形儿童——在战争中出生却没有合法身份",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-   "summary": "因强奸而出生的婴儿往往无法获得出生证明，这意味着一生都会遇到问题。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“被消灭”——英国广播公司报道斯波坎社区被大火摧毁",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-   "summary": "官员们仍在努力控制大火，大火已烧毁至少 860 座建筑物，其中包括数百所房屋。",
+   "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 从之前的案件中看到证据表明，与俄罗斯有关的代理人不仅处理无人机和爆炸物，而且还将它们运送到",
    "day": 0
   },
   {
