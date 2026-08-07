@@ -2250,6 +2250,8 @@ function beep(times) {
   try {
     if (!_focusCtx) return;
     const ctx = _focusCtx;
+    // iOS：上下文可能被挂起，先恢复再播放（否则无声）
+    if (ctx.state === 'suspended') ctx.resume();
     const n = times || 3;
     for (let i = 0; i < n; i++) {
       const t0 = ctx.currentTime + i * 0.28;
@@ -2455,6 +2457,16 @@ function startFocusTick() {
       renderFocus();
       return;
     }
+    // 剩余 1 分钟预告（前台时提醒一声）
+    if (r.mode === 'countdown' && !r.pausedAt && !r.done && !r._warned) {
+      const remain = focusRemainingMs(r);
+      if (remain > 0 && remain <= 61000) {
+        r._warned = true;
+        saveRunning();
+        beep(1);
+        showToast('还剩 1 分钟');
+      }
+    }
     const el = document.getElementById('tab-focus');
     if (el) {
       // 大时钟每秒更新（时间戳计算，锁屏/切后台恢复准确）
@@ -2487,6 +2499,18 @@ function startFocusTick() {
       }
     }
   }, 1000);
+  // 回到前台：若倒计时已在后台归零，补一次声音+提示（iOS 后台 JS 冻结，无法提前提醒）
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) return;
+    const r = state.focusRunning;
+    if (r && r.done && !r._reminded) {
+      r._reminded = true;
+      saveRunning();
+      unlockAudio();
+      beep(3);
+      showToast('专注已结束，记得点击「结束并记录」');
+    }
+  });
 }
 /* ============================================================
  * 初始化与全局事件
