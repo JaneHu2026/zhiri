@@ -1,12 +1,22 @@
 {
- "fetchedAt": "12:18",
+ "fetchedAt": "19:14",
  "fetchedDate": "2026-08-08",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
+   "theme": "医疗",
+   "title": "乐享全民健身 共筑健康中国",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/08/ARTIqSM2uA2JebxG0mwur9Km260808.shtml",
+   "summary": "放眼华夏大地，全民健身热潮正席卷城乡，人人爱运动、人人享健康蔚然成风，为体育强国、健康中国筑牢最坚实的民生根基。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨从40%的新目标看全民健身事业高质量发展",
+   "title": "从40%的新目标看全民健身事业高质量发展 |",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/08/ARTIVblL7v1kYyMOFiz7GcfN260808.shtml",
@@ -15,8 +25,18 @@
   },
   {
    "group": "gn",
+   "theme": "要闻",
+   "title": "多地交出“全民健身”实践答卷 推动“文商旅体展农”深度融合 |",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/08/ARTI33GcmXzCacFleAbjZHFP260808.shtml",
+   "summary": "107588071719,0,1,16:9,newPlayer386b15d9969a,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "体育",
-   "title": "家门口健身“热”起来 “体育+”激活城市发展新动能 |",
+   "title": "家门口健身“热”起来 “体育+”激活城市发展新动能",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/08/ARTIdP6yuRV1nbgUh5Iz4OHd260808.shtml",
@@ -26,61 +46,91 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "透过上半年国内居民出游“成绩单”看消费新动向",
+   "title": "多地交出“全民健身”实践答卷 推动“文商旅体展农”深度融合",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/08/ARTIdHdcm8jwxEXwpmlKEc1R260808.shtml",
-   "summary": "8a782ef0c1f7,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "从先行指标看中国经济稳步向好",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/08/ARTIwBPesUJAzbJySWCu2mcC260808.shtml",
-   "summary": "8e23f581ee59,0,1,16:9,newPlayer7d254ea95df2,0,1,16:9,newPlayerd1813b95d872,0,1,16:9,newPlayer428f3d4f9553,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/08/ARTI33GcmXzCacFleAbjZHFP260808.shtml",
+   "summary": "107588071719,0,1,16:9,newPlayer386b15d9969a,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国防部：日“再军事化”妄动是地区和平稳定真正威胁",
+   "title": "多地探索“片区化推进乡村振兴”新路径 打开发展“新空间”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/08/VIDEcWQAT7P0g6kvY1bdOQ2D260808.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/08/ARTIZT3EMnoruj0h0GqsVv3F260808.shtml",
+   "summary": "5f99b8e7fa13,0,1,16:9,newPlayer2e1b22d68f49,0,1,16:9,newPlayer82b065c24bc2,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "教育",
-   "title": "教育部全力推动教师减负工作落地见效、走深走实",
+   "theme": "环境",
+   "title": "各地积极应对高温“烤”验 文旅消费新场景让消暑纳凉有了好去处",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/08/ARTIk5sUqp7f27wT32SeOSAI260808.shtml",
-   "summary": "轻点鼠标，简单操作，仅需10分钟，一份汇集学生荣誉证书、学籍信息的统计表格便可自动生成。山东省威海市望海园中学语文教师唐晨感慨：“以往手工整理需要花费2小时，现在节省下来的时间让我可以更好地深耕教学、陪伴学生。”",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "战高温、保民生加“数”蝶变 智慧力量保障物资高效疏运",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/08/ARTIDPJ2LO6GqMzSfltQyRF3260808.shtml",
+   "url": "https://news.cctv.com/2026/08/08/ARTIdm1rwWUSuF9H65AYy4Yz260808.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“白海豚”将在舟山到福鼎一带沿海登陆",
+   "title": "军情时间到｜ “轰-6家族” 亮剑海天",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/08/ARTIVUbmW7SkQcwipSk2cdbH260808.shtml",
+   "url": "https://tv.cctv.com/2026/08/08/VIDEYkXKM0ScUnqreVSyM9eR260808.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "在基辅附近的俄罗斯导弹袭击中丧生的三人中的一名儿童",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+   "summary": "在总统泽连斯基警告乌克兰导弹拦截器供应减少后，俄罗斯继续进行夜间袭击。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普前律师托德·布兰奇被确认出任美国司法部长",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+   "summary": "经过长时间的对峙后，共和党参议员比尔·卡西迪投下了决定性的一票。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“我逃跑是因为我知道我会死”：俄罗斯无人机瞄准乌克兰医务人员",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰紧急救援人员警告说，俄罗斯对医院和救护车的袭击越来越多。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "他在珠穆朗玛峰被冻了30年，现在“绿靴子”可能终于回家了",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+   "summary": "几十年来，印度男子的石灰鞋一直是许多攀登世界最高峰的人的可怕足迹。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "破坏规模震惊了美国城市经历过火灾的居民",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+   "summary": "一名斯波坎居民告诉 BBC，当她听说火势越过河流时，她意识到了巨大的危险。",
    "day": 0
   }
  ]
