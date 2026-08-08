@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:52",
- "fetchedDate": "2026-08-08",
+ "fetchedAt": "07:03",
+ "fetchedDate": "2026-08-09",
  "source": "zhiri-server",
  "items": [
   {
@@ -86,11 +86,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "在基辅附近的俄罗斯导弹袭击中丧生的三人中的一名儿童",
+   "title": "阿曼表示霍尔木兹会谈积极，伊朗警告协议不会打开海峡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-   "summary": "在总统泽连斯基警告乌克兰导弹拦截器供应减少后，俄罗斯继续进行夜间袭击。",
+   "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+   "summary": "双方均表示谈判已取得进展，以商定穿过海峡的新航线，但取得突破仍不明朗。",
    "day": 0
   },
   {
@@ -106,7 +106,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "新右翼总统上任第一天美国向哥伦比亚赠送10亿美元",
+   "title": "新右翼总统上任第一天美国向哥伦比亚提供10亿美元",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -116,51 +116,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "随着休达移民涌入的争端加剧，西班牙对意大利实施边境管制",
+   "title": "梅西父亲豪尔赫因病去世，享年68岁",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+   "summary": "莱昂内尔·梅西 (Lionel Messi) 的父亲兼经纪人豪尔赫 (Jorge) 因长期患病去世，享年 68 岁。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "麦当娜向“天才、超凡脱俗”的制作人威廉·奥尔比特致敬",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+   "summary": "这位流行天后多年来与 Orbit 多次合作，最引人注目的是她的格莱美奖获奖专辑《Ray of Light》。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：反对派议员向科索沃代理总理扔鸡蛋的时刻",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+   "summary": "在联盟党议员泰姆·卡德里亚吉向科索沃代理总理投掷至少四个鸡蛋后，立法者和警察不得不进行干预",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴黎要求电动滑板车骑手佩戴安全装备，否则将面临罚款",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+   "summary": "在致命事故急剧增加后，法国首都警方收紧了对骑手的规定。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "由于休达移民涌入问题加剧，西班牙对意大利实施边境管制",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
    "summary": "在大约 78,000 名摩洛哥移民涌入邻近的西班牙飞地休达后，意大利实施了边境管制。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "NBA前锋克拉克因药物作用死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-   "summary": "洛杉矶医疗当局透露，孟菲斯灰熊队前锋布兰登·克拉克的死亡是由于海洛因和可卡因的影响。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“我逃跑是因为我知道我会死”：俄罗斯无人机瞄准乌克兰医务人员",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰紧急救援人员警告说，俄罗斯对医院和救护车的袭击越来越多。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "他在珠穆朗玛峰被冻了30年，现在“绿靴子”可能终于回家了",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-   "summary": "几十年来，印度男子的石灰鞋一直是许多攀登世界最高峰的人的可怕足迹。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "破坏规模震惊了美国城市经历过火灾的居民",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-   "summary": "一名斯波坎居民告诉 BBC，当她听说火势越过河流时，她意识到了巨大的危险。",
    "day": 0
   }
  ]

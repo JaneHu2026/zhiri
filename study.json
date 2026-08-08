@@ -1,8 +1,26 @@
 {
- "fetchedAt": "22:54",
- "fetchedDate": "2026-08-08",
+ "fetchedAt": "07:05",
+ "fetchedDate": "2026-08-09",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "The Right Harness is All You Need - For local Frontier AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-08 17:22:18",
+   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+   "points": [
+    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -85,7 +103,7 @@
    "updated": "2026-07-22 16:28:16",
    "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
    "points": [
-    "OpenAI 黑客入侵 HuggingFace"
+    "OpenAI 攻击了 HuggingFace"
    ],
    "flags": {
     "fav": false,
@@ -131,30 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-17 21:55:53",
-   "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-   "points": [
-    "我向《Kimi K3》、《神鬼寓言 5》、《索尔 5.6》发起挑战，制作《奥德赛》……"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "路人甲导演",
    "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
    "duration": "24:58",
-   "heat": 2708309,
-   "updated": "2026-08-08T14:54:06.250407",
+   "heat": 2856816,
+   "updated": "2026-08-08T23:05:07.868935",
    "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
    "points": [
     "当学历对应网文中的战力境界，小明修仙传25分钟优化纯享版。"
@@ -171,8 +171,8 @@
    "author": "巨构ai",
    "title": "巨构：玄同无待【AI全民制作人】",
    "duration": "1:02",
-   "heat": 1417758,
-   "updated": "2026-08-08T14:54:06.250422",
+   "heat": 1471863,
+   "updated": "2026-08-08T23:05:07.868947",
    "url": "https://www.bilibili.com/video/BV1FTMS6cEjW",
    "points": [
     "无无既无，化化不化。 动非形动，静亦非静。"
@@ -189,8 +189,8 @@
    "author": "万维界-万界修理铺",
    "title": "啥都能修的异世界修理铺——顾客差点把我店烧了？【首届全国高校AIGC优才创作营】",
    "duration": "3:38",
-   "heat": 1409303,
-   "updated": "2026-08-08T14:54:06.250424",
+   "heat": 1482210,
+   "updated": "2026-08-08T23:05:07.868952",
    "url": "https://www.bilibili.com/video/BV1ZRMB6tEcp",
    "points": [
     "万界都有故障，万物皆可维修。 飞剑、魔镜、法杖、龙宫设备…… 不管来自哪个世界，坏了就来修。 异世界修理铺——神器也会坏，坏了也能修。"
@@ -207,8 +207,8 @@
    "author": "星辉绿野",
    "title": "假如你在十万人的宿舍谈恋爱【AI全民制作人】",
    "duration": "5:07",
-   "heat": 1476605,
-   "updated": "2026-08-08T14:54:06.250426",
+   "heat": 1560292,
+   "updated": "2026-08-08T23:05:07.868957",
    "url": "https://www.bilibili.com/video/BV1iKub6PELA",
    "points": [
     "阿丸的十万人宿舍日常之七夕篇（声明：本系列视频内容纯属虚构世界观，所有人物、情节、场景均为艺术创作，不影射任何现实中的个人、团体、机构或事件。请勿对号入座。视频中“十万人宿舍”及衍生环境的极端人数及规则仅为夸张表达，无任"
@@ -222,11 +222,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "率土秋晚小剧场",
+   "title": "《穿越三国，复活五虎北伐》第一季1-10集大合集！【AI全民制作人】",
+   "duration": "35:21",
+   "heat": 1033468,
+   "updated": "2026-08-08T23:05:07.868961",
+   "url": "https://www.bilibili.com/video/BV1ByuJ6jEfG",
+   "points": [
+    "《穿越三国，复活五虎北伐》第一季1-10集大合集！ 五虎上将复活，从街亭打到长安！看刘禅如何用系统复活五虎上将，助力丞相兴复汉室！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390625,
-   "updated": "2026-08-08T14:54:06.250428",
+   "heat": 390627,
+   "updated": "2026-08-08T23:05:07.868965",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -243,8 +261,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653398,
-   "updated": "2026-08-08T14:54:06.250430",
+   "heat": 653399,
+   "updated": "2026-08-08T23:05:07.868969",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -261,28 +279,10 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557331,
-   "updated": "2026-08-08T14:54:06.250432",
+   "heat": 557332,
+   "updated": "2026-08-08T23:05:07.868972",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155485,
-   "updated": "2026-08-08T14:54:06.250434",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [
-    "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
-   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -295,8 +295,8 @@
    "author": "抖音热榜",
    "title": "当AI反过来问你问题",
    "duration": "—",
-   "heat": 7784394,
-   "updated": "2026-08-08T14:54:06.250436",
+   "heat": 7741913,
+   "updated": "2026-08-08T23:05:07.868975",
    "url": "https://www.douyin.com/search/%E5%BD%93AI%E5%8F%8D%E8%BF%87%E6%9D%A5%E9%97%AE%E4%BD%A0%E9%97%AE%E9%A2%98?type=general",
    "points": [
     "热门话题「当AI反过来问你问题」：相关视频 1 条"
@@ -314,7 +314,7 @@
    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T14:54:06.250438",
+   "updated": "2026-08-08T23:05:07.868977",
    "url": "https://www.qbitai.com/2026/08/468631.html",
    "points": [],
    "flags": {
@@ -330,7 +330,7 @@
    "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T14:54:06.250440",
+   "updated": "2026-08-08T23:05:07.868980",
    "url": "https://www.qbitai.com/2026/08/468555.html",
    "points": [
     "海外团队纷纷下注，NeoLab浪潮狂飙"
@@ -348,7 +348,7 @@
    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T14:54:06.250442",
+   "updated": "2026-08-08T23:05:07.868981",
    "url": "https://www.qbitai.com/2026/08/468462.html",
    "points": [],
    "flags": {
@@ -364,7 +364,7 @@
    "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T14:54:06.250444",
+   "updated": "2026-08-08T23:05:07.868983",
    "url": "https://www.qbitai.com/2026/08/468324.html",
    "points": [
     "AI语音“听、说、创”一站式满足"
@@ -382,7 +382,7 @@
    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T14:54:06.250446",
+   "updated": "2026-08-08T23:05:07.868985",
    "url": "https://www.qbitai.com/2026/08/466738.html",
    "points": [],
    "flags": {
@@ -398,7 +398,7 @@
    "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T14:54:06.250448",
+   "updated": "2026-08-08T23:05:07.868987",
    "url": "https://www.qbitai.com/2026/08/468305.html",
    "points": [],
    "flags": {
@@ -411,9 +411,27 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能机器人开创了一种宗教——人类追随其后",
+   "title": "人工智能革命 (2015)",
    "duration": "—",
    "heat": 2,
+   "updated": "2026-08-08",
+   "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
+   "points": [
+    "人工智能革命 (2015)"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能机器人开创了一种宗教——人类追随其后",
+   "duration": "—",
+   "heat": 3,
    "updated": "2026-08-08",
    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
    "points": [
@@ -431,7 +449,7 @@
    "author": "Hacker News",
    "title": "我求求你：永远不要用人工智能写作",
    "duration": "—",
-   "heat": 4,
+   "heat": 5,
    "updated": "2026-08-08",
    "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
    "points": [
@@ -490,24 +508,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
    "points": [
     "人工智能用于设计新病毒"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能分析智能指数 v4.1.1",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-08-06",
-   "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
-   "points": [
-    "人工智能分析智能指数 v4.1.1"
    ],
    "flags": {
     "fav": false,
