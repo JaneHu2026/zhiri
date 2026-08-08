@@ -1,5 +1,5 @@
 {
- "fetchedAt": "19:15",
+ "fetchedAt": "22:54",
  "fetchedDate": "2026-08-08",
  "source": "zhiri-server",
  "items": [
@@ -85,7 +85,7 @@
    "updated": "2026-07-22 16:28:16",
    "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
    "points": [
-    "OpenAI 攻击了 HuggingFace"
+    "OpenAI 黑客入侵 HuggingFace"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "路人甲导演",
    "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
    "duration": "24:58",
-   "heat": 2551034,
-   "updated": "2026-08-08T11:15:17.260654",
+   "heat": 2708309,
+   "updated": "2026-08-08T14:54:06.250407",
    "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
    "points": [
     "当学历对应网文中的战力境界，小明修仙传25分钟优化纯享版。"
@@ -171,8 +171,8 @@
    "author": "巨构ai",
    "title": "巨构：玄同无待【AI全民制作人】",
    "duration": "1:02",
-   "heat": 1375482,
-   "updated": "2026-08-08T11:15:17.260664",
+   "heat": 1417758,
+   "updated": "2026-08-08T14:54:06.250422",
    "url": "https://www.bilibili.com/video/BV1FTMS6cEjW",
    "points": [
     "无无既无，化化不化。 动非形动，静亦非静。"
@@ -189,8 +189,8 @@
    "author": "万维界-万界修理铺",
    "title": "啥都能修的异世界修理铺——顾客差点把我店烧了？【首届全国高校AIGC优才创作营】",
    "duration": "3:38",
-   "heat": 1300018,
-   "updated": "2026-08-08T11:15:17.260666",
+   "heat": 1409303,
+   "updated": "2026-08-08T14:54:06.250424",
    "url": "https://www.bilibili.com/video/BV1ZRMB6tEcp",
    "points": [
     "万界都有故障，万物皆可维修。 飞剑、魔镜、法杖、龙宫设备…… 不管来自哪个世界，坏了就来修。 异世界修理铺——神器也会坏，坏了也能修。"
@@ -207,8 +207,8 @@
    "author": "星辉绿野",
    "title": "假如你在十万人的宿舍谈恋爱【AI全民制作人】",
    "duration": "5:07",
-   "heat": 1326421,
-   "updated": "2026-08-08T11:15:17.260668",
+   "heat": 1476605,
+   "updated": "2026-08-08T14:54:06.250426",
    "url": "https://www.bilibili.com/video/BV1iKub6PELA",
    "points": [
     "阿丸的十万人宿舍日常之七夕篇（声明：本系列视频内容纯属虚构世界观，所有人物、情节、场景均为艺术创作，不影射任何现实中的个人、团体、机构或事件。请勿对号入座。视频中“十万人宿舍”及衍生环境的极端人数及规则仅为夸张表达，无任"
@@ -226,7 +226,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 390625,
-   "updated": "2026-08-08T11:15:17.260670",
+   "updated": "2026-08-08T14:54:06.250428",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -244,7 +244,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653398,
-   "updated": "2026-08-08T11:15:17.260672",
+   "updated": "2026-08-08T14:54:06.250430",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -262,7 +262,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557331,
-   "updated": "2026-08-08T11:15:17.260673",
+   "updated": "2026-08-08T14:54:06.250432",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -278,10 +278,28 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155485,
-   "updated": "2026-08-08T11:15:17.260675",
+   "updated": "2026-08-08T14:54:06.250434",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "当AI反过来问你问题",
+   "duration": "—",
+   "heat": 7784394,
+   "updated": "2026-08-08T14:54:06.250436",
+   "url": "https://www.douyin.com/search/%E5%BD%93AI%E5%8F%8D%E8%BF%87%E6%9D%A5%E9%97%AE%E4%BD%A0%E9%97%AE%E9%A2%98?type=general",
+   "points": [
+    "热门话题「当AI反过来问你问题」：相关视频 1 条"
    ],
    "flags": {
     "fav": false,
@@ -296,7 +314,7 @@
    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T11:15:17.260677",
+   "updated": "2026-08-08T14:54:06.250438",
    "url": "https://www.qbitai.com/2026/08/468631.html",
    "points": [],
    "flags": {
@@ -312,7 +330,7 @@
    "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T11:15:17.260679",
+   "updated": "2026-08-08T14:54:06.250440",
    "url": "https://www.qbitai.com/2026/08/468555.html",
    "points": [
     "海外团队纷纷下注，NeoLab浪潮狂飙"
@@ -330,7 +348,7 @@
    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T11:15:17.260680",
+   "updated": "2026-08-08T14:54:06.250442",
    "url": "https://www.qbitai.com/2026/08/468462.html",
    "points": [],
    "flags": {
@@ -346,7 +364,7 @@
    "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T11:15:17.260682",
+   "updated": "2026-08-08T14:54:06.250444",
    "url": "https://www.qbitai.com/2026/08/468324.html",
    "points": [
     "AI语音“听、说、创”一站式满足"
@@ -364,7 +382,7 @@
    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T11:15:17.260683",
+   "updated": "2026-08-08T14:54:06.250446",
    "url": "https://www.qbitai.com/2026/08/466738.html",
    "points": [],
    "flags": {
@@ -380,7 +398,7 @@
    "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08T11:15:17.260685",
+   "updated": "2026-08-08T14:54:06.250448",
    "url": "https://www.qbitai.com/2026/08/468305.html",
    "points": [],
    "flags": {
