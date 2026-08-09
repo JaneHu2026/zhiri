@@ -1,16 +1,36 @@
 {
- "fetchedAt": "19:15",
+ "fetchedAt": "22:57",
  "fetchedDate": "2026-08-09",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "以心相交，成其久远——中国元首外交的世界情怀与大国气派",
+   "theme": "社会",
+   "title": "“努力提升粮食能源资源安全保障能力”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/09/ARTIhK3ZGA9hhYZlucx4Runs260809.shtml",
-   "summary": "习近平主席曾引用一位外国友人的话，形容友谊的珍贵。在习近平主席心中，人民友好是国际关系行稳致远的基础，是促进世界和平和发展的不竭动力，是实现合作共赢的基本前提。",
+   "url": "https://news.cctv.com/2026/08/09/ARTIzTz8pSjeuGQdBkptkNTD260809.shtml",
+   "summary": "发展和安全是一体之两翼、驱动之双轮。习近平总书记深刻把握时与势、洞察危与机，鲜明提出“要坚持高质量发展和高水平安全相互促进，努力提升粮食能源资源安全保障能力”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "丰收背后的“稳”与“进”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/09/ARTIBGB4T4D1WWg1FS6bnTO7260809.shtml",
+   "summary": "河南是我国夏粮生产第一大省。眼下，这儿的农田里正在紧锣密鼓干着一件事：建气象站。“十五五”期间，河南将聚焦66个粮食产能提升重点县，迭代升级1566个超期运行的气象观测装备。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "新思想引领新征程｜丰收背后的“稳”与“进”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/09/VIDEabECLRQCah67lR6gS0gu260809.shtml",
+   "summary": "河南是我国夏粮生产第一大省。眼下，这儿的农田里正在紧锣密鼓干着一件事：建气象站。“十五五”期间，河南将聚焦66个粮食产能提升重点县，迭代升级1566个超期运行的气象观测装备。",
    "day": 0
   },
   {
@@ -25,22 +45,12 @@
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "多个算力节点迎来新一轮扩容 全国算力“一盘棋”“一张网”不断成型",
+   "theme": "要闻",
+   "title": "我国加强对基础研究的长期稳定支持",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/09/ARTIuYg9GmXKUsD9qIX0lqir260809.shtml",
-   "summary": "faebd21eefcb,0,1,16:9,newPlayerabcc64e8e085,0,1,16:9,newPlayer189fca82cd00,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "中国空间站工作Vlog更新！乘组日常满满 机器人小航在轨“成长”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/09/ARTIrpneXI3HciFYJdbPkekb260809.shtml",
-   "summary": "8f1186e780d5,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/09/VIDE8pU23H91dRc8UaIrUUaX260809.shtml",
+   "summary": "前不久，广东公布首批基础与应用基础研究非共识项目拟支持名单，单个项目资助金额达200万元，重点支持35周岁以下的青年科研骨干从事原创性、颠覆性创新研究。",
    "day": 0
   },
   {
@@ -55,32 +65,32 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "打开“中国电影半年报” 看电影市场新活力与新动能",
+   "theme": "要闻",
+   "title": "我国加快自然资源“一张图”平台建设",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDEPJy2ZSCmAFqoUMYZjOMd260809.shtml",
+   "url": "https://tv.cctv.com/2026/08/09/VIDE2hlaQwjCek3sSXEuqof4260809.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "解锁入境游新体验 老外爱上骑车逛北京中轴线",
+   "theme": "科技",
+   "title": "中国空间站工作Vlog更新！乘组日常满满 机器人小航在轨“成长”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/09/ARTIXAGT5NwG14oC93aGIXN5260809.shtml",
+   "url": "https://news.cctv.com/2026/08/09/ARTIrpneXI3HciFYJdbPkekb260809.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "解锁夏日出游新玩法 打卡宝藏目的地",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "内塔尼亚胡表示，以色列拒绝特朗普针对加沙的15点计划",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDEytECJktaClDzZUNwZMPV260809.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+   "summary": "以色列总理表示，在哈马斯“真正”解除武装之前，以色列军队不会从加沙撤军。",
    "day": 0
   },
   {
@@ -96,11 +106,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大山火蔓延迅速，规模扩大一倍，宣布进入紧急状态",
+   "title": "西西里岛海岸发现古罗马沉船",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+   "summary": "意大利文化部长表示，这是多年来最重要的水下考古发现之一。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "加拿大野火失控，居民警告要做好最坏的打算",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "summary": "不列颠哥伦比亚省的巴尔德山脉野火仍被认为“失控”，已蔓延超过 36 平方英里（95 平方公里）。",
+   "summary": "不列颠哥伦比亚省的巴尔德山脉野火仍被认为“失控”，已蔓延超过 39 平方英里（103 平方公里）。",
    "day": 0
   },
   {
@@ -116,11 +136,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "洛杉矶仓库大火中大量腐烂的食物散发出难以忍受的恶臭",
+   "title": "难以忍受的腐烂恶臭正在困扰着洛杉矶的一个社区",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-   "summary": "一场大火烧毁了一座仓库，留下成堆腐烂的鸡肉、家禽和鱼来吸引苍蝇和老鼠。",
+   "summary": "一场大火烧毁了一座巨大的食品仓库，成堆的腐肉在夏日的阳光下溃烂。",
    "day": 0
   },
   {
