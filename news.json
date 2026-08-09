@@ -1,46 +1,26 @@
 {
- "fetchedAt": "12:47",
+ "fetchedAt": "19:15",
  "fetchedDate": "2026-08-09",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "沪浙闽海事部门启动台风应急响应",
+   "theme": "要闻",
+   "title": "以心相交，成其久远——中国元首外交的世界情怀与大国气派",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDEZtu2xt6aWaTPD07kubCK260809.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/09/ARTIhK3ZGA9hhYZlucx4Runs260809.shtml",
+   "summary": "习近平主席曾引用一位外国友人的话，形容友谊的珍贵。在习近平主席心中，人民友好是国际关系行稳致远的基础，是促进世界和平和发展的不竭动力，是实现合作共赢的基本前提。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "上海：沿海风力显著增强 景点闭园渔船靠港",
+   "title": "实干开新局｜新动能顶“梁”立柱",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDE9rTfcfelMiTHxV92ymzY260809.shtml",
-   "summary": "强台风“白海豚”逼近·上海：沿海风力显著增强，景点闭园渔船靠港。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "浙江舟山：与台风赛跑 紧急转移船员上岸避险",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDEpSomq1vCXfduZwghJEzf260809.shtml",
-   "summary": "强台风“白海豚”逼近·浙江舟山：与台风赛跑，紧急转移船员上岸避险。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "福建宁德：沿海风浪明显增强 已转移安置群众千余人",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDEoi6Eyta8FFd7n8CBGiEd260809.shtml",
-   "summary": "强台风“白海豚”逼近·福建宁德：沿海风浪明显增强，已转移安置群众千余人。",
+   "url": "https://news.cctv.com/2026/08/09/ARTI5anJ0GsC9RYUModDfx0v260805.shtml",
+   "summary": "“十五五”开局之年首次考察，总书记深入北京亦庄国家信创园察看人工智能、机器人等科技创新成果展示。在听取北京市委和市政府工作汇报时，他要求“强化科技创新和产业创新深度融合，大力发展新质生产力”。",
    "day": 0
   },
   {
@@ -65,28 +45,68 @@
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "台风“白海豚”来袭 多次“眼壁置换” 维持较强级别",
+   "theme": "民生",
+   "title": "抢险、转移……分秒必争！多方力量筑牢防汛防台风民生防线",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/09/VIDEL4KIXSQWBvDL4Vbq3QHx260809.shtml",
+   "url": "https://news.cctv.com/2026/08/09/ARTI9otorLzE0uUNukshpcDs260809.shtml",
+   "summary": "e70e9e244fa6,0,1,16:9,newPlayer80ca802ff64c,0,1,16:9,newPlayer55805fa7879a,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "打开“中国电影半年报” 看电影市场新活力与新动能",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/09/VIDEPJy2ZSCmAFqoUMYZjOMd260809.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产",
+   "title": "解锁入境游新体验 老外爱上骑车逛北京中轴线",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/09/ARTIWw36UgbPpEhUrs87qI5J260809.shtml",
+   "url": "https://news.cctv.com/2026/08/09/ARTIXAGT5NwG14oC93aGIXN5260809.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "解锁夏日出游新玩法 打卡宝藏目的地",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/09/VIDEytECJktaClDzZUNwZMPV260809.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "佩雷斯·希尔顿在直播自残后面临漫长的康复期",
+   "title": "犯罪头目嫌疑人丹尼尔·基纳汉在高度戒备的行动中返回爱尔兰",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+   "summary": "爱尔兰监狱管理局购买了一辆防弹防弹面包车，在这名 49 岁的男子从迪拜引渡后将其送往法庭。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "加拿大山火蔓延迅速，规模扩大一倍，宣布进入紧急状态",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+   "summary": "不列颠哥伦比亚省的巴尔德山脉野火仍被认为“失控”，已蔓延超过 36 平方英里（95 平方公里）。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "佩雷斯·希尔顿在直播中自残的报道称他面临漫长的康复期",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
@@ -110,7 +130,17 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "奥奇布·纳比 (Auqib Nabi) 成为查谟和克什米尔第一位获得印度测试赛征召的板球运动员，激励了数百万人。",
+   "summary": "奥奇布·纳比 (Auqib Nabi) 成为查谟和克什米尔第一位获得印度测试征召的板球运动员，激励了数百万人。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尼日利亚的集体婚礼——如何区分恋人和骗子是很棘手的",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+   "summary": "该计划适用于无力承担与婚姻相关的巨额财务费用的夫妇。",
    "day": 0
   },
   {
