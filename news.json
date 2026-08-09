@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:57",
- "fetchedDate": "2026-08-09",
+ "fetchedAt": "07:05",
+ "fetchedDate": "2026-08-10",
  "source": "zhiri-server",
  "items": [
   {
@@ -96,7 +96,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "犯罪头目嫌疑人丹尼尔·基纳汉在高度戒备的行动中返回爱尔兰",
+   "title": "犯罪头目嫌疑人丹尼尔·基纳汉引渡后出庭",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
@@ -120,7 +120,37 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "summary": "不列颠哥伦比亚省的巴尔德山脉野火仍被认为“失控”，已蔓延超过 39 平方英里（103 平方公里）。",
+   "summary": "不列颠哥伦比亚省的巴尔德山脉野火仍被认为“失控”，已蔓延超过 53 平方英里（136 平方公里）。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "厄瓜多尔指控前部长涉嫌总统候选人暗杀案",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+   "summary": "检察官指控其他六人，包括洛斯洛博斯贩毒集团的头目，在谋杀费尔南多·比亚维森西奥的过程中间接扮演了角色。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "莱比锡炸弹事件发生几天后，在德国基地上空发现了无人机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+   "summary": "警方正在调查在军事基地上空目击无人机的事件，据报道该基地用于存放爱国者导弹系统零件。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尼日利亚军队称已安全解救被枪手绑架的33人",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+   "summary": "周六，这些人在穿越该国西北部扎姆法拉州时被绑架。",
    "day": 0
   },
   {
@@ -131,36 +161,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
    "summary": "据他的家人称，这位美国博主在医院的情况“严重但稳定”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "难以忍受的腐烂恶臭正在困扰着洛杉矶的一个社区",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-   "summary": "一场大火烧毁了一座巨大的食品仓库，成堆的腐肉在夏日的阳光下溃烂。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "一名教师的儿子如何成为克什米尔第一位印度测试板球运动员",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "奥奇布·纳比 (Auqib Nabi) 成为查谟和克什米尔第一位获得印度测试征召的板球运动员，激励了数百万人。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "尼日利亚的集体婚礼——如何区分恋人和骗子是很棘手的",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-   "summary": "该计划适用于无力承担与婚姻相关的巨额财务费用的夫妇。",
    "day": 0
   },
   {
