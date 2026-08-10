@@ -1,6 +1,6 @@
 {
- "fetchedAt": "20:35",
- "fetchedDate": "2026-08-10",
+ "fetchedAt": "00:11",
+ "fetchedDate": "2026-08-11",
  "source": "zhiri-server",
  "items": [
   {
@@ -36,20 +36,20 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "古文字与中华文明传承发展工程首期建设取得丰硕成果",
+   "title": "南水北调东中线一期工程调水突破900亿立方米",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEEoSUUTJXizBE6M2TLZnJ260810.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/10/ARTIiXMiChxHpmem9DZTpP1C260810.shtml",
+   "summary": "47371811e498,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "最美新时代革命军人｜周宏潮：精钻细研 为大国长剑淬锋砺刃",
+   "title": "古文字与中华文明传承发展工程首期建设取得丰硕成果",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEpfbAs9HBRO3jPJA9ApW5260810.shtml",
+   "url": "https://tv.cctv.com/2026/08/10/VIDEEoSUUTJXizBE6M2TLZnJ260810.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -120,17 +120,27 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯官员称，鞑靼斯坦地区的袭击另有 75 人受伤，这是乌克兰无人机对鞑靼斯坦地区最致命的袭击之一。",
+   "summary": "俄罗斯官员称，此次袭击另有 75 人受伤，这是自莫斯科全面袭击以来最致命的乌克兰无人机袭击之一",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特大风暴袭来，中国数百万人撤离家园",
+   "title": "七月世界海洋气温创历史新高",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-   "summary": "台风“海豚”登陆，给上海等华东地区带来强风和暴雨。",
+   "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+   "summary": "全球海洋创下有记录以来最热的七月，部分原因是厄尔尼诺现象的发展，野火继续肆虐西部",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "内塔尼亚胡拒绝特朗普15点加沙计划不太可能成为最终决定",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+   "summary": "据说特朗普政府对以色列总理拒绝该协议并不在意，将其视为竞选言论。",
    "day": 0
   },
   {
@@ -156,21 +166,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "七月世界海洋气温创历史新高",
+   "title": "特大风暴袭来，中国数百万人撤离家园",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-   "summary": "全球海洋创下有记录以来最热的七月，部分原因是厄尔尼诺现象的发展，野火继续肆虐西部",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "印度警方向寻求考试改革的抗议者发射催泪瓦斯",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
-   "summary": "德里发生“蟑螂”抗议活动几周后，数千名学生和求职者聚集在贾坎德邦。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+   "summary": "台风“海豚”登陆，给上海等华东地区带来强风和暴雨。",
    "day": 0
   },
   {
@@ -186,11 +186,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "涉嫌犯罪头目基纳汉在爱尔兰被拘留的第一个晚上",
+   "title": "军方称马里基地之战已造成数十名武装分子死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-   "summary": "爱尔兰监狱管理局购买了一辆防弹防弹面包车，在这名 49 岁的男子从迪拜引渡后将其送往法庭。",
+   "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+   "summary": "军方表示，他们参与了激烈的战斗，但对伊斯兰主义者控制驻军的说法提出异议。",
    "day": 0
   },
   {
