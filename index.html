@@ -3036,7 +3036,7 @@ function healthPredict() {
   const lutealE = addDays(nextStart, -1);  // 至下次经期前一天
   const today = parseKey(todayKey());
   return {
-    cycleDay: Math.min(c.cycle, daysBetween(start, today) + 1),
+    cycleDay: Math.max(1, Math.min(c.cycle, daysBetween(start, today) + 1)),  // 负数/越界防护（防历史脏数据）
     daysTo: daysBetween(today, nextStart),
     nextStart: dateKey(nextStart), nextEnd: dateKey(nextEnd),
     ov: dateKey(ov), fertileS: dateKey(fertileS), fertileE: dateKey(fertileE),
@@ -3096,6 +3096,7 @@ function pickPeriodLen(n) {
   if (inp) inp.value = n;
 }
 function savePeriodLen(k) {
+  if (k > todayKey()) { showToast('不能标记未来的日期'); return; }   // 防误点未来日期导致预测异常
   const v = parseInt(document.getElementById('pdLenInput').value, 10);
   const len = (v && v >= 1 && v <= 15) ? v : _pdLen;
   const periods = hPeriods();
@@ -3195,7 +3196,7 @@ function getDailyAdvice() {
   const p = healthPredict();
   if (!p) return null;
   const c = healthCfg();
-  const cd = p.cycleDay;
+  const cd = Math.max(1, p.cycleDay);
   const pl = c.period || 5;
   if (cd <= pl) {
     const t = DAILY_ADVICE[Math.min(cd, 5)];
