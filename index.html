@@ -1019,6 +1019,12 @@ function ensureDefaults(d) {
     d.health = { cycleLen: 28, periodLen: 5, lastPeriodStart: '', periods: [] };
   }
   if (!Array.isArray(d.health.periods)) d.health.periods = [];
+  // 清理经期脏数据：未来日期 / end 早于 start / 缺字段的记录（历史误操作产生的，会导致预测错乱）
+  const _today = todayKey();
+  d.health.periods = d.health.periods.filter(p => p && p.start && p.end && p.start <= p.end && p.start <= _today);
+  d.health.periods.sort((a, b) => a.start > b.start ? -1 : 1);
+  // 最近一次经期 = 最新记录（防止与记录不一致）
+  if (d.health.periods.length) d.health.lastPeriodStart = d.health.periods[0].start;
   if (!d.health.symptoms || typeof d.health.symptoms !== 'object') d.health.symptoms = {};
   return d;
 }
