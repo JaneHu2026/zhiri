@@ -1,25 +1,45 @@
 {
- "fetchedAt": "13:11",
+ "fetchedAt": "20:35",
  "fetchedDate": "2026-08-10",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "从科技创新看开局起步的时与势",
+   "theme": "要闻",
+   "title": "总书记治国理政故事｜“我是人民的勤务员”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTIb1tF9g9A2QoKqYd3ZKPj260810.shtml",
-   "summary": "动能向新、结构向优，观察“十五五”开局起步的时与势，科技创新的底色格外鲜明。",
+   "url": "https://news.cctv.com/2026/08/10/ARTIJqMfijICLqu6pC8tig3b260810.shtml",
+   "summary": "2013年11月，湘西十八洞村。习近平总书记走进黑黢黢的木屋，握住苗族大姐石拔三的手，脱口而出的“自我介绍”让人心头一热。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "全面进入筹备冲刺阶段 2026年深圳APEC峰会倒计时100天",
+   "title": "【新思想引领新征程】加快构建城乡融合发展新格局",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEA2653q2qfviTyCUllp1b260810.shtml",
+   "url": "https://news.cctv.com/2026/08/10/ARTIIeizCtBqkggrAQEcoaDw260810.shtml",
+   "summary": "最近，湖北鄂州峒山村里的山野茶馆、运动俱乐部开门迎客，来村里休闲度假的游客们又有了新去处。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "共享智造助力河北激活产业集群新活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/10/ARTIs4qUY5QXhDnLGdn1Jzes260810.shtml",
+   "summary": "21a9e7f9b0bb,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "古文字与中华文明传承发展工程首期建设取得丰硕成果",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/10/VIDEEoSUUTJXizBE6M2TLZnJ260810.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -31,6 +51,16 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/10/VIDEpfbAs9HBRO3jPJA9ApW5260810.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "从银幕到山水 新业态推动电影流量全域转化放大",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/10/ARTI9mVJzS3I0knQq5udZGlu260810.shtml",
+   "summary": "dd1e07deff40,0,1,16:9,newPlayer92ae30c3842f,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -50,36 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/10/VIDEHJu4onUitHkiAXFs3I4V260810.shtml",
-   "summary": "国之重器拓展认知边界：38岁的对撞机，证实全新物质形态胶球存在。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "世界上有那么多蛋，为什么只有中国人发明了皮蛋？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/VIDEjJz4VcEGfv9S4w7zsG0q260810.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "引领海关事业高质量发展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTIosoZtly7f1MdOgmmIlk4260810.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "国防部征兵办公室印发征兵工作人员职业道德准则",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDE1fjQBueXbDAH2RupelH8260810.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -116,11 +116,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大野火失控，居民警告要做好最坏的打算",
+   "title": "乌克兰无人机深入俄罗斯境内发动袭击 至少13人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-   "summary": "不列颠哥伦比亚省 Bald Range 野火已造成 1 人死亡，火势蔓延超过 53 平方英里。",
+   "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+   "summary": "俄罗斯官员称，鞑靼斯坦地区的袭击另有 75 人受伤，这是乌克兰无人机对鞑靼斯坦地区最致命的袭击之一。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特大风暴袭来，中国数百万人撤离家园",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+   "summary": "台风“海豚”登陆，给上海等华东地区带来强风和暴雨。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泰国前议员涉嫌杀害官员并在 YouTube 上供认不讳",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+   "summary": "Chalong Riewrang 在 YouTube 直播中表示，他枪杀了一名政府官员。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "哥伦比亚总统针对武装团体，据称叛乱领导人被杀",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+   "summary": "针对埃尔南多·福雷罗·莫斯克拉的军事行动是在哥伦比亚新​​总统宣誓就职几天后进行的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "七月世界海洋气温创历史新高",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+   "summary": "全球海洋创下有记录以来最热的七月，部分原因是厄尔尼诺现象的发展，野火继续肆虐西部",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度警方向寻求考试改革的抗议者发射催泪瓦斯",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
+   "summary": "德里发生“蟑螂”抗议活动几周后，数千名学生和求职者聚集在贾坎德邦。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "澳大利亚发现“手提箱里的尸体”，原来是栩栩如生的娃娃",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+   "summary": "法医鉴定显示，这具看起来“逼真”的尸体实际上不是人类。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "涉嫌犯罪头目基纳汉在爱尔兰被拘留的第一个晚上",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+   "summary": "爱尔兰监狱管理局购买了一辆防弹防弹面包车，在这名 49 岁的男子从迪拜引渡后将其送往法庭。",
    "day": 0
   },
   {

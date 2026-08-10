@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:12",
+ "fetchedAt": "20:36",
  "fetchedDate": "2026-08-10",
  "source": "zhiri-server",
  "items": [
@@ -150,29 +150,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "路人甲导演",
-   "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
-   "duration": "24:58",
-   "heat": 3559020,
-   "updated": "2026-08-10T05:12:51.099839",
-   "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
-   "points": [
-    "当学历对应网文中的战力境界，小明修仙传25分钟优化纯享版。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "星辉绿野",
    "title": "假如你在十万人的宿舍谈恋爱【AI全民制作人】",
    "duration": "5:07",
-   "heat": 1984338,
-   "updated": "2026-08-10T05:12:51.099853",
+   "heat": 2107942,
+   "updated": "2026-08-10T12:36:35.859227",
    "url": "https://www.bilibili.com/video/BV1iKub6PELA",
    "points": [
     "阿丸的十万人宿舍日常之七夕篇（声明：本系列视频内容纯属虚构世界观，所有人物、情节、场景均为艺术创作，不影射任何现实中的个人、团体、机构或事件。请勿对号入座。视频中“十万人宿舍”及衍生环境的极端人数及规则仅为夸张表达，无任"
@@ -186,11 +168,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "路人甲导演",
+   "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
+   "duration": "24:58",
+   "heat": 3700167,
+   "updated": "2026-08-10T12:36:35.859245",
+   "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
+   "points": [
+    "当学历对应网文中的战力境界，小明修仙传25分钟优化纯享版。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "率土秋晚小剧场",
    "title": "《穿越三国，复活五虎北伐》第一季1-10集大合集！【AI全民制作人】",
    "duration": "35:21",
-   "heat": 2095129,
-   "updated": "2026-08-10T05:12:51.099855",
+   "heat": 2268226,
+   "updated": "2026-08-10T12:36:35.859247",
    "url": "https://www.bilibili.com/video/BV1ByuJ6jEfG",
    "points": [
     "《穿越三国，复活五虎北伐》第一季1-10集大合集！ 五虎上将复活，从街亭打到长安！看刘禅如何用系统复活五虎上将，助力丞相兴复汉室！"
@@ -204,29 +204,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "万维界-万界修理铺",
-   "title": "啥都能修的异世界修理铺——顾客差点把我店烧了？【首届全国高校AIGC优才创作营】",
-   "duration": "3:38",
-   "heat": 1879608,
-   "updated": "2026-08-10T05:12:51.099857",
-   "url": "https://www.bilibili.com/video/BV1ZRMB6tEcp",
-   "points": [
-    "万界都有故障，万物皆可维修。 飞剑、魔镜、法杖、龙宫设备…… 不管来自哪个世界，坏了就来修。 异世界修理铺——神器也会坏，坏了也能修。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "明日方舟终末地",
    "title": "《明日方舟：终末地》梨诺EP - Mirairo Rider",
    "duration": "16:04",
-   "heat": 1123921,
-   "updated": "2026-08-10T05:12:51.099858",
+   "heat": 1195253,
+   "updated": "2026-08-10T12:36:35.859248",
    "url": "https://www.bilibili.com/video/BV16euL6qETC",
    "points": [
     "《明日方舟：终末地》干员梨诺专属单曲《Mirairo Rider》MV现已公开。 歌曲音源同步上架QQ音乐、网易云音乐、酷狗音乐等平台，欢迎管理员们前往收听。 【专辑介绍】 引擎轰鸣，载着梦想，奔赴与你相遇的每一刻。 驶"
@@ -240,14 +222,14 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "巨构ai",
-   "title": "巨构：玄同无待【AI全民制作人】",
-   "duration": "1:02",
-   "heat": 1700407,
-   "updated": "2026-08-10T05:12:51.099860",
-   "url": "https://www.bilibili.com/video/BV1FTMS6cEjW",
+   "author": "万维界-万界修理铺",
+   "title": "啥都能修的异世界修理铺——顾客差点把我店烧了？【首届全国高校AIGC优才创作营】",
+   "duration": "3:38",
+   "heat": 1953031,
+   "updated": "2026-08-10T12:36:35.859250",
+   "url": "https://www.bilibili.com/video/BV1ZRMB6tEcp",
    "points": [
-    "无无既无，化化不化。 动非形动，静亦非静。"
+    "万界都有故障，万物皆可维修。 飞剑、魔镜、法杖、龙宫设备…… 不管来自哪个世界，坏了就来修。 异世界修理铺——神器也会坏，坏了也能修。"
    ],
    "flags": {
     "fav": false,
@@ -261,8 +243,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390639,
-   "updated": "2026-08-10T05:12:51.099862",
+   "heat": 390645,
+   "updated": "2026-08-10T12:36:35.859251",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -280,11 +262,75 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653399,
-   "updated": "2026-08-10T05:12:51.099864",
+   "updated": "2026-08-10T12:36:35.859253",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557342,
+   "updated": "2026-08-10T12:36:35.859255",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "模型路线趋同之后，Physical AI的胜负手变了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-10T12:36:35.859256",
+   "url": "https://www.qbitai.com/2026/08/469544.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-10T12:36:35.859258",
+   "url": "https://www.qbitai.com/2026/08/469520.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-10T12:36:35.859259",
+   "url": "https://www.qbitai.com/2026/08/469500.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -298,7 +344,7 @@
    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-10T05:12:51.099865",
+   "updated": "2026-08-10T12:36:35.859260",
    "url": "https://www.qbitai.com/2026/08/469493.html",
    "points": [
     "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
@@ -316,7 +362,7 @@
    "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-10T05:12:51.099867",
+   "updated": "2026-08-10T12:36:35.859285",
    "url": "https://www.qbitai.com/2026/08/469475.html",
    "points": [],
    "flags": {
@@ -332,7 +378,7 @@
    "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-10T05:12:51.099868",
+   "updated": "2026-08-10T12:36:35.859288",
    "url": "https://www.qbitai.com/2026/08/469454.html",
    "points": [],
    "flags": {
@@ -343,15 +389,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "遵循 AI 杂草和害虫控制建议后，农民杀死了 25 英亩的农作物",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-10T05:12:51.099870",
-   "url": "https://www.qbitai.com/2026/08/469213.html",
+   "heat": 2,
+   "updated": "2026-08-10",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
    "points": [
-    "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。"
+    "遵循 AI 杂草和害虫控制建议后，农民杀死了 25 英亩的农作物"
    ],
    "flags": {
     "fav": false,
@@ -361,33 +407,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "南澳大利亚成立人工智能皇家委员会",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-10T05:12:51.099871",
-   "url": "https://www.qbitai.com/2026/08/469076.html",
+   "heat": 1,
+   "updated": "2026-08-10",
+   "url": "https://www.abc.net.au/news/2026-08-10/artificial-intelligence-royal-commission-announced-in-sa/107017502",
    "points": [
-    "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "180万刀，连亚马逊都烧不起Claude了",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-10T05:12:51.099872",
-   "url": "https://www.qbitai.com/2026/08/469010.html",
-   "points": [
-    "Claude不是我说你，钱真不能这么花"
+    "南澳大利亚成立人工智能皇家委员会"
    ],
    "flags": {
     "fav": false,
@@ -401,7 +429,7 @@
    "author": "Hacker News",
    "title": "问 HN：TS 编译器",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-08-10",
    "url": "https://news.ycombinator.com/item?id=49239162",
    "points": [
@@ -437,7 +465,7 @@
    "author": "Hacker News",
    "title": "人工智能行业的系统性崩溃：意识形态、硬件和资本支出危机",
    "duration": "—",
-   "heat": 5,
+   "heat": 6,
    "updated": "2026-08-09",
    "url": "https://news.ycombinator.com/item?id=49232136",
    "points": [
@@ -460,42 +488,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
    "points": [
     "AI在9T核苷酸训练后从头开始创造16种新病毒"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Meta 被发现付钱给纳粹分子在 Facebook 上发帖",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-08-08",
-   "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
-   "points": [
-    "Meta 被发现付钱给纳粹分子在 Facebook 上发帖"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能革命 (2015)",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-08-08",
-   "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
-   "points": [
-    "人工智能革命 (2015)"
    ],
    "flags": {
     "fav": false,
