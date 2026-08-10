@@ -1,5 +1,5 @@
 {
- "fetchedAt": "00:11",
+ "fetchedAt": "07:54",
  "fetchedDate": "2026-08-11",
  "source": "zhiri-server",
  "items": [
@@ -25,61 +25,61 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "共享智造助力河北激活产业集群新活力",
+   "theme": "环境",
+   "title": "暑期新消费：观鸟赏景的生态生意经",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTIs4qUY5QXhDnLGdn1Jzes260810.shtml",
-   "summary": "21a9e7f9b0bb,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "南水北调东中线一期工程调水突破900亿立方米",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTIiXMiChxHpmem9DZTpP1C260810.shtml",
-   "summary": "47371811e498,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "古文字与中华文明传承发展工程首期建设取得丰硕成果",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEEoSUUTJXizBE6M2TLZnJ260810.shtml",
+   "url": "https://tv.cctv.com/2026/08/10/VIDELG3Od6q6jYcB9Vpd5VZK260810.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "文化",
-   "title": "从银幕到山水 新业态推动电影流量全域转化放大",
+   "title": "跟着电影过暑假：革命史诗电影 激发遵义长征文旅新活力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTI9mVJzS3I0knQq5udZGlu260810.shtml",
-   "summary": "dd1e07deff40,0,1,16:9,newPlayer92ae30c3842f,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/10/VIDEmoEkqXTDX7P8Wju5HGKe260810.shtml",
+   "summary": "本期节目主要内容： 今年暑期，重大革命历史题材影片《四渡》热映，影片以恢宏的气势、细腻的笔触，再现了91年前三万中央红军面对四十万国民党军队的围追堵截，在川黔滇交界的赤水河流域上演了一场运动战的光辉典范。电影上映以来，口碑持续发酵，不仅点燃了观众的爱国热情，更带火了贵州遵义的红色旅游。 （《消费主张…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "台风“白海豚”：登陆之后 如何应战？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/11/ARTI1Z09zrJvlCDvymvvSp10260811.shtml",
+   "summary": "510e96add110,0,0,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "民航中转便利化持续推进 记者体验跨航司的“丝滑”中转",
+   "title": "黎展良：家乡有难，必须第一时间回来！",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEHvdeqgYxz2dc0xxJSptT260810.shtml",
+   "url": "https://tv.cctv.com/2026/08/10/VIDENEItNh0auoMoEDDtWE8r260810.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "证实全新物质形态胶球存在 国之重器拓展认知边界",
+   "title": "单周大涨7% 黄金后市怎么走？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEHJu4onUitHkiAXFs3I4V260810.shtml",
+   "url": "https://tv.cctv.com/2026/08/10/VIDEcOMS1hkfILwnWhZWU4pg260810.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "八旬老人的一车南瓜滚落路口，路人纷纷下车帮忙捡拾",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/10/ARTI8e6MxBkDbRAuRKhXlyEZ260810.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -120,17 +120,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯官员称，此次袭击另有 75 人受伤，这是自莫斯科全面袭击以来最致命的乌克兰无人机袭击之一",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "七月世界海洋气温创历史新高",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-   "summary": "全球海洋创下有记录以来最热的七月，部分原因是厄尔尼诺现象的发展，野火继续肆虐西部",
+   "summary": "俄罗斯官员称，此次袭击另有 75 人受伤，这是自莫斯科全面发动袭击以来最致命的乌克兰无人机袭击之一",
    "day": 0
   },
   {
@@ -146,51 +136,61 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泰国前议员涉嫌杀害官员并在 YouTube 上供认不讳",
+   "title": "“我们有很多千钧一发的机会”：加拿大山火撤离者想知道他们是否还有家",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-   "summary": "Chalong Riewrang 在 YouTube 直播中表示，他枪杀了一名政府官员。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+   "summary": "一场野火席卷了加拿大风景如画的奥卡纳格，超过 12,000 人被迫撤离，一些房屋被毁",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "哥伦比亚总统针对武装团体，据称叛乱领导人被杀",
+   "title": "儿童拒绝系安全带 加拿大航班取消",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-   "summary": "针对埃尔南多·福雷罗·莫斯克拉的军事行动是在哥伦比亚新​​总统宣誓就职几天后进行的。",
+   "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+   "summary": "该事件引发了关于商用飞机上儿童安全和纪律的争论。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特大风暴袭来，中国数百万人撤离家园",
+   "title": "30 年后，一名前帮派成员将因图帕克谋杀案受审",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-   "summary": "台风“海豚”登陆，给上海等华东地区带来强风和暴雨。",
+   "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+   "summary": "图帕克被杀已经过去了三十年，从那时起，他的名声就与日俱增。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "澳大利亚发现“手提箱里的尸体”，原来是栩栩如生的娃娃",
+   "title": "我们正在追逐埃博拉病毒——世卫组织警告称，它就在我们前面",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-   "summary": "法医鉴定显示，这具看起来“逼真”的尸体实际上不是人类。",
+   "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+   "summary": "感染率很高，加剧了人们对当局难以控制这种疾病的担忧。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "军方称马里基地之战已造成数十名武装分子死亡",
+   "title": "特朗普签署命令限制儿童疫苗和分批接种 MMR",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
-   "summary": "军方表示，他们参与了激烈的战斗，但对伊斯兰主义者控制驻军的说法提出异议。",
+   "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+   "summary": "美国儿科学会称有关麻疹、腮腺炎和风疹疫苗接种的建议是“危险的”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "七月世界海洋气温创历史新高",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+   "summary": "全球海洋创下有记录以来最热的七月，部分原因是厄尔尼诺现象的发展，野火继续肆虐西部",
    "day": 0
   },
   {
@@ -201,6 +201,36 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/0810/c1002-40776669.html",
    "summary": "新华社北京8月9日电韩国电力交易所9日发布的数据显示，受持续热浪影响，韩国电力需求近日创下今年以来新高。 韩联社援引这组数据报道，本月7日，韩国最高电力需求达到95.321吉瓦。目前备用电力为8",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "新华时评丨警钟长鸣，日本拥核野心不…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0810/c1002-40776667.html",
+   "summary": "新华社北京8月9日电 题：警钟长鸣，日本拥核野心不可纵容 新华社记者朱婉君 在日本多地抗议政府涉核危险动向、呼吁坚守和平主义理念的声浪中，长崎遭原子弹轰炸81周年纪念仪式9日在长崎市和平纪念公",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "国际观察｜沙土巴三国“共同防务”防…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0810/c1002-40776843.html",
+   "summary": "新华社开罗/伊斯坦布尔8月9日电（记者吴宝澍 程睿泽 罗晨）沙特阿拉伯、土耳其和巴基斯坦三国7日在沙特城市麦加签署《麦加共同防务协议》，其中“一国受袭、共同响应”的条款备受关注。 分析人士指出，",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "民生",
+   "title": "“时令生活·和美中国”文化市集在尼…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0810/c1002-40776846.html",
+   "summary": "人民网阿布贾8月9日电（记者姜宣）2026年是“中非人文交流年”与中国和尼日利亚建交55周年，为深化文化、文学、影视创意等领域人文交流合作，中尼双方共同策划举办“中国与尼日利亚人文交流系列活动”。8月",
    "day": 0
   }
  ]
