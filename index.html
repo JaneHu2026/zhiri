@@ -3109,10 +3109,23 @@ function savePeriodLen(k) {
     if (!data.health.lastPeriodStart || k > data.health.lastPeriodStart) data.health.lastPeriodStart = k;
   }
   data.health.periods = periods;
+  refreshLastStart();
   saveData(); closeSheet(); renderHealth();
   showToast('已记录 ' + fmtMD(k) + ' 经期 ' + len + ' 天');
 }
 
+/* 最近一次经期 = 记录中最新开始日（删除/新增后自动重算，防止被误点覆盖） */
+function refreshLastStart() {
+  const ps = hPeriods().slice().sort((a, b) => a.start > b.start ? -1 : 1);
+  data.health.lastPeriodStart = ps.length ? ps[0].start : (data.health.lastPeriodStart || '');
+  return data.health.lastPeriodStart;
+}
+/* 当天是否在任一经期记录内（按实际记录判断，不受基础设置经期长度影响） */
+function todayInPeriod() {
+  const t = todayKey();
+  const p = hPeriods().find(x => x.start <= t && t <= x.end);
+  return p || null;
+}
 /* ---------- 每日调理建议（按周期第 N 天细化：饮食/茶饮/运动 + 理由 + 权威来源；仅供参考不构成医疗诊断） ---------- */
 function healthStage() {
   const p = healthPredict();
@@ -3196,12 +3209,16 @@ function getDailyAdvice() {
   const p = healthPredict();
   if (!p) return null;
   const c = healthCfg();
-  const cd = Math.max(1, p.cycleDay);
-  const pl = c.period || 5;
-  if (cd <= pl) {
-    const t = DAILY_ADVICE[Math.min(cd, 5)];
-    return { label: '月经期第 ' + cd + ' 天', intro: t.intro, items: t.items };
+  const t = todayKey();
+  // 按实际经期记录判断（8/6~8/9 记录内 → 月经期第 N 天；记录外 → 按周期阶段）
+  const inP = todayInPeriod();
+  if (inP) {
+    const day = Math.max(1, daysBetween(parseKey(inP.start), parseKey(t)) + 1);
+    const key = Math.min(day, 5);
+    const tmpl = DAILY_ADVICE[key] || DAILY_ADVICE[5];
+    return { label: '月经期第 ' + day + ' 天', intro: tmpl.intro, items: tmpl.items };
   }
+  const cd = Math.max(1, p.cycleDay);
   if (cd <= 9) return { label: '卵泡期 · 恢复养气', ...DAILY_ADVICE[6] };
   if (cd <= 13) return { label: '卵泡期 · 体能上升', ...DAILY_ADVICE[10] };
   if (cd <= 16) return { label: '排卵期 · 平稳抗炎', ...DAILY_ADVICE[14] };
@@ -3447,12 +3464,13 @@ function savePeriod() {
   periods.push({ start: s, end });
   periods.sort((a, b) => a.start > b.start ? -1 : 1);
   data.health.periods = periods;
-  if (!data.health.lastPeriodStart || s > data.health.lastPeriodStart) data.health.lastPeriodStart = s;
+  refreshLastStart();
   saveData(); closeSheet(); renderHealth();
   showToast('已记录');
 }
 function delPeriod(s) {
   data.health.periods = hPeriods().filter(p => p.start !== s);
+  refreshLastStart();
   saveData(); renderHealth();
 }
 function saveHealthBase(gotoPred) {
