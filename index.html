@@ -3071,23 +3071,45 @@ function healthMarks() {
   return marks;
 }
 
-/* 日历点击：标记/取消该日为经期开始（美柚式） */
+/* 日历点击：标记/修改该日为经期开始（美柚式；经期时长可自定义，不受基础设置限制） */
+let _pdLen = 5;
 function hcalPick(k) {
   const periods = hPeriods();
   const idx = periods.findIndex(p => p.start === k);
+  const curLen = idx >= 0 ? Math.round((parseKey(periods[idx].end) - parseKey(periods[idx].start)) / 86400000) + 1 : (healthCfg().period || 5);
+  _pdLen = curLen;
+  const lenRow = `<div class="form-row"><label class="form-label">经期持续几天？</label>
+    <div class="chips">${[3, 4, 5, 6, 7].map(n => `<button class="chip ${n === curLen ? 'on' : ''}" onclick="pickPeriodLen(${n})">${n}天</button>`).join('')}
+    <input class="in" id="pdLenInput" type="number" value="${curLen}" min="1" max="15" inputmode="numeric" style="width:76px;height:40px;text-align:center" placeholder="自定义"></div>
+    <div style="font-size:11px;color:var(--text-faint);margin-top:4px">默认取基础设置（${healthCfg().period || 5} 天），可改为这次实际的天数</div></div>`;
+  openSheet(`<div class="sheet-title">${idx >= 0 ? '修改 ' + fmtMD(k) + ' 经期' : '标记 ' + fmtMD(k) + ' 为经期开始'}</div>
+    ${lenRow}
+    <div class="form-actions">
+      ${idx >= 0 ? `<button class="btn ghost" style="color:var(--danger)" onclick="delPeriod('${k}')">删除记录</button>` : '<button class="btn ghost" onclick="closeSheet()">取消</button>'}
+      <button class="btn" onclick="savePeriodLen('${k}')">确定</button>
+    </div>`);
+}
+function pickPeriodLen(n) {
+  _pdLen = n;
+  document.querySelectorAll('.sheet .chips .chip').forEach(c => c.classList.toggle('on', parseInt(c.textContent) === n));
+  const inp = document.getElementById('pdLenInput');
+  if (inp) inp.value = n;
+}
+function savePeriodLen(k) {
+  const v = parseInt(document.getElementById('pdLenInput').value, 10);
+  const len = (v && v >= 1 && v <= 15) ? v : _pdLen;
+  const periods = hPeriods();
+  const idx = periods.findIndex(p => p.start === k);
   if (idx >= 0) {
-    periods.splice(idx, 1);
-    showToast('已取消 ' + fmtMD(k) + ' 经期记录');
+    periods[idx].end = dateKey(addDays(parseKey(k), len - 1));
   } else {
-    const c = healthCfg();
-    periods.push({ start: k, end: dateKey(addDays(parseKey(k), (c.period || 5) - 1)) });
+    periods.push({ start: k, end: dateKey(addDays(parseKey(k), len - 1)) });
     periods.sort((a, b) => a.start > b.start ? -1 : 1);
     if (!data.health.lastPeriodStart || k > data.health.lastPeriodStart) data.health.lastPeriodStart = k;
-    showToast('已标记 ' + fmtMD(k) + ' 为经期开始');
   }
   data.health.periods = periods;
-  saveData();
-  renderHealth();
+  saveData(); closeSheet(); renderHealth();
+  showToast('已记录 ' + fmtMD(k) + ' 经期 ' + len + ' 天');
 }
 
 /* ---------- 每日调理建议（按周期第 N 天细化：饮食/茶饮/运动 + 理由 + 权威来源；仅供参考不构成医疗诊断） ---------- */
