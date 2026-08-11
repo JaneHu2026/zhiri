@@ -1,85 +1,85 @@
 {
- "fetchedAt": "12:51",
+ "fetchedAt": "20:30",
  "fetchedDate": "2026-08-11",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "直击演训场 湖北舰全训考核形成整体作战能力",
+   "theme": "社会",
+   "title": "2026年深圳APEC峰会进入倒计时100天 会议筹备保障工作稳步推进",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/11/VIDEP6BhEoaSCqRSj3bcAU6T260811.shtml",
+   "url": "https://tv.cctv.com/2026/08/11/VIDE5Wp6Koa4CPqkEOR089om260811.shtml",
+   "summary": "2026年深圳APEC峰会进入倒计时100天：会议筹备保障工作稳步推进。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "【新思想引领新征程】织就更密更暖的社会保障安全网",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/11/VIDECDo8QmAJbvZh1TiN0y2I260811.shtml",
+   "summary": "在浙江杭州，独居老人顾爱美不久前突发疾病住院。让她没想到的是，自己还没来得及申请，社区工作人员就主动上门核实，为她申请办理了一笔社会救助金，并将她的医疗救助比例提高至80%以上。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "【文化中国行】古文字工程揭开上古历史面纱",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/11/VIDEvFlbWvviy990zjrQoeVH260811.shtml",
+   "summary": "鲜活的历史得益于古文字记载，更靠学者释读揭示。先秦时期，我国已形成涵盖甲骨文、青铜器铭文、简帛文字等不同形态的古文字体系，成为中华文明的根脉所系。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "一问到底｜“国家喊你减肥”第三年了 如何做好体重管理？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/11/VIDE3FycpuofqcHUwZCisLWN260811.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "台风“白海豚”：登陆之后 如何应战？",
+   "theme": "要闻",
+   "title": "紧急补位跨域驰援 “中国蓝盔”刷新任务区航程纪录",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/11/ARTI1Z09zrJvlCDvymvvSp10260811.shtml",
-   "summary": "510e96add110,0,0,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/11/VIDEj2iLOV8tplhjiiGCIM2J260811.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "7月先行指标折射经济稳中向优态势明显",
+   "title": "三伏天里“反季订单”火爆 传统产业“智”造升级抢占全球市场",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/11/VIDEavkshH1P4ynfYhUAvwBF260811.shtml",
+   "url": "https://news.cctv.com/2026/08/11/ARTIOT4fo2h4Ic303T80jxkR260811.shtml",
+   "summary": "1bb00a88372e,0,1,16:9,newPlayer98e4d992ea29,0,1,16:9,newPlayer5694dad32fc2,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "今日说法｜伪装的“高速剐蹭”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/11/VIDEoyRs0wh9Qn6NmjcwTb6O260811.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "不断创造高质量发展新业绩",
+   "title": "中国入境游“圈粉”世界 金山岭长城吸引外国游客慕名而来",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/11/ARTI6z6BAyyvzFgiyKBoyZc0260811.shtml",
-   "summary": "7月30日召开的中共中央政治局会议指出，“要巩固拓展树立和践行正确政绩观学习教育成果，推动各级领导干部以更加昂扬向上的精气神，不断创造高质量发展新业绩。”",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "7月份中国电商物流指数公布 运行基本盘稳固",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/11/VIDEoi69DbcrPu5sDVRRfIyL260811.shtml",
-   "summary": "7月份中国电商物流指数公布：电商物流供给稳定向好，运行基本盘稳固。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "浙江发布台风“白海豚”评估报告",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/11/ARTIVxRe6wNQfjhTY1iyHLfX260811.shtml",
-   "summary": "今天（8月11日），浙江省气象局发布台风“白海豚”气象评估报告。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "防范登革热、猴痘等疾病 中疾控发布健康风险提示",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/11/ARTI9V6v2IzLMTksRCRpRMb1260811.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "极端天气导致列车停运、航班取消 应该如何退改签？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/11/ARTINR0fobVckrULyk0iRCTh260811.shtml",
+   "url": "https://tv.cctv.com/2026/08/11/VIDENBI4t7eotCVBdLGqQiTF260811.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,11 +96,61 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "报道称，特朗普因伊朗威胁而躲在餐车里进行秘密飞机交换",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+   "summary": "据报道，这位美国总统参与了一个诡计，记者被错误地告知他与他们一起乘坐空军一号离开北约峰会。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泽连斯基称俄罗斯使用朝鲜导弹袭击乌克兰",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰总统表示，扎波罗热的袭击事件涉及俄罗斯盟友的弹道导弹，该袭击造成至少 6 人死亡、19 人受伤",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "被驱逐的叙利亚独裁者巴沙尔·阿萨德缺席被判处死刑",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+   "summary": "这位前总统被判在该国内战期间犯有战争罪和反人类罪。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "哥伦比亚发生多年来最严重地震 至少132人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
    "summary": "超过 480 人在地震中受伤，更多人担心被困在倒塌的建筑物下。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "利比亚当局与主要炼油厂的大火作斗争",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+   "summary": "周一对扎维耶炼油厂的无人机袭击是两天内发生的第三起此类事件。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "澳大利亚总理因对日本首相瓜类礼物的言论而受到批评",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+   "summary": "一位前日本特使表示，这些“性别歧视”言论“背叛了两国之间的密切联系”。",
    "day": 0
   },
   {
@@ -116,11 +166,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "小女孩在澳大利亚海滩发现搁浅的鲸鱼",
+   "title": "华尔街巨头向英伟达提供 5000 亿美元资金，资助人工智能项目的繁荣",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
-   "summary": "澳大利亚昆士兰州涨潮后，座头鲸成功脱身。",
+   "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+   "summary": "这笔资金将用于开发新的数据中心，以容纳、运行​​和冷却数英里的堆叠计算机芯片，这些芯片处理人工智能数据和行动",
    "day": 0
   },
   {
