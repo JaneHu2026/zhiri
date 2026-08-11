@@ -1,46 +1,16 @@
 {
- "fetchedAt": "07:54",
+ "fetchedAt": "12:51",
  "fetchedDate": "2026-08-11",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "总书记治国理政故事｜“我是人民的勤务员”",
+   "title": "直击演训场 湖北舰全训考核形成整体作战能力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTIJqMfijICLqu6pC8tig3b260810.shtml",
-   "summary": "2013年11月，湘西十八洞村。习近平总书记走进黑黢黢的木屋，握住苗族大姐石拔三的手，脱口而出的“自我介绍”让人心头一热。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "【新思想引领新征程】加快构建城乡融合发展新格局",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTIIeizCtBqkggrAQEcoaDw260810.shtml",
-   "summary": "最近，湖北鄂州峒山村里的山野茶馆、运动俱乐部开门迎客，来村里休闲度假的游客们又有了新去处。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "暑期新消费：观鸟赏景的生态生意经",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDELG3Od6q6jYcB9Vpd5VZK260810.shtml",
+   "url": "https://tv.cctv.com/2026/08/11/VIDEP6BhEoaSCqRSj3bcAU6T260811.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "跟着电影过暑假：革命史诗电影 激发遵义长征文旅新活力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEmoEkqXTDX7P8Wju5HGKe260810.shtml",
-   "summary": "本期节目主要内容： 今年暑期，重大革命历史题材影片《四渡》热映，影片以恢宏的气势、细腻的笔触，再现了91年前三万中央红军面对四十万国民党军队的围追堵截，在川黔滇交界的赤水河流域上演了一场运动战的光辉典范。电影上映以来，口碑持续发酵，不仅点燃了观众的爱国热情，更带火了贵州遵义的红色旅游。 （《消费主张…",
    "day": 0
   },
   {
@@ -55,122 +25,82 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "黎展良：家乡有难，必须第一时间回来！",
+   "theme": "财经",
+   "title": "7月先行指标折射经济稳中向优态势明显",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDENEItNh0auoMoEDDtWE8r260810.shtml",
+   "url": "https://tv.cctv.com/2026/08/11/VIDEavkshH1P4ynfYhUAvwBF260811.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "单周大涨7% 黄金后市怎么走？",
+   "title": "不断创造高质量发展新业绩",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/10/VIDEcOMS1hkfILwnWhZWU4pg260810.shtml",
+   "url": "https://news.cctv.com/2026/08/11/ARTI6z6BAyyvzFgiyKBoyZc0260811.shtml",
+   "summary": "7月30日召开的中共中央政治局会议指出，“要巩固拓展树立和践行正确政绩观学习教育成果，推动各级领导干部以更加昂扬向上的精气神，不断创造高质量发展新业绩。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "7月份中国电商物流指数公布 运行基本盘稳固",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/11/VIDEoi69DbcrPu5sDVRRfIyL260811.shtml",
+   "summary": "7月份中国电商物流指数公布：电商物流供给稳定向好，运行基本盘稳固。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "浙江发布台风“白海豚”评估报告",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/11/ARTIVxRe6wNQfjhTY1iyHLfX260811.shtml",
+   "summary": "今天（8月11日），浙江省气象局发布台风“白海豚”气象评估报告。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "防范登革热、猴痘等疾病 中疾控发布健康风险提示",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/11/ARTI9V6v2IzLMTksRCRpRMb1260811.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "八旬老人的一车南瓜滚落路口，路人纷纷下车帮忙捡拾",
+   "theme": "环境",
+   "title": "极端天气导致列车停运、航班取消 应该如何退改签？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/10/ARTI8e6MxBkDbRAuRKhXlyEZ260810.shtml",
+   "url": "https://news.cctv.com/2026/08/11/ARTINR0fobVckrULyk0iRCTh260811.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "公安部网安局再次公布15起涉汛涉灾网络谣言案例",
+   "theme": "民生",
+   "title": "沈阳打造一刻钟便民生活圈观察",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/government/20260810/e02e73dc40ac4c08a13ce57205052bba/c.html",
-   "summary": "公安部网安局再次公布15起涉汛涉灾网络谣言案例-\"新华社北京8月10日电（记者李明辉）公安部网安局在前期2次集中公布涉汛涉灾网络谣言典型案例的基础上，8月10日再次公布15起相关案例。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "新疆4A级及以上景区自驾服务费均改为按车收费",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260810/e433a968a4cd45f78be99f5c42d67ae3/c.html",
-   "summary": "新疆4A级及以上景区自驾服务费均改为按车收费- 因票务系统需调整升级，原按“人”收费调整为按“车”收费的景区，新方案不晚于8月20日0时起执行，新方案开始实行前为过渡期，过渡期内价格均不超过30元人；原按“车”收费的景区，新方案不晚于8月12日0时起执行，不设过渡期。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "江苏南通：地铁食堂成惠民“烟火驿站”",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260810/f7fd1c79bda94b9b91b7d2014d0e57b8/c.html",
-   "summary": "江苏南通：地铁食堂成惠民“烟火驿站”- 江苏省南通市首家地铁便民食堂开业3个月来，因平价美味、菜品丰富等特点，广受居民和往来乘客欢迎。",
+   "url": "https://www.news.cn/government/20260811/917c83f9e0ab4dbc8f7a22efd509d31a/c.html",
+   "summary": "沈阳打造一刻钟便民生活圈观察-\"新华社沈阳8月10日电 题：沈阳打造一刻钟便民生活圈观察新华社记者于也童、叶新晨近日，上午10点左右，家住沈阳市沈河区的居民刘丽珍来到小区附近的“开心农场”生鲜超市购物。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "乌克兰无人机深入俄罗斯境内发动袭击 至少13人死亡",
+   "title": "哥伦比亚发生多年来最严重地震 至少132人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯官员称，此次袭击另有 75 人受伤，这是自莫斯科全面发动袭击以来最致命的乌克兰无人机袭击之一",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "内塔尼亚胡拒绝特朗普15点加沙计划不太可能成为最终决定",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-   "summary": "据说特朗普政府对以色列总理拒绝该协议并不在意，将其视为竞选言论。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“我们有很多千钧一发的机会”：加拿大山火撤离者想知道他们是否还有家",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-   "summary": "一场野火席卷了加拿大风景如画的奥卡纳格，超过 12,000 人被迫撤离，一些房屋被毁",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "儿童拒绝系安全带 加拿大航班取消",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-   "summary": "该事件引发了关于商用飞机上儿童安全和纪律的争论。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "30 年后，一名前帮派成员将因图帕克谋杀案受审",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-   "summary": "图帕克被杀已经过去了三十年，从那时起，他的名声就与日俱增。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "我们正在追逐埃博拉病毒——世卫组织警告称，它就在我们前面",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-   "summary": "感染率很高，加剧了人们对当局难以控制这种疾病的担忧。",
+   "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+   "summary": "超过 480 人在地震中受伤，更多人担心被困在倒塌的建筑物下。",
    "day": 0
   },
   {
@@ -186,51 +116,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "七月世界海洋气温创历史新高",
+   "title": "小女孩在澳大利亚海滩发现搁浅的鲸鱼",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-   "summary": "全球海洋创下有记录以来最热的七月，部分原因是厄尔尼诺现象的发展，野火继续肆虐西部",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "环境",
-   "title": "韩国持续高温 电力需求创今年新高",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0810/c1002-40776669.html",
-   "summary": "新华社北京8月9日电韩国电力交易所9日发布的数据显示，受持续热浪影响，韩国电力需求近日创下今年以来新高。 韩联社援引这组数据报道，本月7日，韩国最高电力需求达到95.321吉瓦。目前备用电力为8",
+   "url": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+   "summary": "澳大利亚昆士兰州涨潮后，座头鲸成功脱身。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "新华时评丨警钟长鸣，日本拥核野心不…",
+   "title": "防卫预算申请额再创新高，日本有何图谋？",
    "source": "人民网",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0810/c1002-40776667.html",
-   "summary": "新华社北京8月9日电 题：警钟长鸣，日本拥核野心不可纵容 新华社记者朱婉君 在日本多地抗议政府涉核危险动向、呼吁坚守和平主义理念的声浪中，长崎遭原子弹轰炸81周年纪念仪式9日在长崎市和平纪念公",
+   "url": "https://world.people.com.cn/n1/2026/0811/c1002-40777331.html",
+   "summary": "新华社东京8月10日电（记者陈泽安李子越梁晨）据日本媒体近日报道，就日本政府2027财年预算编制工作，日本防卫省拟向财务省申请约8.9万亿日元，申请额创历史新高。而最终防卫预算规模可能还会进一步增",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "国际观察｜沙土巴三国“共同防务”防…",
+   "title": "水稻不熟而葡萄早熟 欧洲酷暑催生“农业异象”",
    "source": "人民网",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0810/c1002-40776843.html",
-   "summary": "新华社开罗/伊斯坦布尔8月9日电（记者吴宝澍 程睿泽 罗晨）沙特阿拉伯、土耳其和巴基斯坦三国7日在沙特城市麦加签署《麦加共同防务协议》，其中“一国受袭、共同响应”的条款备受关注。 分析人士指出，",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "民生",
-   "title": "“时令生活·和美中国”文化市集在尼…",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0810/c1002-40776846.html",
-   "summary": "人民网阿布贾8月9日电（记者姜宣）2026年是“中非人文交流年”与中国和尼日利亚建交55周年，为深化文化、文学、影视创意等领域人文交流合作，中尼双方共同策划举办“中国与尼日利亚人文交流系列活动”。8月",
+   "url": "https://world.people.com.cn/n1/2026/0811/c1002-40777316.html",
+   "summary": "新华社北京8月10日电 今年入夏以来，一波接一波的热浪席卷欧洲大部分地区，多国遭遇严重干旱，其中农业生产出现不少异常现象。比如，作为欧洲最大稻米生产国，意大利水稻种植业正在经历严重缺水危机，稻谷迟",
    "day": 0
   }
  ]
