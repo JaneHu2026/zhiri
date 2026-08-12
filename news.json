@@ -1,25 +1,75 @@
 {
- "fetchedAt": "08:08",
+ "fetchedAt": "14:04",
  "fetchedDate": "2026-08-12",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "台风“白海豚”停编是否意味风险解除？",
+   "theme": "要闻",
+   "title": "“老百姓的事情是最重要的事情”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/12/ARTId0SdDBRLBz3cUSLAy5Q1260812.shtml",
-   "summary": "207aebbd1fdb,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/12/ARTIVcPrY29f1dAltI4bXjzN260812.shtml",
+   "summary": "“老百姓的事情是最重要的事情。”2024年春节前夕，习近平总书记来到天津市西青区第六埠村。2023年海河发生流域性特大洪水时，第六埠村遭了灾。在村民杜洪刚家，习近平总书记同一家人亲切交谈，一笔一笔算灾情损失和灾后生产发展、就业增收账。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "10675亿元、29.9%……透过活力数据感知经济发展“稳”“进”“好”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/12/ARTInqQR8ly2dwl6QuAtK6L5260812.shtml",
+   "summary": "83f39e6f4cbb,0,1,16:9,newPlayer756976ff9d16,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国加快自然资源“一张图”建设",
+   "title": "加快自然资源“一张图”建设 数据流动共享重塑自然资源治理新图景",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/12/VIDEYHxnuQ6TG2hVeLwFoU39260812.shtml",
+   "url": "https://news.cctv.com/2026/08/12/ARTIYg4L22OAemdSlH3Evzj6260812.shtml",
+   "summary": "c1414ae3e54f,0,1,16:9,newPlayerf3b264c9dbf5,0,1,16:9,newPlayer917257564db1,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "完成12个冰站作业任务 “雪龙”号本次调查过程揭秘",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/12/ARTIIvd5bcVEg3SgFDumqB7k260812.shtml",
+   "summary": "由自然资源部组织的中国第16次北冰洋考察冰站调查作业正在开展。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "平陆运河实船试验正式启动 四艘船舶正在驶出马道枢纽闸室",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/12/VIDEqXbsoJljMhOX4sU3lyWP260812.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "星火成炬 沃野新篇｜路通山河 心向故乡",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/12/ARTIyaWj08vzMNq215mMyzBj260812.shtml",
+   "summary": "每个孩子心里都有一条家乡的路，一头通向炊烟屋檐，一头奔赴遥遥远方。路上盛满晚风、野草和年少时光，遮一程风雪，护一路平安。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "各地暑期研学游热度攀升 多元体验让红色文化“活”起来、“火”起来",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/12/ARTIk7pJwaLQpqDfXPEAYWUn260812.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -30,57 +80,97 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/12/ARTIR5vTExYmjozYpPxloz6P260812.shtml",
-   "summary": "在上海黄浦区半淞园路街道市民新村居民区，4幢建于上世纪50年代的老楼已经焕新。从几户人家合用厨卫，到加装电梯、改造厨卫，居民的日子越过越舒坦。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "台风残余强降雨持续 北方如何防范？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/12/ARTIuE1BKFSxN1vnhLd86Ftj260812.shtml",
-   "summary": "d82301fe1b7a,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "截至今年6月 我国可再生能源制氢产能规模超140万吨",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/12/VIDEvqoWEhZY4LZS8Vr34RBM260812.shtml",
-   "summary": "截至2026年6月，我国可再生能源制氢产能规模超140万吨。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "11.5万个小区、50万套危旧房！你家老小区将迎巨变",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/12/ARTIg85xyVqv0M821F2lOM9q260812.shtml",
-   "summary": "af55ba044d7e,0,1,16:9,newPlayer20f2f57e89e3,0,1,16:9,newPlayera26e9cf6b6cd,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "迎战风雨：党员坚守一线 守护万家平安",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/12/VIDEICHeM4omF1Ro1RDdDzuC260812.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "针对汽车行业 网络信息乱象频发",
-   "source": "央视新闻",
+   "theme": "社会",
+   "title": "北京临时开放公交专用道供社会车辆通行",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/12/VIDEvhbSUDVgXq38nh6G8HLt260812.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20260812/4646b001d9814b628476bb407617c6f6/c.html",
+   "summary": "北京临时开放公交专用道供社会车辆通行-\"防汛应急避险道路和避险停车场的具体点位信息，群众可通过“北京静态交通共享停车”小程序查询并一键导航。\"",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普证实，由于可能的威胁，他在北约峰会后更换了飞机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+   "summary": "飞机上的记者和白宫工作人员并不知道总统已经离开。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普戏剧性的飞机交换暗示伊朗战争的个人利害关系",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+   "summary": "英国广播公司 (BBC) 的安东尼·祖彻 (Anthony Zurcher) 写道，这标志着他与伊朗关系的动荡历史中又一个引人注目的插曲。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "小鲨鱼男孩将首次亮相韩国流行音乐",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+   "summary": "YouTube 有史以来观看次数最多的视频中的男孩现在 17 岁，他想成为一名韩国流行歌星。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "克里斯蒂亚诺·罗纳尔多与长期伴侣乔治娜·罗德里格斯结婚",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+   "summary": "这位葡萄牙巨星发布了一张两只手的照片——推测是他的手放在他妻子的手上——两只手都戴着结婚戒指。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "邦迪海滩枪击英雄的袭击指控被警方撤销",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+   "summary": "艾哈迈德·艾哈迈德 (Ahmed al Ahmed) 涉嫌与父亲在悉尼的一处家中发生事件，警方于 6 月对他提出指控。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "新西兰总理在大选前第二次领导力挑战中幸存",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+   "summary": "克里斯托弗·卢克森 (Christopher Luxon) 表示，在大选前 12 周进行信任投票后，他“全力支持”自己的政党。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "德国科隆：莱茵河水位走低",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0812/c1002-40778066.html",
+   "summary": "受持续干旱影响，德国境内莱茵河多个河段水位走低。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "哥伦比亚地震：捐赠物资支援灾区",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0812/c1002-40778062.html",
+   "summary": "8月10日，哥伦比亚西部发生7.4级地震。地震发生后，波哥大市政府设立多个物资接收点，接受民众捐赠的食品、饮用水、生活必需品等物资，支援地震灾区。",
    "day": 0
   }
  ]
