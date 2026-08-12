@@ -1,5 +1,5 @@
 {
- "fetchedAt": "14:05",
+ "fetchedAt": "20:37",
  "fetchedDate": "2026-08-12",
  "source": "zhiri-server",
  "items": [
@@ -85,7 +85,7 @@
    "updated": "2026-07-17 21:55:53",
    "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
    "points": [
-    "我向 Kimi K3 vs Fable 5 vs Sol 5.6 发起了挑战，以制作《奥德赛》……"
+    "我向《Kimi K3》、《神鬼寓言 5》、《索尔 5.6》发起挑战，制作《奥德赛》……"
    ],
    "flags": {
     "fav": false,
@@ -150,29 +150,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "明日方舟终末地",
-   "title": "《明日方舟：终末地》梨诺EP - Mirairo Rider",
-   "duration": "16:04",
-   "heat": 1317368,
-   "updated": "2026-08-12T06:05:45.715227",
-   "url": "https://www.bilibili.com/video/BV16euL6qETC",
-   "points": [
-    "《明日方舟：终末地》干员梨诺专属单曲《Mirairo Rider》MV现已公开。 歌曲音源同步上架QQ音乐、网易云音乐、酷狗音乐等平台，欢迎管理员们前往收听。 【专辑介绍】 引擎轰鸣，载着梦想，奔赴与你相遇的每一刻。 驶"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390664,
-   "updated": "2026-08-12T06:05:45.715237",
+   "heat": 390670,
+   "updated": "2026-08-12T12:37:26.962937",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -189,8 +171,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653401,
-   "updated": "2026-08-12T06:05:45.715239",
+   "heat": 653402,
+   "updated": "2026-08-12T12:37:26.962953",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -207,8 +189,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557346,
-   "updated": "2026-08-12T06:05:45.715241",
+   "heat": 557348,
+   "updated": "2026-08-12T12:37:26.962956",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -223,8 +205,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155515,
-   "updated": "2026-08-12T06:05:45.715243",
+   "heat": 155521,
+   "updated": "2026-08-12T12:37:26.962958",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -241,8 +223,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611310,
-   "updated": "2026-08-12T06:05:45.715245",
+   "heat": 611311,
+   "updated": "2026-08-12T12:37:26.962961",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -259,8 +241,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2658979,
-   "updated": "2026-08-12T06:05:45.715247",
+   "heat": 2658986,
+   "updated": "2026-08-12T12:37:26.962963",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [
     "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
@@ -277,8 +259,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58630,
-   "updated": "2026-08-12T06:05:45.715248",
+   "heat": 58631,
+   "updated": "2026-08-12T12:37:26.962966",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [
     "银河录像局CG迷8折优惠注册链接，https://nf.video/zp5gG 优惠券用完后购买任何产品都可以输入优惠码cgmi享受额外优惠 GPT4o官方网址 https://chatgpt.com"
@@ -291,15 +273,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "给AI时代一点手搓实拍的小震撼",
-   "duration": "—",
-   "heat": 9150904,
-   "updated": "2026-08-12T06:05:45.715250",
-   "url": "https://www.douyin.com/search/%E7%BB%99AI%E6%97%B6%E4%BB%A3%E4%B8%80%E7%82%B9%E6%89%8B%E6%90%93%E5%AE%9E%E6%8B%8D%E7%9A%84%E5%B0%8F%E9%9C%87%E6%92%BC?type=general",
+   "platform": "bilibili",
+   "author": "AI斌工厂",
+   "title": "你永远猜不到真正用途的蹦跶机器人",
+   "duration": "0:37",
+   "heat": 1015287,
+   "updated": "2026-08-12T12:37:26.962968",
+   "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [
-    "热门话题「给AI时代一点手搓实拍的小震撼」：相关视频 4 条"
+    "你能想象一百万个这样蹦蹦跳跳的手雷向你奔来么？Salto机器人弹跳腿升级为夹爪，可以模拟松鼠在树枝间跳跃"
    ],
    "flags": {
     "fav": false,
@@ -313,8 +295,8 @@
    "author": "抖音热榜",
    "title": "AI打开了我童年记忆的百宝箱",
    "duration": "—",
-   "heat": 7666833,
-   "updated": "2026-08-12T06:05:45.715252",
+   "heat": 7440217,
+   "updated": "2026-08-12T12:37:26.962971",
    "url": "https://www.douyin.com/search/AI%E6%89%93%E5%BC%80%E4%BA%86%E6%88%91%E7%AB%A5%E5%B9%B4%E8%AE%B0%E5%BF%86%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1?type=general",
    "points": [
     "热门话题「AI打开了我童年记忆的百宝箱」：相关视频 3 条"
@@ -329,10 +311,42 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-12T12:37:26.962974",
+   "url": "https://www.qbitai.com/2026/08/471030.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-12T12:37:26.962977",
+   "url": "https://www.qbitai.com/2026/08/470901.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-12T06:05:45.715255",
+   "updated": "2026-08-12T12:37:26.962979",
    "url": "https://www.qbitai.com/2026/08/470874.html",
    "points": [
     "从柔性本体走向跨本体基础智能，让任务与世界知识延续"
@@ -350,7 +364,7 @@
    "title": "刚刚，Manus恢复独立运营",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-12T06:05:45.715256",
+   "updated": "2026-08-12T12:37:26.962981",
    "url": "https://www.qbitai.com/2026/08/470805.html",
    "points": [],
    "flags": {
@@ -366,7 +380,7 @@
    "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-12T06:05:45.715258",
+   "updated": "2026-08-12T12:37:26.962983",
    "url": "https://www.qbitai.com/2026/08/470674.html",
    "points": [],
    "flags": {
@@ -382,7 +396,7 @@
    "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-12T06:05:45.715259",
+   "updated": "2026-08-12T12:37:26.962985",
    "url": "https://www.qbitai.com/2026/08/470576.html",
    "points": [],
    "flags": {
@@ -393,14 +407,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "马克扎克伯格不明白如何生活",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-12T06:05:45.715260",
-   "url": "https://www.qbitai.com/2026/08/470485.html",
-   "points": [],
+   "heat": 4,
+   "updated": "2026-08-12",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+   "points": [
+    "马克扎克伯格不明白如何生活"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -409,14 +425,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "宇树会破发吗？王兴兴回应了",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "中国禁止人工智能伴侣，迫使数百万人与虚拟伴侣分手",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-12T06:05:45.715262",
-   "url": "https://www.qbitai.com/2026/08/470307.html",
-   "points": [],
+   "heat": 7,
+   "updated": "2026-08-12",
+   "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+   "points": [
+    "中国禁止人工智能伴侣，迫使数百万人与虚拟伴侣分手"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -488,42 +506,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
    "points": [
     "克劳德将在人工智能文本和图像上应用隐形水印"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "亚马逊削减通用人工智能部门的部分岗位",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-08-11",
-   "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
-   "points": [
-    "亚马逊削减通用人工智能部门的部分岗位"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "马克扎克伯格不明白如何生活",
-   "duration": "—",
-   "heat": 7,
-   "updated": "2026-08-11",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-   "points": [
-    "马克扎克伯格不明白如何生活"
    ],
    "flags": {
     "fav": false,
