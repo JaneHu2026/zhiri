@@ -1,6 +1,6 @@
 {
- "fetchedAt": "20:36",
- "fetchedDate": "2026-08-12",
+ "fetchedAt": "00:12",
+ "fetchedDate": "2026-08-13",
  "source": "zhiri-server",
  "items": [
   {
@@ -11,6 +11,16 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/12/VIDEDlD3TBNdtcr3iFR1XUMJ260812.shtml",
    "summary": "今天（8月12日），平陆运河启动全线实船试验，这是通航前最后一次“大考”。作为西部陆海新通道骨干工程，9月，平陆运河通航后将成为我国西南地区通往东盟地区运距最短、最经济、最便捷的水运通道。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "追光的你｜总书记为何称焦裕禄精神是一盏明灯？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/12/ARTI967MOctnt4MU0Dpv5Usw260720.shtml",
+   "summary": "1990年7月15日，时任福州市委书记习近平读到了《人民日报》刊发的《人民呼唤焦裕禄》一文后，内心久久不能平静。中夜，霁月如银，文思萦系，他提笔写下一首词，其中一句是——“为官一任，造福一方，遂了平生意。”",
    "day": 0
   },
   {
@@ -56,16 +66,6 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "从“打卡式”观光到深度体验 中国游让更多“头回客”变成“回头客”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/12/ARTI3A3Bni59UNpBtiBLiNpq260812.shtml",
-   "summary": "19ee6a81e698,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
    "title": "平陆运河实船试验启动 智能船舶示范船有多“聪明”？",
    "source": "央视新闻",
    "time": "今天",
@@ -96,21 +96,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普证实，由于可能的威胁，他在北约峰会后更换了飞机",
+   "title": "总统悄然退出后，特朗普内阁成员仍留在诱饵飞机上",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-   "summary": "飞机上的记者和白宫工作人员并不知道总统已经离开。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普戏剧性的飞机交换暗示伊朗战争的个人利害关系",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-   "summary": "英国广播公司 (BBC) 的安东尼·祖彻 (Anthony Zurcher) 写道，这标志着他与伊朗关系的动荡历史中又一个引人注目的插曲。",
+   "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+   "summary": "出于涉及伊朗的安全原因，特朗普在北约峰会期间在土耳其登上了另一架飞机。",
    "day": 0
   },
   {
@@ -136,6 +126,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "随着食品和燃料成本下降，美国通胀有所缓解",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+   "summary": "7 月份美国年度通胀率降至 3.4%，食品成本放缓，住房价格小幅上涨。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "多瑙河低水位揭示了二战士兵和摩托车的遗骸",
    "source": "BBC",
    "time": "今天",
@@ -146,11 +146,21 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "新加坡和韩国将 Trader Joe's 调味品撤回罂粟籽",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Trader Joe's Everything But 百吉饼调味料中含有罂粟籽，而罂粟籽在这两个国家都是被禁止的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "曾帮助中国成为贸易大国的朱镕基去世，享年97岁",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-   "summary": "朱镕基带领中国加入世贸组织，并倡导促进经济增长的改革。",
+   "summary": "这位前总理带领中国加入世贸组织，并倡导推动经济增长的改革。",
    "day": 0
   },
   {
@@ -161,16 +171,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
    "summary": "预计中间派大卫·克劳利将击败民主社会主义者弗朗西斯卡·洪，打破最近的全国趋势。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "新加坡和韩国将 Trader Joe’s 调味品撤回罂粟籽",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Trader Joe's Everything But 百吉饼调味料含有罂粟籽，而罂粟籽在这两个国家都是被禁止的。",
    "day": 0
   },
   {
