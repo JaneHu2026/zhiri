@@ -1,16 +1,46 @@
 {
- "fetchedAt": "14:06",
+ "fetchedAt": "20:36",
  "fetchedDate": "2026-08-13",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨从乡村蝶变看浙江的共富之路",
+   "title": "“最重要的就是一个都不能少”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/13/ARTIpjTsJVM0AevB8ksQE6x6260813.shtml",
-   "summary": "习近平总书记指出：“共同富裕本身就是社会主义现代化的一个重要目标。我们要始终把满足人民对美好生活的新期待作为发展的出发点和落脚点，在实现现代化过程中不断地、逐步地解决好这个问题。”",
+   "url": "https://news.cctv.com/2026/08/13/ARTIXHAAA0jUcEvd428CXI1s260813.shtml",
+   "summary": "在这个晋西北黄土高原的山沟沟里，习近平总书记坐在炕沿与大家拉家常，到农田边蹲下察看玉米和芸豆长势，向当地干部了解脱贫计划。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "做大“蛋糕”缩小差距 浙江扎实推进共同富裕示范区建设",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/13/VIDEs3LaaJkjWK5kB1HpLLsd260813.shtml",
+   "summary": "【新思想引领新征程】做大“蛋糕”缩小差距，浙江扎实推进共同富裕示范区建设。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "上半年我国生态环境质量持续向好 开局之年生态环保工作起步良好",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/13/ARTIjmCJHdwP631nPay8H0mq260813.shtml",
+   "summary": "3ab2791ecb83,0,1,16:9,newPlayer32e91c6bca15,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "天津持续加强港口支撑 推动港产城融合发展",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/13/VIDEJKW7wCzQ24ZfuYi38GL4260813.shtml",
+   "summary": "【凝心聚力、真抓实干，奋力实现“十五五”良好开局】天津持续加强港口支撑，推动港产城融合发展。",
    "day": 0
   },
   {
@@ -36,21 +66,11 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中国海军与印尼海军开展海上通航演练",
+   "title": "狮子洋通道建设进度条刷新 看世界最大悬索桥锚碇的“硬实力”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/13/VIDEDHwt1spx7NrvENVMOyIf260813.shtml",
+   "url": "https://tv.cctv.com/2026/08/13/VIDEap6LncrSUX5zRPOyRZOH260813.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "军事→贸易 千年水道见证中华文明的传承与发展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/13/ARTITqBMO6gclnGlHGgsKqgb260813.shtml",
-   "summary": "全长近3200公里的中国大运河，不仅重塑了中国南北交通格局，也见证着中华文明的发展变迁。让我们透过一张跨越千年的“货单”，去了解这条古老水道的功能演进，读懂水韵文脉的故事。",
    "day": 0
   },
   {
@@ -60,26 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/13/VIDElamzpKvv03Syj5POCXwY260813.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "教育",
-   "title": "将学习教育成果固化为制度机制",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/13/ARTIp0UJaIplcMgon5V5LRRH260813.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "我国新一轮空气质量持续改善行动方案正在制定",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/13/ARTIh84DfDXHXLb580ASe3df260813.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,11 +126,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "诺贝尔和平奖获得者告诉BBC，普京不能再宣称在乌克兰获胜",
+   "title": "诺贝尔和平奖得主告诉BBC，普京不能再宣称在乌克兰获胜",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
    "summary": "德米特里·穆拉托夫在接受英国广播公司史蒂夫·罗森伯格独家采访时表示，克里姆林宫领导人只能“摧毁乌克兰，而不是征服它”，",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "英国在普京威胁后为扣押影子舰队油轮进行辩护",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+   "summary": "英国政府表示，正在依法“扰乱和威慑影子舰队”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "将向被以色列定居者围困的西岸村庄派遣更多部队",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+   "summary": "库斯拉村的两个巴勒斯坦家庭表示，自周日以来，他们一直被困在家里，水和电都被切断。",
    "day": 0
   },
   {
@@ -146,17 +166,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "BTS 明星 V 在直播中透露听力损失之战",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位韩国流行歌星表示，他已经遭受听力问题两年多了，直到本周才公开透露这一情况。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特拉维斯·凯尔斯 (Travis Kelce) 分享了他与泰勒·斯威夫特 (Taylor Swift) 婚礼的第一个细节——“我一生中最美好的夜晚”",
+   "title": "特拉维斯·凯尔斯 (Travis Kelce) 分享了他与泰勒·斯威夫特 (Taylor Swift) 婚礼的第一个细节：“我一生中最美好的夜晚”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
@@ -166,41 +176,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "日本抗议普京访问争议岛屿",
+   "title": "2027 年欧洲歌唱大赛将在保加利亚布尔加斯举行",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-   "summary": "据官方媒体报道，俄罗斯领导人首次访问千岛群岛。",
+   "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+   "summary": "保加利亚歌手达拉（Dara）赢得今年的比赛后，就选择了黑海地点。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "澳大利亚军队举报人入狱两年多后获假释",
+   "title": "法国驻中非共和国大使被指控将女性带入官邸面临纪律处分",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-   "summary": "大卫·麦克布莱德在承认泄露阿富汗军事机密后被判入狱。",
+   "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
+   "summary": "针对 Bruno Foucher 的指控引发了对潜在安全漏洞的调查。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯主要粮食出口码头在乌克兰黑海港口袭击中受损",
+   "title": "BTS 明星 V 在直播中透露听力损失之战",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-   "summary": "由于俄罗斯和乌克兰互相攻击对方的航运设施和港口，两国的粮食出口都在下降。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Twitch 用户现在可以阻止亚马逊使用其内容来训练人工智能",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-   "summary": "该流媒体平台的用户批评了允许使用频道内容进行人工智能训练的举动。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位韩国流行歌星表示，他已经遭受听力问题两年多了，直到本周才公开透露这一情况。",
    "day": 0
   },
   {
