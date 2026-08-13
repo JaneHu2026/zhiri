@@ -1,16 +1,16 @@
 {
- "fetchedAt": "20:36",
- "fetchedDate": "2026-08-13",
+ "fetchedAt": "00:13",
+ "fetchedDate": "2026-08-14",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“最重要的就是一个都不能少”",
+   "title": "总书记心系国家公园：给子孙后代留下珍贵的自然资产",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/13/ARTIXHAAA0jUcEvd428CXI1s260813.shtml",
-   "summary": "在这个晋西北黄土高原的山沟沟里，习近平总书记坐在炕沿与大家拉家常，到农田边蹲下察看玉米和芸豆长势，向当地干部了解脱贫计划。",
+   "url": "https://news.cctv.com/2026/08/13/ARTImN4WXzf4DkWCMGuoSv6x260813.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -21,6 +21,16 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/13/VIDEs3LaaJkjWK5kB1HpLLsd260813.shtml",
    "summary": "【新思想引领新征程】做大“蛋糕”缩小差距，浙江扎实推进共同富裕示范区建设。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "和谐共生｜不动摇、不松劲、不开口子",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/13/ARTI5dTwJqg1p7MmtPR3M1j6260812.shtml",
+   "summary": "2013年，习近平主席在哈萨克斯坦纳扎尔巴耶夫大学发表演讲并就环境保护问题回答学生提问时，说了这样一段话——“中国要实现工业化、城镇化、信息化、农业现代化，必须要走出一条新的发展道路。中国明确把生态环境保护摆在更加突出的位置。我们既要绿水青山，也要金山银山。宁要绿水青山，不要金山银山，而且绿水青山就…",
    "day": 0
   },
   {
@@ -45,22 +55,12 @@
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "疑难杂症少了 “办不成事”窗口由火爆变冷清 政务服务改革见效",
+   "theme": "要闻",
+   "title": "我国加快推动新一代通信网建设",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/13/ARTIbHvTOO7L6YSsU9gkYJjN260813.shtml",
-   "summary": "6597a314823f,0,1,16:9,newPlayer7b6dde1b90e6,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "“全”释硬科技｜“算力金属”身价飙升 揭秘AI背后“硬通货”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/13/VIDEoaK3tsLwUnLJwNqxg879260813.shtml",
-   "summary": "“全”释硬科技：“算力金属”身价飙升，揭秘AI背后“硬通货”。",
+   "url": "https://tv.cctv.com/2026/08/13/VIDES6rg6MFTsV66bHW8ChYG260813.shtml",
+   "summary": "重庆涪陵的这家化工企业是国家首批万兆光网试点项目。企业通过万兆光网结合AI算法开发的智能报警系统，能以毫秒级速率发送预警，并实时回传8K高清视频。目前，重庆已经在园区、工厂、小区等多个场景部署这样的万兆光网试点项目。",
    "day": 0
   },
   {
@@ -76,10 +76,10 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "宁夏：英仙座流星雨迎极大期 吸引大量游客",
+   "title": "国产大型邮轮“爱达·魔都号”开启大湾区首航季",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/13/VIDElamzpKvv03Syj5POCXwY260813.shtml",
+   "url": "https://tv.cctv.com/2026/08/13/VIDE5Dg7zK2yTfqeejV24Gsw260813.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,11 +126,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "诺贝尔和平奖得主告诉BBC，普京不能再宣称在乌克兰获胜",
+   "title": "巴勒斯坦人被告知离开以色列定居者围困房屋的村庄",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-   "summary": "德米特里·穆拉托夫在接受英国广播公司史蒂夫·罗森伯格独家采访时表示，克里姆林宫领导人只能“摧毁乌克兰，而不是征服它”，",
+   "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+   "summary": "库斯拉市长表示，以色列军队一直要求家庭离开自己的房屋，并将一些房屋用作营房。",
    "day": 0
   },
   {
@@ -146,11 +146,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "将向被以色列定居者围困的西岸村庄派遣更多部队",
+   "title": "诺贝尔和平奖获得者告诉BBC，普京不能再宣称在乌克兰获胜",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-   "summary": "库斯拉村的两个巴勒斯坦家庭表示，自周日以来，他们一直被困在家里，水和电都被切断。",
+   "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+   "summary": "德米特里·穆拉托夫在接受英国广播公司史蒂夫·罗森伯格独家采访时表示，克里姆林宫领导人只能“摧毁乌克兰，而不是征服它”，",
    "day": 0
   },
   {
@@ -166,11 +166,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特拉维斯·凯尔斯 (Travis Kelce) 分享了他与泰勒·斯威夫特 (Taylor Swift) 婚礼的第一个细节：“我一生中最美好的夜晚”",
+   "title": "使用雾号唤醒熟睡的北极熊后被罚款的人",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-   "summary": "在评论中，凯尔斯首次称斯威夫特为他的“妻子”，并表示在麦迪逊广场花园结婚是“儿时的梦想”。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+   "summary": "根据该地区的当地法规，“禁止不必要地打扰、吸引或追逐北极熊”。",
    "day": 0
   },
   {
@@ -186,21 +186,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国驻中非共和国大使被指控将女性带入官邸面临纪律处分",
+   "title": "性侵案无罪释放后，四名加拿大曲棍球明星仍被停赛",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-   "summary": "针对 Bruno Foucher 的指控引发了对潜在安全漏洞的调查。",
+   "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+   "summary": "尽管上诉委员会发现整个团体违反了加拿大冰球协会的行为准则，但第五个团体已经恢复。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "BTS 明星 V 在直播中透露听力损失之战",
+   "title": "总统赦免被指控策划马里政变的法国间谍",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位韩国流行歌星表示，他已经遭受听力问题两年多了，直到本周才公开透露这一情况。",
+   "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+   "summary": "法国尚未对扬·维齐利尔的赦免发表评论，此前称这些指控“毫无根据”。",
    "day": 0
   },
   {
