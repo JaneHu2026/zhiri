@@ -1,5 +1,5 @@
 {
- "fetchedAt": "20:29",
+ "fetchedAt": "23:38",
  "fetchedDate": "2026-08-14",
  "source": "zhiri-server",
  "items": [
@@ -36,6 +36,16 @@
   {
    "group": "gn",
    "theme": "科技",
+   "title": "全力打通AI赋能堵点 江苏推进制造业智能化发展再提速",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/14/ARTIsHtZBhhTqCVH8EZPx7cD260814.shtml",
+   "summary": "568ad069d99a,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
    "title": "新闻观察：APEC助推中国科技产品热",
    "source": "央视新闻",
    "time": "今天",
@@ -60,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/14/ARTIKceSUoVPLLL88muloMHs260814.shtml",
-   "summary": "33cc788dadde,0,1,16:9,newPlayer119ce0d5edad,0,1,16:9,newPlayer17cc5ee7a0ab,0,1,16:9,newPlayer",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -70,16 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/14/ARTIRtmbhof8Bw5iCgXPGDuX260814.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "法治在线｜南海救援纪实",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDElH3jRj7RzN8wNj4M33ic260814.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -136,11 +136,31 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "Instagram 账户通过付费建议帮助穿越，加剧了休达危机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 的热门评论播客发现了一个 Instagram 个人资料网络，对围绕摩洛哥-休达边境围栏的游泳进行美化。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "美国称数十个国家帮助中国规避特朗普关税",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
    "summary": "美国的一份新报告称，中国已通过关税较低的国家运送货物，以躲避更高的关税。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "建筑商在比利时房产的墙壁中发现了价值 900 万欧元的黄金藏品",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+   "summary": "建筑工人在钻孔铺设污水管道时在地窖的墙壁上发现了这些藏匿物。",
    "day": 0
   },
   {
@@ -181,26 +201,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
    "summary": "黛维·德尔芬（Deivi Delfín）和他的兄弟在委内瑞拉的一场地震导致母亲丧生后搬到了哥伦比亚，但又陷入了另一场致命灾难。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "印度太阳能任务的新发现揭示了持久的太阳之谜",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-   "summary": "为什么太阳的日冕比其表面温度高数百万度？而它又是如何保持莫名其妙的高温呢？",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "观看：如果路易吉·曼焦内认罪会发生什么？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
-   "summary": "曼吉奥内被指控在纽约杀害了联合医疗保健公司首席执行官布莱恩·汤普森——但他的联邦案件中的任何认罪协议都可能会影响分离案件",
    "day": 0
   },
   {
