@@ -1,8 +1,18 @@
 {
- "fetchedAt": "08:09",
+ "fetchedAt": "14:04",
  "fetchedDate": "2026-08-14",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "看！神奇科技在这里｜新一代“人造太阳”总装攻坚",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/14/VIDEli5TfIjcFiUdsRkfx6I7260814.shtml",
+   "summary": "看！神奇科技在这里：新一代“人造太阳”总装攻坚，大科学装置集聚成势。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -11,6 +21,36 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/14/ARTIIFNVnj4845Nco3BJVqPL260814.shtml",
    "summary": "23b0adf77b1b,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "法治在线｜南海救援纪实",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/14/VIDElH3jRj7RzN8wNj4M33ic260814.shtml",
+   "summary": "7月25日傍晚，交通运输部南海救助局“南海救115”轮返航时发现一艘挤了29人的救生筏。一时之间，全员集结，救援，从这一秒开始。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "AI减肥AI健身 “智能教练”靠谱吗？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/14/VIDEfACm7lfXfKIHuQ37Gh8r260814.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "应习近平邀请 厄瓜多尔总统将访华",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/14/VIDEJVoPrlQiaoJNwfddWINA260814.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -26,61 +66,101 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "\"白海豚\"残涡影响持续 各地积极应对",
+   "title": "交出亮眼答卷 上半年中国航空物流发展保持韧性",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIoa4SONfULxCEXATnFALj260814.shtml",
-   "summary": "730c82749c6f,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/14/VIDEYh42xtfGsNfpXALvzrR8260814.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "广东查获特大跨区域非法捕捞案 涉案金额约4000万元",
+   "theme": "政策",
+   "title": "最高人民法院发布海洋生态环境司法保护典型案例",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIhVRJZhi0CV0DYUq8HGoq260814.shtml",
-   "summary": "8月13日，记者从广东海警局获悉，广东海警局联合广东省公安厅、广东省海洋综合执法总队，成功查获一起特大跨区域非法捕捞案。现场抓获涉案人员55名，查扣涉案渔船6艘、运输车辆9台，查扣非法捕捞渔获物约5吨、蟹笼3600余个，初步查实涉案金额约4000万元。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "河南蓄滞洪区：一场雨夜中的生命赛跑",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTI2NxT2Ycols0I7LanBpG1260814.shtml",
-   "summary": "802daa766376,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "警惕！关灯看手机可能会对眼睛产生这些危害",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIyaKtSxIKsOdq84qk2Qr0260814.shtml",
-   "summary": "大家都知道，关灯后玩手机对眼睛不好，但具体会有哪些危害又不是很清楚，这导致很多人对危害认识不到位。那么，经常关灯看手机到底会对身体造成哪些影响？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "哥伦比亚佩雷拉：废墟上的24小时营救",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDERIAC2R9TF9E6IwUqtO4u260814.shtml",
+   "url": "https://news.cctv.com/2026/08/14/ARTIktxh1uhAbG7ZHh7IXCyU260814.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "电击不留痕 美移民执法人员拟配电击手套",
-   "source": "央视新闻",
+   "title": "等红灯不计入外卖配送时长 北京部分区域9月试运行",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDEoCJcpqE3lY7PP25dfbvc260814.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20260814/b00e64b7f50f4283926d337feb5230da/c.html",
+   "summary": "等红灯不计入外卖配送时长 北京部分区域9月试运行-\"美团、淘宝闪购、京东三家平台将实行的“红灯停表”机制下，骑手等红灯的时长在考核时间中顺延。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "新华视点｜匠心赓续文脉 非遗惠及民生",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260814/5858378fb1d846f286b257f243f0922c/c.html",
+   "summary": "新华视点｜匠心赓续文脉 非遗惠及民生- 近年来，多地激活非遗资源，非遗工坊、特色集市、文旅融合多点发力，让古老技艺火了起来。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "云南蒙自：一朵花串起农文旅增收大产业",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260814/1059f67980cf4530bf86f6979d7694e1/c.html",
+   "summary": "云南蒙自：一朵花串起农文旅增收大产业- 初秋时节，云南蒙自冷泉镇万亩万寿菊竞相绽放。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "文化奇遇记丨宋朝人修的水利，被当代人玩明白了",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260814/5ca9da65eeb6458f9e58afabb0a38d18/c.html",
+   "summary": "文化奇遇记丨宋朝人修的水利，被当代人玩明白了-",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "日本“史无前例”的降雨造成四人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+   "summary": "风暴导致 20,000 多户家庭断电，7,000 人滞留在东京成田机场。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国称数十个国家帮助中国规避特朗普关税",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+   "summary": "美国的一份新报告称，中国已通过关税较低的国家运送货物，以躲避更高的关税。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度太阳能任务的新发现揭示了持久的太阳之谜",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+   "summary": "为什么太阳的日冕比其表面温度高数百万度？而它又是如何保持莫名其妙的高温呢？",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "以色列在批评声中强行“重建”定居点",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0814/c1002-40779476.html",
+   "summary": "这是8月13日拍摄的犹太人定居点加尼姆，画面左上方是约旦河西岸北部城市杰宁（无人机照片）。新华社发（吉尔·科恩·马根摄）新华社耶路撒冷8月13日电现场直击｜以色列在批评声中强行“重建”定居点新华社记者",
    "day": 0
   }
  ]
