@@ -1,6 +1,6 @@
 {
- "fetchedAt": "23:38",
- "fetchedDate": "2026-08-14",
+ "fetchedAt": "06:55",
+ "fetchedDate": "2026-08-15",
  "source": "zhiri-server",
  "items": [
   {
@@ -126,11 +126,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "日本“史无前例”的降雨造成八人死亡",
+   "title": "阿富汗妇女告诉 BBC，塔利班统治五年后她们的生活变得面目全非",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-   "summary": "风暴导致 20,000 多户家庭断电，7,000 人滞留在东京成田机场。",
+   "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+   "summary": "全国各地的妇女都谈到了公开鞭打、失去工作以及危及生命的医疗保健障碍。",
    "day": 0
   },
   {
@@ -146,11 +146,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国称数十个国家帮助中国规避特朗普关税",
+   "title": "活动人士试图向被以色列定居者围困的巴勒斯坦人提供援助",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国的一份新报告称，中国已通过关税较低的国家运送货物，以躲避更高的关税。",
+   "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+   "summary": "两个家庭被困在被占领的约旦河西岸的家中已经好几天了。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "日本“史无前例”的降雨造成八人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+   "summary": "风暴导致 20,000 多户家庭断电，7,000 人滞留在东京成田机场。",
    "day": 0
   },
   {
@@ -176,31 +186,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "赞比亚因涉嫌袭击投票站工作人员而暂停总统计票",
+   "title": "克罗地亚山火造成数十人受伤、数千人疏散",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-   "summary": "选举委员会表示，暴力“导致标记选票被盗”。",
+   "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+   "summary": "官员表示，港口城市奥米斯附近的火灾是克罗地亚历史上最严重的火灾之一。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "基督教组织称美国传教士在尼日尔遭绑架后获释",
+   "title": "法国最高法院驳回针对 15 岁以下青少年的社交媒体禁令",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-   "summary": "凯文·赖德奥特 (Kevin Rideout) 去年 10 月在首都自家外面被绑架，目前与美国官员在一起。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "致命地震后逃离委内瑞拉的青少年在哥伦比亚陷入另一场灾难",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
-   "summary": "黛维·德尔芬（Deivi Delfín）和他的兄弟在委内瑞拉的一场地震导致母亲丧生后搬到了哥伦比亚，但又陷入了另一场致命灾难。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+   "summary": "宪法委员会表示这侵犯了言论自由，但马克龙总统誓言要准备一份新的草案。",
    "day": 0
   },
   {
