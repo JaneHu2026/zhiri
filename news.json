@@ -1,26 +1,76 @@
 {
- "fetchedAt": "14:04",
+ "fetchedAt": "20:29",
  "fetchedDate": "2026-08-14",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "看！神奇科技在这里｜新一代“人造太阳”总装攻坚",
+   "theme": "要闻",
+   "title": "“城市不仅要有高度，更要有温度”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDEli5TfIjcFiUdsRkfx6I7260814.shtml",
-   "summary": "看！神奇科技在这里：新一代“人造太阳”总装攻坚，大科学装置集聚成势。",
+   "url": "https://news.cctv.com/2026/08/14/ARTImJg0zNUfhNSGAkfBi95K260814.shtml",
+   "summary": "2023年11月29日，上海市闵行区新时代城市建设者管理者之家。新上海人郑岚予和母亲在租住的两室一厅里迎来习近平总书记。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国多个重大工程建设取得关键突破 高质量发展扎实推进",
+   "title": "天天学习｜艰苦卓绝的伟大战争",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIIFNVnj4845Nco3BJVqPL260814.shtml",
-   "summary": "23b0adf77b1b,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/14/ARTIyWvCC33iXyS0TT2d8Tlu260810.shtml",
+   "summary": "循着总书记的讲述，我们回溯那段血与火交织的峥嵘岁月，也读懂了这份“中国人民弥足珍贵的精神财富”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "分好“蛋糕”富民惠民 浙江扎实推进共同富裕示范区建设",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/14/VIDEF0g1RrGEodIKqi8psJUZ260814.shtml",
+   "summary": "【新思想引领新征程】分好“蛋糕”富民惠民，浙江扎实推进共同富裕示范区建设。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "新闻观察：APEC助推中国科技产品热",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/14/VIDE2splgK5bm5L1qsP8IgPY260814.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "从“规模扩张”向“结构优化” “数”看航空物流半年“韧性”答卷",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/14/ARTIejPYxJVdAcmMaueCKQqW260814.shtml",
+   "summary": "9ee11628667b,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "口岸之“智”赋能外贸 全球“好物”更快“飞”入寻常百姓家",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/14/ARTIKceSUoVPLLL88muloMHs260814.shtml",
+   "summary": "33cc788dadde,0,1,16:9,newPlayer119ce0d5edad,0,1,16:9,newPlayer17cc5ee7a0ab,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "用场景汇集项目、用验证催化产业 “陪跑”团队让科研成果加速落地",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/14/ARTIRtmbhof8Bw5iCgXPGDuX260814.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -30,56 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/14/VIDElH3jRj7RzN8wNj4M33ic260814.shtml",
-   "summary": "7月25日傍晚，交通运输部南海救助局“南海救115”轮返航时发现一艘挤了29人的救生筏。一时之间，全员集结，救援，从这一秒开始。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "AI减肥AI健身 “智能教练”靠谱吗？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDEfACm7lfXfKIHuQ37Gh8r260814.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "应习近平邀请 厄瓜多尔总统将访华",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDEJVoPrlQiaoJNwfddWINA260814.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "推进检察信访工作法治化",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIZkbqa3Mb0gDrd6jxWYd3260814.shtml",
-   "summary": "理念落地，机制为要。应落实最高检关于深入推进检察信访工作法治化的部署要求，进一步深化落实高质效办案“五大体系”建设，完善机制供给，构建线索统筹、规范办理、协同联动、反向审视整改的完整闭环，为“有解思维”筑牢制度支撑。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "交出亮眼答卷 上半年中国航空物流发展保持韧性",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDEYh42xtfGsNfpXALvzrR8260814.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "最高人民法院发布海洋生态环境司法保护典型案例",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIktxh1uhAbG7ZHh7IXCyU260814.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,7 +126,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "日本“史无前例”的降雨造成四人死亡",
+   "title": "日本“史无前例”的降雨造成八人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
@@ -146,11 +146,61 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "巴西警方追回失窃的马蒂斯艺术品",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+   "summary": "在大圣保罗的一处住宅中发现这位法国艺术家的八件作品后，一名男子被捕。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "赞比亚因涉嫌袭击投票站工作人员而暂停总统计票",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+   "summary": "选举委员会表示，暴力“导致标记选票被盗”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "基督教组织称美国传教士在尼日尔遭绑架后获释",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+   "summary": "凯文·赖德奥特 (Kevin Rideout) 去年 10 月在首都自家外面被绑架，目前与美国官员在一起。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "致命地震后逃离委内瑞拉的青少年在哥伦比亚陷入另一场灾难",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+   "summary": "黛维·德尔芬（Deivi Delfín）和他的兄弟在委内瑞拉的一场地震导致母亲丧生后搬到了哥伦比亚，但又陷入了另一场致命灾难。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "印度太阳能任务的新发现揭示了持久的太阳之谜",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
    "summary": "为什么太阳的日冕比其表面温度高数百万度？而它又是如何保持莫名其妙的高温呢？",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：如果路易吉·曼焦内认罪会发生什么？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+   "summary": "曼吉奥内被指控在纽约杀害了联合医疗保健公司首席执行官布莱恩·汤普森——但他的联邦案件中的任何认罪协议都可能会影响分离案件",
    "day": 0
   },
   {
