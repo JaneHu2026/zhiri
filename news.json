@@ -1,5 +1,5 @@
 {
- "fetchedAt": "06:55",
+ "fetchedAt": "07:55",
  "fetchedDate": "2026-08-15",
  "source": "zhiri-server",
  "items": [
@@ -126,11 +126,31 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "曼吉奥内承认杀害医疗保健首席执行官并对联邦指控认罪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+   "summary": "“我在曼哈顿枪杀了汤普森先生，他死了，”这位 28 岁的男子在承认跟踪导致死亡的指控后说道。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "阿富汗妇女告诉 BBC，塔利班统治五年后她们的生活变得面目全非",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
    "summary": "全国各地的妇女都谈到了公开鞭打、失去工作以及危及生命的医疗保健障碍。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "在林肯号航空母舰报告出现问题后，美国航空母舰正在前往救援的途中",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+   "summary": "据报道，林肯号上的数千名水手面临食物短缺和管道破损的问题，其中一些人考虑跳海。",
    "day": 0
   },
   {
@@ -176,31 +196,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴西警方追回失窃的马蒂斯艺术品",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-   "summary": "在大圣保罗的一处住宅中发现这位法国艺术家的八件作品后，一名男子被捕。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "克罗地亚山火造成数十人受伤、数千人疏散",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
    "summary": "官员表示，港口城市奥米斯附近的火灾是克罗地亚历史上最严重的火灾之一。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法国最高法院驳回针对 15 岁以下青少年的社交媒体禁令",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-   "summary": "宪法委员会表示这侵犯了言论自由，但马克龙总统誓言要准备一份新的草案。",
    "day": 0
   },
   {
@@ -211,6 +211,16 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/0814/c1002-40779476.html",
    "summary": "这是8月13日拍摄的犹太人定居点加尼姆，画面左上方是约旦河西岸北部城市杰宁（无人机照片）。新华社发（吉尔·科恩·马根摄）新华社耶路撒冷8月13日电现场直击｜以色列在批评声中强行“重建”定居点新华社记者",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "热点问答｜普京登上俄日争议岛屿发出…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0814/c1002-40779644.html",
+   "summary": "新华社符拉迪沃斯托克/东京8月13日电 热点问答｜普京登上俄日争议岛屿发出什么信号 新华社记者孙萍 陈泽安 李子越 俄罗斯总统普京13日首次登上俄日争议岛屿南千岛群岛（日本称北方四岛），并罕见",
    "day": 0
   }
  ]
