@@ -1,226 +1,86 @@
 {
- "fetchedAt": "07:55",
+ "fetchedAt": "11:04",
  "fetchedDate": "2026-08-15",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "“城市不仅要有高度，更要有温度”",
+   "theme": "环境",
+   "title": "生态环境法典 将产生怎样的影响？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTImJg0zNUfhNSGAkfBi95K260814.shtml",
-   "summary": "2023年11月29日，上海市闵行区新时代城市建设者管理者之家。新上海人郑岚予和母亲在租住的两室一厅里迎来习近平总书记。",
+   "url": "https://news.cctv.com/2026/08/15/ARTIAr9Pd5zTTYz920NaYhiq260815.shtml",
+   "summary": "1ae3f066c1a0,0,0,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "天天学习｜艰苦卓绝的伟大战争",
+   "title": "高端访谈｜专访菲尔兹奖获得者马丁·海尔",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIyWvCC33iXyS0TT2d8Tlu260810.shtml",
-   "summary": "循着总书记的讲述，我们回溯那段血与火交织的峥嵘岁月，也读懂了这份“中国人民弥足珍贵的精神财富”。",
+   "url": "https://news.cctv.com/2026/08/15/ARTIJ82diNGZv0ms0beYwsUK260814.shtml",
+   "summary": "14a8f4cf67ad,0,0,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "和谐共生｜每月下乡20次！他们把服务送到林农家门口",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/15/ARTI5SFflib2x42c6mXYYpR5260815.shtml",
+   "summary": "“比以前好多了”，是林农对他们工作最朴实的认可；“应该的”，是他们对林农的夸赞最踏实的回应。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "分好“蛋糕”富民惠民 浙江扎实推进共同富裕示范区建设",
+   "title": "千年冠笄礼 一脉少年心",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDEF0g1RrGEodIKqi8psJUZ260814.shtml",
-   "summary": "【新思想引领新征程】分好“蛋糕”富民惠民，浙江扎实推进共同富裕示范区建设。",
+   "url": "https://tv.cctv.com/2026/08/15/VIDEqQ7tqI1dblavmid6rue4260815.shtml",
+   "summary": "本期节目主要内容： 本期节目聚焦古代成人礼，以唯美演绎和温情故事，深入解读古代笄礼的文化内核。节目采用观照古今的视角，让流传千年的人生仪式，重新定义成长的概念，赋予“成年”以新的时代精神。 （《礼乐东方》 20260814 笄仪立心）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "全力打通AI赋能堵点 江苏推进制造业智能化发展再提速",
+   "theme": "环境",
+   "title": "我国首部生态环境法典今天正式施行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIsHtZBhhTqCVH8EZPx7cD260814.shtml",
-   "summary": "568ad069d99a,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "新闻观察：APEC助推中国科技产品热",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/14/VIDE2splgK5bm5L1qsP8IgPY260814.shtml",
+   "url": "https://tv.cctv.com/2026/08/15/VIDE6fkC5BAUWcJ5DZ05v8te260815.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "从“规模扩张”向“结构优化” “数”看航空物流半年“韧性”答卷",
+   "title": "摒弃“只求不出错”消极履职",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIejPYxJVdAcmMaueCKQqW260814.shtml",
-   "summary": "9ee11628667b,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/15/ARTIOcaa5ovS0yFEuD0w0u6M260815.shtml",
+   "summary": "纠治以法治之名不作为、慢作为的顽疾，必须鲜明立起依法敢为、依规善为的履职导向，推动各级干部既守牢法治红线，又勇攀担当高线。要常态化组织法治学习，既厘清禁令清单，明晰哪些事绝对不能做，也要细化岗位职责清单，压实法定履职义务，补齐依法履职能力短板。面对难以解决的问题，明确法理依据、规范处置流程，杜绝因本…",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "口岸之“智”赋能外贸 全球“好物”更快“飞”入寻常百姓家",
+   "theme": "要闻",
+   "title": "勿忘历史 吾辈自强！81年前的今天日本无条件投降",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIKceSUoVPLLL88muloMHs260814.shtml",
+   "url": "https://news.cctv.com/2026/08/15/ARTIEZ0WSTye7LIGUyP3ZbZj260815.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "用场景汇集项目、用验证催化产业 “陪跑”团队让科研成果加速落地",
+   "title": "2026年下半年征兵开始 9月30日结束",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/14/ARTIRtmbhof8Bw5iCgXPGDuX260814.shtml",
+   "url": "https://tv.cctv.com/2026/08/15/VIDEPsqS7Y4SAjvUh66EgIfT260815.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "等红灯不计入外卖配送时长 北京部分区域9月试运行",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260814/b00e64b7f50f4283926d337feb5230da/c.html",
-   "summary": "等红灯不计入外卖配送时长 北京部分区域9月试运行-\"美团、淘宝闪购、京东三家平台将实行的“红灯停表”机制下，骑手等红灯的时长在考核时间中顺延。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "新华视点｜匠心赓续文脉 非遗惠及民生",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260814/5858378fb1d846f286b257f243f0922c/c.html",
-   "summary": "新华视点｜匠心赓续文脉 非遗惠及民生- 近年来，多地激活非遗资源，非遗工坊、特色集市、文旅融合多点发力，让古老技艺火了起来。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "云南蒙自：一朵花串起农文旅增收大产业",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260814/1059f67980cf4530bf86f6979d7694e1/c.html",
-   "summary": "云南蒙自：一朵花串起农文旅增收大产业- 初秋时节，云南蒙自冷泉镇万亩万寿菊竞相绽放。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "文化奇遇记丨宋朝人修的水利，被当代人玩明白了",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/ci/20260814/5ca9da65eeb6458f9e58afabb0a38d18/c.html",
-   "summary": "文化奇遇记丨宋朝人修的水利，被当代人玩明白了-",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "曼吉奥内承认杀害医疗保健首席执行官并对联邦指控认罪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-   "summary": "“我在曼哈顿枪杀了汤普森先生，他死了，”这位 28 岁的男子在承认跟踪导致死亡的指控后说道。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "阿富汗妇女告诉 BBC，塔利班统治五年后她们的生活变得面目全非",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-   "summary": "全国各地的妇女都谈到了公开鞭打、失去工作以及危及生命的医疗保健障碍。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "在林肯号航空母舰报告出现问题后，美国航空母舰正在前往救援的途中",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，林肯号上的数千名水手面临食物短缺和管道破损的问题，其中一些人考虑跳海。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Instagram 账户通过付费建议帮助穿越，加剧了休达危机",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 的热门评论播客发现了一个 Instagram 个人资料网络，对围绕摩洛哥-休达边境围栏的游泳进行美化。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "活动人士试图向被以色列定居者围困的巴勒斯坦人提供援助",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-   "summary": "两个家庭被困在被占领的约旦河西岸的家中已经好几天了。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "日本“史无前例”的降雨造成八人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-   "summary": "风暴导致 20,000 多户家庭断电，7,000 人滞留在东京成田机场。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "建筑商在比利时房产的墙壁中发现了价值 900 万欧元的黄金藏品",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-   "summary": "建筑工人在钻孔铺设污水管道时在地窖的墙壁上发现了这些藏匿物。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "克罗地亚山火造成数十人受伤、数千人疏散",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-   "summary": "官员表示，港口城市奥米斯附近的火灾是克罗地亚历史上最严重的火灾之一。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "以色列在批评声中强行“重建”定居点",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0814/c1002-40779476.html",
-   "summary": "这是8月13日拍摄的犹太人定居点加尼姆，画面左上方是约旦河西岸北部城市杰宁（无人机照片）。新华社发（吉尔·科恩·马根摄）新华社耶路撒冷8月13日电现场直击｜以色列在批评声中强行“重建”定居点新华社记者",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "热点问答｜普京登上俄日争议岛屿发出…",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0814/c1002-40779644.html",
-   "summary": "新华社符拉迪沃斯托克/东京8月13日电 热点问答｜普京登上俄日争议岛屿发出什么信号 新华社记者孙萍 陈泽安 李子越 俄罗斯总统普京13日首次登上俄日争议岛屿南千岛群岛（日本称北方四岛），并罕见",
    "day": 0
   }
  ]
