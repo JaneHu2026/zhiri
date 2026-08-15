@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:04",
+ "fetchedAt": "13:01",
  "fetchedDate": "2026-08-15",
  "source": "zhiri-server",
  "items": [
@@ -11,6 +11,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/15/ARTIAr9Pd5zTTYz920NaYhiq260815.shtml",
    "summary": "1ae3f066c1a0,0,0,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "日本宣布无条件投降81周年｜在抗战侨批里感悟家国赤子情",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/15/VIDEmRkslEDhpnEpUNeyO1wy260815.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -35,12 +45,12 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "千年冠笄礼 一脉少年心",
+   "theme": "科技",
+   "title": "AI时代书籍的多种“读法” 出版如何让阅读“慢下来”“走出去”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/15/VIDEqQ7tqI1dblavmid6rue4260815.shtml",
-   "summary": "本期节目主要内容： 本期节目聚焦古代成人礼，以唯美演绎和温情故事，深入解读古代笄礼的文化内核。节目采用观照古今的视角，让流传千年的人生仪式，重新定义成长的概念，赋予“成年”以新的时代精神。 （《礼乐东方》 20260814 笄仪立心）",
+   "url": "https://tv.cctv.com/2026/08/15/VIDEN6828WBTWybvXD8djBEt260815.shtml",
+   "summary": "AI时代书籍的多种“读法”：出版如何让阅读“慢下来”“走出去”？",
    "day": 0
   },
   {
@@ -60,26 +70,16 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/15/ARTIOcaa5ovS0yFEuD0w0u6M260815.shtml",
-   "summary": "纠治以法治之名不作为、慢作为的顽疾，必须鲜明立起依法敢为、依规善为的履职导向，推动各级干部既守牢法治红线，又勇攀担当高线。要常态化组织法治学习，既厘清禁令清单，明晰哪些事绝对不能做，也要细化岗位职责清单，压实法定履职义务，补齐依法履职能力短板。面对难以解决的问题，明确法理依据、规范处置流程，杜绝因本…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "勿忘历史 吾辈自强！81年前的今天日本无条件投降",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/15/ARTIEZ0WSTye7LIGUyP3ZbZj260815.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "2026年下半年征兵开始 9月30日结束",
+   "title": "外交部就日本政要参拜供奉甲级战犯的靖国神社答问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/15/VIDEPsqS7Y4SAjvUh66EgIfT260815.shtml",
+   "url": "https://news.cctv.com/2026/08/15/ARTIVd6RhELaANhESDwWr9Fk260815.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   }
