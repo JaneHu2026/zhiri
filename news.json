@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:27",
+ "fetchedAt": "13:14",
  "fetchedDate": "2026-08-16",
  "source": "zhiri-server",
  "items": [
@@ -11,6 +11,36 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/16/ARTIw7INqpyo2o3qcUORTRcu260816.shtml",
    "summary": "“我们的祖国天更蓝、山更绿、水更清。”循着习近平总书记的生态足迹，山水林田湖草沙一体化保护和系统治理成效显著。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "侵华日军南京暴行再添新证",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/16/VIDE3BhwsQX4t54p1oCzVRIx260816.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国空间站周记｜多项空间科学实（试）验并行开展",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/16/VIDEEpr11pHzITRXOYs6Rupp260816.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "别让机构收割焦虑！幼小衔接四项准备 家长请查收",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/16/ARTIW67X6wH4kKb41wq39xmn260816.shtml",
+   "summary": "“孩子马上上一年级了，要不要报幼小衔接班？”“不抢跑就落后”的说法，让不少一年级新生家长陷入焦虑。那么，面对幼升小，家长们担忧的问题主要有哪些呢？",
    "day": 0
   },
   {
@@ -40,53 +70,43 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/16/VIDEB1w1Zll010cUMPjYNEfR260816.shtml",
-   "summary": "1至7月全国铁路发送旅客28亿人次：同比增长4.1%，再创历史同期新高。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "上半年煤炭供应充足 保障迎峰度夏",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/16/VIDEcOVAQmAtvLGupusls1qv260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "闻汛而动 全力以赴！各地多措并举筑牢防汛安全屏障",
+   "title": "各地开展暑期安全宣教 护航青少年平安快乐度假",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIjF08wG33XdWpQTQtENkG260816.shtml",
-   "summary": "连日来，受台风及强降雨共同影响，全国多地降雨、大风持续。面临复杂严峻的防汛防台风形势，各地各部门加强对山洪和地质灾害危险区、江河湖库、城市易涝点等隐患排查治理，全力以赴筑牢防汛安全屏障。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "这起邻里纠纷 为何成为“生态环境法典施行第一案”？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIfhzVkfnZIIsFpLFp4nwL260816.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国队在第38届国际信息学奥林匹克竞赛斩获3金1银",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIYmkyeSBrPcHDbbF9PgBP260816.shtml",
+   "url": "https://tv.cctv.com/2026/08/16/VIDERQzqwfnzUNnLsZl5uoef260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "BBC寻求传唤全景诉讼中的成员",
+   "title": "救援人员搜寻印度尼西亚强烈地震的幸存者",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+   "summary": "官员们表示，正在对地震造成的影响进行快速评估，这场地震摧毁了数百座建筑物并造成 47 人死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "夏威夷正准备迎接 34 年来首次飓风直接袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+   "summary": "在最坏的情况下，一级拉拉可能会给大岛带来高达 25 英寸（63 厘米）的降雨。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "BBC寻求在全景诉讼中传唤家庭成员",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
