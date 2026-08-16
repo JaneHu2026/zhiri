@@ -1,16 +1,16 @@
 {
- "fetchedAt": "13:14",
+ "fetchedAt": "18:53",
  "fetchedDate": "2026-08-16",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "创意微视频｜点染山河色",
+   "theme": "环境",
+   "title": "“建设生态文明，功在当代，利在千秋”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIw7INqpyo2o3qcUORTRcu260816.shtml",
-   "summary": "“我们的祖国天更蓝、山更绿、水更清。”循着习近平总书记的生态足迹，山水林田湖草沙一体化保护和系统治理成效显著。",
+   "url": "https://news.cctv.com/2026/08/16/ARTInEapcqIZgSPEVa1i86tB260816.shtml",
+   "summary": "“建设生态文明，功在当代，利在千秋。”生态文明建设是习近平总书记心中的“国之大者”。今年8月15日是第四个全国生态日，《中华人民共和国生态环境法典》正式施行，进一步筑牢了美丽中国建设的法治基石。重温总书记对生态文明建设的牵挂和嘱托，厚植中国式现代化的绿色底色。",
    "day": 0
   },
   {
@@ -21,6 +21,16 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/16/VIDE3BhwsQX4t54p1oCzVRIx260816.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "我国成功发射卫星互联网低轨24组卫星",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/16/ARTIeTE6Rkbm2rsHMLNBsTbm260816.shtml",
+   "summary": "56c317f1f063,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -46,61 +56,81 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "记者调查｜禁入区里的“野游”：安全防线谁来守？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/16/VIDE8mKpah6UAIgHLDePMzsc260816.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "厄瓜多尔总统诺沃亚抵达北京开始访华",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/16/ARTIsqyXNzAd2TInaP5tkf80260816.shtml",
-   "summary": "新华社北京8月16日电（记者曹嘉玥）应国家主席习近平邀请，厄瓜多尔总统诺沃亚8月16日清晨抵达北京，开始对中国进行为期8天的国事访问。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "机关勤上门 基层少奔波",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIirHvShHSOxydTnFnYK6D260816.shtml",
-   "summary": "“以前到机关办理业务，有时得跑好几趟，如今机关上门服务，政策讲解得细致透彻，部分业务还能现场办理。”近日，在第80集团军某旅驻训地，三级军士长赵汝彪办完随军家属未就业补助申领手续，对人力资源科陈干事连连点赞。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "1至7月全国铁路发送旅客28亿人次 同比增长4.1%",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/16/VIDEB1w1Zll010cUMPjYNEfR260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "各地开展暑期安全宣教 护航青少年平安快乐度假",
+   "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/16/VIDERQzqwfnzUNnLsZl5uoef260816.shtml",
+   "url": "https://news.cctv.com/2026/08/16/ARTIM7W7KP4OkgUqEonTg2r8260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "救援人员搜寻印度尼西亚强烈地震的幸存者",
+   "title": "俄罗斯在乌克兰发动新一轮空袭，造成五人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰总统泽连斯基指责俄罗斯袭击民用基础设施，而莫斯科则报告称一座仓库遭到袭击。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度尼西亚致命地震导致数千人流离失所，救援工作仍在继续",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "summary": "官员们表示，正在对地震造成的影响进行快速评估，这场地震摧毁了数百座建筑物并造成 47 人死亡。",
+   "summary": "数百栋房屋和公共建筑严重受损，至少 51 人死亡。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "夏威夷正准备迎接 34 年来首次飓风直接袭击",
+   "title": "飓风“拉拉”以强风和暴雨袭击夏威夷",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "summary": "在最坏的情况下，一级拉拉可能会给大岛带来高达 25 英寸（63 厘米）的降雨。",
+   "summary": "如果风暴登陆，这将是夏威夷 34 年来首次遭受飓风直接袭击。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "波兰巴士冲出匈牙利高速公路 造成十二人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+   "summary": "周日凌晨，旅游巴士翻车，造成数十人重伤。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+   "summary": "伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们一直被扣押。",
    "day": 0
   },
   {
@@ -111,6 +141,26 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
    "summary": "特朗普法律团队的发言人回应了这一要求，指责该广播公司“试图骚扰”总统的家人。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "《开罗宣言》纪念碑对公众开放",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780403.html",
+   "summary": "这是8月14日在埃及吉萨省的米娜宫饭店拍摄的《开罗宣言》纪念碑。据中国驻埃及大使馆8月15日消息，中方在埃及米娜宫饭店建立的《开罗宣言》纪念碑15日起对公众开放。新华社记者辛梦晨摄",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "以色列空袭黎巴嫩南部迪尔扎赫拉尼镇",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780399.html",
+   "summary": "8月15日，在黎巴嫩南部迪尔扎赫拉尼镇，男子查看遭以军空袭波及的住宅。 以军当天对黎巴嫩奈拜提耶地区迪尔扎赫拉尼镇发动空袭，造成4人死亡、17人受伤。 新华社发（阿里·哈希绍摄）",
    "day": 0
   }
  ]
