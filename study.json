@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:57",
- "fetchedDate": "2026-08-16",
+ "fetchedAt": "06:51",
+ "fetchedDate": "2026-08-17",
  "source": "zhiri-server",
  "items": [
   {
@@ -153,8 +153,8 @@
    "author": "超级神奇的木偶",
    "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
    "duration": "51:35",
-   "heat": 2087382,
-   "updated": "2026-08-16T13:57:18.255526",
+   "heat": 2863090,
+   "updated": "2026-08-16T22:51:42.342948",
    "url": "https://www.bilibili.com/video/BV18Tby67EG9",
    "points": [
     "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
@@ -171,8 +171,8 @@
    "author": "揽佬SKAIISYOURGOD",
    "title": "中国人会飞 Official Music Video - Chalky Wong feat. 揽佬SKAI ISYOURGOD",
    "duration": "2:04",
-   "heat": 2180627,
-   "updated": "2026-08-16T13:57:18.255539",
+   "heat": 2295698,
+   "updated": "2026-08-16T22:51:42.342960",
    "url": "https://www.bilibili.com/video/BV1QCgK6YEuM",
    "points": [
     "中国人会飞 Official Music Video - Chalky Wong feat. 揽佬SKAI ISYOURGOD 作曲 Composer：Chalky Wong / 揽佬SKAI ISYOURGOD 作词 "
@@ -186,11 +186,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "程序员鱼皮",
+   "title": "DeepSeek Harness 首发实测 + 入门教程，夯爆了！梁神我错了",
+   "duration": "16:33",
+   "heat": 621145,
+   "updated": "2026-08-16T22:51:42.342963",
+   "url": "https://www.bilibili.com/video/BV1VkgK6NEZS",
+   "points": [
+    "DeepSeek Harness 保姆级教程，1个视频带你从安装到实战玩转 DeepSeek 最新开源的 AI 编程工具，小白也能学会，看完就知道《国产版 Codex》到底有多强。 编程学习教程+实战项目+简历模板：co"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390732,
-   "updated": "2026-08-16T13:57:18.255541",
+   "heat": 390737,
+   "updated": "2026-08-16T22:51:42.342964",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -207,8 +225,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653405,
-   "updated": "2026-08-16T13:57:18.255543",
+   "heat": 653406,
+   "updated": "2026-08-16T22:51:42.342967",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -225,8 +243,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557379,
-   "updated": "2026-08-16T13:57:18.255545",
+   "heat": 557380,
+   "updated": "2026-08-16T22:51:42.342968",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -241,8 +259,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155573,
-   "updated": "2026-08-16T13:57:18.255547",
+   "heat": 155575,
+   "updated": "2026-08-16T22:51:42.342970",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -259,29 +277,11 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611335,
-   "updated": "2026-08-16T13:57:18.255549",
+   "heat": 611336,
+   "updated": "2026-08-16T22:51:42.342972",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2659035,
-   "updated": "2026-08-16T13:57:18.255551",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
-   "points": [
-    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
    ],
    "flags": {
     "fav": false,
@@ -295,8 +295,8 @@
    "author": "抖音热榜",
    "title": "一条AI短片演绎时间焦虑",
    "duration": "—",
-   "heat": 9229016,
-   "updated": "2026-08-16T13:57:18.255553",
+   "heat": 9029721,
+   "updated": "2026-08-16T22:51:42.342975",
    "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1AI%E7%9F%AD%E7%89%87%E6%BC%94%E7%BB%8E%E6%97%B6%E9%97%B4%E7%84%A6%E8%99%91?type=general",
    "points": [
     "热门话题「一条AI短片演绎时间焦虑」：相关视频 1 条"
@@ -313,8 +313,8 @@
    "author": "抖音热榜",
    "title": "我和闺蜜联手掀翻AI穿书剧本",
    "duration": "—",
-   "heat": 7704693,
-   "updated": "2026-08-16T13:57:18.255555",
+   "heat": 7702709,
+   "updated": "2026-08-16T22:51:42.342977",
    "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E9%97%BA%E8%9C%9C%E8%81%94%E6%89%8B%E6%8E%80%E7%BF%BBAI%E7%A9%BF%E4%B9%A6%E5%89%A7%E6%9C%AC?type=general",
    "points": [
     "热门话题「我和闺蜜联手掀翻AI穿书剧本」：相关视频 2 条"
@@ -331,11 +331,149 @@
    "author": "抖音热榜",
    "title": "60岁AI动画赛道新人",
    "duration": "—",
-   "heat": 7664199,
-   "updated": "2026-08-16T13:57:18.255557",
+   "heat": 7664312,
+   "updated": "2026-08-16T22:51:42.342979",
    "url": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA?type=general",
    "points": [
     "热门话题「60岁AI动画赛道新人」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "李飞飞最新访谈：AI咋能代替人呢？",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-16T22:51:42.342980",
+   "url": "https://www.qbitai.com/2026/08/474140.html",
+   "points": [
+    "AI不是替代者，而是个人能力的放大镜"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-16T22:51:42.342982",
+   "url": "https://www.qbitai.com/2026/08/474064.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-16T22:51:42.342983",
+   "url": "https://www.qbitai.com/2026/08/473947.html",
+   "points": [
+    "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-16T22:51:42.342985",
+   "url": "https://www.qbitai.com/2026/08/473876.html",
+   "points": [
+    "理解大模型，无需再训练一个替代网络"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-16T22:51:42.342986",
+   "url": "https://www.qbitai.com/2026/08/473866.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-16T22:51:42.342988",
+   "url": "https://www.qbitai.com/2026/08/473669.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信",
+   "duration": "—",
+   "heat": 38,
+   "updated": "2026-08-16",
+   "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+   "points": [
+    "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-08-16",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+   "points": [
+    "ChatGPT 的计算机历史记录跟踪您的点击和击键"
    ],
    "flags": {
     "fav": false,
@@ -390,60 +528,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
    "points": [
     "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "马克扎克伯格不明白如何生活",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-08-13",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-   "points": [
-    "马克扎克伯格不明白如何生活"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Twitch CPO 局促不安，承认每个人都讨厌其新的人工智能训练“功能”",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-08-13",
-   "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
-   "points": [
-    "Twitch CPO 局促不安，承认每个人都讨厌其新的人工智能训练“功能”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "为什么你的亚马逊订单确认电子邮件变得如此无用",
-   "duration": "—",
-   "heat": 10,
-   "updated": "2026-08-13",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-   "points": [
-    "为什么你的亚马逊订单确认电子邮件变得如此无用"
    ],
    "flags": {
     "fav": false,

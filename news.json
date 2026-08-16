@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:56",
- "fetchedDate": "2026-08-16",
+ "fetchedAt": "06:50",
+ "fetchedDate": "2026-08-17",
  "source": "zhiri-server",
  "items": [
   {
@@ -86,61 +86,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯在乌克兰发动新一轮空袭，造成五人死亡",
+   "title": "特朗普表示，在韩国退出伊朗战争后，美国将缩减与韩国的军事演习",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+   "summary": "在韩国最近拒绝援助他在伊朗的战争努力之后，他决定减少合作关系。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+   "summary": "这次罕见的会议是在以色列拒绝唐纳德·特朗普的加沙和平计划一周后举行的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "俄罗斯称乌克兰 2026 年最大规模袭击事件至少造成 7 人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰总统泽连斯基指责俄罗斯袭击民用基础设施，而莫斯科则报告称一座仓库遭到袭击。",
+   "summary": "莫斯科还连夜对乌克兰发动致命袭击，引发首都基辅大火。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "印度尼西亚致命地震导致数千人流离失所，救援工作仍在继续",
+   "title": "希腊岛屿发生两起火灾，造成两人死亡，数百人疏散",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "summary": "数百栋房屋和公共建筑严重受损，至少 53 人死亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "由于强风和降雨持续，飓风拉拉在夏威夷引发山洪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "summary": "官员们表示，在受灾最严重的地区，山洪可能已经冲毁了有人居住的房屋。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "波兰巴士冲出匈牙利高速公路 造成十二人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-   "summary": "周日凌晨，旅游巴士翻车，造成数十人重伤。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "欧洲最高的圣母玛利亚雕像在波兰乡村揭幕",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-   "summary": "这座 55.6 米（182 英尺）高的混凝土雕像位于里约热内卢救世主基督像的头和肩之上。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-   "summary": "伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们一直被扣押。",
+   "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+   "summary": "大约 200 名消防员努力阻止火势向萨拉米纳蔓延，目前其中一处火势已得到控制。",
    "day": 0
   },
   {
@@ -156,11 +136,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "BBC寻求在全景诉讼中传唤家庭成员",
+   "title": "印度尼西亚致命地震导致数千人流离失所，救援工作仍在继续",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-   "summary": "特朗普法律团队的发言人回应了这一要求，指责该广播公司“试图骚扰”总统的家人。",
+   "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+   "summary": "数百栋房屋和公共建筑严重受损，至少 53 人死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国指挥官称心理健康是林肯号航空母舰的“优先事项”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+   "summary": "布拉德·库珀上将在参观这艘军舰后承认，海军长期在海上服役是“独特的挑战和艰难”",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "弗吉尼亚校园枪击案青少年嫌疑人被发现躲在衣柜里",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+   "summary": "警方称，袭击事件在宿舍外造成五人受伤，嫌疑人不是该校的学生。",
    "day": 0
   },
   {
