@@ -1,166 +1,96 @@
 {
- "fetchedAt": "07:42",
+ "fetchedAt": "11:27",
  "fetchedDate": "2026-08-16",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "嘱托为笔，绘天地国色",
+   "title": "创意微视频｜点染山河色",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/15/ARTIqYhoTSCEEVmfP47td181260815.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "法治护航美丽中国建设 筑牢中华民族永续发展生态根基",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/15/VIDE7WEGk17RZci8pxUWnIZK260815.shtml",
-   "summary": "【新思想引领新征程】法治护航美丽中国建设，筑牢中华民族永续发展生态根基。",
+   "url": "https://news.cctv.com/2026/08/16/ARTIw7INqpyo2o3qcUORTRcu260816.shtml",
+   "summary": "“我们的祖国天更蓝、山更绿、水更清。”循着习近平总书记的生态足迹，山水林田湖草沙一体化保护和系统治理成效显著。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "日本无条件投降81周年 各地举行活动铭记历史缅怀先烈",
+   "title": "厄瓜多尔总统诺沃亚抵达北京开始访华",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/15/VIDEZsFjsuHdMOLKTfLsOd2G260815.shtml",
-   "summary": "今天，中国人民抗日战争纪念馆开展“赓续胜利荣光”主题社教活动。数千名观众在文物品读、事迹宣讲、缅怀先辈的沉浸式体验中，感悟伟大抗战精神。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "北京建设历史文化名城 让保护与发展相融共生",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/15/ARTIEV32MLFFV2UWyBoInBkg260815.shtml",
-   "summary": "ec2386ee7c2a,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/16/ARTIsqyXNzAd2TInaP5tkf80260816.shtml",
+   "summary": "新华社北京8月16日电（记者曹嘉玥）应国家主席习近平邀请，厄瓜多尔总统诺沃亚8月16日清晨抵达北京，开始对中国进行为期8天的国事访问。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "边境稳、人心定、产业旺 绘就山河安澜、百姓安康幸福画卷",
+   "title": "机关勤上门 基层少奔波",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/15/ARTIFMU7HCE5nbrHm2mmWEH4260815.shtml",
-   "summary": "ac03d3ceb0a8,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/16/ARTIirHvShHSOxydTnFnYK6D260816.shtml",
+   "summary": "“以前到机关办理业务，有时得跑好几趟，如今机关上门服务，政策讲解得细致透彻，部分业务还能现场办理。”近日，在第80集团军某旅驻训地，三级军士长赵汝彪办完随军家属未就业补助申领手续，对人力资源科陈干事连连点赞。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "第二届世界人形机器人运动会将举行 总台记者提前探营",
+   "theme": "财经",
+   "title": "1至7月全国铁路发送旅客28亿人次 同比增长4.1%",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/15/VIDEg0GInF1bC4kiKNqanHYv260815.shtml",
-   "summary": "第二届世界人形机器人运动会将在北京举行：场景赛即将开赛，总台记者提前探营。",
+   "url": "https://tv.cctv.com/2026/08/16/VIDEB1w1Zll010cUMPjYNEfR260816.shtml",
+   "summary": "1至7月全国铁路发送旅客28亿人次：同比增长4.1%，再创历史同期新高。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "社会",
-   "title": "“第一网鲜”上市 多项服务助力鲜味直达消费者餐桌",
+   "title": "上半年煤炭供应充足 保障迎峰度夏",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/15/ARTI7PwLMztMWH33z1l14rGf260815.shtml",
+   "url": "https://tv.cctv.com/2026/08/16/VIDEcOVAQmAtvLGupusls1qv260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "远山之约 蜀山篇｜甘孜藏族自治州",
+   "title": "闻汛而动 全力以赴！各地多措并举筑牢防汛安全屏障",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/15/VIDExZnqtufh8O1QGWGp9AeJ260815.shtml",
+   "url": "https://news.cctv.com/2026/08/16/ARTIjF08wG33XdWpQTQtENkG260816.shtml",
+   "summary": "连日来，受台风及强降雨共同影响，全国多地降雨、大风持续。面临复杂严峻的防汛防台风形势，各地各部门加强对山洪和地质灾害危险区、江河湖库、城市易涝点等隐患排查治理，全力以赴筑牢防汛安全屏障。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "这起邻里纠纷 为何成为“生态环境法典施行第一案”？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/16/ARTIfhzVkfnZIIsFpLFp4nwL260816.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国队在第38届国际信息学奥林匹克竞赛斩获3金1银",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/16/ARTIYmkyeSBrPcHDbbF9PgBP260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "救援人员搜寻印度尼西亚强烈地震的幸存者",
+   "title": "BBC寻求传唤全景诉讼中的成员",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "summary": "官员们表示，正在对地震造成的影响进行快速评估，这场地震摧毁了数百座建筑物并造成 47 人死亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "报道称，摩洛哥拘留了数十名试图进入休达的移民",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-   "summary": "由于社交媒体上建议周六进行第二次大规模穿越，安全措施得到加强。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "当局称，以色列对黎巴嫩南部的袭击造成 11 人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列军方表示，它袭击了“真主党的恐怖基础设施”，以回应之前针对其士兵的行动",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "列支敦士登改变继承规则允许女性登上王位",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-   "summary": "该声明是在这个人口仅有 44,000 的中欧国家的国庆日发表的。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-   "summary": "伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们就一直被扣押。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "警方称，弗吉尼亚州立大学发生五人枪击事件，多名嫌疑人在逃",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-   "summary": "周六当地时间 01:28 左右（格林威治标准时间 05:28），警方对宿舍外发生枪击事件的报告做出了回应。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "夏威夷正准备迎接 34 年来首次飓风直接袭击",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "summary": "在最坏的情况下，一级拉拉可能会给大岛带来高达 25 英寸（63 厘米）的降雨。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "邦迪海滩袭击后澳大利亚各州启动枪支回购",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-   "summary": "袭击发生地新南威尔士州将向枪支拥有者提供现金以放弃枪支。",
+   "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+   "summary": "特朗普法律团队的发言人回应了这一要求，指责该广播公司“试图骚扰”总统的家人。",
    "day": 0
   }
  ]

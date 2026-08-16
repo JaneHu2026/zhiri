@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:43",
+ "fetchedAt": "11:28",
  "fetchedDate": "2026-08-16",
  "source": "zhiri-server",
  "items": [
@@ -24,6 +24,42 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-14 08:42:07",
+   "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+   "points": [
+    "Claude AI 失败了 650 次……然后打破了人类记录"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "OpenAI’s AI Agents Just Crossed A Line",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-11 15:35:35",
+   "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+   "points": [
+    "OpenAI 的人工智能代理刚刚跨越了界限"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "sentdex",
    "title": "The Right Harness is All You Need - For local Frontier AI",
    "duration": "—",
@@ -32,6 +68,24 @@
    "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
    "points": [
     "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepMind Just Changed How AI Sees The World",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-07 08:22:00",
+   "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+   "points": [
+    "DeepMind 刚刚改变了人工智能看待世界的方式"
    ],
    "flags": {
     "fav": false,
@@ -95,66 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "You Can Just Download More Tokens/Sec",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-20 15:05:01",
-   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
-   "points": [
-    "您可以每秒下载更多代币"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-17 21:55:53",
-   "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-   "points": [
-    "我向 Kimi K3 vs Fable 5 vs Sol 5.6 发起了挑战，以制作《奥德赛》……"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-16 11:56:04",
-   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-   "points": [
-    "但什么是交叉熵？ |压缩就是智能第 2 部分"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "瞬鸽鸽",
    "title": "🔥全看完的可以封神了！三角洲AI夏日晚会🔥",
    "duration": "23:26",
-   "heat": 2086338,
-   "updated": "2026-08-15T23:43:19.508441",
+   "heat": 2100568,
+   "updated": "2026-08-16T03:28:10.962634",
    "url": "https://www.bilibili.com/video/BV1QDui6jEbi",
    "points": [
     "继上次新年合作后，再次整了个大活，祝大家看得开心！ 制作者（按出场顺序）：@沙雕Sanscul @绝密基咪 @瞬鸽鸽 @高坂大芥末 @徐Toso @修2 @永雏小满 @核动力路灯"
@@ -171,8 +171,8 @@
    "author": "揽佬SKAIISYOURGOD",
    "title": "中国人会飞 Official Music Video - Chalky Wong feat. 揽佬SKAI ISYOURGOD",
    "duration": "2:04",
-   "heat": 1463118,
-   "updated": "2026-08-15T23:43:19.508449",
+   "heat": 1700042,
+   "updated": "2026-08-16T03:28:10.962646",
    "url": "https://www.bilibili.com/video/BV1QCgK6YEuM",
    "points": [
     "中国人会飞 Official Music Video - Chalky Wong feat. 揽佬SKAI ISYOURGOD Created by EverydayWe | @Everydaywe"
@@ -189,8 +189,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390726,
-   "updated": "2026-08-15T23:43:19.508452",
+   "heat": 390727,
+   "updated": "2026-08-16T03:28:10.962649",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -208,7 +208,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653405,
-   "updated": "2026-08-15T23:43:19.508454",
+   "updated": "2026-08-16T03:28:10.962651",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -225,8 +225,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557374,
-   "updated": "2026-08-15T23:43:19.508456",
+   "heat": 557376,
+   "updated": "2026-08-16T03:28:10.962654",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -242,7 +242,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155567,
-   "updated": "2026-08-15T23:43:19.508458",
+   "updated": "2026-08-16T03:28:10.962656",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -259,8 +259,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611332,
-   "updated": "2026-08-15T23:43:19.508460",
+   "heat": 611334,
+   "updated": "2026-08-16T03:28:10.962658",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -277,8 +277,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659030,
-   "updated": "2026-08-15T23:43:19.508487",
+   "heat": 2659032,
+   "updated": "2026-08-16T03:28:10.962660",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [
     "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
@@ -295,11 +295,29 @@
    "author": "抖音热榜",
    "title": "60岁AI动画赛道新人",
    "duration": "—",
-   "heat": 9152890,
-   "updated": "2026-08-15T23:43:19.508490",
+   "heat": 9254688,
+   "updated": "2026-08-16T03:28:10.962662",
    "url": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA?type=general",
    "points": [
     "热门话题「60岁AI动画赛道新人」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "我和闺蜜联手掀翻AI穿书剧本",
+   "duration": "—",
+   "heat": 7768890,
+   "updated": "2026-08-16T03:28:10.962665",
+   "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E9%97%BA%E8%9C%9C%E8%81%94%E6%89%8B%E6%8E%80%E7%BF%BBAI%E7%A9%BF%E4%B9%A6%E5%89%A7%E6%9C%AC?type=general",
+   "points": [
+    "热门话题「我和闺蜜联手掀翻AI穿书剧本」：相关视频 2 条"
    ],
    "flags": {
     "fav": false,
@@ -314,7 +332,7 @@
    "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-15T23:43:19.508493",
+   "updated": "2026-08-16T03:28:10.962667",
    "url": "https://www.qbitai.com/2026/08/473876.html",
    "points": [
     "理解大模型，无需再训练一个替代网络"
@@ -332,7 +350,7 @@
    "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-15T23:43:19.508494",
+   "updated": "2026-08-16T03:28:10.962669",
    "url": "https://www.qbitai.com/2026/08/473866.html",
    "points": [],
    "flags": {
@@ -348,7 +366,7 @@
    "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-15T23:43:19.508496",
+   "updated": "2026-08-16T03:28:10.962671",
    "url": "https://www.qbitai.com/2026/08/473669.html",
    "points": [],
    "flags": {
@@ -364,7 +382,7 @@
    "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-15T23:43:19.508498",
+   "updated": "2026-08-16T03:28:10.962672",
    "url": "https://www.qbitai.com/2026/08/473597.html",
    "points": [
     "大家已经给DeepSeek装上了啥"
@@ -382,7 +400,7 @@
    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-15T23:43:19.508500",
+   "updated": "2026-08-16T03:28:10.962675",
    "url": "https://www.qbitai.com/2026/08/473407.html",
    "points": [],
    "flags": {
@@ -398,7 +416,7 @@
    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-15T23:43:19.508502",
+   "updated": "2026-08-16T03:28:10.962676",
    "url": "https://www.qbitai.com/2026/08/473379.html",
    "points": [
     "所有人都可免费下载部署及商用。"
@@ -415,7 +433,7 @@
    "author": "Hacker News",
    "title": "俄罗斯巡航导弹中发现 Nvidia Jetson 芯片",
    "duration": "—",
-   "heat": 8,
+   "heat": 9,
    "updated": "2026-08-15",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
    "points": [
