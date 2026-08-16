@@ -1,25 +1,25 @@
 {
- "fetchedAt": "18:53",
+ "fetchedAt": "21:56",
  "fetchedDate": "2026-08-16",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "“建设生态文明，功在当代，利在千秋”",
+   "theme": "要闻",
+   "title": "凝心聚力 真抓实干 奋力实现“十五五”良好开局",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTInEapcqIZgSPEVa1i86tB260816.shtml",
-   "summary": "“建设生态文明，功在当代，利在千秋。”生态文明建设是习近平总书记心中的“国之大者”。今年8月15日是第四个全国生态日，《中华人民共和国生态环境法典》正式施行，进一步筑牢了美丽中国建设的法治基石。重温总书记对生态文明建设的牵挂和嘱托，厚植中国式现代化的绿色底色。",
+   "url": "https://tv.cctv.com/2026/08/16/VIDEcFoXfxerCCrmXQcGSj0h260816.shtml",
+   "summary": "【凝心聚力，真抓实干，奋力实现“十五五”良好开局】重庆加快推动科技创新和产业创新深度融合。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "侵华日军南京暴行再添新证",
+   "title": "中国空间站周记｜多项空间科学实（试）验并行开展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/16/VIDE3BhwsQX4t54p1oCzVRIx260816.shtml",
+   "url": "https://tv.cctv.com/2026/08/16/VIDEEpr11pHzITRXOYs6Rupp260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -36,11 +36,21 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中国空间站周记｜多项空间科学实（试）验并行开展",
+   "title": "活力中国调研行｜“陪跑”团队跑出创新加速度",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/16/VIDEEpr11pHzITRXOYs6Rupp260816.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://tv.cctv.com/2026/08/16/VIDEnC9l6nVx9IhDUEvQvIOz260816.shtml",
+   "summary": "记者来到宁波的甬江实验室时，正赶上一场火药味十足的项目评审会。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "文化中国行｜琢石续千秋 凝灰岩文保破解世界难题",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/16/VIDELKQ2IsL68EtBp0gyjqau260816.shtml",
+   "summary": "承德避暑山庄及周围寺庙是中国现存最大的古典皇家园林，其中的石雕石刻是中国营造技艺的结晶。这些凝灰岩石质文物，由于在室外经历三百多年寒暑交替、风化冻融，就像“千层酥”一样，呈现出网状、线状等裂隙交错。而此前，在世界范围内对凝灰岩类石质文物的保护，都鲜有成功先例。",
    "day": 0
   },
   {
@@ -66,20 +76,10 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "厄瓜多尔总统诺沃亚抵达北京开始访华",
+   "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIsqyXNzAd2TInaP5tkf80260816.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/16/ARTIM7W7KP4OkgUqEonTg2r8260816.shtml",
+   "url": "https://news.cctv.com/2026/08/16/ARTIMwaHhgz0PUreP4VIfjRI260816.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -100,17 +100,17 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "summary": "数百栋房屋和公共建筑严重受损，至少 51 人死亡。",
+   "summary": "数百栋房屋和公共建筑严重受损，至少 53 人死亡。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "飓风“拉拉”以强风和暴雨袭击夏威夷",
+   "title": "由于强风和降雨持续，飓风拉拉在夏威夷引发山洪",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-   "summary": "如果风暴登陆，这将是夏威夷 34 年来首次遭受飓风直接袭击。",
+   "summary": "官员们表示，在受灾最严重的地区，山洪可能已经冲毁了有人居住的房屋。",
    "day": 0
   },
   {
@@ -126,11 +126,31 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "欧洲最高的圣母玛利亚雕像在波兰乡村揭幕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+   "summary": "这座 55.6 米（182 英尺）高的混凝土雕像位于里约热内卢救世主基督像的头和肩之上。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
    "summary": "伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们一直被扣押。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "意大利博物馆四幅“非凡”文艺复兴画作被盗",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+   "summary": "这些作品是在没有触发警报的情况下连夜拍摄的，这引发了对专业打击的怀疑。",
    "day": 0
   },
   {
