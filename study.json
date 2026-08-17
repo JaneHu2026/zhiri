@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:07",
- "fetchedDate": "2026-08-17",
+ "fetchedAt": "06:56",
+ "fetchedDate": "2026-08-18",
  "source": "zhiri-server",
  "items": [
   {
@@ -153,8 +153,8 @@
    "author": "超级神奇的木偶",
    "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
    "duration": "51:35",
-   "heat": 5161177,
-   "updated": "2026-08-17T14:07:00.765513",
+   "heat": 5405775,
+   "updated": "2026-08-17T22:56:24.488541",
    "url": "https://www.bilibili.com/video/BV18Tby67EG9",
    "points": [
     "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
@@ -171,8 +171,8 @@
    "author": "咩咩是个迷",
    "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
    "duration": "112:58",
-   "heat": 924213,
-   "updated": "2026-08-17T14:07:00.765521",
+   "heat": 1005180,
+   "updated": "2026-08-17T22:56:24.488558",
    "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
    "points": [
     "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价"
@@ -189,8 +189,8 @@
    "author": "扎克鸡",
    "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
    "duration": "2:26",
-   "heat": 1496598,
-   "updated": "2026-08-17T14:07:00.765524",
+   "heat": 1571758,
+   "updated": "2026-08-17T22:56:24.488562",
    "url": "https://www.bilibili.com/video/BV173b16eEPD",
    "points": [
     "《万梗捏》- 点开即玩 🔗https://www.bilibili.com/toy/MemeMash/index.html 后面想捏什么梗，评论区告诉我！"
@@ -204,47 +204,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "揽佬SKAIISYOURGOD",
-   "title": "中国人会飞 Official Music Video - Chalky Wong feat. 揽佬SKAI ISYOURGOD",
-   "duration": "2:04",
-   "heat": 2817783,
-   "updated": "2026-08-17T14:07:00.765526",
-   "url": "https://www.bilibili.com/video/BV1QCgK6YEuM",
-   "points": [
-    "中国人会飞 Official Music Video - Chalky Wong feat. 揽佬SKAI ISYOURGOD 作曲 Composer：Chalky Wong / 揽佬SKAI ISYOURGOD 作词 "
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "程序员鱼皮",
-   "title": "DeepSeek Harness 首发实测 + 入门教程，夯爆了！梁神我错了",
-   "duration": "16:33",
-   "heat": 709352,
-   "updated": "2026-08-17T14:07:00.765529",
-   "url": "https://www.bilibili.com/video/BV1VkgK6NEZS",
-   "points": [
-    "DeepSeek Harness 保姆级教程，1个视频带你从安装到实战玩转 DeepSeek 最新开源的 AI 编程工具，小白也能学会，看完就知道《国产版 Codex》到底有多强。 编程学习教程+实战项目+简历模板：co"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390747,
-   "updated": "2026-08-17T14:07:00.765531",
+   "heat": 390751,
+   "updated": "2026-08-17T22:56:24.488564",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -262,7 +226,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653407,
-   "updated": "2026-08-17T14:07:00.765533",
+   "updated": "2026-08-17T22:56:24.488567",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -279,10 +243,46 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557385,
-   "updated": "2026-08-17T14:07:00.765535",
+   "heat": 557390,
+   "updated": "2026-08-17T22:56:24.488568",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155588,
+   "updated": "2026-08-17T22:56:24.488570",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [
+    "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611340,
+   "updated": "2026-08-17T22:56:24.488572",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -295,11 +295,11 @@
    "author": "抖音热榜",
    "title": "姜月初刷新AI漫剧女打一天花板",
    "duration": "—",
-   "heat": 7774393,
-   "updated": "2026-08-17T14:07:00.765537",
+   "heat": 7809652,
+   "updated": "2026-08-17T22:56:24.488575",
    "url": "https://www.douyin.com/search/%E5%A7%9C%E6%9C%88%E5%88%9D%E5%88%B7%E6%96%B0AI%E6%BC%AB%E5%89%A7%E5%A5%B3%E6%89%93%E4%B8%80%E5%A4%A9%E8%8A%B1%E6%9D%BF?type=general",
    "points": [
-    "热门话题「姜月初刷新AI漫剧女打一天花板」：相关视频 3 条"
+    "热门话题「姜月初刷新AI漫剧女打一天花板」：相关视频 6 条"
    ],
    "flags": {
     "fav": false,
@@ -314,7 +314,7 @@
    "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-17T14:07:00.765540",
+   "updated": "2026-08-17T22:56:24.488577",
    "url": "https://www.qbitai.com/2026/08/474537.html",
    "points": [
     "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo"
@@ -332,7 +332,7 @@
    "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-17T14:07:00.765542",
+   "updated": "2026-08-17T22:56:24.488579",
    "url": "https://www.qbitai.com/2026/08/474381.html",
    "points": [
     "AI最近最出圈的数学突破，都在“找反例”"
@@ -350,7 +350,7 @@
    "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-17T14:07:00.765544",
+   "updated": "2026-08-17T22:56:24.488581",
    "url": "https://www.qbitai.com/2026/08/474361.html",
    "points": [
     "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用"
@@ -368,7 +368,7 @@
    "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-17T14:07:00.765546",
+   "updated": "2026-08-17T22:56:24.488583",
    "url": "https://www.qbitai.com/2026/08/474334.html",
    "points": [],
    "flags": {
@@ -384,7 +384,7 @@
    "title": "李飞飞最新访谈：AI咋能代替人呢？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-17T14:07:00.765548",
+   "updated": "2026-08-17T22:56:24.488585",
    "url": "https://www.qbitai.com/2026/08/474140.html",
    "points": [
     "AI不是替代者，而是个人能力的放大镜"
@@ -402,7 +402,7 @@
    "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-17T14:07:00.765550",
+   "updated": "2026-08-17T22:56:24.488586",
    "url": "https://www.qbitai.com/2026/08/474064.html",
    "points": [],
    "flags": {
@@ -415,9 +415,45 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
+   "title": "惨痛的教训是人工智能中的观察",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-08-17",
+   "url": "https://en.wikipedia.org/wiki/Bitter_lesson",
+   "points": [
+    "惨痛的教训是人工智能中的观察"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "数学家探讨人工智能",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-08-17",
+   "url": "https://mathscholar.org/2026/08/mathematicians-address-artificial-intelligence/",
+   "points": [
+    "数学家探讨人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
    "title": "卫星和人工智能正在改变野火检测",
    "duration": "—",
-   "heat": 1,
+   "heat": 3,
    "updated": "2026-08-17",
    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
    "points": [
@@ -435,7 +471,7 @@
    "author": "Hacker News",
    "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信",
    "duration": "—",
-   "heat": 128,
+   "heat": 147,
    "updated": "2026-08-16",
    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
    "points": [
@@ -476,42 +512,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
    "points": [
     "俄罗斯巡航导弹中发现 Nvidia Jetson 芯片"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "关于人工智能近期就业影响的六个事实",
-   "duration": "—",
-   "heat": 11,
-   "updated": "2026-08-14",
-   "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
-   "points": [
-    "关于人工智能近期就业影响的六个事实"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-08-14",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-   "points": [
-    "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型"
    ],
    "flags": {
     "fav": false,
