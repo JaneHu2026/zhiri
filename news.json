@@ -1,5 +1,5 @@
 {
- "fetchedAt": "19:01",
+ "fetchedAt": "22:05",
  "fetchedDate": "2026-08-17",
  "source": "zhiri-server",
  "items": [
@@ -9,8 +9,8 @@
    "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/17/ARTIR9P8rNMDSFzJHg4wZKkC260817.shtml",
-   "summary": "中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希，国家副主席韩正出席大会。",
+   "url": "https://news.cctv.com/2026/08/17/ARTIQ8E7MWSAZNB2KJGvOWMl260817.shtml",
+   "summary": "中共中央、全国人大常委会、国务院、全国政协、中央军委17日上午在人民大会堂隆重举行大会，纪念伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，中国特色社会主义伟大事业的杰出领导者江泽民同志诞辰100周年。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，深切缅怀江泽民同志…",
    "day": 0
   },
   {
@@ -39,8 +39,18 @@
    "title": "纪念江泽民同志诞辰100周年大会在京隆重举行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/17/VIDE7VAfR1OxTFgnMoyktGjR260817.shtml",
-   "summary": "2026年8月17日，纪念江泽民同志诞辰100周年大会在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。",
+   "url": "https://news.cctv.com/2026/08/17/ARTIQ8E7MWSAZNB2KJGvOWMl260817.shtml",
+   "summary": "中共中央、全国人大常委会、国务院、全国政协、中央军委17日上午在人民大会堂隆重举行大会，纪念伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，中国特色社会主义伟大事业的杰出领导者江泽民同志诞辰100周年。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，深切缅怀江泽民同志…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "科技赋能各地“土特产”串起富民“增收链”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/17/ARTIZmHb3kocuOMtCjr9m7SF260817.shtml",
+   "summary": "72825789611e,0,1,16:9,newPlayer72b187309e67,0,1,16:9,newPlayeref9f977458cd,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -70,16 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/17/VIDEbjpQOLCZUMfkjh9n7fNT260817.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“五彩假日”暑托班精彩拉满 孩子们在假期里学有所获、乐在其中",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/17/ARTImkjzDtIuCfhwwNiHpBUL260817.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -116,21 +116,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普特使库什纳在哈马斯就加沙和平计划举行罕见会谈后抵达以色列",
+   "title": "特朗普特使库什纳在哈马斯就和平计划进行会谈后会见内塔尼亚胡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国总统特朗普的女婿贾里德·库什纳预计将于周一晚些时候会见以色列总理本杰明·内塔尼亚胡。",
+   "summary": "美国总统特朗普的女婿贾里德库什纳正在寻求以色列对美国支持的加沙和平计划的支持。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "代理州长称乌克兰空袭导致俄罗斯六人死亡",
+   "title": "俄罗斯和乌克兰进行更致命的打击",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯别尔哥罗德地区代理州长称，另有四人受伤，其中包括一名 14 岁儿童。",
+   "summary": "莫斯科称过去 24 小时内有 9 人死亡，基辅则报告有 4 人死亡。",
    "day": 0
   },
   {
@@ -160,7 +160,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-   "summary": "当局声称他们参与了叛乱阴谋，但主要反对派候选人表示有人企图谋杀他",
+   "summary": "主要反对派候选人称有关计划叛乱的指控“完全是捏造的”。",
    "day": 0
   },
   {
