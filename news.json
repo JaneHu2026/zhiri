@@ -1,5 +1,5 @@
 {
- "fetchedAt": "06:27",
+ "fetchedAt": "07:25",
  "fetchedDate": "2026-08-19",
  "source": "zhiri-server",
  "items": [
@@ -106,6 +106,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "法庭获悉，Meta 使儿童沉迷于 Facebook 和 Instagram",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+   "summary": "梅塔认为社交媒体成瘾并不存在，美国各州提起的一项重大诉讼的审判正在进行中。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "伯纳姆表示，在俄罗斯发出无人机警告后，英国“100%支持乌克兰”",
    "source": "BBC",
    "time": "今天",
@@ -136,7 +146,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "婆婆作证，林赛·克兰西在孩子被杀前请求帮助",
+   "title": "婆婆作证称，林赛·克兰西在孩子被杀前曾请求帮助",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
@@ -171,16 +181,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
    "summary": "最近被美国总统提名在佛罗里达州联邦法院任职的一名法官现在将主持他的价值 100 亿美元的诽谤案",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "海顿·潘妮蒂尔 (Hayden Panettiere) 的前夫弗拉基米尔·克里琴科 (Wladimir Klitschko) 表示，家人“深感震惊和悲伤”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-   "summary": "这位前重量级拳击冠军与周日去世的《英雄》女演员有一个孩子。",
    "day": 0
   },
   {
