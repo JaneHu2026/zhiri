@@ -1,8 +1,28 @@
 {
- "fetchedAt": "13:16",
+ "fetchedAt": "19:00",
  "fetchedDate": "2026-08-18",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTIvFeFNFvdnXFB8mUIFGRp260818.shtml",
+   "summary": "新华社北京8月18日电 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志的遗体，18日在北京八宝山革命公墓火化。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正等到八宝山革命公墓送别 胡锦涛送花圈表示哀悼｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTIvFeFNFvdnXFB8mUIFGRp260818.shtml",
+   "summary": "新华社北京8月18日电 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志的遗体，18日在北京八宝山革命公墓火化。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -11,6 +31,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/18/ARTIJWQ2REHxndTKdzRb3k29260805.shtml",
    "summary": "中国共产党历史展览馆内，一封半个世纪前的函件静静陈列在展柜中。这封来自陕西省延川县文安驿公社革命委员会的函件上，红色印章已经斑驳，手写字迹却依然清晰——",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“黄金大通道”效能释放 “数”说中国与东盟国家间经贸合作提质升级",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTI4zX6FXwBqGj6omqhAzz4260818.shtml",
+   "summary": "3fe2b13c79ef,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -36,50 +66,20 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "千帆竞发开启“海上秋收” 花样新业态让传统渔业焕发文旅新活力",
+   "title": "海南自贸港航运枢纽功能持续提升",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTIbbDBSxG0Fp5XI3Bn1DmI260818.shtml",
-   "summary": "7f85b17b8059,0,1,16:9,newPlayer1359db4c54e8,0,1,16:9,newPlayer95cb7239596a,0,1,16:9,newPlayer72c21fb2b8a1,0,1,16:9,newPlayer657ad14b804f,0,1,16:9,newP…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "把大海“搬”进实验室 解码我国漂浮式风电硬核底气",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTI9UUYirTIWY4Kac2D2DrX260818.shtml",
-   "summary": "2dc94972d36d,0,1,16:9,newPlayerf1df0c87c198,0,1,16:9,newPlayer0ded86f84398,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "激发下沉市场活力 9部门发文活跃县域消费",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTIIIUqwmqwaFNYQKxcaRGO260818.shtml",
-   "summary": "为进一步激发下沉市场活力，推进服务业扩能提质，活跃县域消费，现提出如下意见。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "两部门再次预拨6000万元支持河南防汛应急抢险救灾",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTIkOsfyjXANZrItdWOVbn3260818.shtml",
+   "url": "https://news.cctv.com/2026/08/18/ARTI4VLuiZgvqLZfIP5YQJWC260818.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "海关总署：中国7月稀土及其制品出口10314吨",
+   "theme": "民生",
+   "title": "923万人次 “快捷通关+便民举措”让琴澳“双城生活”成为常态",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTIRSPbD3JlpithVsVRuYeS260818.shtml",
+   "url": "https://news.cctv.com/2026/08/18/ARTIXDPhA0xVGdQrBpXT12jy260818.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,6 +106,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "俄罗斯警告英国将支付向乌克兰供应无人机的费用",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+   "summary": "俄罗斯指责英国在使用英国制造的无人机后使乌克兰战争升级，但国防部表示反对俄罗斯的侵略",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "IVF工作人员被指控在塞浦路斯北部的精子和卵子捐赠者方面误导英国父母",
    "source": "BBC",
    "time": "今天",
@@ -120,7 +130,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-   "summary": "图帕克·沙库尔被多次枪击后，拒绝与警方合作，并告诉一名警官，“我们会处理这件事，”一名警官说。",
+   "summary": "图帕克·沙库尔（Tupac Shakur）被多次枪击后，拒绝与警方合作，并告诉一名警官“我们会处理这件事”，一名警官测试",
    "day": 0
   },
   {
@@ -136,21 +146,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯警告英国不要向乌克兰供应无人机",
+   "title": "中国在举行前总理葬礼时审查公众哀悼活动",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-   "summary": "英国国防部发言人回应称，英国与乌克兰“肩并肩”。",
+   "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+   "summary": "在赞扬朱的遗产的同时，当局也担心这种怀旧之情可能会导致对习近平统治的批评。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "乘坐亚伯拉罕·林肯号航空母舰这样的军舰是什么感觉",
+   "title": "菲律宾天主教学校枪击事件学生身亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-   "summary": "人们对自 12 月 11 日起部署的亚伯拉罕·林肯号航空母舰上的状况越来越担忧。",
+   "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+   "summary": "被指控的枪手也是一名学生，后来自杀了。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "海顿·潘妮蒂尔 (Hayden Panettiere) 的前夫弗拉基米尔·克里琴科 (Wladimir Klitschko) 表示，家人“深感震惊和悲伤”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+   "summary": "这位前重量级拳击冠军与周日去世的《英雄》女演员有一个孩子。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "医生从男子膀胱取出3.1公斤结石并索赔记录",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+   "summary": "这块膀胱结石的重量相当于一个足月婴儿，据信是有记录以来最大的膀胱结石。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "医疗",
+   "title": "借节庆惠民送健康 续中非友好新篇章",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0818/c1002-40781643.html",
+   "summary": "人民网约翰内斯堡8月17日电（记者邹松）当地时间8月12日至13日，桑给巴尔基济姆卡济节庆活动隆重举办。借着节庆人流集中的有利契机，在坦桑尼亚妇女倡议基金会及桑给巴尔卫生部的统筹协调下，第35批援桑给",
    "day": 0
   }
  ]

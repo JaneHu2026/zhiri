@@ -1,8 +1,26 @@
 {
- "fetchedAt": "13:17",
+ "fetchedAt": "19:01",
  "fetchedDate": "2026-08-18",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "Save your token cost with Gemini 3.7 Flash!!!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-14 21:54:23",
+   "url": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
+   "points": [
+    "使用 Gemini 3.7 Flash 节省您的代币成本！！！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -32,6 +50,24 @@
    "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
    "points": [
     "OpenAI 的人工智能代理刚刚跨越了界限"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "The Right Harness is All You Need - For local Frontier AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-08 17:22:18",
+   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+   "points": [
+    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
    ],
    "flags": {
     "fav": false,
@@ -78,14 +114,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+   "author": "sentdex",
+   "title": "OpenAI hacked HuggingFace",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-16 11:56:04",
-   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+   "updated": "2026-07-22 16:28:16",
+   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
    "points": [
-    "但什么是交叉熵？ |压缩就是智能第 2 部分"
+    "OpenAI 攻击了 HuggingFace"
    ],
    "flags": {
     "fav": false,
@@ -96,50 +132,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "100 random chords, how many intersections?",
+   "author": "1littlecoder",
+   "title": "GPT 6 potentially LEAKS!!!",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-06-16 18:04:05",
-   "url": "https://www.youtube.com/watch?v=wGffBCfrAsE",
+   "updated": "2026-07-21 22:00:07",
+   "url": "https://www.youtube.com/watch?v=u5esm1--kUo",
    "points": [
-    "100个随机和弦，有多少个交叉点？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "How I use LLMs",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-27 22:29:56",
-   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-   "points": [
-    "我如何使用法学硕士"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Deep Dive into LLMs like ChatGPT",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-05 18:23:47",
-   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-   "points": [
-    "深入研究 ChatGPT 等法学硕士"
+    "GPT 6 可能泄露！！！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "超级神奇的木偶",
    "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
    "duration": "51:35",
-   "heat": 5740998,
-   "updated": "2026-08-18T05:17:52.065421",
+   "heat": 6067871,
+   "updated": "2026-08-18T11:01:18.479100",
    "url": "https://www.bilibili.com/video/BV18Tby67EG9",
    "points": [
     "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
@@ -171,8 +171,8 @@
    "author": "咩咩是个迷",
    "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
    "duration": "112:58",
-   "heat": 1171415,
-   "updated": "2026-08-18T05:17:52.065435",
+   "heat": 1410825,
+   "updated": "2026-08-18T11:01:18.479113",
    "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
    "points": [
     "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价"
@@ -186,29 +186,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "扎克鸡",
-   "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
-   "duration": "2:26",
-   "heat": 1737476,
-   "updated": "2026-08-18T05:17:52.065438",
-   "url": "https://www.bilibili.com/video/BV173b16eEPD",
-   "points": [
-    "《万梗捏》- 点开即玩 🔗https://www.bilibili.com/toy/MemeMash/index.html 后面想捏什么梗，评论区告诉我！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "istupidpig",
    "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
    "duration": "2:59",
-   "heat": 3005353,
-   "updated": "2026-08-18T05:17:52.065442",
+   "heat": 3941680,
+   "updated": "2026-08-18T11:01:18.479116",
    "url": "https://www.bilibili.com/video/BV1wrba6iE56",
    "points": [
     "没想到，奥特曼中出了一个怪兽的卧底"
@@ -222,11 +204,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "扎克鸡",
+   "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
+   "duration": "2:26",
+   "heat": 1863930,
+   "updated": "2026-08-18T11:01:18.479140",
+   "url": "https://www.bilibili.com/video/BV173b16eEPD",
+   "points": [
+    "《万梗捏》- 点开即玩 🔗https://www.bilibili.com/toy/MemeMash/index.html 后面想捏什么梗，评论区告诉我！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390751,
-   "updated": "2026-08-18T05:17:52.065444",
+   "heat": 390753,
+   "updated": "2026-08-18T11:01:18.479143",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -243,8 +243,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653407,
-   "updated": "2026-08-18T05:17:52.065447",
+   "heat": 653408,
+   "updated": "2026-08-18T11:01:18.479146",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -261,8 +261,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557392,
-   "updated": "2026-08-18T05:17:52.065449",
+   "heat": 557393,
+   "updated": "2026-08-18T11:01:18.479149",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -277,8 +277,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155591,
-   "updated": "2026-08-18T05:17:52.065452",
+   "heat": 155592,
+   "updated": "2026-08-18T11:01:18.479151",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -295,8 +295,8 @@
    "author": "抖音热榜",
    "title": "姜月初刷新AI漫剧女打一天花板",
    "duration": "—",
-   "heat": 7749931,
-   "updated": "2026-08-18T05:17:52.065455",
+   "heat": 7720946,
+   "updated": "2026-08-18T11:01:18.479154",
    "url": "https://www.douyin.com/search/%E5%A7%9C%E6%9C%88%E5%88%9D%E5%88%B7%E6%96%B0AI%E6%BC%AB%E5%89%A7%E5%A5%B3%E6%89%93%E4%B8%80%E5%A4%A9%E8%8A%B1%E6%9D%BF?type=general",
    "points": [
     "热门话题「姜月初刷新AI漫剧女打一天花板」：相关视频 7 条"
@@ -313,8 +313,8 @@
    "author": "抖音热榜",
    "title": "火影AI二创居然这么会拍",
    "duration": "—",
-   "heat": 7658854,
-   "updated": "2026-08-18T05:17:52.065457",
+   "heat": 7646014,
+   "updated": "2026-08-18T11:01:18.479156",
    "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1AI%E4%BA%8C%E5%88%9B%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E4%BC%9A%E6%8B%8D?type=general",
    "points": [
     "热门话题「火影AI二创居然这么会拍」：相关视频 1 条"
@@ -329,13 +329,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+   "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-18T05:17:52.065460",
-   "url": "https://www.qbitai.com/2026/08/474647.html",
+   "updated": "2026-08-18T11:01:18.479159",
+   "url": "https://www.qbitai.com/2026/08/474868.html",
    "points": [
-    "MyContext补上Agent的数据加工层"
+    "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。"
    ],
    "flags": {
     "fav": false,
@@ -347,13 +347,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+   "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-18T05:17:52.065462",
-   "url": "https://www.qbitai.com/2026/08/474537.html",
+   "updated": "2026-08-18T11:01:18.479161",
+   "url": "https://www.qbitai.com/2026/08/474857.html",
    "points": [
-    "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo"
+    "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”"
    ],
    "flags": {
     "fav": false,
@@ -365,13 +365,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+   "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-18T05:17:52.065464",
-   "url": "https://www.qbitai.com/2026/08/474381.html",
+   "updated": "2026-08-18T11:01:18.479164",
+   "url": "https://www.qbitai.com/2026/08/474838.html",
    "points": [
-    "AI最近最出圈的数学突破，都在“找反例”"
+    "给机器人造一个更接近真实的“第二世界”"
    ],
    "flags": {
     "fav": false,
@@ -383,13 +383,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+   "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-18T05:17:52.065467",
-   "url": "https://www.qbitai.com/2026/08/474361.html",
+   "updated": "2026-08-18T11:01:18.479167",
+   "url": "https://www.qbitai.com/2026/08/474840.html",
    "points": [
-    "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用"
+    "8月17日，阿里巴巴发布AI音乐模型HappyShrimp"
    ],
    "flags": {
     "fav": false,
@@ -401,11 +401,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+   "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-18T05:17:52.065469",
-   "url": "https://www.qbitai.com/2026/08/474334.html",
+   "updated": "2026-08-18T11:01:18.479169",
+   "url": "https://www.qbitai.com/2026/08/474806.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -417,14 +417,12 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "李飞飞最新访谈：AI咋能代替人呢？",
+   "title": "今日起，阿里“千问办公”接入企业微信",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-18T05:17:52.065472",
-   "url": "https://www.qbitai.com/2026/08/474140.html",
-   "points": [
-    "AI不是替代者，而是个人能力的放大镜"
-   ],
+   "updated": "2026-08-18T11:01:18.479171",
+   "url": "https://www.qbitai.com/2026/08/474803.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -473,7 +471,7 @@
    "author": "Hacker News",
    "title": "卫星和人工智能正在改变野火检测",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-08-17",
    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
    "points": [
@@ -491,7 +489,7 @@
    "author": "Hacker News",
    "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信",
    "duration": "—",
-   "heat": 149,
+   "heat": 151,
    "updated": "2026-08-16",
    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
    "points": [
