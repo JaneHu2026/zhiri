@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:57",
- "fetchedDate": "2026-08-18",
+ "fetchedAt": "06:27",
+ "fetchedDate": "2026-08-19",
  "source": "zhiri-server",
  "items": [
   {
@@ -116,11 +116,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "德国瞄准小船团伙时在秘密警察仓库内",
+   "title": "西班牙历史悠久的格拉纳达发生地震，造成三人受伤",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-   "summary": "德国当局根据一项打击走私的新法律，在首次突击行动中缴获了小艇和救生衣。",
+   "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+   "summary": "这座历史名城的多座建筑物和汽车遭到损坏，世界著名的阿罕布拉宫也已暂时关闭。",
    "day": 0
   },
   {
@@ -136,41 +136,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "IVF工作人员被指控在塞浦路斯北部的精子和卵子捐赠者方面误导英国父母",
+   "title": "婆婆作证，林赛·克兰西在孩子被杀前请求帮助",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-   "summary": "人们担心多个孩子是使用非父母选择的精子和卵子捐赠者怀上的。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "海顿·潘妮蒂尔 (Hayden Panettiere) 的前夫弗拉基米尔·克里琴科 (Wladimir Klitschko) 表示，家人“深感震惊和悲伤”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-   "summary": "这位前重量级拳击冠军与周日去世的《英雄》女演员有一个孩子。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "中国在举行前总理葬礼时审查公众哀悼活动",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-   "summary": "在赞扬朱的遗产的同时，当局也担心这种怀旧之情可能会导致对习近平统治的批评。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "菲律宾天主教学校枪击事件学生身亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-   "summary": "被指控的枪手也是一名学生，后来自杀了。",
+   "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+   "summary": "林赛·克兰西承认杀害了她的女儿和两个儿子，但对谋杀罪不认罪，称她正在经历产后疼痛",
    "day": 0
   },
   {
@@ -181,6 +151,36 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
    "summary": "在该国最严重的交通灾难中，恢复工作仍在继续。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴基斯坦最高法院下令将前总理伊姆兰·汗从监狱转移到医院",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+   "summary": "伊姆兰·汗 (Imran Khan) 自 2023 年以来一直因腐败指控而入狱，他称这些指控是出于政治动机。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法官将特朗普诽谤案转判给BBC",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+   "summary": "最近被美国总统提名在佛罗里达州联邦法院任职的一名法官现在将主持他的价值 100 亿美元的诽谤案",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "海顿·潘妮蒂尔 (Hayden Panettiere) 的前夫弗拉基米尔·克里琴科 (Wladimir Klitschko) 表示，家人“深感震惊和悲伤”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+   "summary": "这位前重量级拳击冠军与周日去世的《英雄》女演员有一个孩子。",
    "day": 0
   },
   {
