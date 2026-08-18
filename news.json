@@ -1,16 +1,56 @@
 {
- "fetchedAt": "11:11",
+ "fetchedAt": "13:16",
  "fetchedDate": "2026-08-18",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "新闻1+1｜河南溃口合龙后，如何应对新考验？",
+   "title": "天天学习｜十份入党申请书",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTIpZ2MpNlb0LX3lO8o3P1L260818.shtml",
-   "summary": "aa73f12e9966,0,0,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/18/ARTIJWQ2REHxndTKdzRb3k29260805.shtml",
+   "summary": "中国共产党历史展览馆内，一封半个世纪前的函件静静陈列在展柜中。这封来自陕西省延川县文安驿公社革命委员会的函件上，红色印章已经斑驳，手写字迹却依然清晰——",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "中国汽车从“造好车”走向“定义汽车” 外资车企加码中国市场",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTIj2MUXnXBH7j6qxpd1iZo260818.shtml",
+   "summary": "bc27dabfb41c,0,1,16:9,newPlayer306651e53ca7,0,1,16:9,newPlayerf07ebd8c662d,0,1,16:9,newPlayer7ead510c81f9,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "多视角观察 中国创新药进入全球对等联合开发新阶段",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTIaPTn33l4ukh6f0dCsfho260818.shtml",
+   "summary": "ad46b6cac9fb,0,1,16:9,newPlayer658f684fe008,0,1,16:9,newPlayercdf256798e40,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "千帆竞发开启“海上秋收” 花样新业态让传统渔业焕发文旅新活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTIbbDBSxG0Fp5XI3Bn1DmI260818.shtml",
+   "summary": "7f85b17b8059,0,1,16:9,newPlayer1359db4c54e8,0,1,16:9,newPlayer95cb7239596a,0,1,16:9,newPlayer72c21fb2b8a1,0,1,16:9,newPlayer657ad14b804f,0,1,16:9,newP…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "把大海“搬”进实验室 解码我国漂浮式风电硬核底气",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/18/ARTI9UUYirTIWY4Kac2D2DrX260818.shtml",
+   "summary": "2dc94972d36d,0,1,16:9,newPlayerf1df0c87c198,0,1,16:9,newPlayer0ded86f84398,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -26,60 +66,20 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "第168次中老缅泰湄公河联合巡逻执法行动正式启动",
+   "title": "两部门再次预拨6000万元支持河南防汛应急抢险救灾",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTIpNYchZzvI2LCMkITKMbR260818.shtml",
-   "summary": "当前，因湄公河正值汛期，水文条件复杂，中老缅泰四方执法部门将同步开展水上应急救援演练、航道隐患摸排和汛期安全警示宣传等系列工作，全力确保国际航道畅通，切实保障沿岸各国船艇和群众生命财产安全，为维护流域安全稳定、促进地区繁荣发展作出更大贡献。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "新横琴口岸启用六周年 出入境旅客超1.1亿人次",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTI042Mx6APhrrXsqfXMwEF260818.shtml",
-   "summary": "这六年是横琴口岸便利政策集中落地、持续释放红利的关键时期。“常旅客”通道、“ 琴澳旅游团”“一签多行”等便民举措，持续降低跨境出行成本，助力“一程多站”跨境旅游发展。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "99000立方米超大型乙烷乙烯运输船今日正式交付",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTI91KxK18x1WGv9QNF2RcY260818.shtml",
-   "summary": "今天（18日），我国自主研发建造的99000立方米超大型乙烷乙烯运输船正式交付用户，综合技术指标达到国际领先水平。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "田湾核电7号机组装料完成 进入带核调试阶段",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/18/ARTI1sy0VLgLuC7c8w9htFd0260818.shtml",
-   "summary": "田湾核电计划建设8台机组，1-6台机组已经先期建成投用，累计上网电量超5000亿千瓦时。在建的田湾核电7、8号机组单机装机容量126.5万千瓦，设计寿命60年。按照项目建设计划，田湾核电7、8号机组将分别于2026年、2027年投入商业运行。待田湾核电基地8台机组全部投运后，总装机容量将突破900万…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“中国洋浦港”登记在册船舶突破100艘",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/18/VIDEZO2YcjLuFpP2rFZn1adh260818.shtml",
+   "url": "https://news.cctv.com/2026/08/18/ARTIkOsfyjXANZrItdWOVbn3260818.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "超21万加拿大人请愿驱逐美国驻加大使",
+   "title": "海关总署：中国7月稀土及其制品出口10314吨",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/18/VIDEzu3MLa1mYFrXf4gtYrZw260818.shtml",
+   "url": "https://news.cctv.com/2026/08/18/ARTIRSPbD3JlpithVsVRuYeS260818.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,6 +106,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "IVF工作人员被指控在塞浦路斯北部的精子和卵子捐赠者方面误导英国父母",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+   "summary": "人们担心多个孩子是使用非父母选择的精子和卵子捐赠者怀上的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了”",
    "source": "BBC",
    "time": "今天",
@@ -116,11 +126,31 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "德国瞄准小船团伙时在秘密警察仓库内",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+   "summary": "德国当局根据一项打击走私的新法律，在首次突击行动中缴获了小艇和救生衣。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "俄罗斯警告英国不要向乌克兰供应无人机",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
    "summary": "英国国防部发言人回应称，英国与乌克兰“肩并肩”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "乘坐亚伯拉罕·林肯号航空母舰这样的军舰是什么感觉",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+   "summary": "人们对自 12 月 11 日起部署的亚伯拉罕·林肯号航空母舰上的状况越来越担忧。",
    "day": 0
   }
  ]
