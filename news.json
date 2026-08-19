@@ -1,8 +1,38 @@
 {
- "fetchedAt": "09:24",
+ "fetchedAt": "12:40",
  "fetchedDate": "2026-08-19",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "我国执业医师达529万人 居民主要健康指标达历史最好水平",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/19/ARTIfKWbWucN1KSk2mLzy8Tt260819.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "县域消费活力涌动“加速跑” 优质产品下乡“赶集”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/19/ARTIdL3vpf1BEnB6uHTJX1M4260819.shtml",
+   "summary": "c18e1468920a,0,1,16:9,newPlayer9410f292af74,0,1,16:9,newPlayera70014c73219,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "中国AI深度赋能制造业 形成实打实生产力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/19/VIDEzWQHfJ3ZF64v7pSiJZRv260819.shtml",
+   "summary": "中国AI“智”惠全球：中国AI深度赋能制造业，形成实打实生产力。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -25,12 +55,12 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "我国将进一步完善商业秘密保护制度体系",
+   "theme": "政策",
+   "title": "9人入选！“最美医生”先进事迹发布",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDEEnD7Rddmg3oBm3HKoCTn260819.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/19/ARTI3ekSjGnEBfbGclHQM06F260819.shtml",
+   "summary": "新华社北京8月19日电 为深入学习贯彻习近平总书记关于卫生健康工作的重要论述，在全社会营造尊医重卫的浓厚氛围，进一步凝聚建设健康中国的力量，在“中国医师节”到来之际，中央宣传部、国家卫生健康委向全社会公开发布“最美医生”先进事迹。",
    "day": 0
   },
   {
@@ -40,47 +70,117 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/19/ARTIEkfCU6WTOQhXKvLSmXRi260819.shtml",
-   "summary": "“多亏开发区合二为一，服务没断档，办事更高效。我们正忙着办理施工手续，项目很快能开工了。”在辽宁台安县，一家食品企业的副总经理与记者谈及新投资时说。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "医疗",
-   "title": "我国执业医师达529万人 居民主要健康指标历史最好",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIfKWbWucN1KSk2mLzy8Tt260819.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "暑期入境游市场持续火爆 “真实的中国”圈粉全球游客",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIYhmB9IB7CauGhE3woCWE260819.shtml",
-   "summary": "今年暑期，入境游市场持续火爆，越来越多外国游客沉浸式感受真实中国。在线旅游平台去哪儿数据显示，今年7月，入境游预订量同比增长超两成。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "交通运输北斗导航定位模块国家标准发布",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDEvD1ApZChAJK2O1ZCnPoD260819.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "多地发“七夕福利” 新婚夫妇可在七夕免费参观景区",
+   "title": "台陆委会称其工作是“抵御中共统战” 国台办回应",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIUswBahxtNWJdAfaUvWk1260819.shtml",
+   "url": "https://news.cctv.com/2026/08/19/ARTINN8uLahZBZ4CXm0Ye2CE260819.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "三部门发文优化城乡社区岗位吸纳高校毕业生就业",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260819/7475591f970848e6a799c59a83207b4c/c.html",
+   "summary": "三部门发文优化城乡社区岗位吸纳高校毕业生就业-\"加大高校毕业生到城乡社区就业支持保障方面，通知提出，健全城乡基层岗位归集发布机制。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "山西阳泉：37个暑托班成为青少年“成长驿站”",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260819/1f3bbb4465264c48b504589b1074cbcd/c.html",
+   "summary": "山西阳泉：37个暑托班成为青少年“成长驿站”- 针对双职工家庭暑期带娃难问题，山西阳泉矿区打造多元暑期托管服务，开设课业辅导、非遗体验、体能锻炼、安全研学等丰富课程。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "科幻迷快来打卡，超燃“南天门计划”走进现实",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260819/0617406674b2450094f58cbdd920c057/c.html",
+   "summary": "科幻迷快来打卡，超燃“南天门计划”走进现实-",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "被解雇的乌克兰国防部长呼吁举行总统选举",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰自 2022 年 2 月起实施戒严法，暂停选举。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普暂停对加拿大征收新关税，并表示各国已接近达成协议",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+   "summary": "美国总统唐纳德·特朗普表示，随着两国立场坚定，他将推迟三天对多种加拿大商品征收新关税",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "韩国援引华盛顿要求缩短与美国的军演",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+   "summary": "此前，特朗普宣布计划减少与韩国的联合军演，理由是与朝鲜的关系“非常好”",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "丈夫和婆婆因印度新娘死亡而被指控",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+   "summary": "Twisha Sharma 是一名模特兼演员，五月份被发现死亡时，她刚刚结婚五个月。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "伊朗学者因与 1979 年人质危机有关而称美国拘留“地狱”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+   "summary": "玛丽亚姆·塔马塞比（Maryam Tahmasebi）的移民身份被撤销，因为她的丈夫是伊朗知名人物的儿子。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "证人在图帕克谋杀案审判中表现得好斗——“我不想把他送进监狱”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+   "summary": "目击者说，他对因说唱歌手谋杀案而受审的男子没什么好感，但拒绝回答他认为会引起人们注意的问题。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "五名澳式足球运动员在警方调查中被停赛",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
+   "summary": "因饮酒和邀请女性去酒店而被停职的原因是警方正在调查涉嫌性侵犯的事件。",
    "day": 0
   },
   {
@@ -91,6 +191,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
    "summary": "哈佛医学院同意向那些指控学校不当处理亲人捐赠遗体的家庭支付 5300 万美元。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "以军空袭加沙城西部港口区一咖啡馆",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0819/c1002-40782423.html",
+   "summary": "8月18日，巴勒斯坦人在加沙城希法医院悼念遇难者。 以色列国防军18日发表多份声明称，持续对加沙地带巴勒斯坦武装人员发动打击。巴勒斯坦加沙地带卫生部门同日发表声明说，以军在加沙城西部港口区发动空",
    "day": 0
   }
  ]

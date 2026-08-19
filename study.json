@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:26",
+ "fetchedAt": "12:41",
  "fetchedDate": "2026-08-19",
  "source": "zhiri-server",
  "items": [
@@ -14,24 +14,6 @@
    "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
    "points": [
     "跳钉谜题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Save your token cost with Gemini 3.7 Flash!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-14 21:54:23",
-   "url": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
-   "points": [
-    "使用 Gemini 3.7 Flash 节省您的代币成本！！！"
    ],
    "flags": {
     "fav": false,
@@ -149,12 +131,30 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "You Can Just Download More Tokens/Sec",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-20 15:05:01",
+   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
+   "points": [
+    "您可以每秒下载更多代币"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "超级神奇的木偶",
    "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
    "duration": "51:35",
-   "heat": 6411867,
-   "updated": "2026-08-19T01:26:14.623515",
+   "heat": 6524784,
+   "updated": "2026-08-19T04:41:49.838511",
    "url": "https://www.bilibili.com/video/BV18Tby67EG9",
    "points": [
     "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
@@ -171,8 +171,8 @@
    "author": "istupidpig",
    "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
    "duration": "2:59",
-   "heat": 4784647,
-   "updated": "2026-08-19T01:26:14.623529",
+   "heat": 5138950,
+   "updated": "2026-08-19T04:41:49.838541",
    "url": "https://www.bilibili.com/video/BV1wrba6iE56",
    "points": [
     "没想到，奥特曼中出了一个怪兽的卧底"
@@ -189,8 +189,8 @@
    "author": "咩咩是个迷",
    "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
    "duration": "112:58",
-   "heat": 1740408,
-   "updated": "2026-08-19T01:26:14.623532",
+   "heat": 1855416,
+   "updated": "2026-08-19T04:41:49.838543",
    "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
    "points": [
     "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价"
@@ -207,8 +207,8 @@
    "author": "扎克鸡",
    "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
    "duration": "2:26",
-   "heat": 2008261,
-   "updated": "2026-08-19T01:26:14.623534",
+   "heat": 2055560,
+   "updated": "2026-08-19T04:41:49.838545",
    "url": "https://www.bilibili.com/video/BV173b16eEPD",
    "points": [
     "《万梗捏》- 点开即玩 🔗https://www.bilibili.com/toy/MemeMash/index.html 后面想捏什么梗，评论区告诉我！"
@@ -225,8 +225,8 @@
    "author": "路人甲导演",
    "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
    "duration": "6:58",
-   "heat": 1981275,
-   "updated": "2026-08-19T01:26:14.623537",
+   "heat": 2054359,
+   "updated": "2026-08-19T04:41:49.838547",
    "url": "https://www.bilibili.com/video/BV1uAbh6CEwg",
    "points": [
     "这一期是童年回忆专场。"
@@ -244,7 +244,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 390757,
-   "updated": "2026-08-19T01:26:14.623539",
+   "updated": "2026-08-19T04:41:49.838549",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -262,7 +262,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653408,
-   "updated": "2026-08-19T01:26:14.623541",
+   "updated": "2026-08-19T04:41:49.838551",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -279,8 +279,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557397,
-   "updated": "2026-08-19T01:26:14.623543",
+   "heat": 557398,
+   "updated": "2026-08-19T04:41:49.838553",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -295,8 +295,8 @@
    "author": "抖音热榜",
    "title": "火影AI二创居然这么会拍",
    "duration": "—",
-   "heat": 7190779,
-   "updated": "2026-08-19T01:26:14.623545",
+   "heat": 7614164,
+   "updated": "2026-08-19T04:41:49.838555",
    "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1AI%E4%BA%8C%E5%88%9B%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E4%BC%9A%E6%8B%8D?type=general",
    "points": [
     "热门话题「火影AI二创居然这么会拍」：相关视频 1 条"
@@ -314,7 +314,7 @@
    "title": "郭富城换车，30万级顶配华为全家桶",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T01:26:14.623547",
+   "updated": "2026-08-19T04:41:49.838557",
    "url": "https://www.qbitai.com/2026/08/475009.html",
    "points": [],
    "flags": {
@@ -330,7 +330,7 @@
    "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T01:26:14.623549",
+   "updated": "2026-08-19T04:41:49.838559",
    "url": "https://www.qbitai.com/2026/08/474907.html",
    "points": [
     "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本"
@@ -348,7 +348,7 @@
    "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T01:26:14.623551",
+   "updated": "2026-08-19T04:41:49.838560",
    "url": "https://www.qbitai.com/2026/08/474868.html",
    "points": [
     "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。"
@@ -366,7 +366,7 @@
    "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T01:26:14.623553",
+   "updated": "2026-08-19T04:41:49.838561",
    "url": "https://www.qbitai.com/2026/08/474857.html",
    "points": [
     "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”"
@@ -384,7 +384,7 @@
    "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T01:26:14.623555",
+   "updated": "2026-08-19T04:41:49.838563",
    "url": "https://www.qbitai.com/2026/08/474838.html",
    "points": [
     "给机器人造一个更接近真实的“第二世界”"
@@ -402,7 +402,7 @@
    "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T01:26:14.623557",
+   "updated": "2026-08-19T04:41:49.838565",
    "url": "https://www.qbitai.com/2026/08/474840.html",
    "points": [
     "8月17日，阿里巴巴发布AI音乐模型HappyShrimp"
@@ -417,9 +417,45 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
+   "title": "AI 挖掘 500 年西班牙殖民记录，寻找隐藏的残骸和丢失的货物",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-08-19",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+   "points": [
+    "AI 挖掘 500 年西班牙殖民记录，寻找隐藏的残骸和丢失的货物"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能刚刚获得第三个人工智能",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-08-19",
+   "url": "https://news.ycombinator.com/item?id=49356444",
+   "points": [
+    "人工智能刚刚获得第三个人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
    "title": "如何抑制人工智能对能源的贪婪胃口",
    "duration": "—",
-   "heat": 2,
+   "heat": 4,
    "updated": "2026-08-19",
    "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
    "points": [
@@ -435,13 +471,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "OpenAI 在其 AI 黑客入侵 Hugging Face 后推出了新的安全更改",
+   "title": "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更",
    "duration": "—",
    "heat": 4,
    "updated": "2026-08-19",
    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
    "points": [
-    "OpenAI 在其 AI 黑客入侵 Hugging Face 后推出了新的安全更改"
+    "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更"
    ],
    "flags": {
     "fav": false,
@@ -455,7 +491,7 @@
    "author": "Hacker News",
    "title": "人工智能推动自动化生物实验室",
    "duration": "—",
-   "heat": 1,
+   "heat": 3,
    "updated": "2026-08-18",
    "url": "https://knowablemagazine.org/content/article/technology/2026/ai-boosts-biofoundries-synthetic-biology",
    "points": [
@@ -478,42 +514,6 @@
    "url": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
    "points": [
     "德克萨斯大学成为保守改革的培养皿 [使用人工智能]"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "为什么您的亚马逊订单确认电子邮件变得如此无用",
-   "duration": "—",
-   "heat": 62,
-   "updated": "2026-08-18",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-   "points": [
-    "为什么您的亚马逊订单确认电子邮件变得如此无用"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "放置在珍本书籍中的秘密跟踪设备最终被亚马逊处理",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-08-18",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
-   "points": [
-    "放置在珍本书籍中的秘密跟踪设备最终被亚马逊处理"
    ],
    "flags": {
     "fav": false,
