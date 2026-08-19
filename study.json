@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:48",
- "fetchedDate": "2026-08-19",
+ "fetchedAt": "06:28",
+ "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
   {
@@ -150,29 +150,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "超级神奇的木偶",
-   "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-   "duration": "51:35",
-   "heat": 6828470,
-   "updated": "2026-08-19T13:48:45.279874",
-   "url": "https://www.bilibili.com/video/BV18Tby67EG9",
-   "points": [
-    "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "istupidpig",
    "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
    "duration": "2:59",
-   "heat": 5733380,
-   "updated": "2026-08-19T13:48:45.279886",
+   "heat": 5907435,
+   "updated": "2026-08-19T22:28:48.670287",
    "url": "https://www.bilibili.com/video/BV1wrba6iE56",
    "points": [
     "没想到，奥特曼中出了一个怪兽的卧底"
@@ -186,11 +168,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "超级神奇的木偶",
+   "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+   "duration": "51:35",
+   "heat": 6940473,
+   "updated": "2026-08-19T22:28:48.670298",
+   "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+   "points": [
+    "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "咩咩是个迷",
    "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
    "duration": "112:58",
-   "heat": 2153045,
-   "updated": "2026-08-19T13:48:45.279889",
+   "heat": 2302260,
+   "updated": "2026-08-19T22:28:48.670300",
    "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
    "points": [
     "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价"
@@ -204,29 +204,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "扎克鸡",
-   "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
-   "duration": "2:26",
-   "heat": 2192157,
-   "updated": "2026-08-19T13:48:45.279892",
-   "url": "https://www.bilibili.com/video/BV173b16eEPD",
-   "points": [
-    "《万梗捏》- 点开即玩 🔗https://www.bilibili.com/toy/MemeMash/index.html 后面想捏什么梗，评论区告诉我！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "路人甲导演",
    "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
    "duration": "6:58",
-   "heat": 2226079,
-   "updated": "2026-08-19T13:48:45.279895",
+   "heat": 2294401,
+   "updated": "2026-08-19T22:28:48.670302",
    "url": "https://www.bilibili.com/video/BV1uAbh6CEwg",
    "points": [
     "这一期是童年回忆专场。"
@@ -240,11 +222,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "扎克鸡",
+   "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
+   "duration": "2:26",
+   "heat": 2231943,
+   "updated": "2026-08-19T22:28:48.670305",
+   "url": "https://www.bilibili.com/video/BV173b16eEPD",
+   "points": [
+    "《万梗捏》- 点开即玩 🔗https://www.bilibili.com/toy/MemeMash/index.html 后面想捏什么梗，评论区告诉我！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390759,
-   "updated": "2026-08-19T13:48:45.279897",
+   "heat": 390761,
+   "updated": "2026-08-19T22:28:48.670307",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -262,7 +262,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653408,
-   "updated": "2026-08-19T13:48:45.279900",
+   "updated": "2026-08-19T22:28:48.670309",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -279,8 +279,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557398,
-   "updated": "2026-08-19T13:48:45.279902",
+   "heat": 557399,
+   "updated": "2026-08-19T22:28:48.670311",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -296,7 +296,7 @@
    "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T13:48:45.279904",
+   "updated": "2026-08-19T22:28:48.670313",
    "url": "https://www.qbitai.com/2026/08/475931.html",
    "points": [],
    "flags": {
@@ -312,7 +312,7 @@
    "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T13:48:45.279906",
+   "updated": "2026-08-19T22:28:48.670315",
    "url": "https://www.qbitai.com/2026/08/475907.html",
    "points": [
     "超维动力KAI全栈具身智能硬核登场"
@@ -330,7 +330,7 @@
    "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T13:48:45.279908",
+   "updated": "2026-08-19T22:28:48.670317",
    "url": "https://www.qbitai.com/2026/08/475901.html",
    "points": [
     "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
@@ -348,7 +348,7 @@
    "title": "MiniMax核心工程负责人阿岛离职",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T13:48:45.279910",
+   "updated": "2026-08-19T22:28:48.670319",
    "url": "https://www.qbitai.com/2026/08/475869.html",
    "points": [
     "从技术研发到开发者沟通，长期活跃在开发者一线"
@@ -366,7 +366,7 @@
    "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T13:48:45.279912",
+   "updated": "2026-08-19T22:28:48.670321",
    "url": "https://www.qbitai.com/2026/08/475477.html",
    "points": [],
    "flags": {
@@ -382,9 +382,27 @@
    "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-19T13:48:45.279914",
+   "updated": "2026-08-19T22:28:48.670323",
    "url": "https://www.qbitai.com/2026/08/475460.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "英伟达的新财务战略并没有计算在内",
+   "duration": "—",
+   "heat": 10,
+   "updated": "2026-08-19",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+   "points": [
+    "英伟达的新财务战略并没有计算在内"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -474,24 +492,6 @@
    "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
    "points": [
     "如何抑制人工智能对能源的贪婪胃口"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-08-19",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-   "points": [
-    "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更"
    ],
    "flags": {
     "fav": false,

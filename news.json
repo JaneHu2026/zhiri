@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:47",
- "fetchedDate": "2026-08-19",
+ "fetchedAt": "06:27",
+ "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
   {
@@ -21,6 +21,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/19/ARTIrwhfOXN3gzB4f306KuLK260819.shtml",
    "summary": "8月19日，国家主席习近平致电鲍卡·安德拉什，祝贺他就任匈牙利总统。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "联播+｜太平洋彼岸“值得信赖的朋友”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/19/ARTIgUb3W4jf5JwzVqQLXX6T260819.shtml",
+   "summary": "“值得信赖的朋友”——这七个字，跨越了太平洋，彰显了中厄两国深化互信、拓展合作、增进相知的全面战略伙伴关系。",
    "day": 0
   },
   {
@@ -50,16 +60,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/19/VIDETo0NR2TvT7E610yU1Jjt260819.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全环节提升 今年以来我国乡村产业保持稳健发展势头",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDEgacRS9kLWsSdKBemL1ry260819.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -116,11 +116,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "以色列军队下令对加沙巴勒斯坦女孩 Hind Rajab 遇害事件进行刑事调查",
+   "title": "以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "summary": "这位 5 岁女孩花了几个小时与医护人员通电话，几天后，她的尸体于 2024 年在加沙城被找到。",
+   "summary": "这名五岁的巴勒斯坦女孩最初在袭击中幸存下来，并恳求帮助，但她的尸体后来与六名巴勒斯坦人的尸体一起被发现。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "以色列决定不起诉加沙援助人员遇害事件，澳大利亚“愤怒”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+   "summary": "外交部长表示，她将就佐米·弗兰克康的“侮辱性”决定传唤以色列大使。",
    "day": 0
   },
   {
@@ -136,21 +146,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "上诉法院称，“灾难性”酒店混乱破坏了蘑菇杀人犯的审判",
+   "title": "以色列对高度敏感的西岸定居点项目开放投标",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-   "summary": "艾琳·帕特森的辩护团队对她因用掺有有毒蘑菇的惠灵顿牛肉杀害亲属而被定罪提出上诉。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普暂停对加拿大征收新关税三天，称交易已完成",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国总统表示，两国正在敲定文件，以避免针对一系列加拿大商品征收进口税。",
+   "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+   "summary": "以色列计划在耶路撒冷以东地区进行建设——这将把被占领的约旦河西岸一分为二——长期以来一直受到国际社会的反对",
    "day": 0
   },
   {
@@ -176,21 +176,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "肯尼亚直升机失事 六名游客和飞行员丧生",
+   "title": "厄瓜多尔情报局长和五名美国人在肯尼亚直升机失事中丧生",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-   "summary": "飞机事故调查部告诉 BBC，这些人的国籍尚未确定。",
+   "summary": "米歇尔·森西·孔图吉 (Michele Sensi-Contugi) 和他的妻子斯蒂芬妮·霍利汉 (Stephany Hollihan) 是此次事故中丧生的七人之一。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "水位创历史新低 美国水库发现明显人类遗骸",
+   "title": "巴西公交车与卡车迎头相撞 造成20多人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-   "summary": "一名目击者称，米德湖中的骨骼遗骸包括似乎是带有牙齿的人类下巴。",
+   "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+   "summary": "目前尚不清楚是什么原因导致两辆车在周三凌晨相撞。",
    "day": 0
   },
   {
