@@ -1,12 +1,32 @@
 {
- "fetchedAt": "12:40",
+ "fetchedAt": "18:32",
  "fetchedDate": "2026-08-19",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "医疗",
-   "title": "我国执业医师达529万人 居民主要健康指标达历史最好水平",
+   "theme": "要闻",
+   "title": "广大医务人员是最美的天使",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/19/ARTImyGPBMssOUIB2Y9J5nb4260819.shtml",
+   "summary": "医务工作者是人民生命健康的守护者，是推动卫生健康事业发展的重要力量。习近平总书记始终心系医务工作者，指出“广大医务人员是最美的天使，是新时代最可爱的人！”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "中央宣传部 国家卫生健康委发布“最美医生”先进事迹｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/19/VIDEXufgyOMrJcHBu3VzgSgs260819.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "我国执业医师达529万人",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/19/ARTIfKWbWucN1KSk2mLzy8Tt260819.shtml",
@@ -25,61 +45,41 @@
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "中国AI深度赋能制造业 形成实打实生产力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDEzWQHfJ3ZF64v7pSiJZRv260819.shtml",
-   "summary": "中国AI“智”惠全球：中国AI深度赋能制造业，形成实打实生产力。",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "要闻",
-   "title": "我国首次实现火箭陆地回收 朱雀三号遥二火箭飞行任务圆满成功",
+   "title": "全环节提升 今年以来我国乡村产业保持稳健发展势头",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDEcOjZ0ImQrKohuRUHhFqv260819.shtml",
-   "summary": "朱雀三号遥二火箭飞行任务圆满成功：重大突破！我国首次实现火箭陆地回收。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "首批基层病种 如何改变基层就医？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTI4Zte2VIR6EmpATqMVSR0260819.shtml",
-   "summary": "d3ae2fc1ba08,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "9人入选！“最美医生”先进事迹发布",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTI3ekSjGnEBfbGclHQM06F260819.shtml",
-   "summary": "新华社北京8月19日电 为深入学习贯彻习近平总书记关于卫生健康工作的重要论述，在全社会营造尊医重卫的浓厚氛围，进一步凝聚建设健康中国的力量，在“中国医师节”到来之际，中央宣传部、国家卫生健康委向全社会公开发布“最美医生”先进事迹。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "告别铺摊子 转身上台阶",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIEkfCU6WTOQhXKvLSmXRi260819.shtml",
+   "url": "https://tv.cctv.com/2026/08/19/VIDEgacRS9kLWsSdKBemL1ry260819.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "台陆委会称其工作是“抵御中共统战” 国台办回应",
+   "title": "逐梦望月 中国探月一步一个脚印",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTINN8uLahZBZ4CXm0Ye2CE260819.shtml",
+   "url": "https://tv.cctv.com/2026/08/19/VIDE0CLLuwOZuJSSdqkvXGdf260819.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "我国首次实现运载火箭陆地回收 三种主流回收方式有何不同？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/19/VIDETo0NR2TvT7E610yU1Jjt260819.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "星火成炬｜你好，我的老同学",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/19/ARTI1DU9FSkeAsyFnasJZMbg260819.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,11 +126,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普暂停对加拿大征收新关税，并表示各国已接近达成协议",
+   "title": "上诉法院称，“灾难性”酒店混乱破坏了蘑菇杀人犯的审判",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+   "summary": "艾琳·帕特森的辩护团队对她因用掺有有毒蘑菇的惠灵顿牛肉杀害亲属而被定罪提出上诉。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普暂停对加拿大征收新关税三天，称交易已完成",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国总统唐纳德·特朗普表示，随着两国立场坚定，他将推迟三天对多种加拿大商品征收新关税",
+   "summary": "美国总统表示，两国正在敲定文件，以避免针对一系列加拿大商品征收进口税。",
    "day": 0
   },
   {
@@ -146,51 +156,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "丈夫和婆婆因印度新娘死亡而被指控",
+   "title": "原告称，法国公务员给我们下药，让我们小便在自己身上",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-   "summary": "Twisha Sharma 是一名模特兼演员，五月份被发现死亡时，她刚刚结婚五个月。",
+   "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+   "summary": "200 多名女性指控克里斯蒂安·内格雷 (Christian Nègre) 对她们下药，让她们小便——其中两人分享了她们的故事。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "伊朗学者因与 1979 年人质危机有关而称美国拘留“地狱”",
+   "title": "水位创历史新低 美国水库发现明显人类遗骸",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-   "summary": "玛丽亚姆·塔马塞比（Maryam Tahmasebi）的移民身份被撤销，因为她的丈夫是伊朗知名人物的儿子。",
+   "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+   "summary": "一名目击者称，米德湖中的骨骼遗骸包括似乎是带有牙齿的人类下巴。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "证人在图帕克谋杀案审判中表现得好斗——“我不想把他送进监狱”",
+   "title": "美国谴责以色列空袭叙利亚空军基地后“不必要的升级”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+   "summary": "大马士革称这些袭击是“不正当的侵略行为”，危及地区安全。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "目击者告诉图帕克，“我不想把你送进监狱”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-   "summary": "目击者说，他对因说唱歌手谋杀案而受审的男子没什么好感，但拒绝回答他认为会引起人们注意的问题。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "五名澳式足球运动员在警方调查中被停赛",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-   "summary": "因饮酒和邀请女性去酒店而被停职的原因是警方正在调查涉嫌性侵犯的事件。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "太平间经理出售尸体部位后，哈佛大学同意支付数百万美元",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-   "summary": "哈佛医学院同意向那些指控学校不当处理亲人捐赠遗体的家庭支付 5300 万美元。",
+   "summary": "图帕克·沙库尔的一名随从表示，如果他不在杜安·“凯夫”谋杀案审判中作证，他就会受到藐视法庭的威胁。",
    "day": 0
   },
   {
