@@ -1,8 +1,18 @@
 {
- "fetchedAt": "09:24",
+ "fetchedAt": "12:40",
  "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "“十五五”期间全民医疗保障提质增效 让民生福祉更有“厚度”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTIDKe4ZS6mjwxJCk7hYL98260820.shtml",
+   "summary": "cb3a54934e5c,0,1,16:9,newPlayer5c00a3935998,0,1,16:9,newPlayerba0db0e0bea2,0,1,16:9,newPlayerf0b5e924daac,0,1,16:9,newPlayer",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -15,12 +25,32 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "《网络数据安全风险评估办法》今起施行",
+   "theme": "民生",
+   "title": "线下特色课程、合唱团……各地举办丰富多彩活动点亮孩子暑期生活",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDE09idwmFlRNgJKoswP9uP260820.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/20/ARTIexupA4mr1poD6TRGhcnl260820.shtml",
+   "summary": "56f059c9ec87,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "《寻古中国》丝绸记·礼仪绢帛",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/20/VIDEHDcrO7Kwx36eRoNTPuyx260820.shtml",
+   "summary": "本期节目主要内容： 近年来，四川广汉三星堆遗址等考古新发现，为现代人推开了一扇通往商代精神世界的大门。古代文献中记载了不少商代与蚕桑有关的故事，这些故事说明在商代人的观念里，蚕桑与丝帛有着特殊的地位。 （《寻古中国》 20260819 丝绸记·礼仪绢帛）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "我国消费市场保持向新向优发展态势",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTI2bvFiSk7LU0a3j2fZ3hR260820.shtml",
+   "summary": "今年以来，我国消费市场保持向新向优发展态势，市场规模稳步扩大、发展质量不断提升。1—7月，社会消费商品和服务零售总额同比（下同）增长2.6%；社会消费品零售总额28.77万亿元，增长1.2%，其中除汽车以外的消费品零售额增长2.7%。",
    "day": 0
   },
   {
@@ -35,62 +65,52 @@
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "医保“十五五”规划出炉 未来五年求医问药有哪些变化",
+   "theme": "政策",
+   "title": "事关外卖骑手等权益保障 工会工作“十五五”规划发布",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIvkhb21qy1e9iClXXI6lX260820.shtml",
-   "summary": "看病更近、买药更省、报销更快……未来五年，14亿参保人求医问药体验将再一次迎来系统性升级。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "三环四横五纵 国家级自驾游路线带你触摸立体中国",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIZU9Q9i4C8kz2T4wSwq08260820.shtml",
-   "summary": "近日，交通运输部印发《精品自驾旅游公路实施方案》，以在全国构建“1+N”精品自驾旅游公路体系为导向，着力打造“资源独特、设施优良、体验丰富、群众满意”的精品自驾旅游公路品牌。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "水利部：全国汛情总体呈高风险态势",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDE635WNKOa9kJ293mscK7i260820.shtml",
-   "summary": "水利部会商研判全国汛情：全国仍处于主汛期，汛情总体呈高风险态势。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中外科学家团队联合实现真空涨落对超导的增强效应",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIuylaCyiHg09j1NC1AxeD260820.shtml",
+   "url": "https://news.cctv.com/2026/08/20/ARTIdrIbAfQERN85n9O6qGM0260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "政策",
-   "title": "接连有博物馆展览文字出错 国家文物局部署核查整改",
+   "title": "商务部对进口共聚聚甲醛反倾销措施相关企业税率继承",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTII90U9CdIw3l7pxyc72P0260820.shtml",
+   "url": "https://news.cctv.com/2026/08/20/ARTIrQy6Iu0DV4wgoasjaIZo260820.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "这五年，这些医保实事与你我相关",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260820/3ef7e6ec4c1b4da0bcdb67a3d769278c/c.html",
+   "summary": "这五年，这些医保实事与你我相关-\"记者：彭韵佳海报制作：张子彧、周大庆新华社国内部、摄影部联合出品。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "以色列决定不起诉加沙援助人员被杀事件，澳大利亚“愤怒”",
+   "title": "以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+   "summary": "这名五岁的巴勒斯坦女孩最初在袭击中幸存下来，并恳求帮助，但她的尸体后来与六名巴勒斯坦人的尸体一起被发现。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "以色列决定不起诉加沙援助人员遇害事件，澳大利亚“愤怒”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-   "summary": "澳大利亚外交部长表示，她将就“侮辱性”佐米·弗兰克康的决定传唤以色列大使。",
+   "summary": "澳大利亚外交部长就“侮辱性”佐米·弗兰克科的决定召见以色列大使。",
    "day": 0
   },
   {
@@ -106,6 +126,26 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "随着冰层消失，巨鲸进入格陵兰岛海域",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+   "summary": "气候变化导致的海冰融化为巨鲸开辟了“疯狂捕食”的区域。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "利比里亚前副总统被控贩毒调查",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+   "summary": "朱厄尔·霍华德-泰勒面临非法促进、进口和销售毒品以及洗钱的指控。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "以色列对高度敏感的西岸定居点项目开放投标",
    "source": "BBC",
    "time": "今天",
@@ -116,11 +156,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大和美国表示正在敲定一项贸易协议，但细节仍不明朗",
+   "title": "经过八天的搜寻后，失踪的青少年徒步旅行者在澳大利亚丛林中被发现死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+   "summary": "据报道，莉莉·胡珀 (Lily Hooper) 于 8 月 12 日在悉尼国家公园徒步旅行后未能返回，随后失踪。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "加拿大和美国表示他们正在敲定一项贸易协议",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
    "summary": "卡尼总理称赞贸易谈判取得“重大进展”，两国寻求在新的一周前敲定最终细节",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "美国联邦政府债务突破40万亿美元",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0820/c1002-40783079.html",
+   "summary": "8月19日在美国纽约拍摄的手机画面显示的是美国联邦政府债务总额突破40万亿美元。美国财政部当日发布的数据显示，美国联邦政府债务总额已突破40万亿美元。新华社记者张凤国摄",
    "day": 0
   },
   {
