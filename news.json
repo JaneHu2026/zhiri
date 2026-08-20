@@ -1,126 +1,86 @@
 {
- "fetchedAt": "07:25",
+ "fetchedAt": "09:24",
  "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平致电祝贺鲍卡就任匈牙利总统",
+   "title": "“朱雀”归来 带来了什么？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIBVN018ZG2xQlTEObgJLB260819.shtml",
-   "summary": "新华社北京8月19日电 8月19日，国家主席习近平致电鲍卡·安德拉什，祝贺他就任匈牙利总统。",
+   "url": "https://news.cctv.com/2026/08/20/ARTIvnCZdPpYo1WWlAeKyDUC260820.shtml",
+   "summary": "4e71bc4d28bc,0,0,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平：匈牙利是最早承认新中国的国家之一，中匈两国传统友谊源远流长。建交77年来，双方始终坚持相互尊重、平等相待、互利共赢，各领域合作成果显著",
+   "title": "《网络数据安全风险评估办法》今起施行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIrwhfOXN3gzB4f306KuLK260819.shtml",
-   "summary": "8月19日，国家主席习近平致电鲍卡·安德拉什，祝贺他就任匈牙利总统。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "联播+｜太平洋彼岸“值得信赖的朋友”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTIgUb3W4jf5JwzVqQLXX6T260819.shtml",
-   "summary": "“值得信赖的朋友”——这七个字，跨越了太平洋，彰显了中厄两国深化互信、拓展合作、增进相知的全面战略伙伴关系。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "【新思想引领新征程】建设更高水平自贸试验区 打造改革开放新高地",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDEKne9Y6AHQ9fGF3mA25xF260819.shtml",
-   "summary": "【新思想引领新征程】建设更高水平自贸试验区，打造改革开放新高地。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "逐梦望月 中国探月一步一个脚印",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDE0CLLuwOZuJSSdqkvXGdf260819.shtml",
+   "url": "https://tv.cctv.com/2026/08/20/VIDE09idwmFlRNgJKoswP9uP260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国首次实现运载火箭陆地回收 三种主流回收方式有何不同？",
+   "title": "运用辩证思维校正政绩观",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDETo0NR2TvT7E610yU1Jjt260819.shtml",
+   "url": "https://news.cctv.com/2026/08/20/ARTILxpxkpJxnlP8omgFYeOE260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "活力中国调研行｜在近300岁的土楼里 感受“宜山宜水”的东方浪漫",
+   "theme": "民生",
+   "title": "医保“十五五”规划出炉 未来五年求医问药有哪些变化",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/19/VIDE7TUQc9apxK2ZACJLFIwJ260819.shtml",
+   "url": "https://news.cctv.com/2026/08/20/ARTIvkhb21qy1e9iClXXI6lX260820.shtml",
+   "summary": "看病更近、买药更省、报销更快……未来五年，14亿参保人求医问药体验将再一次迎来系统性升级。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "三环四横五纵 国家级自驾游路线带你触摸立体中国",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTIZU9Q9i4C8kz2T4wSwq08260820.shtml",
+   "summary": "近日，交通运输部印发《精品自驾旅游公路实施方案》，以在全国构建“1+N”精品自驾旅游公路体系为导向，着力打造“资源独特、设施优良、体验丰富、群众满意”的精品自驾旅游公路品牌。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "水利部：全国汛情总体呈高风险态势",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/20/VIDE635WNKOa9kJ293mscK7i260820.shtml",
+   "summary": "水利部会商研判全国汛情：全国仍处于主汛期，汛情总体呈高风险态势。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中外科学家团队联合实现真空涨落对超导的增强效应",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTIuylaCyiHg09j1NC1AxeD260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "星火成炬｜你好，我的老同学",
+   "theme": "政策",
+   "title": "接连有博物馆展览文字出错 国家文物局部署核查整改",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/19/ARTI1DU9FSkeAsyFnasJZMbg260819.shtml",
+   "url": "https://news.cctv.com/2026/08/20/ARTII90U9CdIw3l7pxyc72P0260820.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "三部门发文优化城乡社区岗位吸纳高校毕业生就业",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260819/7475591f970848e6a799c59a83207b4c/c.html",
-   "summary": "三部门发文优化城乡社区岗位吸纳高校毕业生就业-\"加大高校毕业生到城乡社区就业支持保障方面，通知提出，健全城乡基层岗位归集发布机制。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "山西阳泉：37个暑托班成为青少年“成长驿站”",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260819/1f3bbb4465264c48b504589b1074cbcd/c.html",
-   "summary": "山西阳泉：37个暑托班成为青少年“成长驿站”- 针对双职工家庭暑期带娃难问题，山西阳泉矿区打造多元暑期托管服务，开设课业辅导、非遗体验、体能锻炼、安全研学等丰富课程。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "科幻迷快来打卡，超燃“南天门计划”走进现实",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/ci/20260819/0617406674b2450094f58cbdd920c057/c.html",
-   "summary": "科幻迷快来打卡，超燃“南天门计划”走进现实-",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "summary": "这名五岁的巴勒斯坦女孩最初在袭击中幸存下来，并恳求帮助，但她的尸体后来与六名巴勒斯坦人的尸体一起被发现。",
    "day": 0
   },
   {
@@ -130,17 +90,17 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-   "summary": "外交部长表示，她将就佐米·弗兰克康的“侮辱性”决定传唤以色列大使。",
+   "summary": "澳大利亚外交部长表示，她将就“侮辱性”佐米·弗兰克康的决定传唤以色列大使。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "被解雇的乌克兰国防部长呼吁举行总统选举",
+   "title": "特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰自 2022 年 2 月起实施戒严法，暂停选举。",
+   "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+   "summary": "周一，60 天的停火期满，没有迹象表明冲突有外交或军事缓和的迹象。",
    "day": 0
   },
   {
@@ -150,57 +110,27 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列计划在耶路撒冷以东地区进行建设——这将把被占领的约旦河西岸一分为二——长期以来一直受到国际社会的反对",
+   "summary": "英国外交大臣谴责此举是“不可接受的破坏性行为”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "韩国援引华盛顿要求缩短与美国的军演",
+   "title": "加拿大和美国表示正在敲定一项贸易协议，但细节仍不明朗",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-   "summary": "此前，特朗普宣布计划减少与韩国的联合军演，理由是与朝鲜的关系“非常好”",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "乌克兰男子因北溪管道爆炸在克罗地亚被捕",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-   "summary": "据称，该男子是 2022 年在管道上放置炸药的潜水员之一。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "厄瓜多尔情报局长和五名美国人在肯尼亚直升机失事中丧生",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-   "summary": "米歇尔·森西-孔图吉 (Michele Sensi-Contugi) 和他的妻子斯蒂芬妮·霍利汉 (Stephany Hollihan) 是此次事故中丧生的七人之一。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "巴西公交车与卡车迎头相撞 造成20多人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-   "summary": "目前尚不清楚是什么原因导致两辆车在周三凌晨相撞。",
+   "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+   "summary": "卡尼总理称赞贸易谈判取得“重大进展”，两国寻求在新的一周前敲定最终细节",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "以军空袭加沙城西部港口区一咖啡馆",
+   "title": "闽南高甲戏亮相德国杜塞尔多夫",
    "source": "人民网",
    "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0819/c1002-40782423.html",
-   "summary": "8月18日，巴勒斯坦人在加沙城希法医院悼念遇难者。 以色列国防军18日发表多份声明称，持续对加沙地带巴勒斯坦武装人员发动打击。巴勒斯坦加沙地带卫生部门同日发表声明说，以军在加沙城西部港口区发动空",
+   "url": "https://world.people.com.cn/n1/2026/0820/c1002-40783058.html",
+   "summary": "“2026中国戏演出季”暨中国戏国际展演8月18日晚在德国杜塞尔多夫国会剧场上演。厦门市金莲陞高甲剧团带来闽南传统戏曲代表剧种高甲戏经典剧目《陈三五娘·荔镜缘》。",
    "day": 0
   }
  ]
