@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:51",
- "fetchedDate": "2026-08-20",
+ "fetchedAt": "06:32",
+ "fetchedDate": "2026-08-21",
  "source": "zhiri-server",
  "items": [
   {
@@ -14,6 +14,24 @@
    "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
    "points": [
     "DeepSeek 刚刚让封闭式人工智能看起来很荒谬"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The jumping pegs puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-18 14:54:17",
+   "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
+   "points": [
+    "跳钉谜题"
    ],
    "flags": {
     "fav": false,
@@ -49,7 +67,7 @@
    "updated": "2026-08-14 08:42:07",
    "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
    "points": [
-    "Claude AI 失败了 650 次……然后打破了人类记录"
+    "Claude AI 失败 650 次……然后打破了人类记录"
    ],
    "flags": {
     "fav": false,
@@ -96,6 +114,24 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The 64 sugar cubes puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-24 15:05:39",
+   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+   "points": [
+    "64块方糖拼图"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "sentdex",
    "title": "OpenAI hacked HuggingFace",
    "duration": "—",
@@ -113,48 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "GPT 6 potentially LEAKS!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-21 22:00:07",
-   "url": "https://www.youtube.com/watch?v=u5esm1--kUo",
-   "points": [
-    "GPT 6 可能泄露！！！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "You Can Just Download More Tokens/Sec",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-20 15:05:01",
-   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
-   "points": [
-    "您可以每秒下载更多代币"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "istupidpig",
    "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
    "duration": "2:59",
-   "heat": 6330088,
-   "updated": "2026-08-20T13:51:29.564362",
+   "heat": 6448155,
+   "updated": "2026-08-20T22:32:19.733732",
    "url": "https://www.bilibili.com/video/BV1wrba6iE56",
    "points": [
     "没想到，奥特曼中出了一个怪兽的卧底"
@@ -168,32 +168,14 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "咩咩是个迷",
-   "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
-   "duration": "112:58",
-   "heat": 2584715,
-   "updated": "2026-08-20T13:51:29.564375",
-   "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
+   "author": "W博士与AI猫娘",
+   "title": "这一次，我们想让她真正活过来。【B站AI创造公开赛】",
+   "duration": "8:16",
+   "heat": 561626,
+   "updated": "2026-08-20T22:32:19.733743",
+   "url": "https://www.bilibili.com/video/BV1ERbi6VE5J",
    "points": [
-    "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "超级神奇的木偶",
-   "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-   "duration": "51:35",
-   "heat": 7275433,
-   "updated": "2026-08-20T13:51:29.564378",
-   "url": "https://www.bilibili.com/video/BV18Tby67EG9",
-   "points": [
-    "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
+    "项目汇总与应援进度：https://www.bilibili.com/toy/project-neko/index.html 所有项目均【已上线或已有demo】，请前往【合集内项目对应的视频】为他们投币、应援！ 本项目正"
    ],
    "flags": {
     "fav": false,
@@ -207,8 +189,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390769,
-   "updated": "2026-08-20T13:51:29.564380",
+   "heat": 390771,
+   "updated": "2026-08-20T22:32:19.733746",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -226,7 +208,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653409,
-   "updated": "2026-08-20T13:51:29.564382",
+   "updated": "2026-08-20T22:32:19.733748",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -244,7 +226,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557403,
-   "updated": "2026-08-20T13:51:29.564385",
+   "updated": "2026-08-20T22:32:19.733750",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -260,7 +242,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155600,
-   "updated": "2026-08-20T13:51:29.564387",
+   "updated": "2026-08-20T22:32:19.733751",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -278,10 +260,28 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611354,
-   "updated": "2026-08-20T13:51:29.564389",
+   "updated": "2026-08-20T22:32:19.733753",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659102,
+   "updated": "2026-08-20T22:32:19.733755",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [
+    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
    ],
    "flags": {
     "fav": false,
@@ -295,8 +295,8 @@
    "author": "抖音热榜",
    "title": "AI补全了我对长辈的所有未知",
    "duration": "—",
-   "heat": 9259751,
-   "updated": "2026-08-20T13:51:29.564392",
+   "heat": 10300393,
+   "updated": "2026-08-20T22:32:19.733757",
    "url": "https://www.douyin.com/search/AI%E8%A1%A5%E5%85%A8%E4%BA%86%E6%88%91%E5%AF%B9%E9%95%BF%E8%BE%88%E7%9A%84%E6%89%80%E6%9C%89%E6%9C%AA%E7%9F%A5?type=general",
    "points": [
     "热门话题「AI补全了我对长辈的所有未知」：相关视频 3 条"
@@ -313,130 +313,12 @@
    "author": "抖音热榜",
    "title": "机器人跑出凌波微步既视感",
    "duration": "—",
-   "heat": 7798897,
-   "updated": "2026-08-20T13:51:29.564394",
+   "heat": 7675955,
+   "updated": "2026-08-20T22:32:19.733758",
    "url": "https://www.douyin.com/search/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E5%87%8C%E6%B3%A2%E5%BE%AE%E6%AD%A5%E6%97%A2%E8%A7%86%E6%84%9F?type=general",
    "points": [
     "热门话题「机器人跑出凌波微步既视感」：相关视频 6 条"
    ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "仿生机器人亮相世界机器人大会",
-   "duration": "—",
-   "heat": 7710066,
-   "updated": "2026-08-20T13:51:29.564395",
-   "url": "https://www.douyin.com/search/%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A?type=general",
-   "points": [
-    "热门话题「仿生机器人亮相世界机器人大会」：相关视频 9 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T13:51:29.564398",
-   "url": "https://www.qbitai.com/2026/08/476280.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T13:51:29.564399",
-   "url": "https://www.qbitai.com/2026/08/476281.html",
-   "points": [
-    "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T13:51:29.564401",
-   "url": "https://www.qbitai.com/2026/08/476199.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "今年WRC最大展台，预告具身智能未来",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T13:51:29.564403",
-   "url": "https://www.qbitai.com/2026/08/476141.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T13:51:29.564405",
-   "url": "https://www.qbitai.com/2026/08/476129.html",
-   "points": [
-    "全栈自研，真机叠衣ICRA夺冠"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T13:51:29.564407",
-   "url": "https://www.qbitai.com/2026/08/476120.html",
-   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -526,6 +408,24 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
    "points": [
     "AI 挖掘 500 年西班牙殖民记录，寻找隐藏的残骸和丢失的货物"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能刚刚获得第三个人工智能",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-08-19",
+   "url": "https://news.ycombinator.com/item?id=49356444",
+   "points": [
+    "人工智能刚刚获得第三个人工智能"
    ],
    "flags": {
     "fav": false,
