@@ -1,8 +1,18 @@
 {
- "fetchedAt": "18:34",
+ "fetchedAt": "21:50",
  "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "新思想引领新征程｜优质医疗资源下沉惠民 绘就健康中国新图景",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/20/VIDEpWzKKIu5KPKr3W1RKhWc260820.shtml",
+   "summary": "【新思想引领新征程】优质医疗资源下沉惠民，绘就健康中国新图景。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -25,22 +35,12 @@
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "“十五五”期间全民医疗保障提质增效 让民生福祉更有“厚度”",
+   "theme": "财经",
+   "title": "我国工业经济新动能贡献持续增强",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIDKe4ZS6mjwxJCk7hYL98260820.shtml",
-   "summary": "cb3a54934e5c,0,1,16:9,newPlayer5c00a3935998,0,1,16:9,newPlayerba0db0e0bea2,0,1,16:9,newPlayerf0b5e924daac,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "对话朱雀三号总指挥：“归零”八个月 朱雀三号成功实现陆地回收",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDEZDfTHVjBAtCVXm2lWA8m260820.shtml",
-   "summary": "独家对话朱雀三号总指挥戴政：“归零”八个月，朱雀三号成功实现陆地回收。",
+   "url": "https://tv.cctv.com/2026/08/20/VIDEZ60jR1WWrkiCXqU1l7EW260820.shtml",
+   "summary": "最新数据显示，1—7月，以高技术制造业和数字产品制造业等为代表的新动能领域对规模以上工业增加值增长的贡献率为五成左右，比上半年提高约3个百分点。从产品看，人工智能带动传感器、存储芯片、光纤等产品产量快速增长。从行业看，集成电路制造、飞机制造、智能设备制造等行业增长明显加快。在安徽，今年以来，集成电路…",
    "day": 0
   },
   {
@@ -66,20 +66,20 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "夏季平均气温18℃ 宁夏固原暑假“清凉游”火爆",
+   "title": "丰收时节 特色农产品助农增收",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDE8AB5AqFCmxf3Zvsth685260820.shtml",
+   "url": "https://tv.cctv.com/2026/08/20/VIDE9Ug9xbjZLXIxwJCpexIJ260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "《寻古中国》丝绸记·礼仪绢帛",
+   "title": "夏季平均气温18℃ 宁夏固原暑假“清凉游”火爆",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDEHDcrO7Kwx36eRoNTPuyx260820.shtml",
+   "url": "https://tv.cctv.com/2026/08/20/VIDE8AB5AqFCmxf3Zvsth685260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,11 +106,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "乌克兰防空系统短缺，基辅至少13人死亡",
+   "title": "乌克兰防空系统短缺，基辅至少15人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "summary": "官员称，公寓楼和仓库成为周四“大规模袭击”的目标。",
+   "summary": "乌克兰官员称，周四的“大规模袭击”中，几栋公寓楼和仓库成为袭击目标。",
    "day": 0
   },
   {
@@ -136,6 +136,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "比利时汽车推销员在确认王室血统后成为王子",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+   "summary": "在市政厅举行的仪式上，克莱门特·范登科克霍夫 (Clément Vandenkerckhove) 被悄悄带入洛朗王子的家族。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "上诉法院称，蘑菇杀手必须因“真正可怕”的罪行而永远入狱",
    "source": "BBC",
    "time": "今天",
@@ -156,16 +166,6 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "经过八天的搜寻后，失踪的青少年徒步旅行者在澳大利亚丛林中被发现死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-   "summary": "该州州长最初表示，在警方确认莉莉·胡珀死亡之前，她被发现还活着。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "随着冰层消失，巨鲸进入格陵兰岛海域",
    "source": "BBC",
    "time": "今天",
@@ -176,11 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "赞比亚前部长在针对反对派的安全突袭中丧生",
+   "title": "德国新纳粹分子涉嫌 1970 年犹太养老院纵火案",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
-   "summary": "在人们越来越多地要求提供有关穆托维·卡夫瓦亚下落的信息后，警方确认了穆托维·卡夫瓦亚的死亡。",
+   "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+   "summary": "调查人员认为，他们已经确定了一名纵火犯的身份，他于 1970 年袭击了慕尼黑的一个犹太社区中心，造成 7 人死亡。",
    "day": 0
   },
   {
