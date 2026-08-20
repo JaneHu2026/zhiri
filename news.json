@@ -1,5 +1,5 @@
 {
- "fetchedAt": "06:31",
+ "fetchedAt": "07:28",
  "fetchedDate": "2026-08-21",
  "source": "zhiri-server",
  "items": [
@@ -180,7 +180,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-   "summary": "据当地媒体报道，汗在戒备森严的情况下被从阿迪亚拉监狱带走，送往希法国际医院。",
+   "summary": "据汗所在党派称，汗在戒备森严的情况下被从阿迪亚拉监狱带往希法国际医院。",
    "day": 0
   },
   {
@@ -201,6 +201,16 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/0820/c1002-40783058.html",
    "summary": "“2026中国戏演出季”暨中国戏国际展演8月18日晚在德国杜塞尔多夫国会剧场上演。厦门市金莲陞高甲剧团带来闽南传统戏曲代表剧种高甲戏经典剧目《陈三五娘·荔镜缘》。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "热点问答｜阿联酋和伊朗怎么闹僵了",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0820/c1002-40783037.html",
+   "summary": "新华社北京8月19日电热点问答｜阿联酋和伊朗怎么闹僵了 新华社记者杜鹃 阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金",
    "day": 0
   }
  ]
