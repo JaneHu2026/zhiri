@@ -1,5 +1,5 @@
 {
- "fetchedAt": "12:41",
+ "fetchedAt": "18:35",
  "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
@@ -14,24 +14,6 @@
    "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
    "points": [
     "DeepSeek 刚刚让封闭式人工智能看起来很荒谬"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The jumping pegs puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-18 14:54:17",
-   "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
-   "points": [
-    "跳钉谜题"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +49,7 @@
    "updated": "2026-08-14 08:42:07",
    "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
    "points": [
-    "Claude AI 失败了 650 次……然后打破了人类记录"
+    "Claude AI 失败 650 次……然后打破了人类记录"
    ],
    "flags": {
     "fav": false,
@@ -96,14 +78,32 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The 64 sugar cubes puzzle",
+   "author": "sentdex",
+   "title": "The Right Harness is All You Need - For local Frontier AI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-24 15:05:39",
-   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+   "updated": "2026-08-08 17:22:18",
+   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
    "points": [
-    "64块方糖拼图"
+    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "OpenAI hacked HuggingFace",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-22 16:28:16",
+   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+   "points": [
+    "OpenAI 攻击了 HuggingFace"
    ],
    "flags": {
     "fav": false,
@@ -132,14 +132,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
+   "author": "sentdex",
+   "title": "You Can Just Download More Tokens/Sec",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-17 21:55:53",
-   "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
+   "updated": "2026-07-20 15:05:01",
+   "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
    "points": [
-    "我向《Kimi K3》、《神鬼寓言 5》、《索尔 5.6》发起挑战，制作《奥德赛》……"
+    "您可以每秒下载更多代币"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "istupidpig",
    "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
    "duration": "2:59",
-   "heat": 6068398,
-   "updated": "2026-08-20T04:41:30.274961",
+   "heat": 6236460,
+   "updated": "2026-08-20T10:35:07.039575",
    "url": "https://www.bilibili.com/video/BV1wrba6iE56",
    "points": [
     "没想到，奥特曼中出了一个怪兽的卧底"
@@ -168,29 +168,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "超级神奇的木偶",
-   "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-   "duration": "51:35",
-   "heat": 7071944,
-   "updated": "2026-08-20T04:41:30.274974",
-   "url": "https://www.bilibili.com/video/BV18Tby67EG9",
-   "points": [
-    "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "咩咩是个迷",
    "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
    "duration": "112:58",
-   "heat": 2394103,
-   "updated": "2026-08-20T04:41:30.274977",
+   "heat": 2508518,
+   "updated": "2026-08-20T10:35:07.039587",
    "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
    "points": [
     "前后断断续续4个月，从剧本打磨到后期完成，全由一个人完成，抽卡预算有限，效果差强人意，穿帮也不少，这次先这样吧，seedance2.5又出来了，没时间回头了。 感谢@RunningHub 赞助了大部分算力，rhtv在性价"
@@ -204,11 +186,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "超级神奇的木偶",
+   "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+   "duration": "51:35",
+   "heat": 7201812,
+   "updated": "2026-08-20T10:35:07.039590",
+   "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+   "points": [
+    "你！给我看完！ 我求你，看完，呜呜呜，求求你看完！我给你跪了！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "路人甲导演",
    "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
    "duration": "6:58",
-   "heat": 2355634,
-   "updated": "2026-08-20T04:41:30.274979",
+   "heat": 2421851,
+   "updated": "2026-08-20T10:35:07.039593",
    "url": "https://www.bilibili.com/video/BV1uAbh6CEwg",
    "points": [
     "这一期是童年回忆专场。"
@@ -225,8 +225,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390762,
-   "updated": "2026-08-20T04:41:30.274982",
+   "heat": 390766,
+   "updated": "2026-08-20T10:35:07.039595",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -244,7 +244,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653408,
-   "updated": "2026-08-20T04:41:30.274984",
+   "updated": "2026-08-20T10:35:07.039598",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -261,8 +261,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557399,
-   "updated": "2026-08-20T04:41:30.274986",
+   "heat": 557401,
+   "updated": "2026-08-20T10:35:07.039600",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -278,7 +278,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155598,
-   "updated": "2026-08-20T04:41:30.274988",
+   "updated": "2026-08-20T10:35:07.039602",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -293,31 +293,13 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "仿生机器人亮相世界机器人大会",
+   "title": "机器人跑出凌波微步既视感",
    "duration": "—",
-   "heat": 9837835,
-   "updated": "2026-08-20T04:41:30.274990",
-   "url": "https://www.douyin.com/search/%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A?type=general",
+   "heat": 8369912,
+   "updated": "2026-08-20T10:35:07.039604",
+   "url": "https://www.douyin.com/search/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E5%87%8C%E6%B3%A2%E5%BE%AE%E6%AD%A5%E6%97%A2%E8%A7%86%E6%84%9F?type=general",
    "points": [
-    "热门话题「仿生机器人亮相世界机器人大会」：相关视频 7 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "世界机器人大会开幕",
-   "duration": "—",
-   "heat": 8757703,
-   "updated": "2026-08-20T04:41:30.274992",
-   "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95?type=general",
-   "points": [
-    "热门话题「世界机器人大会开幕」：相关视频 7 条"
+    "热门话题「机器人跑出凌波微步既视感」：相关视频 6 条"
    ],
    "flags": {
     "fav": false,
@@ -329,65 +311,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+   "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-20T04:41:30.274995",
-   "url": "https://www.qbitai.com/2026/08/476078.html",
-   "points": [
-    "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T04:41:30.274997",
-   "url": "https://www.qbitai.com/2026/08/476075.html",
-   "points": [
-    "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T04:41:30.274999",
-   "url": "https://www.qbitai.com/2026/08/476070.html",
-   "points": [
-    "成本也正成为Agent商业化需要考虑的重要因素"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-20T04:41:30.275001",
-   "url": "https://www.qbitai.com/2026/08/475931.html",
+   "updated": "2026-08-20T10:35:07.039607",
+   "url": "https://www.qbitai.com/2026/08/476280.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -399,13 +327,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+   "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-20T04:41:30.275003",
-   "url": "https://www.qbitai.com/2026/08/475907.html",
+   "updated": "2026-08-20T10:35:07.039609",
+   "url": "https://www.qbitai.com/2026/08/476281.html",
    "points": [
-    "超维动力KAI全栈具身智能硬核登场"
+    "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——"
    ],
    "flags": {
     "fav": false,
@@ -417,14 +345,62 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+   "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-20T04:41:30.275005",
-   "url": "https://www.qbitai.com/2026/08/475901.html",
+   "updated": "2026-08-20T10:35:07.039611",
+   "url": "https://www.qbitai.com/2026/08/476199.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "今年WRC最大展台，预告具身智能未来",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-20T10:35:07.039613",
+   "url": "https://www.qbitai.com/2026/08/476141.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-20T10:35:07.039615",
+   "url": "https://www.qbitai.com/2026/08/476129.html",
    "points": [
-    "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
+    "全栈自研，真机叠衣ICRA夺冠"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-20T10:35:07.039617",
+   "url": "https://www.qbitai.com/2026/08/476120.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -455,7 +431,7 @@
    "author": "Hacker News",
    "title": "英伟达的新财务战略并没有计算在内",
    "duration": "—",
-   "heat": 10,
+   "heat": 11,
    "updated": "2026-08-19",
    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
    "points": [

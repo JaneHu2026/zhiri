@@ -1,8 +1,28 @@
 {
- "fetchedAt": "12:40",
+ "fetchedAt": "18:34",
  "fetchedDate": "2026-08-20",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "天天学习｜一份20万字的战略擘画",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTIz0OgJOtN3SLhFt0jWGBV260721.shtml",
+   "summary": "展台上，一本蓝色封皮、300多页的《1985年—2000年厦门经济社会发展战略》引人注目。总书记仔细翻阅，忆起往事，不禁感慨：“我们在这里参与了创业，如今的发展，比我们当时想象的还要好。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "实干开新局｜织密“六张网” 畅通大市场",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTIuNsIMruuOQv1GXS3oszP260812.shtml",
+   "summary": "“六张网”作为现代化基础设施体系的重要组成部分，是深入挖掘内需潜力的有力抓手，也是打破地理阻碍、促进商品要素流动，构建全国统一大市场的重要支撑。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "民生",
@@ -16,21 +36,41 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“朱雀”归来 带来了什么？",
+   "title": "对话朱雀三号总指挥：“归零”八个月 朱雀三号成功实现陆地回收",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIvnCZdPpYo1WWlAeKyDUC260820.shtml",
-   "summary": "4e71bc4d28bc,0,0,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/20/VIDEZDfTHVjBAtCVXm2lWA8m260820.shtml",
+   "summary": "独家对话朱雀三号总指挥戴政：“归零”八个月，朱雀三号成功实现陆地回收。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "线下特色课程、合唱团……各地举办丰富多彩活动点亮孩子暑期生活",
+   "theme": "科技",
+   "title": "人机共生 产需共融 记者探访2026世界机器人大会",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIexupA4mr1poD6TRGhcnl260820.shtml",
-   "summary": "56f059c9ec87,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/20/VIDEm5wDUbBY3Hs8LYFyLyl4260820.shtml",
+   "summary": "聚焦2026世界机器人大会：人机共生，产需共融，记者探访2026世界机器人大会。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "“人工智能+交通运输”典型应用场景创新行动 靶向破解堵点、痛点",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/20/ARTIScy4pKVIKCoSS2hLu7is260820.shtml",
+   "summary": "6677ee6ff508,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "夏季平均气温18℃ 宁夏固原暑假“清凉游”火爆",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/20/VIDE8AB5AqFCmxf3Zvsth685260820.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -40,46 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/20/VIDEHDcrO7Kwx36eRoNTPuyx260820.shtml",
-   "summary": "本期节目主要内容： 近年来，四川广汉三星堆遗址等考古新发现，为现代人推开了一扇通往商代精神世界的大门。古代文献中记载了不少商代与蚕桑有关的故事，这些故事说明在商代人的观念里，蚕桑与丝帛有着特殊的地位。 （《寻古中国》 20260819 丝绸记·礼仪绢帛）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "我国消费市场保持向新向优发展态势",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTI2bvFiSk7LU0a3j2fZ3hR260820.shtml",
-   "summary": "今年以来，我国消费市场保持向新向优发展态势，市场规模稳步扩大、发展质量不断提升。1—7月，社会消费商品和服务零售总额同比（下同）增长2.6%；社会消费品零售总额28.77万亿元，增长1.2%，其中除汽车以外的消费品零售额增长2.7%。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "运用辩证思维校正政绩观",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTILxpxkpJxnlP8omgFYeOE260820.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "事关外卖骑手等权益保障 工会工作“十五五”规划发布",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIdrIbAfQERN85n9O6qGM0260820.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "商务部对进口共聚聚甲醛反倾销措施相关企业税率继承",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIrQy6Iu0DV4wgoasjaIZo260820.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -94,19 +94,59 @@
    "day": 0
   },
   {
-   "group": "gj",
-   "theme": "国际",
-   "title": "以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查",
-   "source": "BBC",
+   "group": "gn",
+   "theme": "财经",
+   "title": "2026年上半年京津冀经济总量同比增长5.1%",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "summary": "这名五岁的巴勒斯坦女孩最初在袭击中幸存下来，并恳求帮助，但她的尸体后来与六名巴勒斯坦人的尸体一起被发现。",
+   "url": "https://www.news.cn/government/20260820/e97acd1864a84320beae8936933e29dd/c.html",
+   "summary": "2026年上半年京津冀经济总量同比增长5.1%-\"数据显示，今年上半年，京津冀区域实现服务业增加值4.3万亿元，同比增长5.8%，三地分别增长6.1%、5.5%和5.5%。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "以色列决定不起诉加沙援助人员遇害事件，澳大利亚“愤怒”",
+   "title": "乌克兰防空系统短缺，基辅至少13人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，公寓楼和仓库成为周四“大规模袭击”的目标。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "倒闭的中国房地产巨头恒大创始人被判无期徒刑",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+   "summary": "许的判决标志着恒大倒闭事件的一个关键时刻，恒大倒闭震动了中国房地产业。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普誓言对伊朗和支持国家采取更严厉的经济措施",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+   "summary": "周一，60 天的停火期满，没有迹象表明冲突有外交或军事缓和的迹象。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "上诉法院称，蘑菇杀手必须因“真正可怕”的罪行而永远入狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+   "summary": "检察官表示，艾琳·帕特森的判决“明显不足”，因为它允许假释。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "以色列决定不对加沙援助人员遇害案展开刑事调查，澳大利亚“愤怒”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
@@ -116,11 +156,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果”",
+   "title": "经过八天的搜寻后，失踪的青少年徒步旅行者在澳大利亚丛林中被发现死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-   "summary": "周一，60 天的停火期满，没有迹象表明冲突有外交或军事缓和的迹象。",
+   "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+   "summary": "该州州长最初表示，在警方确认莉莉·胡珀死亡之前，她被发现还活着。",
    "day": 0
   },
   {
@@ -136,41 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "利比里亚前副总统被控贩毒调查",
+   "title": "赞比亚前部长在针对反对派的安全突袭中丧生",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-   "summary": "朱厄尔·霍华德-泰勒面临非法促进、进口和销售毒品以及洗钱的指控。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "以色列对高度敏感的西岸定居点项目开放投标",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-   "summary": "英国外交大臣谴责此举是“不可接受的破坏性行为”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "经过八天的搜寻后，失踪的青少年徒步旅行者在澳大利亚丛林中被发现死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，莉莉·胡珀 (Lily Hooper) 于 8 月 12 日在悉尼国家公园徒步旅行后未能返回，随后失踪。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "加拿大和美国表示他们正在敲定一项贸易协议",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-   "summary": "卡尼总理称赞贸易谈判取得“重大进展”，两国寻求在新的一周前敲定最终细节",
+   "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+   "summary": "在人们越来越多地要求提供有关穆托维·卡夫瓦亚下落的信息后，警方确认了穆托维·卡夫瓦亚的死亡。",
    "day": 0
   },
   {
