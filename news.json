@@ -1,216 +1,86 @@
 {
- "fetchedAt": "07:28",
+ "fetchedAt": "09:27",
  "fetchedDate": "2026-08-21",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIx2GDD1C05wApVyJ7jhk1260820.shtml",
-   "summary": "新华社北京8月20日电 8月20日，国家主席习近平致电哈凯恩德·希奇莱马，祝贺他当选连任赞比亚共和国总统。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平：近年来，我们两次会晤，共同引领中赞关系发展。两国政治互信持续深化，务实合作成果丰硕，在多边事务中密切协调和配合",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTI4v5t2Ao0EJom2xUVy8nI260820.shtml",
-   "summary": "8月20日，国家主席习近平致电哈凯恩德·希奇莱马，祝贺他当选连任赞比亚共和国总统。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "医疗",
-   "title": "新思想引领新征程｜优质医疗资源下沉惠民 绘就健康中国新图景",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDEpWzKKIu5KPKr3W1RKhWc260820.shtml",
-   "summary": "【新思想引领新征程】优质医疗资源下沉惠民，绘就健康中国新图景。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "天天学习｜一份20万字的战略擘画",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIz0OgJOtN3SLhFt0jWGBV260721.shtml",
-   "summary": "展台上，一本蓝色封皮、300多页的《1985年—2000年厦门经济社会发展战略》引人注目。总书记仔细翻阅，忆起往事，不禁感慨：“我们在这里参与了创业，如今的发展，比我们当时想象的还要好。”",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "财经",
-   "title": "实干开新局｜织密“六张网” 畅通大市场",
+   "title": "消费市场向新向优发展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIuNsIMruuOQv1GXS3oszP260812.shtml",
-   "summary": "“六张网”作为现代化基础设施体系的重要组成部分，是深入挖掘内需潜力的有力抓手，也是打破地理阻碍、促进商品要素流动，构建全国统一大市场的重要支撑。",
+   "url": "https://news.cctv.com/2026/08/21/ARTIjdq2hYt2PtU6xQX2XN9D260820.shtml",
+   "summary": "15f1cca33166,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "我国工业经济新动能贡献持续增强",
+   "theme": "要闻",
+   "title": "坚定理想信念是立身之本",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDEZ60jR1WWrkiCXqU1l7EW260820.shtml",
-   "summary": "最新数据显示，1—7月，以高技术制造业和数字产品制造业等为代表的新动能领域对规模以上工业增加值增长的贡献率为五成左右，比上半年提高约3个百分点。从产品看，人工智能带动传感器、存储芯片、光纤等产品产量快速增长。从行业看，集成电路制造、飞机制造、智能设备制造等行业增长明显加快。在安徽，今年以来，集成电路…",
+   "url": "https://news.cctv.com/2026/08/21/ARTINWpNtgg7XjQHEDlna4QK260821.shtml",
+   "summary": "笃信马克思主义，坚定理想信念，是共产党人的立身之本。在近期出版发行的《习近平党建文选》第一卷中，习近平总书记专门引用典故“先立乎其大者，则其小者弗能夺也”，强调坚定理想信念，是事关马克思主义政党、社会主义国家的精神力量和前途命运的根本问题。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "“人工智能+交通运输”典型应用场景创新行动 靶向破解堵点、痛点",
+   "theme": "政策",
+   "title": "继北京楼市新政后 上海出台政策、聚焦置换改善群体",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/20/ARTIScy4pKVIKCoSS2hLu7is260820.shtml",
+   "url": "https://news.cctv.com/2026/08/21/ARTI7oMtGe48hXoI8zCLmO08260820.shtml",
+   "summary": "f72cce307954,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国第16次北冰洋考察：接棒后续7个冰站调查作业",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTIDH6GUXOVovHy6aYNmUbh260820.shtml",
+   "summary": "015397bb7dc2,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "空气炸锅 到底好不好用？它的正确打开方式是什么？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTIIK31dbXwCX8FG0WD3kyp260821.shtml",
+   "summary": "近年来，网络上空气炸锅的风评一直都很两极分化，一边是买了用不了几次的闲置小锅，一边是社交平台上能做出百种食物的梦中情锅。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "以军承认对巴勒斯坦女童搭乘车辆开火",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/21/VIDE2ZrhdRkcwtAJAwdXMnUk260821.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "丰收时节 特色农产品助农增收",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/20/VIDE9Ug9xbjZLXIxwJCpexIJ260820.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "这五年，这些医保实事与你我相关",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260820/3ef7e6ec4c1b4da0bcdb67a3d769278c/c.html",
-   "summary": "这五年，这些医保实事与你我相关-\"记者：彭韵佳海报制作：张子彧、周大庆新华社国内部、摄影部联合出品。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "2026年上半年京津冀经济总量同比增长5.1%",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260820/e97acd1864a84320beae8936933e29dd/c.html",
-   "summary": "2026年上半年京津冀经济总量同比增长5.1%-\"数据显示，今年上半年，京津冀区域实现服务业增加值4.3万亿元，同比增长5.8%，三地分别增长6.1%、5.5%和5.5%。\"",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "美国称制裁将“压制”伊朗经济并“崩溃”其政权",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国财政部长斯科特·贝森特表示，盟友需要决定“支持我们还是反对我们”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "英国、法国、德国、意大利和加拿大谴责以色列西岸定居点项目",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-   "summary": "欧洲国家和加拿大对以色列在被占领西部战略要地扩大定居点的计划施加压力",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "基辅市长表示，俄罗斯在最近的袭击中“有目的地”袭击了关键基础设施",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰首都一夜之间发生的“大规模袭击”造成至少 17 人死亡，市长维塔利·克里琴科警告称热水供应已中断",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "尼日利亚西北部船只倾覆 数十人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-   "summary": "这起事件发生在该国西北部的索科托州，许多受害者可能是儿童。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "意大利科莫市长遭遇电动自行车袭击并发布全面禁令",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-   "summary": "亚历山德罗·拉皮内塞表示，这一禁令是为了公共安全，并补充说“我知道被这些野兽袭击是什么感觉”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "阿萨德军官首次因战争罪指控被引渡到叙利亚",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-   "summary": "黎巴嫩移交了前将军阿德尔·伊萨，而叙利亚则加大了对前政权通缉成员的追捕力度。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着冰层消失，巨鲸进入格陵兰岛海域",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-   "summary": "气候变化导致的海冰融化为巨鲸开辟了“疯狂捕食”的区域。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "被监禁的巴基斯坦前总理伊姆兰·汗被送往医院接受治疗",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-   "summary": "据汗所在党派称，汗在戒备森严的情况下被从阿迪亚拉监狱带往希法国际医院。",
-   "day": 0
-  },
-  {
    "group": "gj",
    "theme": "要闻",
-   "title": "美国联邦政府债务突破40万亿美元",
+   "title": "中国集装箱船首次成功抵达俄摩尔曼斯克港",
    "source": "人民网",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0820/c1002-40783079.html",
-   "summary": "8月19日在美国纽约拍摄的手机画面显示的是美国联邦政府债务总额突破40万亿美元。美国财政部当日发布的数据显示，美国联邦政府债务总额已突破40万亿美元。新华社记者张凤国摄",
+   "url": "https://world.people.com.cn/n1/2026/0821/c1002-40783736.html",
+   "summary": "俄罗斯摩尔曼斯克海上贸易港20日举行首艘中国集装箱船靠港欢迎仪式，庆祝该港首条来自中国的集装箱航线顺利开通。这标志着通过北极航道连接中国沿海港口与俄北极圈内最大深水港的定期货物运输业务正式拉开序幕。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "闽南高甲戏亮相德国杜塞尔多夫",
+   "title": "匈牙利国庆日的无人机烟花灯光秀",
    "source": "人民网",
    "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0820/c1002-40783058.html",
-   "summary": "“2026中国戏演出季”暨中国戏国际展演8月18日晚在德国杜塞尔多夫国会剧场上演。厦门市金莲陞高甲剧团带来闽南传统戏曲代表剧种高甲戏经典剧目《陈三五娘·荔镜缘》。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "热点问答｜阿联酋和伊朗怎么闹僵了",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0820/c1002-40783037.html",
-   "summary": "新华社北京8月19日电热点问答｜阿联酋和伊朗怎么闹僵了 新华社记者杜鹃 阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金",
+   "url": "https://world.people.com.cn/n1/2026/0821/c1002-40783735.html",
+   "summary": "当晚，布达佩斯举行国庆日无人机烟花灯光秀。活动融合无人机编队表演、烟花灯光秀等形式，庆祝匈牙利建国1026周年。",
    "day": 0
   }
  ]
