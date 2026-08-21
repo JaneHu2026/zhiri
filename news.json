@@ -1,8 +1,38 @@
 {
- "fetchedAt": "12:41",
+ "fetchedAt": "18:34",
  "fetchedDate": "2026-08-21",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "天天学习｜关于“谁得罪谁”的问题",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTIOr1hvBLzvAZnTDdJRxBA260804.shtml",
+   "summary": "1988年的一个深夜，坐落在半山腰的福建宁德老地委办公楼显得十分静谧，只有院里七棵绿树枝叶随风轻摆，沙沙作响。办公楼三楼西侧第一间办公室内，习近平经过深思熟虑，作出了一个重要决定。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "开局起步“十五五”｜发挥积极财政政策作用 这些利好事关你我！",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTIMygZsn9agymzNmSukvbR260821.shtml",
+   "summary": "6cfbbe9fccfe,0,1,16:9,newPlayer542d5e561e7e,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "顺民意、惠民生、暖民心 一系列政策“组合拳”激活高质量发展新动能",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTI1XA8xO1xD3J5tEoUtIvy260821.shtml",
+   "summary": "5b1b8a8084c1,0,1,16:9,newPlayerfa13fac08c13,0,1,16:9,newPlayer6343c941d54f,0,1,16:9,newPlayer7626161ab1bc,0,1,16:9,newPlayer10b2ac401e14,0,1,16:9,newP…",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "科技",
@@ -11,16 +41,6 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/21/VIDEwNOrlz9QHlZjZ5Z0Swis260821.shtml",
    "summary": "聚焦2026世界机器人大会：机器人新品密集亮相，开启“舰队协同”生态。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "农业生产提质增效 国产农机“新”装上阵",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTI1ZDzlVWFwQx6phzQUEjl260821.shtml",
-   "summary": "d2fdb66d963c,0,1,16:9,newPlayerff40ce81bca5,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -35,52 +55,42 @@
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "12.4万亿元！我国民生投入不断加大",
+   "theme": "要闻",
+   "title": "用“绣花功夫”留住乡愁 历史街区保护的“绍兴密码”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIfXRYc85OOEb4Mc5OJo2E260821.shtml",
-   "summary": "在今天上午国新办举行“开局起步‘十五五’”系列主题新闻发布会上，财政部有关负责人介绍，我国不断加大保障和改善民生力度，持续增进民生福祉。",
+   "url": "https://tv.cctv.com/2026/08/21/VIDEaffZ4c4PRD1tcTFrMSPo260821.shtml",
+   "summary": "浙江·历史街区保护的“绍兴密码”：用“绣花功夫”实现“留人见物有生活”。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "坚定理想信念是立身之本",
+   "title": "暑期西藏游升温 从“打卡”到“沉浸” 年轻人青睐深度体验",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTINWpNtgg7XjQHEDlna4QK260821.shtml",
-   "summary": "笃信马克思主义，坚定理想信念，是共产党人的立身之本。在近期出版发行的《习近平党建文选》第一卷中，习近平总书记专门引用典故“先立乎其大者，则其小者弗能夺也”，强调坚定理想信念，是事关马克思主义政党、社会主义国家的精神力量和前途命运的根本问题。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "2026年我国早稻生产保持稳定 播种面积略有增加",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIKASO9nMu2Ozzr0swUZmT260821.shtml",
-   "summary": "2026年，全国早稻播种面积7116.4万亩，比上年增加2.2万亩。分地区看，浙江、江西、海南、广西播种面积分别增加12.0万亩、6.5万亩、3.4万亩和2.1万亩，增长6.3%、0.4%、2.0%和0.2%。安徽、广东受种植结构调整等影响，播种面积分别减少10.0万亩和6.7万亩，下降4.0%和0…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "前7个月 中国与APEC其他经济体进出口同比增长21%",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIdyvguxmYVMdqCILTmC2G260821.shtml",
+   "url": "https://tv.cctv.com/2026/08/21/VIDEnIbNnrdXY5vRDT2ETlQT260821.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "1—7月份全社会用电量61399亿千瓦时 同比增4.7%",
+   "theme": "环境",
+   "title": "内蒙古多伦县迎来成群白琵鹭 生态治理见成效",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTILp19FfRO1xZpHzvZejfk260821.shtml",
+   "url": "https://tv.cctv.com/2026/08/21/VIDEn05sQ0PJgXzR81V8Dn0u260821.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "世界机器人大会现场：看捷昌驱动核心部件如何赋能机器人精准运动",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20260821/a30133fe7eea4c2598aaafa75480e996/c.html",
+   "summary": "世界机器人大会现场：看捷昌驱动核心部件如何赋能机器人精准运动-深耕驱动领域二十六载，捷昌驱动构建了覆盖电机、传动、电控及精密制造的机器人执行器全栈自研体系，依托全球研发生产布局和成熟制造体系，加速核心部件产业化落地，以持续积累的技术实力，为国产机器人迈向规模化应用提供坚实支撑。",
    "day": 0
   },
   {
@@ -106,11 +116,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "英国气象局表示，厄尔尼诺现象将是“人们记忆中最强的一次”",
+   "title": "以色列不顾国际社会日益强烈的抗议，重新建立封闭的约旦河西岸定居点",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-   "summary": "科学家表示，日益严重的厄尔尼诺天气模式是“前所未有的事件”，意味着 2027 年可能是世界上最热的一年。",
+   "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+   "summary": "三十个“先锋家庭”在以色列政府推动的民族主义浪潮中到来，但迅速的变化却让附近的巴勒斯坦",
    "day": 0
   },
   {
@@ -126,21 +136,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴厘岛因侮辱神圣的沉默日而入狱瑞士游客",
+   "title": "空军称，阿拉斯加偏远军事基地的飞机失事造成八人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-   "summary": "这位 26 岁的男子因一篇关于这个神圣节日的充满咒骂的帖子引发了愤怒。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "日本处决在弹珠机店火灾中造成五人死亡的男子",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-   "summary": "这是自2025年6月以来该国首次颁布死刑。",
+   "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+   "summary": "目前尚不清楚这架民用飞机为何出现在阿拉斯加西南海岸的雷达站。",
    "day": 0
   },
   {
@@ -156,21 +156,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国制裁更多古巴公司和官员",
+   "title": "巴拿马运河因厄尔尼诺现象将减少通过船舶数量",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-   "summary": "马可·卢比奥宣布，一个国际社会主义机构和古巴建设部受到美国最新制裁。",
+   "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+   "summary": "这条重要水道的运营商表示，海洋格局造成的降雨量较低导致了这一决定。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "印度的“蟑螂”抗议者说，修缮学校。小学生同意",
+   "title": "甘地手写的人生笔记在印度拍卖会上以 169 万美元的价格售出",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-   "summary": "公立学校的贫困状况是印度蟑螂党 (CJP) 发起的一项新运动的焦点。",
+   "url": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+   "summary": "该藏品记录了甘地自由运动的关键时刻以及他与亲密助手的个人关系。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "瑞士阿尔卑斯小镇火灾后五人失踪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+   "summary": "当地警方称，另有八人受伤，起火原因仍在调查中。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴厘岛因侮辱神圣的沉默日而入狱瑞士游客",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+   "summary": "这位 26 岁的男子因发表一篇充满咒骂的关于这个神圣节日的帖子而引发愤怒，被判入狱一年。",
    "day": 0
   },
   {
