@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:49",
- "fetchedDate": "2026-08-21",
+ "fetchedAt": "06:28",
+ "fetchedDate": "2026-08-22",
  "source": "zhiri-server",
  "items": [
   {
@@ -126,11 +126,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "罗森伯格：俄罗斯人感受到战争的影响越来越大，汽油短缺但爱国主义不高",
+   "title": "官员称俄罗斯无人机两次袭击乌克兰商场造成15人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-   "summary": "在莫斯科准备庆祝俄罗斯国旗日之际，司机们在加油队伍中排了几个小时的队。",
+   "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+   "summary": "据地区负责人称，购物中心遭到袭击时，至少有 130 人受伤，其中包括 23 名儿童。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "瑞典一所学校遭持剑袭击，一人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，另有三人受伤，一名 18 岁男性嫌疑人被枪杀并被捕。",
    "day": 0
   },
   {
@@ -146,51 +156,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "空军称，阿拉斯加偏远军事基地的飞机失事造成八人死亡",
+   "title": "英国、加拿大和澳大利亚谴责以色列拒绝对加沙援助人员遇害事件进行刑事调查",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-   "summary": "目前尚不清楚这架民用飞机为何出现在阿拉斯加西南海岸的雷达站。",
+   "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+   "summary": "2024 年，以色列对世界中央厨房车队的袭击导致 7 名工人死亡。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴拿马运河因厄尔尼诺现象将减少通过船舶数量",
+   "title": "加拿大锡克教寺庙发生刺伤袭击，两人受伤",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-   "summary": "这条重要水道的运营商表示，海洋格局造成的降雨量较低导致了这一决定。",
+   "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+   "summary": "一名嫌疑人已被拘留，但警方尚未透露可能的动机。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "瑞士冰川融化后发现两名失踪数十年的徒步旅行者尸体",
+   "title": "埃博拉疫苗试验将在刚果民主共和国启动，并就感染速度发出警告",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-   "summary": "官员称，1992 年失踪的两名比利时人的尸体是在特里夫特冰川消退后被发现的。",
+   "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+   "summary": "世界卫生组织表示，在记录的 2,500 例埃博拉死亡病例中，约有一半发生在过去 20 天内。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "警方在南非农场发现大型冰毒实验室，两名墨西哥人被捕",
+   "title": "图帕克谋杀案被告告诉警方，2008年他的侄子开枪致命",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-   "summary": "耗资数百万美元的毒品行动连夜突袭发生在津巴布韦边境附近。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "巴基斯坦前总理伊姆兰·汗在医院检查后重返监狱",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-   "summary": "本周早些时候，法院下令必须将他送往医院检查。",
+   "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+   "summary": "陪审团播放了杜安·戴维斯与侦探进行采访的录音。",
    "day": 0
   },
   {
@@ -211,6 +211,16 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/0821/c1002-40783735.html",
    "summary": "当晚，布达佩斯举行国庆日无人机烟花灯光秀。活动融合无人机编队表演、烟花灯光秀等形式，庆祝匈牙利建国1026周年。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "联合国大会继续举行秘书长候选人互动…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0821/c1002-40783687.html",
+   "summary": "新华社联合国8月20日电（记者尚绪谦）联合国大会19日和20日分别举行与下一任联合国秘书长候选人奥拉拉·奥通努和伊沃内·巴基的互动对话。 候选人首先介绍自己对联合国未来发展的愿景，随后回答会员国",
    "day": 0
   }
  ]
