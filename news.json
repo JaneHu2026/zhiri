@@ -1,5 +1,5 @@
 {
- "fetchedAt": "18:34",
+ "fetchedAt": "21:49",
  "fetchedDate": "2026-08-21",
  "source": "zhiri-server",
  "items": [
@@ -15,42 +15,42 @@
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "开局起步“十五五”｜发挥积极财政政策作用 这些利好事关你我！",
+   "theme": "财经",
+   "title": "新思想引领新征程｜无惧风浪 推动中国经济高质量发展行稳致远",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIMygZsn9agymzNmSukvbR260821.shtml",
-   "summary": "6cfbbe9fccfe,0,1,16:9,newPlayer542d5e561e7e,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/21/VIDE4pD0D7a91i9TmLYafVgF260821.shtml",
+   "summary": "行至年中，国际机构纷纷发布关于全球经济形势的最新判断。国际货币基金组织在下调今年世界经济增长预期的同时，上调中国经济增长预期0.2个百分点。摩根士丹利等国际金融机构也逆势上调中国经济增速预测。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "顺民意、惠民生、暖民心 一系列政策“组合拳”激活高质量发展新动能",
+   "theme": "政策",
+   "title": "“十五五”开好局起好步｜积极财政政策助推经济社会高质量发展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTI1XA8xO1xD3J5tEoUtIvy260821.shtml",
-   "summary": "5b1b8a8084c1,0,1,16:9,newPlayerfa13fac08c13,0,1,16:9,newPlayer6343c941d54f,0,1,16:9,newPlayer7626161ab1bc,0,1,16:9,newPlayer10b2ac401e14,0,1,16:9,newP…",
+   "url": "https://tv.cctv.com/2026/08/21/VIDEUSBHgdhqnALoEGD6Kf34260821.shtml",
+   "summary": "【“十五五”开好局起好步】积极财政政策助推经济社会高质量发展。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "2026世界机器人大会｜机器人新品密集亮相 开启“舰队协同”生态",
+   "title": "活力中国调研行｜AI助跑 科创加速",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/21/VIDEwNOrlz9QHlZjZ5Z0Swis260821.shtml",
-   "summary": "聚焦2026世界机器人大会：机器人新品密集亮相，开启“舰队协同”生态。",
+   "url": "https://tv.cctv.com/2026/08/21/VIDE7zpuOrb8QU1zwkK7YVE7260821.shtml",
+   "summary": "走进这个科学智能物质创制中心，满屋的机械臂“你来我往”，走几步，就会遇到一辆隔壁过来的“智能小车”，一百多台科研机器人正在自主做实验。 而在这其中，记者注意到一个特别的物件，是一面锦旗，来自安徽消防队。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "我国自研新一代深水多功能海洋工程船交付",
+   "theme": "科技",
+   "title": "第二届世界人形机器人运动会开幕式排练加紧进行 赛事保障基本就绪",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/21/VIDE9NZfOsjERw3v5dC1lFPB260821.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://tv.cctv.com/2026/08/21/VIDEmUwDSpejGu8iGDfLOLus260821.shtml",
+   "summary": "第二届世界人形机器人运动会将于8月22日开幕：开幕式排练加紧进行，赛事保障基本就绪。",
    "day": 0
   },
   {
@@ -75,11 +75,11 @@
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "内蒙古多伦县迎来成群白琵鹭 生态治理见成效",
+   "theme": "要闻",
+   "title": "网传内蒙古上空飞机飞过“散云止雨”？真相来了",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/21/VIDEn05sQ0PJgXzR81V8Dn0u260821.shtml",
+   "url": "https://tv.cctv.com/2026/08/21/VIDENFb5EhKyrEvOUxNxzU6t260821.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,6 +126,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "罗森伯格：俄罗斯人感受到战争的影响越来越大，汽油短缺但爱国主义不高",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+   "summary": "在莫斯科准备庆祝俄罗斯国旗日之际，司机们在加油队伍中排了几个小时的队。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "香港天安门活动人士在国家安全审判中被判有罪",
    "source": "BBC",
    "time": "今天",
@@ -146,16 +156,6 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴基斯坦前总理伊姆兰·汗在医院检查后重返监狱",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-   "summary": "本周早些时候，法院下令必须将他送往医院检查。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "巴拿马运河因厄尔尼诺现象将减少通过船舶数量",
    "source": "BBC",
    "time": "今天",
@@ -166,31 +166,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "甘地手写的人生笔记在印度拍卖会上以 169 万美元的价格售出",
+   "title": "瑞士冰川融化后发现两名失踪数十年的徒步旅行者尸体",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
-   "summary": "该藏品记录了甘地自由运动的关键时刻以及他与亲密助手的个人关系。",
+   "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，1992 年失踪的两名比利时人的尸体是在特里夫特冰川消退后被发现的。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "瑞士阿尔卑斯小镇火灾后五人失踪",
+   "title": "警方在南非农场发现大型冰毒实验室，两名墨西哥人被捕",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-   "summary": "当地警方称，另有八人受伤，起火原因仍在调查中。",
+   "url": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+   "summary": "耗资数百万美元的毒品行动连夜突袭发生在津巴布韦边境附近。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴厘岛因侮辱神圣的沉默日而入狱瑞士游客",
+   "title": "巴基斯坦前总理伊姆兰·汗在医院检查后重返监狱",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-   "summary": "这位 26 岁的男子因发表一篇充满咒骂的关于这个神圣节日的帖子而引发愤怒，被判入狱一年。",
+   "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+   "summary": "本周早些时候，法院下令必须将他送往医院检查。",
    "day": 0
   },
   {
