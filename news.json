@@ -1,16 +1,46 @@
 {
- "fetchedAt": "09:27",
+ "fetchedAt": "12:41",
  "fetchedDate": "2026-08-21",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "消费市场向新向优发展",
+   "theme": "科技",
+   "title": "2026世界机器人大会｜机器人新品密集亮相 开启“舰队协同”生态",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIjdq2hYt2PtU6xQX2XN9D260820.shtml",
-   "summary": "15f1cca33166,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/21/VIDEwNOrlz9QHlZjZ5Z0Swis260821.shtml",
+   "summary": "聚焦2026世界机器人大会：机器人新品密集亮相，开启“舰队协同”生态。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "农业生产提质增效 国产农机“新”装上阵",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTI1ZDzlVWFwQx6phzQUEjl260821.shtml",
+   "summary": "d2fdb66d963c,0,1,16:9,newPlayerff40ce81bca5,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "我国自研新一代深水多功能海洋工程船交付",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/21/VIDE9NZfOsjERw3v5dC1lFPB260821.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "12.4万亿元！我国民生投入不断加大",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTIfXRYc85OOEb4Mc5OJo2E260821.shtml",
+   "summary": "在今天上午国新办举行“开局起步‘十五五’”系列主题新闻发布会上，财政部有关负责人介绍，我国不断加大保障和改善民生力度，持续增进民生福祉。",
    "day": 0
   },
   {
@@ -25,42 +55,122 @@
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "继北京楼市新政后 上海出台政策、聚焦置换改善群体",
+   "theme": "要闻",
+   "title": "2026年我国早稻生产保持稳定 播种面积略有增加",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTI7oMtGe48hXoI8zCLmO08260820.shtml",
-   "summary": "f72cce307954,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/21/ARTIKASO9nMu2Ozzr0swUZmT260821.shtml",
+   "summary": "2026年，全国早稻播种面积7116.4万亩，比上年增加2.2万亩。分地区看，浙江、江西、海南、广西播种面积分别增加12.0万亩、6.5万亩、3.4万亩和2.1万亩，增长6.3%、0.4%、2.0%和0.2%。安徽、广东受种植结构调整等影响，播种面积分别减少10.0万亩和6.7万亩，下降4.0%和0…",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "中国第16次北冰洋考察：接棒后续7个冰站调查作业",
+   "theme": "财经",
+   "title": "前7个月 中国与APEC其他经济体进出口同比增长21%",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIDH6GUXOVovHy6aYNmUbh260820.shtml",
-   "summary": "015397bb7dc2,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "空气炸锅 到底好不好用？它的正确打开方式是什么？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/21/ARTIIK31dbXwCX8FG0WD3kyp260821.shtml",
-   "summary": "近年来，网络上空气炸锅的风评一直都很两极分化，一边是买了用不了几次的闲置小锅，一边是社交平台上能做出百种食物的梦中情锅。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "以军承认对巴勒斯坦女童搭乘车辆开火",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/21/VIDE2ZrhdRkcwtAJAwdXMnUk260821.shtml",
+   "url": "https://news.cctv.com/2026/08/21/ARTIdyvguxmYVMdqCILTmC2G260821.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "1—7月份全社会用电量61399亿千瓦时 同比增4.7%",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/21/ARTILp19FfRO1xZpHzvZejfk260821.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【文明中国·看江苏】顾庄的树，长出了什么？",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260821/1b7faba2a2cf41c49f5d47a770b08fef/c.html",
+   "summary": "【文明中国·看江苏】顾庄的树，长出了什么？-\"但顾庄人没打算停在这儿。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "又有2244个建制村实现“快递进村”",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260821/ca2e9f8cf5da46138066b2386e94f211/c.html",
+   "summary": "又有2244个建制村实现“快递进村”-今年1月，国家邮政局与中国邮政集团有限公司联合在中西部农村地区启动“快递进村”邮政兜底专项试点工作，旨在畅通城乡双向流通渠道，助力农村基本具备现代生活条件。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "英国气象局表示，厄尔尼诺现象将是“人们记忆中最强的一次”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+   "summary": "科学家表示，日益严重的厄尔尼诺天气模式是“前所未有的事件”，意味着 2027 年可能是世界上最热的一年。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "香港天安门活动人士在国家安全审判中被判有罪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+   "summary": "三名活动人士被指控根据中国颁布的法律煽动他人颠覆国家政权。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴厘岛因侮辱神圣的沉默日而入狱瑞士游客",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+   "summary": "这位 26 岁的男子因一篇关于这个神圣节日的充满咒骂的帖子引发了愤怒。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "日本处决在弹珠机店火灾中造成五人死亡的男子",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+   "summary": "这是自2025年6月以来该国首次颁布死刑。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴基斯坦前总理伊姆兰·汗在医院检查后重返监狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+   "summary": "本周早些时候，法院下令必须将他送往医院检查。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国制裁更多古巴公司和官员",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+   "summary": "马可·卢比奥宣布，一个国际社会主义机构和古巴建设部受到美国最新制裁。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度的“蟑螂”抗议者说，修缮学校。小学生同意",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+   "summary": "公立学校的贫困状况是印度蟑螂党 (CJP) 发起的一项新运动的焦点。",
    "day": 0
   },
   {
