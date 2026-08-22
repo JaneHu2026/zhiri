@@ -1,5 +1,5 @@
 {
- "fetchedAt": "18:27",
+ "fetchedAt": "21:34",
  "fetchedDate": "2026-08-22",
  "source": "zhiri-server",
  "items": [
@@ -11,6 +11,26 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/22/ARTIVoGqAM8G2wem1G9IbHpm260822.shtml",
    "summary": "“今天，中华民族伟大复兴势不可挡，展现出前所未有的光明前景。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "拓展共建“一带一路”合作新空间 铺就共赢之路",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDE9E7OqciY0AvBdIArJpbp260822.shtml",
+   "summary": "【新思想引领新征程】拓展共建“一带一路”合作新空间，铺就共赢之路。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "山东打造商业航天产业高地",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDECjJBMSnYboYSvW7YL96H260822.shtml",
+   "summary": "【凝心聚力，真抓实干，奋力实现“十五五”良好开局】山东打造商业航天产业高地。",
    "day": 0
   },
   {
@@ -50,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/22/VIDEqvsXC5jHVcS4mBG1GiHC260822.shtml",
-   "summary": "本期节目主要内容： 乌克兰使用英制无人机袭击俄罗斯本土纵深目标；土耳其欲对乌克兰转移美制武器；北约给乌克兰导弹提供精确坐标；日本和乌克兰开展无人机合作生产。俄乌冲突多国搅局，不断试探俄罗斯底线。（《军情时间到》 20260822 越界搅局 谁向俄乌战场伸出“黑手”）",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -60,26 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/22/VIDEYhEwryZL7WvrvHluXqz1260822.shtml",
-   "summary": "青海·坎布拉世界地质公园：高原碧水丹山，吸引游客探秘地质遗迹。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTI9xfhaqOcsfGAss8eQQjV260822.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "我国数字经济规模稳居世界第二",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/22/VIDED1xVBAybEHJkX5d9PwFm260822.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,11 +96,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泽连斯基谴责“卑鄙”罢工，救援人员在乌克兰商场残骸中挖掘",
+   "title": "泽伦斯基谴责“卑鄙”的俄罗斯罢工，救援人员在乌克兰商场残骸中挖掘",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "袭击造成 130 人受伤，其中包括一些儿童，目前仍有 9 人失踪。",
+   "summary": "周五的袭击造成 16 人死亡、130 人受伤，其中包括一些儿童，目前仍有 4 人失踪。",
    "day": 0
   },
   {
@@ -141,6 +141,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
    "summary": "当他们回来时，他们将不再是工作的王室成员。那么他们可以做什么呢？",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "机器马和骑手在中国会议上抢尽风头",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+   "summary": "组织者称，在中国北京举行的为期五天的活动中，有 300 多家公司展示了机器人技术的最新进展。",
    "day": 0
   },
   {

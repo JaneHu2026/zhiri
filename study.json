@@ -1,5 +1,5 @@
 {
- "fetchedAt": "18:28",
+ "fetchedAt": "21:35",
  "fetchedDate": "2026-08-22",
  "source": "zhiri-server",
  "items": [
@@ -117,8 +117,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390787,
-   "updated": "2026-08-22T10:28:20.637690",
+   "heat": 390789,
+   "updated": "2026-08-22T13:35:35.643395",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -136,7 +136,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-22T10:28:20.637699",
+   "updated": "2026-08-22T13:35:35.643409",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -153,8 +153,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557409,
-   "updated": "2026-08-22T10:28:20.637701",
+   "heat": 557410,
+   "updated": "2026-08-22T13:35:35.643412",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155608,
-   "updated": "2026-08-22T10:28:20.637704",
+   "heat": 155609,
+   "updated": "2026-08-22T13:35:35.643415",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -187,8 +187,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611363,
-   "updated": "2026-08-22T10:28:20.637706",
+   "heat": 611364,
+   "updated": "2026-08-22T13:35:35.643417",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -205,8 +205,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659116,
-   "updated": "2026-08-22T10:28:20.637709",
+   "heat": 2659119,
+   "updated": "2026-08-22T13:35:35.643420",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [
     "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
@@ -224,7 +224,7 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58651,
-   "updated": "2026-08-22T10:28:20.637711",
+   "updated": "2026-08-22T13:35:35.643422",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [
     "银河录像局CG迷8折优惠注册链接，https://nf.video/zp5gG 优惠券用完后购买任何产品都可以输入优惠码cgmi享受额外优惠 GPT4o官方网址 https://chatgpt.com"
@@ -242,10 +242,116 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015292,
-   "updated": "2026-08-22T10:28:20.637713",
+   "updated": "2026-08-22T13:35:35.643424",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [
     "你能想象一百万个这样蹦蹦跳跳的手雷向你奔来么？Salto机器人弹跳腿升级为夹爪，可以模拟松鼠在树枝间跳跃"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-22T13:35:35.643427",
+   "url": "https://www.qbitai.com/2026/08/477090.html",
+   "points": [
+    "将真实场景重建为持续更新、可计算的4D数字世界。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-22T13:35:35.643429",
+   "url": "https://www.qbitai.com/2026/08/476965.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-22T13:35:35.643431",
+   "url": "https://www.qbitai.com/2026/08/476930.html",
+   "points": [
+    "让具身智能技术真正落地千行万业。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-22T13:35:35.643433",
+   "url": "https://www.qbitai.com/2026/08/476778.html",
+   "points": [
+    "载重4.2吨、容积19.32m³"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-22T13:35:35.643435",
+   "url": "https://www.qbitai.com/2026/08/476733.html",
+   "points": [
+    "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-22T13:35:35.643437",
+   "url": "https://www.qbitai.com/2026/08/476628.html",
+   "points": [
+    "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
    ],
    "flags": {
     "fav": false,
@@ -259,7 +365,7 @@
    "author": "Hacker News",
    "title": "青少年男孩使用元眼镜骚扰和欺负高中女生",
    "duration": "—",
-   "heat": 20,
+   "heat": 21,
    "updated": "2026-08-21",
    "url": "https://futurism.com/artificial-intelligence/teen-boys-meta-glasses-harass-bully-girls-school",
    "points": [
