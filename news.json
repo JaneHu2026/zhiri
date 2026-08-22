@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:34",
- "fetchedDate": "2026-08-22",
+ "fetchedAt": "06:25",
+ "fetchedDate": "2026-08-23",
  "source": "zhiri-server",
  "items": [
   {
@@ -55,12 +55,22 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "跨洲际投送！中国空军参训战机全部抵达埃及",
+   "theme": "文化",
+   "title": "文化中国行｜留住佛光寺的“千年目光”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/22/VIDEDBfctdTo3LNJlv7ZgSgZ260822.shtml",
-   "summary": "中埃“文明之鹰-2026”空军联合训练：跨洲际投送！中国空军参训战机全部抵达埃及。",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEhp0QTB56WeNlO1ANF9dp260822.shtml",
+   "summary": "佛光寺坐落于山西省忻州市五台县，其东大殿是我国现存等级最高、保存最完整的唐代木构建筑，硕大的斗拱挑出的屋檐有将近4米，殿内至今还保存着唐代的彩塑、壁画、墨书题记，被誉为“国内古建筑第一瑰宝”。然而近年来，随着交通、能源等基础设施建设加速，佛光寺文化景观的保护难度越来越大。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "食安中国｜监管在行动——揪出非法添加幕后黑手",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEfhuUScc91NHDwFKnIrC1260822.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -74,93 +84,83 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "高原碧水丹山 坎布拉世界地质公园吸引游客探秘地质遗迹",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/22/VIDEYhEwryZL7WvrvHluXqz1260822.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大表示，随着贸易谈判破裂，它将与美国“一美元对一美元”地征收关税",
+   "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-   "summary": "在贸易谈判最后一刻破裂后，对加拿大 200 亿美元进口商品征收 50% 的新关税生效。",
+   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泽伦斯基谴责“卑鄙”的俄罗斯罢工，救援人员在乌克兰商场残骸中挖掘",
+   "title": "Carney faces crucial test after walking away from Trump's deal",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Fourteen killed in strike on Myanmar monastery",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+   "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "周五的袭击造成 16 人死亡、130 人受伤，其中包括一些儿童，目前仍有 4 人失踪。",
+   "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "报道称，父亲将7岁儿子独自留在富士山继续徒步",
+   "title": "US military newspaper editor voices censorship fears after being fired",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-   "summary": "该男子带着他的两个儿子一起旅行，但据说当他累了时留下了一个。",
+   "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法庭获悉，林赛·克兰西在杀害儿童时遭受“命令幻觉”",
+   "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-   "summary": "辩方将他们的最后证人——一名法医精神病学家——带到了证人席上，就产后精神病的影响作证。",
+   "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "悉尼马拉松奖牌错误地描绘了慕尼黑体育场",
+   "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-   "summary": "悉尼马拉松公布双面奖牌后，在线侦探发现了这个错误。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "返回英国后，哈里和梅根寻找一个能够坚持下去的品牌",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-   "summary": "当他们回来时，他们将不再是工作的王室成员。那么他们可以做什么呢？",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "机器马和骑手在中国会议上抢尽风头",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-   "summary": "组织者称，在中国北京举行的为期五天的活动中，有 300 多家公司展示了机器人技术的最新进展。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“安静，安静，安静！” - 是什么促使特朗普关闭记者？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-   "summary": "当美国总统再次侮辱记者时，BBC 审视了他不愿回答的问题。",
+   "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
    "day": 0
   }
  ]
