@@ -1,106 +1,156 @@
 {
- "fetchedAt": "12:36",
+ "fetchedAt": "18:27",
  "fetchedDate": "2026-08-22",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "理政纪丨一条板凳连民心",
+   "title": "从三个角度，观察中国共产党为什么能成功",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIzKpOOWBcx9zgtp4KvyJb260822.shtml",
-   "summary": "一张方桌，几条板凳，和老百姓围坐交谈，这是习近平总书记在基层调研时经常出现的场景。",
+   "url": "https://news.cctv.com/2026/08/22/ARTIVoGqAM8G2wem1G9IbHpm260822.shtml",
+   "summary": "“今天，中华民族伟大复兴势不可挡，展现出前所未有的光明前景。”",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "水利部针对广东广西海南启动洪水防御Ⅳ级应急响应",
+   "theme": "科技",
+   "title": "2026世界机器人大会 媒体聚焦中国机器人产业蓬勃发展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIlet2XpBh6QRhKvSSYlOx260822.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "水法修订草案将二审 拟与生态环境法典做好衔接",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/22/VIDEIMWd9RAWiiKj1YR3IYaq260822.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "七项行动21条举措出台 部署促进网信企业高质量发展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIDKPNEPCJkuZetSJymqqc260822.shtml",
-   "summary": "近日，中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划（2026-2030年）》（以下简称《行动计划》），深入贯彻党中央关于网络强国建设和“十五五”时期网信工作有关部署，促进网信企业高质量发展。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "主跨578米 东北地区跨度最大悬索桥主塔21日封顶",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIf5yIN4PkHEbY7nmmPlFV260822.shtml",
-   "summary": "8月21日，东北地区跨度最大的悬索桥——G331国道大久才江口特大桥主塔全部封顶，后续将转入上部结构施工阶段。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "共创华语电影未来 “光影同舟”两岸电影交流会落幕",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/22/VIDEPBHby3tryi8ON16dmPpc260822.shtml",
-   "summary": "“光影同舟”两岸电影交流会落幕：以交流促合拍共创华语电影未来。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "平陆运河船舶过闸试行收费标准发布",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIvVS6IEWX1TSDbLQSjPU6260822.shtml",
+   "url": "https://tv.cctv.com/2026/08/22/VIDESHjMWEIVmL6LnearOeIP260822.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "重大突破 S4000浮空风电系统完成全流程放飞验证",
+   "title": "万里边疆行｜白山黑水守北疆 界江国门铸安澜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIReHz2maSPQKgsz8NupI9260822.shtml",
+   "url": "https://tv.cctv.com/2026/08/22/VIDESaBfJe5qPH1x4YUrDYLq260822.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "跨洲际投送！中国空军参训战机全部抵达埃及",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEDBfctdTo3LNJlv7ZgSgZ260822.shtml",
+   "summary": "中埃“文明之鹰-2026”空军联合训练：跨洲际投送！中国空军参训战机全部抵达埃及。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "越界搅局 谁向俄乌战场伸出“黑手”？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEqvsXC5jHVcS4mBG1GiHC260822.shtml",
+   "summary": "本期节目主要内容： 乌克兰使用英制无人机袭击俄罗斯本土纵深目标；土耳其欲对乌克兰转移美制武器；北约给乌克兰导弹提供精确坐标；日本和乌克兰开展无人机合作生产。俄乌冲突多国搅局，不断试探俄罗斯底线。（《军情时间到》 20260822 越界搅局 谁向俄乌战场伸出“黑手”）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "高原碧水丹山 坎布拉世界地质公园吸引游客探秘地质遗迹",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEYhEwryZL7WvrvHluXqz1260822.shtml",
+   "summary": "青海·坎布拉世界地质公园：高原碧水丹山，吸引游客探秘地质遗迹。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/22/ARTI9xfhaqOcsfGAss8eQQjV260822.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "我国数字经济规模稳居世界第二",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDED1xVBAybEHJkX5d9PwFm260822.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
+   "title": "加拿大表示，随着贸易谈判破裂，它将与美国“一美元对一美元”地征收关税",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-   "summary": "美国和加拿大之间敲定协议的谈判即将在周五晚上的最后期限之前进入最后阶段。",
+   "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+   "summary": "在贸易谈判最后一刻破裂后，对加拿大 200 亿美元进口商品征收 50% 的新关税生效。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "官员称，俄罗斯对乌克兰的袭击造成两人死亡，此前一天，购物中心发生致命袭击",
+   "title": "泽连斯基谴责“卑鄙”罢工，救援人员在乌克兰商场残骸中挖掘",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "一天前，一家购物中心遭受双击袭击，造成至少 16 人死亡。",
+   "summary": "袭击造成 130 人受伤，其中包括一些儿童，目前仍有 9 人失踪。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "报道称，父亲将7岁儿子独自留在富士山继续徒步",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+   "summary": "该男子带着他的两个儿子一起旅行，但据说当他累了时留下了一个。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法庭获悉，林赛·克兰西在杀害儿童时遭受“命令幻觉”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+   "summary": "辩方将他们的最后证人——一名法医精神病学家——带到了证人席上，就产后精神病的影响作证。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "悉尼马拉松奖牌错误地描绘了慕尼黑体育场",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+   "summary": "悉尼马拉松公布双面奖牌后，在线侦探发现了这个错误。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "返回英国后，哈里和梅根寻找一个能够坚持下去的品牌",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+   "summary": "当他们回来时，他们将不再是工作的王室成员。那么他们可以做什么呢？",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“安静，安静，安静！” - 是什么促使特朗普关闭记者？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+   "summary": "当美国总统再次侮辱记者时，BBC 审视了他不愿回答的问题。",
    "day": 0
   }
  ]
