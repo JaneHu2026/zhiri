@@ -1,8 +1,38 @@
 {
- "fetchedAt": "09:23",
+ "fetchedAt": "12:36",
  "fetchedDate": "2026-08-22",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "理政纪丨一条板凳连民心",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/22/ARTIzKpOOWBcx9zgtp4KvyJb260822.shtml",
+   "summary": "一张方桌，几条板凳，和老百姓围坐交谈，这是习近平总书记在基层调研时经常出现的场景。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "水利部针对广东广西海南启动洪水防御Ⅳ级应急响应",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/22/ARTIlet2XpBh6QRhKvSSYlOx260822.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "水法修订草案将二审 拟与生态环境法典做好衔接",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEIMWd9RAWiiKj1YR3IYaq260822.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "政策",
@@ -16,41 +46,61 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "山西昔阳钟村发现高等级贵族墓地 遗址主体为夏晚期",
+   "title": "主跨578米 东北地区跨度最大悬索桥主塔21日封顶",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTI1dB6MRyZ8fE84jONmYfH260822.shtml",
-   "summary": "墓地所在区域因二十世纪六七十年代的农业生产活动，破坏严重，原有墓葬数量应远多于目前已知。本次共清理墓葬18座，其中战国墓葬12座，夏代墓葬6座。夏代墓葬集中于墓地西部，规划有序，均为竖穴土坑墓，墓向皆东西向，出土陶、漆、绿松石器近40件（组），葬俗体现出浓郁的地方特色。钟村遗址发现的这批墓葬，是迄今…",
+   "url": "https://news.cctv.com/2026/08/22/ARTIf5yIN4PkHEbY7nmmPlFV260822.shtml",
+   "summary": "8月21日，东北地区跨度最大的悬索桥——G331国道大久才江口特大桥主塔全部封顶，后续将转入上部结构施工阶段。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "暑期自驾出行 5条安全要点请牢记！",
+   "theme": "文化",
+   "title": "共创华语电影未来 “光影同舟”两岸电影交流会落幕",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTI5YHMMeN7Wss3PowpTFdf260822.shtml",
-   "summary": "65dda30d2c4f,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/22/VIDEPBHby3tryi8ON16dmPpc260822.shtml",
+   "summary": "“光影同舟”两岸电影交流会落幕：以交流促合拍共创华语电影未来。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "平陆运河船舶过闸试行收费标准发布",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/22/ARTIvVS6IEWX1TSDbLQSjPU6260822.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "飞机“散云止雨”加重内蒙古旱情？真相来了",
+   "title": "重大突破 S4000浮空风电系统完成全流程放飞验证",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/22/ARTIQMyp0mEvQdC9KAskw2OE260822.shtml",
-   "summary": "40c3e57ec0c5,0,1,16:9,newPlayerfe2980bcf583,0,1,16:9,newPlayer504099aa010f,0,1,16:9,newPlayer91d65b98d281,0,1,16:9,newPlayer3bdfce03b257,0,1,16:9,newP…",
+   "url": "https://news.cctv.com/2026/08/22/ARTIReHz2maSPQKgsz8NupI9260822.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "财经",
-   "title": "伊朗议长：必须制定计划应对美国经济制裁",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/22/VIDEUAFSWJODtjTH4p4le1AY260822.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+   "summary": "美国和加拿大之间敲定协议的谈判即将在周五晚上的最后期限之前进入最后阶段。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "官员称，俄罗斯对乌克兰的袭击造成两人死亡，此前一天，购物中心发生致命袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+   "summary": "一天前，一家购物中心遭受双击袭击，造成至少 16 人死亡。",
    "day": 0
   }
  ]

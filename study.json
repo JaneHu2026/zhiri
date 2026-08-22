@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:24",
+ "fetchedAt": "12:37",
  "fetchedDate": "2026-08-22",
  "source": "zhiri-server",
  "items": [
@@ -42,24 +42,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Save your token cost with Gemini 3.7 Flash!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-14 21:54:23",
-   "url": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
-   "points": [
-    "使用 Gemini 3.7 Flash 节省您的代币成本！！！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "Two Minute Papers",
    "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
    "duration": "—",
@@ -67,7 +49,7 @@
    "updated": "2026-08-14 08:42:07",
    "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
    "points": [
-    "Claude AI 失败了 650 次……然后打破了人类记录"
+    "Claude AI 失败 650 次……然后打破了人类记录"
    ],
    "flags": {
     "fav": false,
@@ -96,24 +78,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "The Right Harness is All You Need - For local Frontier AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-08 17:22:18",
-   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-   "points": [
-    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "3Blue1Brown",
    "title": "The 64 sugar cubes puzzle",
    "duration": "—",
@@ -132,14 +96,50 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "OpenAI hacked HuggingFace",
+   "author": "3Blue1Brown",
+   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-07-22 16:28:16",
-   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+   "updated": "2026-07-16 11:56:04",
+   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
    "points": [
-    "OpenAI 攻击了 HuggingFace"
+    "但什么是交叉熵？ |压缩就是智能第 2 部分"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390779,
-   "updated": "2026-08-22T01:24:20.216844",
+   "heat": 390782,
+   "updated": "2026-08-22T04:37:32.366184",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -172,7 +172,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-22T01:24:20.216853",
+   "updated": "2026-08-22T04:37:32.366196",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -190,7 +190,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557409,
-   "updated": "2026-08-22T01:24:20.216855",
+   "updated": "2026-08-22T04:37:32.366199",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -206,7 +206,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155604,
-   "updated": "2026-08-22T01:24:20.216858",
+   "updated": "2026-08-22T04:37:32.366201",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -224,7 +224,7 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611361,
-   "updated": "2026-08-22T01:24:20.216860",
+   "updated": "2026-08-22T04:37:32.366203",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -241,8 +241,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659112,
-   "updated": "2026-08-22T01:24:20.216862",
+   "heat": 2659114,
+   "updated": "2026-08-22T04:37:32.366206",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [
     "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
@@ -259,8 +259,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58650,
-   "updated": "2026-08-22T01:24:20.216864",
+   "heat": 58651,
+   "updated": "2026-08-22T04:37:32.366208",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [
     "银河录像局CG迷8折优惠注册链接，https://nf.video/zp5gG 优惠券用完后购买任何产品都可以输入优惠码cgmi享受额外优惠 GPT4o官方网址 https://chatgpt.com"
@@ -278,7 +278,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015292,
-   "updated": "2026-08-22T01:24:20.216866",
+   "updated": "2026-08-22T04:37:32.366210",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [
     "你能想象一百万个这样蹦蹦跳跳的手雷向你奔来么？Salto机器人弹跳腿升级为夹爪，可以模拟松鼠在树枝间跳跃"
@@ -296,7 +296,7 @@
    "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T01:24:20.216869",
+   "updated": "2026-08-22T04:37:32.366213",
    "url": "https://www.qbitai.com/2026/08/476778.html",
    "points": [
     "载重4.2吨、容积19.32m³"
@@ -314,7 +314,7 @@
    "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T01:24:20.216870",
+   "updated": "2026-08-22T04:37:32.366215",
    "url": "https://www.qbitai.com/2026/08/476733.html",
    "points": [
     "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
@@ -332,7 +332,7 @@
    "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T01:24:20.216872",
+   "updated": "2026-08-22T04:37:32.366217",
    "url": "https://www.qbitai.com/2026/08/476628.html",
    "points": [
     "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
@@ -350,7 +350,7 @@
    "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T01:24:20.216874",
+   "updated": "2026-08-22T04:37:32.366218",
    "url": "https://www.qbitai.com/2026/08/476596.html",
    "points": [],
    "flags": {
@@ -366,7 +366,7 @@
    "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T01:24:20.216876",
+   "updated": "2026-08-22T04:37:32.366221",
    "url": "https://www.qbitai.com/2026/08/476591.html",
    "points": [],
    "flags": {
@@ -382,7 +382,7 @@
    "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T01:24:20.216878",
+   "updated": "2026-08-22T04:37:32.366223",
    "url": "https://www.qbitai.com/2026/08/476532.html",
    "points": [],
    "flags": {
@@ -397,7 +397,7 @@
    "author": "Hacker News",
    "title": "青少年男孩使用元眼镜骚扰和欺负高中女生",
    "duration": "—",
-   "heat": 13,
+   "heat": 15,
    "updated": "2026-08-21",
    "url": "https://futurism.com/artificial-intelligence/teen-boys-meta-glasses-harass-bully-girls-school",
    "points": [
