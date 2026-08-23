@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:34",
- "fetchedDate": "2026-08-23",
+ "fetchedAt": "06:25",
+ "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
   {
@@ -94,83 +94,93 @@
    "day": 0
   },
   {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普称加拿大希望在贸易谈判破裂后获得成为美国国家的“好处”",
-   "source": "BBC",
+   "group": "gn",
+   "theme": "科技",
+   "title": "AIGC创意视频·处暑｜暑气渐收，静候秋凉",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "summary": "加拿大总理表示，他“不情愿”地宣布报复性关税，并指责美国发动贸易战。",
+   "url": "https://www.news.cn/ci/20260823/2a7f6364f16f4c918860cd4b9b1ebd1b/c.html",
+   "summary": "AIGC创意视频·处暑｜暑气渐收，静候秋凉-",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "被解雇的部长告诉BBC，泽伦斯基应该被问到他对政府腐败了解多少",
+   "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-   "summary": "米哈伊洛·费多罗夫还呼吁在乌克兰举行战时选举。",
+   "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "刚果民主共和国与“M23”叛军就和平谈判路线图达成一致",
+   "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Guinea rubbish landfill collapse kills 30",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+   "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "DR Congo and M23 rebels agree roadmap for peace talks",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-   "summary": "代表们在瑞士会面，制定解决冲突的后续步骤。",
+   "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泰国南部发生数十起协同纵火袭击",
+   "title": "France links sharp rise in drownings to heatwaves",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+   "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-   "summary": "没有任何组织声称对这些袭击负责，军方称这些袭击“旨在制造骚乱”。",
+   "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "“新赛季，新造型”——哈兰德透露新发型",
+   "title": "Trump waves green flag to start IndyCar race through Washington streets",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-   "summary": "曼城前锋埃尔林·哈兰德在社交媒体上展示了他的新发型。",
+   "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "高尔夫品牌为展示女性被推倒的广告道歉",
+   "title": "Frustration builds in Indiana town struggling without power for 12 days",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-   "summary": "内容创作者 Good Good 道歉并删除了一则广告，该广告显示一名女子在伸手去拿一名男子的高尔夫球杆时被推倒在地。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“我们不会逃避它”：悉尼马拉松对奖牌错误一笑置之",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-   "summary": "跑步者将在 2026 年悉尼马拉松比赛中获得一枚刻有德国体育场图案的奖牌。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "警方称，17岁女孩在瑞典持剑袭击中丧生",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-   "summary": "两名 12 岁和 17 岁的男孩也受伤，一名 18 岁的嫌疑人已被拘留。",
+   "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+   "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
    "day": 0
   },
   {
