@@ -1,5 +1,5 @@
 {
- "fetchedAt": "12:40",
+ "fetchedAt": "18:27",
  "fetchedDate": "2026-08-23",
  "source": "zhiri-server",
  "items": [
@@ -35,12 +35,32 @@
   },
   {
    "group": "gn",
+   "theme": "科技",
+   "title": "核心部件实现自主突围 国产机器人加速“驶入”真实场景",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/23/ARTIbOcIjNHOaz9xiuWLEEw4260823.shtml",
+   "summary": "9939593a987c,0,1,16:9,newPlayer2bf4ec2f09a7,0,1,16:9,newPlayer8cdd4ce0caaa,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "社会",
    "title": "建设改造里程约7400公里 环疆通海“黄金大外环”要来了",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/23/ARTID80YonNiF7p4wu2UFy10260823.shtml",
    "summary": "451e47f546a0,0,1,16:9,newPlayer6314e54f95dd,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "边境线上巾帼红 “鸽子姐”扎根北疆巡边护边30年",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/23/VIDEbbQpNKUgFS1F5eU5Zpo2260823.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -56,51 +76,101 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“数”看中国双向链接全球",
+   "title": "每周质量报告｜无证繁育、交易混乱……保护动物违规交易调查",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTI7Grp2Rx4b1PzGr6yBCfd260823.shtml",
-   "summary": "2026年以来，中国外贸保持双向平衡：前7个月进口同比增长22%，出口增长14%。进口增速高出出口8个百分点，连续5个月进口增速跑赢出口。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "变“历史账单”为“担当答卷”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTI2gAYpvS3TMvbE8nJbYdK260823.shtml",
+   "url": "https://tv.cctv.com/2026/08/23/VIDEnhnHYfjdr3mrrj1ERpsJ260823.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "分类分级支持网信企业发展 加快培育更多瞪羚企业",
-   "source": "央视新闻",
+   "theme": "科技",
+   "title": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTINKXCQcLfQTI2NEKn9fct260822.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/digital/20260823/a382682940704f0a92525ed8a25b5b6a/c.html",
+   "summary": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻-\"从“蚂蚁搭桥”到无人机集群，从模块化机器人到城市交通治理，群体智能正从实验室概念，逐步成为解决复杂现实任务的关键路径。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+   "title": "特朗普称加拿大希望在贸易谈判破裂后获得成为美国国家的“好处”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-   "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+   "summary": "加拿大总理表示，他“不情愿”地宣布报复性关税，并指责美国发动贸易战。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Swedish sword attack victim was 17-year-old girl, police say",
+   "title": "被解雇的部长告诉英国广播公司，泽伦斯基有关于政府腐败的“问题需要回答”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+   "summary": "被解雇的前国防部长还呼吁在乌克兰举行选举。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "警方称，17岁女孩在瑞典持剑袭击中丧生",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+   "summary": "两名 12 岁和 17 岁的男孩也受伤，一名 18 岁的嫌疑人已被拘留。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泰国南部发生数十起协同纵火袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+   "summary": "没有任何组织声称对这些袭击负责，军方称这些袭击“旨在制造骚乱”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "机器人在世界人形运动会上参加拳击、足球和短跑比赛",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+   "summary": "为期五天的第二届比赛于周六在中国北京拉开帷幕。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“我们不会逃避它”：悉尼马拉松对奖牌错误一笑置之",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+   "summary": "跑步者将在 2026 年悉尼马拉松比赛中获得一枚刻有德国体育场图案的奖牌。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "文化",
+   "title": "中俄记者在杭州感受中国文化韵味",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0823/c1002-40784525.html",
+   "summary": "中俄记者联合采访团8月20日至22日行至杭州，在杭州感受中国文化韵味。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "口岸跨境直播热：外籍主播带火中国好物",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0823/c1002-40784526.html",
+   "summary": "近年来，新疆霍尔果斯发挥中国向西开放重要窗口作用，依托中国（新疆）自由贸易试验区霍尔果斯片区和中哈霍尔果斯国际边境合作中心的区位、口岸物流和货源优势，催生外籍主播跨境直播带货新业态。一批中亚青年在口岸",
    "day": 0
   }
  ]
