@@ -1,16 +1,16 @@
 {
- "fetchedAt": "18:27",
+ "fetchedAt": "21:34",
  "fetchedDate": "2026-08-23",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨从这些生动比喻感悟正确政绩观",
+   "title": "新思想引领新征程｜用好红色资源 赓续红色血脉",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTIwE5KdVqm7jixWVSCVI2d260823.shtml",
-   "summary": "上海黄浦江畔，半淞园路街道市民新村居民区，曾经的“老破小”如今设立独立厨卫、加装电梯，屋外还有口袋花园，老街坊迎来新生活。",
+   "url": "https://tv.cctv.com/2026/08/23/VIDEKkEKc01ibVv3iXPYjv66260823.shtml",
+   "summary": "这个暑期，地跨15个省份的长征国家文化公园迎来参观热潮。泸定桥头，人们追忆飞夺险关的浴血冲锋；娄山关上，人们回顾四渡赤水的惊心动魄；在贵阳，超20万人次走进长征文化数字艺术馆，借助现代科技，重温红色历史，感悟长征精神。",
    "day": 0
   },
   {
@@ -25,12 +25,12 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "全国多个城市密集出台新政 你的住房公积金有这些新用途",
+   "theme": "环境",
+   "title": "青海：完善生态保护修复体系 筑牢“中华水塔”生态屏障",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTINTagGYAevMcXfKEiEQOY260823.shtml",
-   "summary": "b0da24b2f746,0,1,16:9,newPlayer9207252cf087,0,1,16:9,newPlayercb9cef7ffbbb,0,1,16:9,newPlayerb5f11de035c9,0,1,16:9,newPlayer927827e2dec3,0,1,16:9,newP…",
+   "url": "https://tv.cctv.com/2026/08/23/VIDETrbLzwI0UkSKlMCG1Vvt260823.shtml",
+   "summary": "【凝心聚力，真抓实干，奋力实现“十五五”良好开局】青海：完善生态保护修复体系，筑牢“中华水塔”生态屏障。",
    "day": 0
   },
   {
@@ -45,12 +45,22 @@
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "建设改造里程约7400公里 环疆通海“黄金大外环”要来了",
+   "theme": "要闻",
+   "title": "中国第16次北冰洋考察冰站调查全部完成",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTID80YonNiF7p4wu2UFy10260823.shtml",
-   "summary": "451e47f546a0,0,1,16:9,newPlayer6314e54f95dd,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/23/VIDEbiTxJD6xsJbGnkFWxqcZ260823.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "海空接力救援 人民海军成功救助重伤渔民",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/23/VIDEDQoMBAdi1V7KsPJdFfCW260823.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -60,16 +70,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/23/VIDEbbQpNKUgFS1F5eU5Zpo2260823.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "暑期探馆｜去中国非遗馆一次打卡35座“廊桥”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEaAEJNrcxfnnfCb9idCNm260823.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,21 +106,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "被解雇的部长告诉英国广播公司，泽伦斯基有关于政府腐败的“问题需要回答”",
+   "title": "被解雇的部长告诉BBC，泽伦斯基应该被问到他对政府腐败了解多少",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-   "summary": "被解雇的前国防部长还呼吁在乌克兰举行选举。",
+   "summary": "米哈伊洛·费多罗夫还呼吁在乌克兰举行战时选举。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "警方称，17岁女孩在瑞典持剑袭击中丧生",
+   "title": "刚果民主共和国与“M23”叛军就和平谈判路线图达成一致",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-   "summary": "两名 12 岁和 17 岁的男孩也受伤，一名 18 岁的嫌疑人已被拘留。",
+   "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+   "summary": "代表们在瑞士会面，制定解决冲突的后续步骤。",
    "day": 0
   },
   {
@@ -136,11 +136,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "机器人在世界人形运动会上参加拳击、足球和短跑比赛",
+   "title": "“新赛季，新造型”——哈兰德透露新发型",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-   "summary": "为期五天的第二届比赛于周六在中国北京拉开帷幕。",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+   "summary": "曼城前锋埃尔林·哈兰德在社交媒体上展示了他的新发型。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "高尔夫品牌为展示女性被推倒的广告道歉",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+   "summary": "内容创作者 Good Good 道歉并删除了一则广告，该广告显示一名女子在伸手去拿一名男子的高尔夫球杆时被推倒在地。",
    "day": 0
   },
   {
@@ -151,6 +161,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
    "summary": "跑步者将在 2026 年悉尼马拉松比赛中获得一枚刻有德国体育场图案的奖牌。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "警方称，17岁女孩在瑞典持剑袭击中丧生",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+   "summary": "两名 12 岁和 17 岁的男孩也受伤，一名 18 岁的嫌疑人已被拘留。",
    "day": 0
   },
   {
