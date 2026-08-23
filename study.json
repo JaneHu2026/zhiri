@@ -1,8 +1,44 @@
 {
- "fetchedAt": "07:25",
+ "fetchedAt": "12:42",
  "fetchedDate": "2026-08-23",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "I Tested Ox Alpha (stealth model)!!!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-21 22:40:14",
+   "url": "https://www.youtube.com/watch?v=3INNP9KXxp4",
+   "points": [
+    "我测试了牛阿尔法（隐形模型） ！ ！ ！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-19 18:02:46",
+   "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+   "points": [
+    "DeepSeek刚刚让封闭的人工智能看起来很荒谬"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -14,6 +50,78 @@
    "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
    "points": [
     "跳钉拼图"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "Save your token cost with Gemini 3.7 Flash!!!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-14 21:54:23",
+   "url": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
+   "points": [
+    "使用Gemini 3.7 Flash ，节省您的代币成本！ ！ ！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-14 08:42:07",
+   "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+   "points": [
+    "克劳德人工智能失败650次……然后打破人类纪录"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "OpenAI’s AI Agents Just Crossed A Line",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-11 15:35:35",
+   "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+   "points": [
+    "OpenAI的人工智能特工刚刚越界"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "The Right Harness is All You Need - For local Frontier AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-08 17:22:18",
+   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+   "points": [
+    "合适的线束就是您所需的一切-适合本地Frontier AI"
    ],
    "flags": {
     "fav": false,
@@ -41,84 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-16 11:56:04",
-   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-   "points": [
-    "但是什么是交叉熵？ |压迫就是智力第2部分"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "How I use LLMs",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-27 22:29:56",
-   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-   "points": [
-    "我如何使用LLM"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Deep Dive into LLMs like ChatGPT",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-05 18:23:47",
-   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-   "points": [
-    "像ChatGPT一样深入了解LLM"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Let's reproduce GPT-2 (124M)",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2024-06-09 23:31:35",
-   "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-   "points": [
-    "让我们重现GPT-2 （ 124M ）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390791,
-   "updated": "2026-08-22T23:25:47.628371",
+   "heat": 390794,
+   "updated": "2026-08-23T04:42:50.923290",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -136,7 +172,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-22T23:25:47.628383",
+   "updated": "2026-08-23T04:42:50.923298",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -153,8 +189,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557412,
-   "updated": "2026-08-22T23:25:47.628385",
+   "heat": 557413,
+   "updated": "2026-08-23T04:42:50.923301",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -170,7 +206,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155610,
-   "updated": "2026-08-22T23:25:47.628387",
+   "updated": "2026-08-23T04:42:50.923303",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -187,8 +223,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611364,
-   "updated": "2026-08-22T23:25:47.628389",
+   "heat": 611365,
+   "updated": "2026-08-23T04:42:50.923306",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -205,8 +241,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659121,
-   "updated": "2026-08-22T23:25:47.628391",
+   "heat": 2659124,
+   "updated": "2026-08-23T04:42:50.923308",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [
     "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
@@ -223,8 +259,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58651,
-   "updated": "2026-08-22T23:25:47.628393",
+   "heat": 58652,
+   "updated": "2026-08-23T04:42:50.923311",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [
     "银河录像局CG迷8折优惠注册链接，https://nf.video/zp5gG 优惠券用完后购买任何产品都可以输入优惠码cgmi享受额外优惠 GPT4o官方网址 https://chatgpt.com"
@@ -242,7 +278,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015292,
-   "updated": "2026-08-22T23:25:47.628395",
+   "updated": "2026-08-23T04:42:50.923313",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [
     "你能想象一百万个这样蹦蹦跳跳的手雷向你奔来么？Salto机器人弹跳腿升级为夹爪，可以模拟松鼠在树枝间跳跃"
@@ -259,11 +295,11 @@
    "author": "抖音热榜",
    "title": "世界人形机器人运动会开幕",
    "duration": "—",
-   "heat": 10467875,
-   "updated": "2026-08-22T23:25:47.628397",
+   "heat": 9116216,
+   "updated": "2026-08-23T04:42:50.923315",
    "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95?type=general",
    "points": [
-    "热门话题「世界人形机器人运动会开幕」：相关视频 9 条"
+    "热门话题「世界人形机器人运动会开幕」：相关视频 10 条"
    ],
    "flags": {
     "fav": false,
@@ -278,7 +314,7 @@
    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T23:25:47.628399",
+   "updated": "2026-08-23T04:42:50.923318",
    "url": "https://www.qbitai.com/2026/08/477253.html",
    "points": [
     "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
@@ -296,7 +332,7 @@
    "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T23:25:47.628401",
+   "updated": "2026-08-23T04:42:50.923320",
    "url": "https://www.qbitai.com/2026/08/477246.html",
    "points": [],
    "flags": {
@@ -312,7 +348,7 @@
    "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T23:25:47.628402",
+   "updated": "2026-08-23T04:42:50.923322",
    "url": "https://www.qbitai.com/2026/08/477155.html",
    "points": [],
    "flags": {
@@ -328,7 +364,7 @@
    "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T23:25:47.628404",
+   "updated": "2026-08-23T04:42:50.923324",
    "url": "https://www.qbitai.com/2026/08/477090.html",
    "points": [
     "将真实场景重建为持续更新、可计算的4D数字世界。"
@@ -346,7 +382,7 @@
    "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T23:25:47.628406",
+   "updated": "2026-08-23T04:42:50.923326",
    "url": "https://www.qbitai.com/2026/08/476965.html",
    "points": [],
    "flags": {
@@ -362,10 +398,28 @@
    "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-22T23:25:47.628407",
+   "updated": "2026-08-23T04:42:50.923327",
    "url": "https://www.qbitai.com/2026/08/476930.html",
    "points": [
     "让具身智能技术真正落地千行万业。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能的风险：用户需要了解的内容",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-08-23",
+   "url": "https://moztako.me/hidden-risks-of-artificial-intelligence/",
+   "points": [
+    "人工智能的风险：用户需要了解的内容"
    ],
    "flags": {
     "fav": false,
@@ -456,24 +510,6 @@
    "url": "https://www.infoq.com/news/2026/08/code-AI-write-only-disposable/",
    "points": [
     "人工智能时代的代码变得只写和一次性"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "青少年男孩在学校使用Meta眼镜骚扰和欺负女孩",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-08-21",
-   "url": "https://futurism.com/artificial-intelligence/teen-boys-meta-glasses-harass-bully-girls-school",
-   "points": [
-    "青少年男孩在学校使用Meta眼镜骚扰和欺负女孩"
    ],
    "flags": {
     "fav": false,
