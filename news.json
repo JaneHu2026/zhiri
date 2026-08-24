@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:54",
- "fetchedDate": "2026-08-24",
+ "fetchedAt": "06:29",
+ "fetchedDate": "2026-08-25",
  "source": "zhiri-server",
  "items": [
   {
@@ -36,21 +36,21 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "【央视快评】努力创造经得起实践人民历史检验的实绩",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIl1bunzq2jHZfJx3Z8rvn260824.shtml",
+   "summary": "习近平总书记近日作出重要指示强调，树立和践行正确政绩观是一项长期任务，必须久久为功，不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干，努力创造经得起实践、人民、历史检验的实绩。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "天天学习｜创新不问出身",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/24/ARTIJG3dddwlQlIgZ5tAxo61260820.shtml",
    "summary": "从“既要重视成功，更要宽容失败”到“创新不问出身，英雄不论出处”，从“不能让繁文缛节把科学家的手脚捆死了”到“大力破除论资排辈、圈子文化”，总书记倡导实行“揭榜挂帅”“赛马”等制度，鼓励广大科技工作者大胆探索创新。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "新技术、新方案助力机器人产业加速迈向规模化量产",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTITd9siHWiBSBBLj7WnDsp260824.shtml",
-   "summary": "3836d1d34a9a,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -65,21 +65,21 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "废弃矿山“绿色变身”藏着工业遗产焕新密码",
+   "theme": "科技",
+   "title": "新技术、新方案助力机器人产业加速迈向规模化量产",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIJaFXcAcfXDSnNponhEP8260824.shtml",
+   "url": "https://news.cctv.com/2026/08/24/ARTITd9siHWiBSBBLj7WnDsp260824.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "乡村消费加速升级‌ 奔“县”消费潮有“烟火气”更有“新活力”",
+   "title": "废弃矿山“绿色变身”藏着工业遗产焕新密码",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIkvLZPqztDnN2139bZ7Gf260824.shtml",
+   "url": "https://news.cctv.com/2026/08/24/ARTIJaFXcAcfXDSnNponhEP8260824.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,6 +106,26 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be is",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+   "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
    "source": "BBC",
    "time": "今天",
@@ -116,11 +136,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+   "title": "Israel warns of 'forceful' response to kites flown from Gaza",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be is",
+   "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
    "day": 0
   },
   {
@@ -136,6 +156,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+   "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Nearly three million Teslas recalled in China over hidden door handles",
    "source": "BBC",
    "time": "今天",
@@ -146,41 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Access to Zambian courts prevented as election petition deadline looms",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "Sonya Massey's killer Sean Grayson dies in US prison",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
    "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Four arrested over suspected poisoning of elephants in Kenya",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-   "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "China probes use of formaldehyde to keep cabbages fresh",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
    "day": 0
   },
   {
@@ -201,6 +201,26 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/0824/c1002-40784994.html",
    "summary": "8月22日，一艘由土耳其航运公司运营的名为“乌拉尔”号的商船抵达土耳其北部港口萨姆松。“乌拉尔”号商船8月22日遇袭后返回土耳其北部港口萨姆松。该船当天凌晨在俄罗斯黑海港口新罗西斯克附近海域遭袭，造成",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "认知工作室 | 从“冲击”到“挤压…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784988.html",
+   "summary": "“十五五”开局之年，中国经济交出一份亮眼成绩单：上半年GDP同比增长4.7%，货物进出口总额同比增长16.9%，“中国智造”成为中国式现代化的亮丽名片，中国新能源产品出口在全球市场占据领先地位。然而，",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "财经",
+   "title": "经济热点问答丨加美贸易谈判为何谈崩了",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784931.html",
+   "summary": "新华社渥太华8月22日电 经济热点问答｜加美贸易谈判为何谈崩了 新华社记者林威 加拿大总理卡尼21日深夜发表声明，宣布即刻暂停与美国的贸易谈判，召回加拿大谈判代表团，并于22日发表全国电视讲话",
    "day": 0
   }
  ]
