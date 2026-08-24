@@ -1,16 +1,56 @@
 {
- "fetchedAt": "09:35",
+ "fetchedAt": "12:50",
  "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微周刊丨总书记的一周（8月17日—8月23日）",
+   "title": "时政微周刊｜总书记的一周（8月17日—8月23日）",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/24/ARTIfdvjkCON8RiGAnvM9qAc260824.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "天天学习｜创新不问出身",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIJG3dddwlQlIgZ5tAxo61260820.shtml",
+   "summary": "从“既要重视成功，更要宽容失败”到“创新不问出身，英雄不论出处”，从“不能让繁文缛节把科学家的手脚捆死了”到“大力破除论资排辈、圈子文化”，总书记倡导实行“揭榜挂帅”“赛马”等制度，鼓励广大科技工作者大胆探索创新。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "2026世界机器人大会闭幕 新技术集中亮相 加速落地应用",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/24/VIDEMmjbtYTU8rgUlNPKxPqQ260824.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "《平凡匠心》刻砖守艺",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/24/VIDEYCV7PkFfV7pv69KAkI1q260824.shtml",
+   "summary": "本期节目主要内容：满眼的青色砖雕让宁夏南部隆德县凤岭乡于河村这个农家小院别有洞天，山水花鸟，题材万千，本来寻常的泥土在匠人的妙思和巧手下完成了它们的生命跃迁。（《平凡匠心》 20260823 刻砖守艺）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "星火成炬 沃野新篇｜世事万千 好好吃饭",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIWVLzQtevxNes1X0Z9wou260824.shtml",
+   "summary": "一桌家里的热乎饭，可能是每个人心中真正的“漂亮饭”；一句“好好吃饭”，可能是通用的幸福答案。",
    "day": 0
   },
   {
@@ -30,56 +70,16 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/24/ARTINYs6R8mb6zCHU3euD2G1260824.shtml",
-   "summary": "风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值（GDP）同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "打破多项纪录 第二届世界人形机器人运动会在比什么？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTI5gs5k5dOw8cjOOaLt4Ka260824.shtml",
-   "summary": "72bf0e0dd83d,0,1,16:9,newPlayer6fe320e4b7fc,0,1,16:9,newPlayerbecedcf4bfda,0,1,16:9,newPlayerc7150dccbc3e,0,1,16:9,newPlayer96992bc0cf78,0,1,16:9,newP…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "从词元工厂到词元超市 AI时代的“前店后厂”如何运转",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIGHAiBY2ZNJwlS9UHbVfb260823.shtml",
-   "summary": "随着人工智能大模型加速落地，词元时代到来，全国各地掀起布局热潮——从词元工厂到词元超市，从数据标注基地到AI模型工场，各类新业态层出不穷。陕西今年6月上线了西部首个词元交易平台——陕西丝路词元交易平台。平台运行两个月来效果如何？词元从生产到交易总共分几步？词元消费时代，下一个竞争重点是什么？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "下月20日施行 不再“买房专用” 住房公积金还能干啥？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIPI4w13z1KviRIa1jmWv3260824.shtml?spm=C94212.PBZrLs0D62ld.Ewq6JXbGyuuh.4",
-   "summary": "006d80a2b18c,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "解读：人民币买卖新规 监管要求有何考量？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIex1bNW9pLNp1C3JaM7q5260823.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "高价仍抢手 纯电船的吸引力在哪儿？来看记者调研",
+   "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/24/VIDE0cDOntd4Dt1VYcOxm9CF260824.shtml",
+   "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -101,6 +101,56 @@
    "time": "今天",
    "url": "https://www.news.cn/government/20260824/c1b3ead3b0a54715b55230383f18ef10/c.html",
    "summary": "应急小课堂 | 地质灾害避险系列微动漫-为大力普及地质灾害防治知识，提升广大群众风险防范意识和避险自救能力，自然资源部联合地方有关部门，策划制作了地质灾害避险系列科普微动漫，围绕崩塌、泥石流、滑坡三种地质灾害类型，用生动有趣的形式科普地质灾害识灾、辨灾、避灾知识。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Shein aims for almost $27bn valuation in stock market debut",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+   "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+   "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Australian shark attack victim grateful for 'second chance at life'",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+   "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "环境",
+   "title": "中国为亚太能源合作贡献力量",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0824/c1002-40784924.html",
+   "summary": "8月22日，亚太经济合作组织（APEC）2026年第三次高官会及相关会议的部分与会代表在大连参观辽渔集团科技馆。新华社记者李钢摄 新华社沈阳8月23日电题：中国为亚太能源合作贡献力量 新华社记者武",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "土耳其黑海遇袭商船返港",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0824/c1002-40784994.html",
+   "summary": "8月22日，一艘由土耳其航运公司运营的名为“乌拉尔”号的商船抵达土耳其北部港口萨姆松。“乌拉尔”号商船8月22日遇袭后返回土耳其北部港口萨姆松。该船当天凌晨在俄罗斯黑海港口新罗西斯克附近海域遭袭，造成",
    "day": 0
   }
  ]
