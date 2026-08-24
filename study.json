@@ -1,5 +1,5 @@
 {
- "fetchedAt": "18:41",
+ "fetchedAt": "21:56",
  "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "二白午",
    "title": "原创民俗AI短片《槐灯》",
    "duration": "18:18",
-   "heat": 1408733,
-   "updated": "2026-08-24T10:41:53.217876",
+   "heat": 1634193,
+   "updated": "2026-08-24T13:56:07.705762",
    "url": "https://www.bilibili.com/video/BV15B8z61EbV",
    "points": [
     "这天，槐荫村来了一个逃兵"
@@ -171,8 +171,8 @@
    "author": "混饭达人",
    "title": "和AI猜历史人物，双方都上头了",
    "duration": "6:19",
-   "heat": 965753,
-   "updated": "2026-08-24T10:41:53.217889",
+   "heat": 1026273,
+   "updated": "2026-08-24T13:56:07.705776",
    "url": "https://www.bilibili.com/video/BV1KW8w68EJT",
    "points": [
     "嘿嘿 久等啦"
@@ -186,11 +186,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "极客湾Geekerwan",
+   "title": "小米玄戒O3芯片前瞻上手：外星科技！",
+   "duration": "16:18",
+   "heat": 574713,
+   "updated": "2026-08-24T13:56:07.705779",
+   "url": "https://www.bilibili.com/video/BV1fhhP6xEMp",
+   "points": [
+    "又一年新机潮开始了，这次登场的首个旗舰手机芯片是小米的玄戒O3！它的表现到底有多强？一起来看看吧……"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390812,
-   "updated": "2026-08-24T10:41:53.217892",
+   "heat": 390813,
+   "updated": "2026-08-24T13:56:07.705781",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -208,7 +226,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-24T10:41:53.217894",
+   "updated": "2026-08-24T13:56:07.705783",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -226,7 +244,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557420,
-   "updated": "2026-08-24T10:41:53.217896",
+   "updated": "2026-08-24T13:56:07.705786",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -241,8 +259,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155611,
-   "updated": "2026-08-24T10:41:53.217899",
+   "heat": 155612,
+   "updated": "2026-08-24T13:56:07.705788",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -260,7 +278,7 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611373,
-   "updated": "2026-08-24T10:41:53.217901",
+   "updated": "2026-08-24T13:56:07.705790",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -273,15 +291,31 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2659140,
-   "updated": "2026-08-24T10:41:53.217903",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-24T13:56:07.705793",
+   "url": "https://www.qbitai.com/2026/08/478670.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-24T13:56:07.705795",
+   "url": "https://www.qbitai.com/2026/08/478568.html",
    "points": [
-    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
+    "全球大厂开始押注的AI科研，终于有了统一标准"
    ],
    "flags": {
     "fav": false,
@@ -296,7 +330,7 @@
    "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-24T10:41:53.217906",
+   "updated": "2026-08-24T13:56:07.705797",
    "url": "https://www.qbitai.com/2026/08/478473.html",
    "points": [
     "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
@@ -314,7 +348,7 @@
    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-24T10:41:53.217908",
+   "updated": "2026-08-24T13:56:07.705800",
    "url": "https://www.qbitai.com/2026/08/478469.html",
    "points": [
     "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
@@ -332,7 +366,7 @@
    "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-24T10:41:53.217910",
+   "updated": "2026-08-24T13:56:07.705802",
    "url": "https://www.qbitai.com/2026/08/478447.html",
    "points": [
     "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。"
@@ -350,43 +384,11 @@
    "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-24T10:41:53.217912",
+   "updated": "2026-08-24T13:56:07.705803",
    "url": "https://www.qbitai.com/2026/08/478427.html",
    "points": [
     "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
    ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T10:41:53.217914",
-   "url": "https://www.qbitai.com/2026/08/478421.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T10:41:53.217916",
-   "url": "https://www.qbitai.com/2026/08/478358.html",
-   "points": [],
    "flags": {
     "fav": false,
     "watched": false,

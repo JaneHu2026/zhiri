@@ -1,36 +1,36 @@
 {
- "fetchedAt": "18:40",
+ "fetchedAt": "21:54",
  "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "教育",
+   "title": "习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIN5v7yMdRpPB5iv6LiPd0260824.shtml",
+   "summary": "新华社北京8月24日电 中共中央总书记、国家主席、中央军委主席习近平近日作出重要指示强调，树立和践行正确政绩观是一项长期任务，必须久久为功，不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干，努力创造经得起实践、人民、历史检验的实绩。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "中央党的建设工作领导小组24日召开会议，深入学习贯彻习近平总书记重要指示精神，总结树立和践行正确政绩观学习教育，研究部署巩固拓展学习教育成果",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIN5v7yMdRpPB5iv6LiPd0260824.shtml",
+   "summary": "新华社北京8月24日电 中共中央总书记、国家主席、中央军委主席习近平近日作出重要指示强调，树立和践行正确政绩观是一项长期任务，必须久久为功，不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干，努力创造经得起实践、人民、历史检验的实绩。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
    "title": "习近平同约旦国王阿卜杜拉二世会谈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIU0ew8fQt7pgyF9A0tDnv260824.shtml",
-   "summary": "新华社北京8月24日电 8月24日，国家主席习近平在北京同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平为约旦国王阿卜杜拉二世举行欢迎仪式｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIHmYufoCxVkUdRBrL1Riy260824.shtml",
-   "summary": "新华社快讯：8月24日，国家主席习近平在北京为来华进行国事访问的约旦国王阿卜杜拉二世举行欢迎仪式。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "习近平同约旦国王阿卜杜拉二世共同出席合作文件签字仪式",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIPofQrMv9cgDET0qelaBx260824.shtml",
-   "summary": "新华社快讯：8月24日，国家主席习近平同约旦国王阿卜杜拉二世在北京共同出席合作文件签字仪式。",
+   "url": "https://news.cctv.com/2026/08/24/ARTI6eRQBGYXeWz7AqlDHUPG260824.shtml",
+   "summary": "8月24日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
    "day": 0
   },
   {
@@ -106,21 +106,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+   "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+   "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+   "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+   "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be is",
    "day": 0
   },
   {
@@ -136,36 +136,6 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Zambia courts sealed off as election petition deadline looms",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "China probes use of formaldehyde to keep cabbages fresh",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-   "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "Nearly three million Teslas recalled in China over hidden door handles",
    "source": "BBC",
    "time": "今天",
@@ -176,11 +146,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+   "title": "Access to Zambian courts prevented as election petition deadline looms",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-   "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold",
+   "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+   "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Four arrested over suspected poisoning of elephants in Kenya",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+   "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "China probes use of formaldehyde to keep cabbages fresh",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
    "day": 0
   },
   {
