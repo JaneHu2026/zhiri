@@ -1,5 +1,5 @@
 {
- "fetchedAt": "12:51",
+ "fetchedAt": "18:41",
  "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "二白午",
    "title": "原创民俗AI短片《槐灯》",
    "duration": "18:18",
-   "heat": 1017307,
-   "updated": "2026-08-24T04:51:39.545277",
+   "heat": 1408733,
+   "updated": "2026-08-24T10:41:53.217876",
    "url": "https://www.bilibili.com/video/BV15B8z61EbV",
    "points": [
     "这天，槐荫村来了一个逃兵"
@@ -168,11 +168,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "混饭达人",
+   "title": "和AI猜历史人物，双方都上头了",
+   "duration": "6:19",
+   "heat": 965753,
+   "updated": "2026-08-24T10:41:53.217889",
+   "url": "https://www.bilibili.com/video/BV1KW8w68EJT",
+   "points": [
+    "嘿嘿 久等啦"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390809,
-   "updated": "2026-08-24T04:51:39.545290",
+   "heat": 390812,
+   "updated": "2026-08-24T10:41:53.217892",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -190,7 +208,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-24T04:51:39.545293",
+   "updated": "2026-08-24T10:41:53.217894",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -207,8 +225,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557418,
-   "updated": "2026-08-24T04:51:39.545295",
+   "heat": 557420,
+   "updated": "2026-08-24T10:41:53.217896",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -224,7 +242,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155611,
-   "updated": "2026-08-24T04:51:39.545297",
+   "updated": "2026-08-24T10:41:53.217899",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -241,8 +259,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611372,
-   "updated": "2026-08-24T04:51:39.545300",
+   "heat": 611373,
+   "updated": "2026-08-24T10:41:53.217901",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -259,8 +277,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659137,
-   "updated": "2026-08-24T04:51:39.545302",
+   "heat": 2659140,
+   "updated": "2026-08-24T10:41:53.217903",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [
     "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
@@ -273,15 +291,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "CG迷李辰",
-   "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
-   "duration": "21:11",
-   "heat": 58655,
-   "updated": "2026-08-24T04:51:39.545304",
-   "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-24T10:41:53.217906",
+   "url": "https://www.qbitai.com/2026/08/478473.html",
    "points": [
-    "银河录像局CG迷8折优惠注册链接，https://nf.video/zp5gG 优惠券用完后购买任何产品都可以输入优惠码cgmi享受额外优惠 GPT4o官方网址 https://chatgpt.com"
+    "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
    ],
    "flags": {
     "fav": false,
@@ -291,16 +309,68 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "宋雨琦AI照进现实了",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
    "duration": "—",
-   "heat": 7672618,
-   "updated": "2026-08-24T04:51:39.545306",
-   "url": "https://www.douyin.com/search/%E5%AE%8B%E9%9B%A8%E7%90%A6AI%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E4%BA%86?type=general",
+   "heat": 0,
+   "updated": "2026-08-24T10:41:53.217908",
+   "url": "https://www.qbitai.com/2026/08/478469.html",
    "points": [
-    "热门话题「宋雨琦AI照进现实了」：相关视频 1 条"
+    "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-24T10:41:53.217910",
+   "url": "https://www.qbitai.com/2026/08/478447.html",
+   "points": [
+    "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-24T10:41:53.217912",
+   "url": "https://www.qbitai.com/2026/08/478427.html",
+   "points": [
+    "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-24T10:41:53.217914",
+   "url": "https://www.qbitai.com/2026/08/478421.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -314,94 +384,8 @@
    "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-24T04:51:39.545308",
+   "updated": "2026-08-24T10:41:53.217916",
    "url": "https://www.qbitai.com/2026/08/478358.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "具身创业里的香港教授们",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T04:51:39.545310",
-   "url": "https://www.qbitai.com/2026/08/478289.html",
-   "points": [
-    "香港的大学里冒出了一批很特别的人"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T04:51:39.545312",
-   "url": "https://www.qbitai.com/2026/08/478234.html",
-   "points": [
-    "多多支持像王兴兴这样优秀的具身机器人创业者"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T04:51:39.545314",
-   "url": "https://www.qbitai.com/2026/08/478191.html",
-   "points": [
-    "Tokenizer、视频编码、API报错全扒一遍"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T04:51:39.545316",
-   "url": "https://www.qbitai.com/2026/08/478164.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24T04:51:39.545318",
-   "url": "https://www.qbitai.com/2026/08/478017.html",
    "points": [],
    "flags": {
     "fav": false,

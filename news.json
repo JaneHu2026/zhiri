@@ -1,16 +1,36 @@
 {
- "fetchedAt": "12:50",
+ "fetchedAt": "18:40",
  "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微周刊｜总书记的一周（8月17日—8月23日）",
+   "title": "习近平同约旦国王阿卜杜拉二世会谈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIfdvjkCON8RiGAnvM9qAc260824.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/24/ARTIU0ew8fQt7pgyF9A0tDnv260824.shtml",
+   "summary": "新华社北京8月24日电 8月24日，国家主席习近平在北京同来华进行国事访问的约旦国王阿卜杜拉二世举行会谈。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平为约旦国王阿卜杜拉二世举行欢迎仪式｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIHmYufoCxVkUdRBrL1Riy260824.shtml",
+   "summary": "新华社快讯：8月24日，国家主席习近平在北京为来华进行国事访问的约旦国王阿卜杜拉二世举行欢迎仪式。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "习近平同约旦国王阿卜杜拉二世共同出席合作文件签字仪式",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIPofQrMv9cgDET0qelaBx260824.shtml",
+   "summary": "新华社快讯：8月24日，国家主席习近平同约旦国王阿卜杜拉二世在北京共同出席合作文件签字仪式。",
    "day": 0
   },
   {
@@ -26,60 +46,40 @@
   {
    "group": "gn",
    "theme": "科技",
-   "title": "2026世界机器人大会闭幕 新技术集中亮相 加速落地应用",
+   "title": "新技术、新方案助力机器人产业加速迈向规模化量产",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/24/VIDEMmjbtYTU8rgUlNPKxPqQ260824.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "《平凡匠心》刻砖守艺",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/24/VIDEYCV7PkFfV7pv69KAkI1q260824.shtml",
-   "summary": "本期节目主要内容：满眼的青色砖雕让宁夏南部隆德县凤岭乡于河村这个农家小院别有洞天，山水花鸟，题材万千，本来寻常的泥土在匠人的妙思和巧手下完成了它们的生命跃迁。（《平凡匠心》 20260823 刻砖守艺）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "星火成炬 沃野新篇｜世事万千 好好吃饭",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIWVLzQtevxNes1X0Z9wou260824.shtml",
-   "summary": "一桌家里的热乎饭，可能是每个人心中真正的“漂亮饭”；一句“好好吃饭”，可能是通用的幸福答案。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "营造风清气正的政治生态",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIaCwLPchZioBpp7IeYHn0260824.shtml",
-   "summary": "“营造风清气正的政治生态”，是加强党的政治建设的基础性、经常性工作。习近平总书记对此高度重视，指出：“政治生态好，干部队伍就会风清气正、心齐气顺，社会风气就会积极向上、充满正能量。”",
+   "url": "https://news.cctv.com/2026/08/24/ARTITd9siHWiBSBBLj7WnDsp260824.shtml",
+   "summary": "3836d1d34a9a,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "上半年经济增长4.7%说明了什么？",
+   "title": "粮食收购进行时：稳市场兜收益 最低收购价保护农民利益",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTINYs6R8mb6zCHU3euD2G1260824.shtml",
+   "url": "https://tv.cctv.com/2026/08/24/VIDEgEdKfeDpl6SZbwcCAmGf260824.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
+   "title": "废弃矿山“绿色变身”藏着工业遗产焕新密码",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
+   "url": "https://news.cctv.com/2026/08/24/ARTIJaFXcAcfXDSnNponhEP8260824.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "乡村消费加速升级‌ 奔“县”消费潮有“烟火气”更有“新活力”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIkvLZPqztDnN2139bZ7Gf260824.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,17 +106,67 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Shein aims for almost $27bn valuation in stock market debut",
+   "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-   "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+   "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+   "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+   "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "King of Norway's health has worsened, palace says",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+   "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Zambia courts sealed off as election petition deadline looms",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "China probes use of formaldehyde to keep cabbages fresh",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+   "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Nearly three million Teslas recalled in China over hidden door handles",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
@@ -126,11 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Australian shark attack victim grateful for 'second chance at life'",
+   "title": "Maradona's 'Hand of God' ball sells for £2.5m",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-   "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+   "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold",
    "day": 0
   },
   {
