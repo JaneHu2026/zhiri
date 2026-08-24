@@ -1,206 +1,106 @@
 {
- "fetchedAt": "07:24",
+ "fetchedAt": "09:35",
  "fetchedDate": "2026-08-24",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "新思想引领新征程｜用好红色资源 赓续红色血脉",
+   "title": "时政微周刊丨总书记的一周（8月17日—8月23日）",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEKkEKc01ibVv3iXPYjv66260823.shtml",
-   "summary": "这个暑期，地跨15个省份的长征国家文化公园迎来参观热潮。泸定桥头，人们追忆飞夺险关的浴血冲锋；娄山关上，人们回顾四渡赤水的惊心动魄；在贵阳，超20万人次走进长征文化数字艺术馆，借助现代科技，重温红色历史，感悟长征精神。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "在轨将满三个月！神二十三乘组太空周记上新",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEYcoTOjf88PXOTY2KNew9260823.shtml",
-   "summary": "神二十三乘组“太空出差”将满三个月：空间科学实（试）验、健康管理等同步推进。",
+   "url": "https://news.cctv.com/2026/08/24/ARTIfdvjkCON8RiGAnvM9qAc260824.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "环境",
-   "title": "青海：完善生态保护修复体系 筑牢“中华水塔”生态屏障",
+   "title": "营造风清气正的政治生态",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDETrbLzwI0UkSKlMCG1Vvt260823.shtml",
-   "summary": "【凝心聚力，真抓实干，奋力实现“十五五”良好开局】青海：完善生态保护修复体系，筑牢“中华水塔”生态屏障。",
+   "url": "https://news.cctv.com/2026/08/24/ARTIaCwLPchZioBpp7IeYHn0260824.shtml",
+   "summary": "“营造风清气正的政治生态”，是加强党的政治建设的基础性、经常性工作。习近平总书记对此高度重视，指出：“政治生态好，干部队伍就会风清气正、心齐气顺，社会风气就会积极向上、充满正能量。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "上半年经济增长4.7%说明了什么？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTINYs6R8mb6zCHU3euD2G1260824.shtml",
+   "summary": "风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值（GDP）同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "核心部件实现自主突围 国产机器人加速“驶入”真实场景",
+   "title": "打破多项纪录 第二届世界人形机器人运动会在比什么？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/23/ARTIbOcIjNHOaz9xiuWLEEw4260823.shtml",
-   "summary": "9939593a987c,0,1,16:9,newPlayer2bf4ec2f09a7,0,1,16:9,newPlayer8cdd4ce0caaa,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国第16次北冰洋考察冰站调查全部完成",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEbiTxJD6xsJbGnkFWxqcZ260823.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "海空接力救援 人民海军成功救助重伤渔民",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEDQoMBAdi1V7KsPJdFfCW260823.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "边境线上巾帼红 “鸽子姐”扎根北疆巡边护边30年",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEbbQpNKUgFS1F5eU5Zpo2260823.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "每周质量报告｜无证繁育、交易混乱……保护动物违规交易调查",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/23/VIDEnhnHYfjdr3mrrj1ERpsJ260823.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/24/ARTI5gs5k5dOw8cjOOaLt4Ka260824.shtml",
+   "summary": "72bf0e0dd83d,0,1,16:9,newPlayer6fe320e4b7fc,0,1,16:9,newPlayerbecedcf4bfda,0,1,16:9,newPlayerc7150dccbc3e,0,1,16:9,newPlayer96992bc0cf78,0,1,16:9,newP…",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻",
+   "title": "从词元工厂到词元超市 AI时代的“前店后厂”如何运转",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIGHAiBY2ZNJwlS9UHbVfb260823.shtml",
+   "summary": "随着人工智能大模型加速落地，词元时代到来，全国各地掀起布局热潮——从词元工厂到词元超市，从数据标注基地到AI模型工场，各类新业态层出不穷。陕西今年6月上线了西部首个词元交易平台——陕西丝路词元交易平台。平台运行两个月来效果如何？词元从生产到交易总共分几步？词元消费时代，下一个竞争重点是什么？",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "下月20日施行 不再“买房专用” 住房公积金还能干啥？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIPI4w13z1KviRIa1jmWv3260824.shtml?spm=C94212.PBZrLs0D62ld.Ewq6JXbGyuuh.4",
+   "summary": "006d80a2b18c,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "解读：人民币买卖新规 监管要求有何考量？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/24/ARTIex1bNW9pLNp1C3JaM7q5260823.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "高价仍抢手 纯电船的吸引力在哪儿？来看记者调研",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/24/VIDE0cDOntd4Dt1VYcOxm9CF260824.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "国务院食安办等多部门指导地方严查甲醛白菜",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/digital/20260823/a382682940704f0a92525ed8a25b5b6a/c.html",
-   "summary": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻-\"从“蚂蚁搭桥”到无人机集群，从模块化机器人到城市交通治理，群体智能正从实验室概念，逐步成为解决复杂现实任务的关键路径。\"",
+   "url": "https://www.news.cn/government/20260824/36cb29f1c4d84e649ba5c9da7d97bf87/c.html",
+   "summary": "国务院食安办等多部门指导地方严查甲醛白菜-\"新华社北京8月23日电 国家市场监督管理总局23日晚发布消息，针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题，国务院食安办、农业农村部、市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对涉事白菜流向进行追查，严防问题产…",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "AIGC创意视频·处暑｜暑气渐收，静候秋凉",
+   "theme": "要闻",
+   "title": "应急小课堂 | 地质灾害避险系列微动漫",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/ci/20260823/2a7f6364f16f4c918860cd4b9b1ebd1b/c.html",
-   "summary": "AIGC创意视频·处暑｜暑气渐收，静候秋凉-",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-   "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Guinea rubbish landfill collapse kills 30",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-   "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-   "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "France links sharp rise in drownings to heatwaves",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-   "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-   "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Trump waves green flag to start IndyCar race through Washington streets",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-   "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Frustration builds in Indiana town struggling without power for 12 days",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-   "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "文化",
-   "title": "中俄记者在杭州感受中国文化韵味",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0823/c1002-40784525.html",
-   "summary": "中俄记者联合采访团8月20日至22日行至杭州，在杭州感受中国文化韵味。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "口岸跨境直播热：外籍主播带火中国好物",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0823/c1002-40784526.html",
-   "summary": "近年来，新疆霍尔果斯发挥中国向西开放重要窗口作用，依托中国（新疆）自由贸易试验区霍尔果斯片区和中哈霍尔果斯国际边境合作中心的区位、口岸物流和货源优势，催生外籍主播跨境直播带货新业态。一批中亚青年在口岸",
+   "url": "https://www.news.cn/government/20260824/c1b3ead3b0a54715b55230383f18ef10/c.html",
+   "summary": "应急小课堂 | 地质灾害避险系列微动漫-为大力普及地质灾害防治知识，提升广大群众风险防范意识和避险自救能力，自然资源部联合地方有关部门，策划制作了地质灾害避险系列科普微动漫，围绕崩塌、泥石流、滑坡三种地质灾害类型，用生动有趣的形式科普地质灾害识灾、辨灾、避灾知识。",
    "day": 0
   }
  ]
