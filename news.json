@@ -1,5 +1,5 @@
 {
- "fetchedAt": "06:30",
+ "fetchedAt": "07:27",
  "fetchedDate": "2026-08-26",
  "source": "zhiri-server",
  "items": [
@@ -15,71 +15,71 @@
   },
   {
    "group": "gn",
+   "theme": "要闻",
+   "title": "穿山跨海构建交通大动脉 为啥要建“黄金大外环”？权威解读",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/26/ARTIomQU1RsD5K6F8D7mpXGC260825.shtml",
+   "summary": "36690c181e58,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "科技",
-   "title": "从实验室走向千行百业 人形机器人跑出产业化“加速度”",
+   "title": "看热闹也要看门道 机器人运动会的科技“含金量”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIC5tCoTBUmuU4ZZ39cJxL260825.shtml",
-   "summary": "d8cc069ce928,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/26/ARTIa4H5ft3t0evVne9fuXbt260825.shtml",
+   "summary": "46f00acc4cf7,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "一箭七星！长征六号丙遥一运载火箭发射成功",
+   "title": "焦点访谈｜大汛来袭“预”字当先 全力守护江河安澜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIrR4y3NFMeZrEl2sG9dAH260825.shtml",
-   "summary": "8ce21adb0424,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/25/ARTIaBm7nsrDVOOQix5vMCvB260825.shtml",
+   "summary": "fac55136cd0c,0,0,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "优化预约分诊流程 多项配套机制落地推进家庭医生签约服务",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/26/ARTIPKX7sHlyTR2xpcO6oy1d260825.shtml",
+   "summary": "13847846c74d,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中白“神鹰-2026”空降兵联合训练圆满结束",
+   "title": "新闻1+1｜殷玉珍与“赛·考斯基” 跨越山海的民间友谊！",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/25/VIDEbXUv0vWlODiilETXbIhc260825.shtml",
+   "url": "https://tv.cctv.com/2026/08/25/VIDEakjZ4Sxk6FHOXVLTwVke260825.shtml",
+   "summary": "本期节目主要内容： 1999年，跟随“中美教师交换项目”来到中国任教的美国教师“赛·考斯基”筹集了5000美元，资助殷玉珍夫妇治沙造林。如今，用这笔善款购买栽种的树苗已长成5万多棵大树。阔别二十多年后，二人终于重逢。重逢的第二天，他们重返沙海，昔日共同种下的小树苗已长成参天大树，见证了这份跨越山海的…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "充电桩强制3C认证实施带来哪些改变？记者调查",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/26/ARTIMsbmLnfclxzd2Ro2VISN260825.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "全长11.6公里！国内在建里程最长海上钢栈桥全线贯通",
+   "theme": "财经",
+   "title": "环球视线｜美欲切断伊“经济命脉” 海湾格局正在重塑？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIJCHhXL157RNFKwbWlnl4260825.shtml",
-   "summary": "25日，东北地区规模最大的跨海大桥——大连长海大桥项目建设取得关键进展，全长11.6公里的海上主线钢栈桥较计划工期提前10天实现全线贯通。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "活力中国调研行｜福建泉州：从“网红”到“长红”的品质账",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/25/VIDEEq78jeqTs9S7LZOFUs8C260825.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "《文脉春秋·历史文化名城篇》甘肃敦煌",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/25/VIDEiY8um3tQRGOAKQVdvrM1260825.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "云海漫群山 晨光绘山河",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIuOJMDXq4bIIk5PKbV1Du260825.shtml",
+   "url": "https://tv.cctv.com/2026/08/25/VIDEWS7pDcSyeL0hszGlbfoA260825.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
