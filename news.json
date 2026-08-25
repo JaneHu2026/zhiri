@@ -1,8 +1,28 @@
 {
- "fetchedAt": "09:25",
+ "fetchedAt": "12:42",
  "fetchedDate": "2026-08-25",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "教育",
+   "title": "创造经得起实践、人民、历史检验的实绩——习近平总书记引领全党深入开展树立和践行正确政绩观学习教育",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/25/ARTIIUbhql52OuC9h9uvh6F7260825.shtml",
+   "summary": "“十五五”开局之年，在习近平总书记亲自指导、引领推动下，一场以县处级以上领导班子和领导干部特别是“一把手”为重点的党内集中教育——树立和践行正确政绩观学习教育在全党扎实深入开展。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "为民造福是最大政绩｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/25/ARTIzK0VABl1xV5pFer9Ekqc260825.shtml",
+   "summary": "近日，习近平总书记作出重要指示强调，树立和践行正确政绩观是一项长期任务，必须久久为功，不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干，努力创造经得起实践、人民、历史检验的实绩。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "科技",
@@ -11,6 +31,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/25/ARTIjbBi7SuMnW9QZoM2LzWL260824.shtml",
    "summary": "9a519d4596cb,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "活力中国调研行｜福建泉州：从“网红”到“长红”的品质账",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/25/VIDEEq78jeqTs9S7LZOFUs8C260825.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -25,11 +55,21 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "今年前7月我国交通运输主要指标保持增长",
+   "theme": "要闻",
+   "title": "云海漫群山 晨光绘山河",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/25/VIDEb4rFwmM1PMoq3A4ONeIG260825.shtml",
+   "url": "https://news.cctv.com/2026/08/25/ARTIuOJMDXq4bIIk5PKbV1Du260825.shtml",
+   "summary": "74d9f851dda2,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "前7个月交通运输领域交出亮眼“成绩单”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/25/ARTI1HpbS3QUtm9VoYpCtSBj260825.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -40,46 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/25/ARTIOFJPriYzmRV4fai4ozr9260825.shtml",
-   "summary": "树立和践行正确政绩观学习教育期间，习近平总书记再次到雄安新区深入考察，强调牢牢把握雄安新区作为北京非首都功能疏解集中承载地的首要功能定位，努力建设新时代创新高地和推动高质量发展样板。当地党员干部一体推进学查改，思想再统一，干劲再鼓足。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "首批国家公园生态系统质量和旗舰物种数量实现双提升",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTI9tdiCtbQNNJml8v6wRyv260824.shtml",
-   "summary": "312025a2f1c7,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“超级买家”买全球！义乌进口商品城里的“全球购物车”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIrktbTxzn9OXKQt9dq9hi260824.shtml",
-   "summary": "daed6bfe724c,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "平陆运河第二艘5000吨级智能船舶示范船下水试航",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIX7aKyHaf8Kjf2Wv1Ei2r260824.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "多台风同时活跃 将带来怎样的影响？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTITWs9ea1RKL9vZEkb0xsH260824.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,11 +126,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国将叙利亚从支持恐怖主义国家名单中删除",
+   "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+   "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US removes Syria from list of state sponsors of terrorism",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-   "summary": "特朗普政府欢迎叙利亚新总统、与基地组织有联系的前激进分子艾哈迈德·沙拉。",
+   "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "NZ religious sect leader jailed over death of Chinese follower",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+   "summary": "2024 年，70 岁的 Shulai Wang 的尸体在奥克兰的一个码头附近被发现。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国游客汽车陷入泥浆死亡谷死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+   "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
    "day": 0
   },
   {
@@ -140,17 +180,37 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-   "summary": "龙卷风已造成40多人受伤，村庄的房屋被毁。",
+   "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大如何反击损害美国经济 - 以及特朗普",
+   "title": "How Canada could hit back to hurt the US economy - and Trump",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-   "summary": "加拿大约70%的商品销往美国，在这场不断升级的贸易争端中究竟有什么筹码？",
+   "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "野火与干旱致欧洲一战二战未爆弹药频现",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0825/c1002-40785663.html",
+   "summary": "新华社北京8月24日电 随着欧洲经历形势严峻的野火季和干旱，一战、二战等时期遗留的弹药在植被被烧光或水面干涸后显露出来，有的甚至被野火引爆，大幅增加消防员面临的风险。 据美联社22日报道，法国、",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "是否重建海湾美军基地？美国左右为难",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0825/c1002-40785681.html",
+   "summary": "新华社北京8月24日电 美国和伊朗战事延宕近半年，伊朗对美国在海湾地区的多座军事基地发动反击，迫使美方审视重建遇袭基地是否“划算”。据英国《金融时报》23日报道，围绕重建议题，美国左右为难：若重建",
    "day": 0
   }
  ]
