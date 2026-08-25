@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:53",
- "fetchedDate": "2026-08-25",
+ "fetchedAt": "06:30",
+ "fetchedDate": "2026-08-26",
  "source": "zhiri-server",
  "items": [
   {
@@ -126,6 +126,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+   "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
    "source": "BBC",
    "time": "今天",
@@ -136,21 +146,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Lockerbie bombing trial postponed days before it was due to start",
+   "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-   "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+   "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+   "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "US removes Syria from list of state sponsors of terrorism",
+   "title": "Mass arrests in global crackdown on West African cyber-crime networks",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+   "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Brain disease in dead NFL players 'higher than previously shown'",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+   "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure cou",
    "day": 0
   },
   {
@@ -166,41 +186,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+   "title": "European rights court orders Turkey to free imprisoned businessman",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+   "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+   "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+   "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "French tourist dies in Death Valley after car gets stuck in mud",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-   "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "US firefighters say major blaze near Reno about a quarter contained",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+   "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+   "summary": "The footage shows dozens of men, women and children sitting in a forest.",
    "day": 0
   },
   {
