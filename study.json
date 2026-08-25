@@ -1,5 +1,5 @@
 {
- "fetchedAt": "18:37",
+ "fetchedAt": "21:54",
  "fetchedDate": "2026-08-25",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-08-08 17:22:18",
    "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
    "points": [
-    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
+    "合适的线束就是您所需的一切-适合本地Frontier AI"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +31,7 @@
    "updated": "2026-07-22 16:28:16",
    "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
    "points": [
-    "OpenAI 攻击了 HuggingFace"
+    "OpenAI入侵HuggingFace"
    ],
    "flags": {
     "fav": false,
@@ -49,7 +49,7 @@
    "updated": "2026-07-20 15:05:01",
    "url": "https://www.youtube.com/watch?v=GkClGdrGViQ",
    "points": [
-    "您可以每秒下载更多代币"
+    "您只需下载更多令牌/秒"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +67,7 @@
    "updated": "2025-02-27 22:29:56",
    "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
    "points": [
-    "我如何使用法学硕士"
+    "我如何使用LLM"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2025-02-05 18:23:47",
    "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
    "points": [
-    "深入研究 ChatGPT 等法学硕士"
+    "像ChatGPT一样深入了解LLM"
    ],
    "flags": {
     "fav": false,
@@ -103,25 +103,7 @@
    "updated": "2024-06-09 23:31:35",
    "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
    "points": [
-    "我们来重现GPT-2（124M）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "二白午",
-   "title": "原创民俗AI短片《槐灯》",
-   "duration": "18:18",
-   "heat": 2609082,
-   "updated": "2026-08-25T10:37:24.934770",
-   "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-   "points": [
-    "这天，槐荫村来了一个逃兵"
+    "让我们重现GPT-2 （ 124M ）"
    ],
    "flags": {
     "fav": false,
@@ -135,8 +117,8 @@
    "author": "极客湾Geekerwan",
    "title": "小米玄戒O3芯片前瞻上手：外星科技！",
    "duration": "16:18",
-   "heat": 1565982,
-   "updated": "2026-08-25T10:37:24.934781",
+   "heat": 1682866,
+   "updated": "2026-08-25T13:54:59.584718",
    "url": "https://www.bilibili.com/video/BV1fhhP6xEMp",
    "points": [
     "又一年新机潮开始了，这次登场的首个旗舰手机芯片是小米的玄戒O3！它的表现到底有多强？一起来看看吧……"
@@ -150,11 +132,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "二白午",
+   "title": "原创民俗AI短片《槐灯》",
+   "duration": "18:18",
+   "heat": 2919694,
+   "updated": "2026-08-25T13:54:59.584728",
+   "url": "https://www.bilibili.com/video/BV15B8z61EbV",
+   "points": [
+    "这天，槐荫村来了一个逃兵"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "红星视频",
    "title": "祝科比生日快乐 如没有那场意外 今天是他48岁生日凌晨四点的训练 一次次跌倒后的爬起 致敬永不服输的曼巴精神",
    "duration": "0:24",
-   "heat": 693853,
-   "updated": "2026-08-25T10:37:24.934784",
+   "heat": 708337,
+   "updated": "2026-08-25T13:54:59.584731",
    "url": "https://www.bilibili.com/video/BV1sY8468EEu",
    "points": [
     "祝科比生日快乐 如没有那场意外 今天是他48岁生日 凌晨四点的训练 一次次跌倒后的爬起 致敬永不服输的曼巴精神"
@@ -168,29 +168,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "混饭达人",
-   "title": "和AI猜历史人物，双方都上头了",
-   "duration": "6:19",
-   "heat": 1167371,
-   "updated": "2026-08-25T10:37:24.934787",
-   "url": "https://www.bilibili.com/video/BV1KW8w68EJT",
-   "points": [
-    "嘿嘿 久等啦"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390821,
-   "updated": "2026-08-25T10:37:24.934790",
+   "heat": 390826,
+   "updated": "2026-08-25T13:54:59.584733",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -208,7 +190,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-25T10:37:24.934792",
+   "updated": "2026-08-25T13:54:59.584736",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -226,7 +208,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557424,
-   "updated": "2026-08-25T10:37:24.934794",
+   "updated": "2026-08-25T13:54:59.584738",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -242,10 +224,64 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155612,
-   "updated": "2026-08-25T10:37:24.934796",
+   "updated": "2026-08-25T13:54:59.584740",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611378,
+   "updated": "2026-08-25T13:54:59.584743",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "农田智能作业机器人上线",
+   "duration": "—",
+   "heat": 11239076,
+   "updated": "2026-08-25T13:54:59.584745",
+   "url": "https://www.douyin.com/search/%E5%86%9C%E7%94%B0%E6%99%BA%E8%83%BD%E4%BD%9C%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E7%BA%BF?type=general",
+   "points": [
+    "热门话题「农田智能作业机器人上线」：相关视频 1 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "小米玄戒O3芯片藏着特别彩蛋",
+   "duration": "—",
+   "heat": 8115243,
+   "updated": "2026-08-25T13:54:59.584747",
+   "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E8%8A%AF%E7%89%87%E8%97%8F%E7%9D%80%E7%89%B9%E5%88%AB%E5%BD%A9%E8%9B%8B?type=general",
+   "points": [
+    "热门话题「小米玄戒O3芯片藏着特别彩蛋」：相关视频 3 条"
    ],
    "flags": {
     "fav": false,
@@ -260,7 +296,7 @@
    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-25T10:37:24.934799",
+   "updated": "2026-08-25T13:54:59.584750",
    "url": "https://www.qbitai.com/2026/08/479314.html",
    "points": [
     "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。"
@@ -278,7 +314,7 @@
    "title": "开源国产8B模型，比肩闭源Image 2了！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-25T10:37:24.934801",
+   "updated": "2026-08-25T13:54:59.584752",
    "url": "https://www.qbitai.com/2026/08/479192.html",
    "points": [
     "SenseNova U1.5 Lite"
@@ -296,7 +332,7 @@
    "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-25T10:37:24.934803",
+   "updated": "2026-08-25T13:54:59.584754",
    "url": "https://www.qbitai.com/2026/08/479096.html",
    "points": [
     "AI科研能力从工具级转向系统级"
@@ -314,7 +350,7 @@
    "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-25T10:37:24.934805",
+   "updated": "2026-08-25T13:54:59.584756",
    "url": "https://www.qbitai.com/2026/08/478996.html",
    "points": [
     "下一代Agent天然会走向云端和更大规模的计算资源"
@@ -332,7 +368,7 @@
    "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-25T10:37:24.934807",
+   "updated": "2026-08-25T13:54:59.584757",
    "url": "https://www.qbitai.com/2026/08/478912.html",
    "points": [
     "今年50位获奖人来自13个城市的30家高校、医院和科研机构"
@@ -350,7 +386,7 @@
    "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-25T10:37:24.934809",
+   "updated": "2026-08-25T13:54:59.584759",
    "url": "https://www.qbitai.com/2026/08/478839.html",
    "points": [
     "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。"
@@ -365,13 +401,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能市场（2026 – 2033）",
+   "title": "Show HN ：以有效的方式学习广度优先，连接点",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-08-25",
+   "url": "https://curiora.space/i/artificial-intelligence",
+   "points": [
+    "Show HN ：以有效的方式学习广度优先，连接点"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能市场（ 2026年至2033年）",
    "duration": "—",
    "heat": 1,
    "updated": "2026-08-25",
    "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
    "points": [
-    "人工智能市场（2026 – 2033）"
+    "人工智能市场（ 2026年至2033年）"
    ],
    "flags": {
     "fav": false,
@@ -383,13 +437,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "老式人工智能：在它变得尴尬之前",
+   "title": "复古人工智能：在它变得尴尬之前",
    "duration": "—",
-   "heat": 105,
+   "heat": 129,
    "updated": "2026-08-24",
    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
    "points": [
-    "老式人工智能：在它变得尴尬之前"
+    "复古人工智能：在它变得尴尬之前"
    ],
    "flags": {
     "fav": false,
@@ -401,13 +455,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "九人因向中国非法出口 Nvidia B300 GPU 被台湾起诉",
+   "title": "台湾起诉九人非法向中国出口英伟达B300显卡",
    "duration": "—",
    "heat": 6,
    "updated": "2026-08-24",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
    "points": [
-    "九人因向中国非法出口 Nvidia B300 GPU 被台湾起诉"
+    "台湾起诉九人非法向中国出口英伟达B300显卡"
    ],
    "flags": {
     "fav": false,
@@ -419,13 +473,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "珍本书籍中的追踪器最终在亚马逊设施中销毁书籍以训练人工智能",
+   "title": "稀有书籍中的跟踪器最终进入亚马逊设施，销毁书籍以训练人工智能",
    "duration": "—",
    "heat": 22,
    "updated": "2026-08-23",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
    "points": [
-    "珍本书籍中的追踪器最终在亚马逊设施中销毁书籍以训练人工智能"
+    "稀有书籍中的跟踪器最终进入亚马逊设施，销毁书籍以训练人工智能"
    ],
    "flags": {
     "fav": false,
@@ -437,31 +491,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能的风险：用户之前需要了解什么",
+   "title": "人工智能的风险：用户需要了解的内容",
    "duration": "—",
    "heat": 3,
    "updated": "2026-08-23",
    "url": "https://moztako.me/hidden-risks-of-artificial-intelligence/",
    "points": [
-    "人工智能的风险：用户之前需要了解什么"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "为什么市场无法逃脱人工智能",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-08-22",
-   "url": "https://www.youtube.com/watch?v=wTiYaWFP59Q",
-   "points": [
-    "为什么市场无法逃脱人工智能"
+    "人工智能的风险：用户需要了解的内容"
    ],
    "flags": {
     "fav": false,

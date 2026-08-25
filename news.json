@@ -1,16 +1,16 @@
 {
- "fetchedAt": "18:36",
+ "fetchedAt": "21:53",
  "fetchedDate": "2026-08-25",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "约旦国王第九次访华，习主席同他谈了这些大事",
+   "title": "【新思想引领新征程】为人民出政绩 以实干出政绩",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTImgxRqLfzolJjcqGaNcO3260825.shtml",
-   "summary": "“建设更具内涵、更有活力的中约关系符合两国人民共同期待”。8月24日，习近平主席同约旦国王阿卜杜拉二世举行会谈。从务实合作到中东地区局势，两国领导人谈了这些大事。",
+   "url": "https://news.cctv.com/2026/08/25/ARTI2XBya3DJiox0ez40EMRJ260825.shtml",
+   "summary": "“十五五”开局之年，以习近平同志为核心的党中央带领全党开展树立和践行正确政绩观学习教育。全国党员干部落实“立党为公、为民造福、科学决策、真抓实干”的总要求，在深学、真查、实改上下功夫，努力创造经得起实践、人民、历史检验的实绩。",
    "day": 0
   },
   {
@@ -65,11 +65,11 @@
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "新能源汽车应急拉手为何被“藏”起来？极简设计或带来安全隐患",
+   "theme": "文化",
+   "title": "《文脉春秋·历史文化名城篇》甘肃敦煌",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIBrVZuwEfOxmlZeiaPKwu260824.shtml",
+   "url": "https://tv.cctv.com/2026/08/25/VIDEiY8um3tQRGOAKQVdvrM1260825.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,81 +126,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "伊朗表示已“做好充分准备”应对美国扩大的经济制裁",
+   "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国将其对伊朗的最新制裁称为“经济诺曼底登陆”，但德黑兰表示，它有计划来解决这些问题。",
+   "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+   "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "洛克比爆炸案审判在原定开始前几天被推迟",
+   "title": "Lockerbie bombing trial postponed days before it was due to start",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-   "summary": "三天前，关于一名 37 岁案件的新证据曝光后，对一名利比亚男子的审判第三次推迟。",
+   "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国将叙利亚从支持恐怖主义国家名单中删除",
+   "title": "US removes Syria from list of state sponsors of terrorism",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-   "summary": "特朗普政府欢迎叙利亚新总统、与基地组织有联系的前激进分子艾哈迈德·沙拉。",
+   "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "龙卷风席卷法国村庄，造成数十人受伤，房屋被毁",
+   "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-   "summary": "西南部的波马斯村受灾最严重，数百所房屋受损，十五人被送往医院。",
+   "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "基特·哈灵顿 (Kit Harington) 取代尼古拉斯·霍尔特 (Nicholas Hoult) 出演 HBO 哈利·波特系列剧",
+   "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-   "summary": "两周前，霍尔特被宣布为吉德罗·洛哈特，但由于日程安排问题而退出。",
+   "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普威胁提高汽车关税，美加贸易战升级",
+   "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-   "summary": "马克·卡尼指责特朗普想要“摧毁”加拿大汽车业，并表示只有美国同意，他才会恢复贸易谈判。",
+   "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国游客汽车陷入泥浆死亡谷死亡",
+   "title": "French tourist dies in Death Valley after car gets stuck in mud",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-   "summary": "这名 68 岁的男子被发现死于加利福尼亚州盐滩，气温高达 116°F（46.6C）。",
+   "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国消防员称里诺附近约四分之一的大火已得到控制",
+   "title": "US firefighters say major blaze near Reno about a quarter contained",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "但官员们担心，大风可能会使火势再持续两天，因为许多当地人仍处于疏散令之下。",
+   "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
    "day": 0
   },
   {
