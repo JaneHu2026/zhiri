@@ -1,16 +1,16 @@
 {
- "fetchedAt": "07:27",
+ "fetchedAt": "09:35",
  "fetchedDate": "2026-08-26",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "【新思想引领新征程】为人民出政绩 以实干出政绩",
+   "title": "这项任务，总书记强调“久久为功” |",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTI2XBya3DJiox0ez40EMRJ260825.shtml",
-   "summary": "“十五五”开局之年，以习近平同志为核心的党中央带领全党开展树立和践行正确政绩观学习教育。全国党员干部落实“立党为公、为民造福、科学决策、真抓实干”的总要求，在深学、真查、实改上下功夫，努力创造经得起实践、人民、历史检验的实绩。",
+   "url": "https://news.cctv.com/2026/08/26/ARTI3Y6LkkrCF58XHMO1wNHR260826.shtml",
+   "summary": "近日，习近平总书记作出重要指示强调，巩固拓展树立和践行正确政绩观学习教育成果，努力创造经得起实践、人民、历史检验的实绩。",
    "day": 0
   },
   {
@@ -35,16 +35,6 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "焦点访谈｜大汛来袭“预”字当先 全力守护江河安澜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/25/ARTIaBm7nsrDVOOQix5vMCvB260825.shtml",
-   "summary": "fac55136cd0c,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "社会",
    "title": "优化预约分诊流程 多项配套机制落地推进家庭医生签约服务",
    "source": "央视新闻",
@@ -56,171 +46,61 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "新闻1+1｜殷玉珍与“赛·考斯基” 跨越山海的民间友谊！",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/25/VIDEakjZ4Sxk6FHOXVLTwVke260825.shtml",
-   "summary": "本期节目主要内容： 1999年，跟随“中美教师交换项目”来到中国任教的美国教师“赛·考斯基”筹集了5000美元，资助殷玉珍夫妇治沙造林。如今，用这笔善款购买栽种的树苗已长成5万多棵大树。阔别二十多年后，二人终于重逢。重逢的第二天，他们重返沙海，昔日共同种下的小树苗已长成参天大树，见证了这份跨越山海的…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
    "title": "充电桩强制3C认证实施带来哪些改变？记者调查",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/26/ARTIMsbmLnfclxzd2Ro2VISN260825.shtml",
-   "summary": "（点击查看原文）",
+   "summary": "8b240db4c9fc,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "环球视线｜美欲切断伊“经济命脉” 海湾格局正在重塑？",
+   "theme": "教育",
+   "title": "学习教育取得明显成效",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/25/VIDEWS7pDcSyeL0hszGlbfoA260825.shtml",
+   "url": "https://news.cctv.com/2026/08/26/ARTIpFKXUc4FY6R51T2m0H8s260826.shtml",
+   "summary": "“‘十五五’开局之年，无论是制定规划还是部署实施，都需要有正确的政绩观。省市县乡领导班子将陆续换届，强调政绩观也很有针对性。”今年1月，在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班开班式上，习近平总书记阐明树立和践行正确政绩观的深远考量。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "商务部：投洽会期间将举办16场“投资中国”活动",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/26/ARTIn2LoNDZ10I5f7kuzWsPH260825.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "三部门发文 推进家庭医生签约服务",
-   "source": "新华网",
+   "theme": "环境",
+   "title": "台风“紫檀”在广东省徐闻县沿海再次登陆",
+   "source": "央视新闻",
    "time": "今天",
-   "url": "https://www.news.cn/government/20260825/5094ce7b26b844179688b441c93edb8e/c.html",
-   "summary": "三部门发文 推进家庭医生签约服务-\"到2027年底，二、三级医院派驻基层机构１年以上的医生，原则上应开展家庭医生签约服务。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "从“看演出”到“聊文化”，城墙夜话带火暑期经济",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/ci/20260825/ff25a5acfd1944b0a5e125f52db76c1d/c.html",
-   "summary": "从“看演出”到“聊文化”，城墙夜话带火暑期经济-\" 陕西历史文化博主“小璐歌”杨汶锦在西安城墙永宁门瓮城做主题分享。\"",
+   "url": "https://news.cctv.com/2026/08/26/ARTITiYkYK2En4LhSAUGmd8a260826.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "秀我中国｜在西藏，石头还能这么玩？",
+   "title": "16条举措落地让办税缴费更便利",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/ci/20260825/a147c025fa654041bc7d7aae0f1b8cde/c.html",
-   "summary": "秀我中国｜在西藏，石头还能这么玩？-\"在西藏自治区第十四届运动会暨第六届民族传统体育运动会上，两种石头，演绎两种极具特色的民族传统体育项目。\"",
+   "url": "https://www.news.cn/government/20260826/12c010fde6854423a050cc76fb16319b/c.html",
+   "summary": "16条举措落地让办税缴费更便利- 今年4月，国家税务总局发布关于开展2026年“便民办税春风行动”的意见，明确将集成推出一批便民利企服务举措。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "秀我中国｜悬空寺何以悬空？",
+   "title": "【文明中国·看江苏】“花”开宜兴",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/ci/20260825/fec1cbecb56540f29a9530a1f0b14430/c.html",
-   "summary": "秀我中国｜悬空寺何以悬空？-\"一条视频带你了解悬空寺何以悬空。\"",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-   "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-   "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-   "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-   "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Brain disease in dead NFL players 'higher than previously shown'",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-   "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure cou",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-   "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "European rights court orders Turkey to free imprisoned businessman",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-   "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-   "summary": "The footage shows dozens of men, women and children sitting in a forest.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "野火与干旱致欧洲一战二战未爆弹药频现",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0825/c1002-40785663.html",
-   "summary": "新华社北京8月24日电 随着欧洲经历形势严峻的野火季和干旱，一战、二战等时期遗留的弹药在植被被烧光或水面干涸后显露出来，有的甚至被野火引爆，大幅增加消防员面临的风险。 据美联社22日报道，法国、",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "是否重建海湾美军基地？美国左右为难",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0825/c1002-40785681.html",
-   "summary": "新华社北京8月24日电 美国和伊朗战事延宕近半年，伊朗对美国在海湾地区的多座军事基地发动反击，迫使美方审视重建遇袭基地是否“划算”。据英国《金融时报》23日报道，围绕重建议题，美国左右为难：若重建",
+   "url": "https://www.news.cn/government/20260826/d3fcfc66bd5d4849bcc581e78d4acc47/c.html",
+   "summary": "【文明中国·看江苏】“花”开宜兴-\"答案藏在一处处新时代文明实践阵地中。\"",
    "day": 0
   }
  ]
