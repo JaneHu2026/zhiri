@@ -1,26 +1,56 @@
 {
- "fetchedAt": "12:42",
+ "fetchedAt": "18:38",
  "fetchedDate": "2026-08-26",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "这项任务，总书记强调“久久为功” |",
+   "title": "习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTI3Y6LkkrCF58XHMO1wNHR260826.shtml",
-   "summary": "近日，习近平总书记作出重要指示强调，巩固拓展树立和践行正确政绩观学习教育成果，努力创造经得起实践、人民、历史检验的实绩。",
+   "url": "https://news.cctv.com/2026/08/26/ARTI4DuOP24UFS5fthg9eYBs260826.shtml",
+   "summary": "新华社北京8月26日电 外交部发言人8月26日宣布：8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "穿山跨海构建交通大动脉 为啥要建“黄金大外环”？权威解读",
+   "title": "8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTIomQU1RsD5K6F8D7mpXGC260825.shtml",
-   "summary": "36690c181e58,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/26/ARTI4DuOP24UFS5fthg9eYBs260826.shtml",
+   "summary": "新华社北京8月26日电 外交部发言人8月26日宣布：8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "我国已累计建成504家卓越级智能工厂",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEw8rmtdPwVOBSVOtLtESY260826.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "算力产业观察：10分钟释放超100兆瓦电力 算力中心变身虚拟电厂",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEULKV7FDMlv3zUfJKhshX260826.shtml",
+   "summary": "算力产业观察：10分钟释放超100兆瓦电力，算力中心变身虚拟电厂。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "房地产市场观察：新政效应初显 房地产市场热度提升",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEriLGXqalrgbpxtQn1mvj260826.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -40,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/26/VIDEopkJKPegjVtvw7afwIjm260826.shtml",
-   "summary": "充电桩强制3C认证实施：8月起充电桩3C认证强制实施，行业进入“合规生死线”。",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -50,36 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/08/26/VIDENngjmBJXTI5wwEMxNU8Y260826.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "超长假期激活出境游市场 长线深度定制游成趋势",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/26/VIDEFoTioShyKyS5BdiNN2Gu260826.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "优化预约分诊流程 多项配套机制落地推进家庭医生签约服务",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTIPKX7sHlyTR2xpcO6oy1d260825.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "新闻观察：美加贸易争端背后的三重博弈",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/26/VIDEf4T0yD4YcmLEiyESEkE8260826.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -101,6 +101,86 @@
    "time": "今天",
    "url": "https://www.news.cn/government/20260826/d3fcfc66bd5d4849bcc581e78d4acc47/c.html",
    "summary": "【文明中国·看江苏】“花”开宜兴-\"答案藏在一处处新时代文明实践阵地中。\"",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+   "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+   "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+   "summary": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+   "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+   "summary": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Canada's retaliation tests the limit of American power under Trump",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "India's sugar squeeze threatens its biggest season for sweets",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
+   "summary": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
    "day": 0
   },
   {
