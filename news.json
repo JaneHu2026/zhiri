@@ -1,5 +1,5 @@
 {
- "fetchedAt": "18:38",
+ "fetchedAt": "21:57",
  "fetchedDate": "2026-08-26",
  "source": "zhiri-server",
  "items": [
@@ -26,6 +26,26 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "【“十五五”开好局起好步】融合升级 新型工业化提速",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/26/ARTI3QoT0NJfahORcmd3LUj6260826.shtml",
+   "summary": "d8848f3ee511,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "北斗系统重点行业综合应用渗透率约90%",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/26/ARTIloRGfnGQMOe8QLPNy31l260826.shtml",
+   "summary": "df379d3b906d,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "我国已累计建成504家卓越级智能工厂",
    "source": "央视新闻",
    "time": "今天",
@@ -35,12 +55,12 @@
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "算力产业观察：10分钟释放超100兆瓦电力 算力中心变身虚拟电厂",
+   "theme": "要闻",
+   "title": "“十五五”时期 国家电网跨省区输电能力将达到5亿千瓦",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/26/VIDEULKV7FDMlv3zUfJKhshX260826.shtml",
-   "summary": "算力产业观察：10分钟释放超100兆瓦电力，算力中心变身虚拟电厂。",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEwNM4r30hdow6N2ym1hWp260826.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -56,30 +76,10 @@
   {
    "group": "gn",
    "theme": "科技",
-   "title": "聚焦第二届世界人形机器人运动会：机器人如何舞出律动",
+   "title": "算力产业观察：10分钟释放超100兆瓦电力 算力中心变身虚拟电厂",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/26/VIDEJVxgDl8jPQ4oXfjfFLlU260826.shtml",
-   "summary": "聚焦第二届世界人形机器人运动会：体育舞蹈决赛举行，机器人如何舞出律动？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "8月起充电桩3C认证强制实施 行业进入“合规生死线”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/26/VIDEopkJKPegjVtvw7afwIjm260826.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "多台风同时活跃 多地积极应对",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/26/VIDENngjmBJXTI5wwEMxNU8Y260826.shtml",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEULKV7FDMlv3zUfJKhshX260826.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,11 +106,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+   "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
-   "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
+   "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+   "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+   "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
    "day": 0
   },
   {
@@ -126,11 +146,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+   "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+   "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Radiation link in flight attendant's breast cancer, French court finds",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
    "day": 0
   },
   {
@@ -151,36 +181,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
    "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
-   "summary": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Canada's retaliation tests the limit of American power under Trump",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "India's sugar squeeze threatens its biggest season for sweets",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
-   "summary": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
    "day": 0
   },
   {
