@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:35",
+ "fetchedAt": "12:42",
  "fetchedDate": "2026-08-26",
  "source": "zhiri-server",
  "items": [
@@ -26,11 +26,41 @@
   {
    "group": "gn",
    "theme": "科技",
-   "title": "看热闹也要看门道 机器人运动会的科技“含金量”",
+   "title": "聚焦第二届世界人形机器人运动会：机器人如何舞出律动",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTIa4H5ft3t0evVne9fuXbt260825.shtml",
-   "summary": "46f00acc4cf7,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEJVxgDl8jPQ4oXfjfFLlU260826.shtml",
+   "summary": "聚焦第二届世界人形机器人运动会：体育舞蹈决赛举行，机器人如何舞出律动？",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "8月起充电桩3C认证强制实施 行业进入“合规生死线”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEopkJKPegjVtvw7afwIjm260826.shtml",
+   "summary": "充电桩强制3C认证实施：8月起充电桩3C认证强制实施，行业进入“合规生死线”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "多台风同时活跃 多地积极应对",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/26/VIDENngjmBJXTI5wwEMxNU8Y260826.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "超长假期激活出境游市场 长线深度定制游成趋势",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEFoTioShyKyS5BdiNN2Gu260826.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -40,46 +70,16 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/26/ARTIPKX7sHlyTR2xpcO6oy1d260825.shtml",
-   "summary": "13847846c74d,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "充电桩强制3C认证实施带来哪些改变？记者调查",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTIMsbmLnfclxzd2Ro2VISN260825.shtml",
-   "summary": "8b240db4c9fc,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "教育",
-   "title": "学习教育取得明显成效",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTIpFKXUc4FY6R51T2m0H8s260826.shtml",
-   "summary": "“‘十五五’开局之年，无论是制定规划还是部署实施，都需要有正确的政绩观。省市县乡领导班子将陆续换届，强调政绩观也很有针对性。”今年1月，在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班开班式上，习近平总书记阐明树立和践行正确政绩观的深远考量。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "商务部：投洽会期间将举办16场“投资中国”活动",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTIn2LoNDZ10I5f7kuzWsPH260825.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "环境",
-   "title": "台风“紫檀”在广东省徐闻县沿海再次登陆",
+   "theme": "要闻",
+   "title": "新闻观察：美加贸易争端背后的三重博弈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/26/ARTITiYkYK2En4LhSAUGmd8a260826.shtml",
+   "url": "https://tv.cctv.com/2026/08/26/VIDEf4T0yD4YcmLEiyESEkE8260826.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -101,6 +101,26 @@
    "time": "今天",
    "url": "https://www.news.cn/government/20260826/d3fcfc66bd5d4849bcc581e78d4acc47/c.html",
    "summary": "【文明中国·看江苏】“花”开宜兴-\"答案藏在一处处新时代文明实践阵地中。\"",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "卢特尼克“搅黄”美加贸易谈判？",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0826/c1002-40786324.html",
+   "summary": "新华社北京8月25日电 美加贸易谈判21日深夜破裂，双方关系急转直下。加拿大和美国多家媒体24日披露，美国商务部长霍华德·卢特尼克在美加贸易谈判最后阶段提出一系列新要求，导致双方谈崩。这是2024",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "英法加码对乌军援 难解今冬燃眉之急",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0826/c1002-40786325.html",
+   "summary": "新华社北京8月25日电 英国和法国主导的“志愿联盟”24日在乌克兰首都基辅举行会议，讨论乌克兰防空装备供应等事宜。英法两国领导人在会上承诺加大对乌克兰军事援助力度，包括同乌方分享巡航导弹制造技术以",
    "day": 0
   }
  ]
