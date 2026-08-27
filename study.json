@@ -1,19 +1,19 @@
 {
- "fetchedAt": "21:59",
- "fetchedDate": "2026-08-26",
+ "fetchedAt": "11:01",
+ "fetchedDate": "2026-08-27",
  "source": "zhiri-server",
  "items": [
   {
    "id": "sv_ext",
    "platform": "youtube",
    "author": "Two Minute Papers",
-   "title": "This Small AI Will Change Everything",
+   "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-24 16:48:40",
-   "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+   "updated": "2026-08-26 13:10:13",
+   "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
    "points": [
-    "这个小小的人工智能将改变一切"
+    "DeepSeek 的新人工智能系统不应该成为可能"
    ],
    "flags": {
     "fav": false,
@@ -24,14 +24,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "I Tested Ox Alpha (stealth model)!!!",
+   "author": "Two Minute Papers",
+   "title": "This Small AI Will Change Everything",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-21 22:40:14",
-   "url": "https://www.youtube.com/watch?v=3INNP9KXxp4",
+   "updated": "2026-08-24 16:48:40",
+   "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
    "points": [
-    "我测试了牛阿尔法（隐形模型） ！ ！ ！"
+    "这个小人工智能将改变一切"
    ],
    "flags": {
     "fav": false,
@@ -49,7 +49,7 @@
    "updated": "2026-08-19 18:02:46",
    "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
    "points": [
-    "DeepSeek刚刚让封闭的人工智能看起来很荒谬"
+    "DeepSeek 刚刚让封闭式人工智能看起来很荒谬"
    ],
    "flags": {
     "fav": false,
@@ -67,61 +67,7 @@
    "updated": "2026-08-18 14:54:17",
    "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
    "points": [
-    "跳钉拼图"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Save your token cost with Gemini 3.7 Flash!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-14 21:54:23",
-   "url": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
-   "points": [
-    "使用Gemini 3.7 Flash ，节省您的代币成本！ ！ ！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-14 08:42:07",
-   "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-   "points": [
-    "Claude AI Failed 650 Times…Then Beat The Human Record"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "The Right Harness is All You Need - For local Frontier AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-08 17:22:18",
-   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-   "points": [
-    "合适的线束就是您所需的一切-适合本地Frontier AI"
+    "跳钉谜题"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +85,61 @@
    "updated": "2026-07-24 15:05:39",
    "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
    "points": [
-    "64块方糖的拼图"
+    "64块方糖拼图"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-16 11:56:04",
+   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+   "points": [
+    "但什么是交叉熵？ |压缩就是智能第 2 部分"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "极客湾Geekerwan",
    "title": "小米玄戒O3芯片前瞻上手：外星科技！",
    "duration": "16:18",
-   "heat": 2011614,
-   "updated": "2026-08-26T13:59:15.436838",
+   "heat": 2104952,
+   "updated": "2026-08-27T03:01:46.260576",
    "url": "https://www.bilibili.com/video/BV1fhhP6xEMp",
    "points": [
     "又一年新机潮开始了，这次登场的首个旗舰手机芯片是小米的玄戒O3！它的表现到底有多强？一起来看看吧……"
@@ -168,29 +168,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "二白午",
-   "title": "原创民俗AI短片《槐灯》",
-   "duration": "18:18",
-   "heat": 3828747,
-   "updated": "2026-08-26T13:59:15.436850",
-   "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-   "points": [
-    "这天，槐荫村来了一个逃兵"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "红星视频",
    "title": "祝科比生日快乐 如没有那场意外 今天是他48岁生日凌晨四点的训练 一次次跌倒后的爬起 致敬永不服输的曼巴精神",
    "duration": "0:24",
-   "heat": 739792,
-   "updated": "2026-08-26T13:59:15.436853",
+   "heat": 742954,
+   "updated": "2026-08-27T03:01:46.260587",
    "url": "https://www.bilibili.com/video/BV1sY8468EEu",
    "points": [
     "祝科比生日快乐 如没有那场意外 今天是他48岁生日 凌晨四点的训练 一次次跌倒后的爬起 致敬永不服输的曼巴精神"
@@ -207,8 +189,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390838,
-   "updated": "2026-08-26T13:59:15.436856",
+   "heat": 390839,
+   "updated": "2026-08-27T03:01:46.260590",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -226,7 +208,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653410,
-   "updated": "2026-08-26T13:59:15.436858",
+   "updated": "2026-08-27T03:01:46.260592",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -243,8 +225,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557426,
-   "updated": "2026-08-26T13:59:15.436860",
+   "heat": 557427,
+   "updated": "2026-08-27T03:01:46.260595",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -259,8 +241,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155615,
-   "updated": "2026-08-26T13:59:15.436863",
+   "heat": 155616,
+   "updated": "2026-08-27T03:01:46.260597",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -278,11 +260,81 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611378,
-   "updated": "2026-08-26T13:59:15.436865",
+   "updated": "2026-08-27T03:01:46.260599",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659170,
+   "updated": "2026-08-27T03:01:46.260602",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [
+    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-27T03:01:46.260604",
+   "url": "https://www.qbitai.com/2026/08/480005.html",
+   "points": [
+    "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-27T03:01:46.260607",
+   "url": "https://www.qbitai.com/2026/08/480001.html",
+   "points": [
+    "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-27T03:01:46.260608",
+   "url": "https://www.qbitai.com/2026/08/479919.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -296,7 +348,7 @@
    "title": "AI视频应用井喷，美图打开新的增长空间",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-26T13:59:15.436867",
+   "updated": "2026-08-27T03:01:46.260610",
    "url": "https://www.qbitai.com/2026/08/479895.html",
    "points": [
     "从图像到视频，美图找到了一门更赚钱的生意"
@@ -314,7 +366,7 @@
    "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-26T13:59:15.436870",
+   "updated": "2026-08-27T03:01:46.260612",
    "url": "https://www.qbitai.com/2026/08/479811.html",
    "points": [
     "AI内容创作者增长187%，相关节目数量增长239%"
@@ -332,7 +384,7 @@
    "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-26T13:59:15.436872",
+   "updated": "2026-08-27T03:01:46.260614",
    "url": "https://www.qbitai.com/2026/08/479834.html",
    "points": [],
    "flags": {
@@ -343,67 +395,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-26T13:59:15.436874",
-   "url": "https://www.qbitai.com/2026/08/479808.html",
-   "points": [
-    "长乐机场综保区智算中心全栈算电协同服务"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-26T13:59:15.436876",
-   "url": "https://www.qbitai.com/2026/08/479634.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-26T13:59:15.436878",
-   "url": "https://www.qbitai.com/2026/08/479631.html",
-   "points": [
-    "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "中国的Z.AI制造了与DeepSeek相媲美的Ox Alpha隐形模型",
+   "title": "利用人工智能识别假冒化妆品",
    "duration": "—",
-   "heat": 4,
+   "heat": 3,
    "updated": "2026-08-26",
-   "url": "https://www.theedgesingapore.com/news/artificial-intelligence/chinas-zai-made-ox-alpha-stealth-model-rivals-deepseek",
+   "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
    "points": [
-    "中国的Z.AI制造了与DeepSeek相媲美的Ox Alpha隐形模型"
+    "利用人工智能识别假冒化妆品"
    ],
    "flags": {
     "fav": false,
@@ -415,85 +415,85 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Agentic AI的企业应用软件支出面临2340 $的风险",
+   "title": "人工智能技术对人力资本回报的影响",
    "duration": "—",
    "heat": 2,
    "updated": "2026-08-26",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7330818",
+   "points": [
+    "人工智能技术对人力资本回报的影响"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Show HN：《黑客新闻》中有多少内容是关于人工智能的？",
+   "duration": "—",
+   "heat": 68,
+   "updated": "2026-08-26",
+   "url": "https://hnstats.com",
+   "points": [
+    "Show HN：《黑客新闻》中有多少内容是关于人工智能的？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "微软画图和照片为人工智能生成的内容添加隐形水印",
+   "duration": "—",
+   "heat": 4,
+   "updated": "2026-08-26",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-paint-and-photos-apps-add-invisible-watermark-to-ai-generated-content-developer-reverse-engineers-guid-embedding",
+   "points": [
+    "微软画图和照片为人工智能生成的内容添加隐形水印"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "中国Z.AI制造Ox Alpha隐形模型可与DeepSeek相媲美",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-08-26",
+   "url": "https://www.theedgesingapore.com/news/artificial-intelligence/chinas-zai-made-ox-alpha-stealth-model-rivals-deepseek",
+   "points": [
+    "中国Z.AI制造Ox Alpha隐形模型可与DeepSeek相媲美"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "234B 美元的企业应用软件支出面临 Agentic AI 的风险",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-08-26",
    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
    "points": [
-    "Agentic AI的企业应用软件支出面临2340 $的风险"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "斯坦福大学的人工智能概率",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-08-25",
-   "url": "https://pai.stanford.edu",
-   "points": [
-    "斯坦福大学的人工智能概率"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Show HN ：以有效的方式学习广度优先，连接点",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-08-25",
-   "url": "https://curiora.space/i/artificial-intelligence",
-   "points": [
-    "Show HN ：以有效的方式学习广度优先，连接点"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "复古人工智能：在它变得尴尬之前",
-   "duration": "—",
-   "heat": 160,
-   "updated": "2026-08-24",
-   "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-   "points": [
-    "复古人工智能：在它变得尴尬之前"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "台湾起诉九人非法向中国出口英伟达B300显卡",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-08-24",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-   "points": [
-    "台湾起诉九人非法向中国出口英伟达B300显卡"
+    "234B 美元的企业应用软件支出面临 Agentic AI 的风险"
    ],
    "flags": {
     "fav": false,
