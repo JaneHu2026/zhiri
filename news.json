@@ -1,16 +1,66 @@
 {
- "fetchedAt": "14:00",
- "fetchedDate": "2026-08-28",
+ "fetchedAt": "05:08",
+ "fetchedDate": "2026-08-29",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "三个角度读懂“紧密的中吉命运共同体”",
+   "theme": "政策",
+   "title": "中共中央政治局召开会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作 中共中央总书记习近平主持会议",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/28/ARTIoIIU30rh302XWPsYfHUr260828.shtml",
-   "summary": "国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫邀请对该国进行国事访问。",
+   "url": "https://news.cctv.com/2026/08/28/ARTIeR707MxPtfoSRjkMlwlw260828.shtml",
+   "summary": "新华社北京8月28日电 中共中央政治局8月28日召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作。中共中央总书记习近平主持会议。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "会议开始时，习近平李强赵乐际王沪宁蔡奇丁薛祥李希等全体起立，向西藏日喀则市吉隆县泥石流灾害遇难人员默哀",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/28/ARTIeR707MxPtfoSRjkMlwlw260828.shtml",
+   "summary": "新华社北京8月28日电 中共中央政治局8月28日召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作。中共中央总书记习近平主持会议。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "“水陆空”并进 救援力量挺进受灾核心区",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/28/VIDE9L5sfRFMU0e9mwradSI0260828.shtml",
+   "summary": "西藏日喀则市吉隆县泥石流灾害抢险救援：“水陆空”并进，救援力量挺进受灾核心区。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "西藏军区医疗巡诊队奔赴灾区为群众救治",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/28/VIDEC5sXa5RG6yUWAYICQlT1260828.shtml",
+   "summary": "西藏日喀则市吉隆县泥石流灾害抢险救援：西藏军区医疗巡诊队奔赴灾区为群众救治。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "吉隆公安组织警力赶赴现场开展搜救工作",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/28/VIDEaUxlIKYvKzF309QRgvon260828.shtml",
+   "summary": "西藏日喀则市吉隆县泥石流灾害抢险救援：吉隆公安组织警力赶赴现场开展搜救工作。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国安能专业侦测力量再赴堰塞湖勘察",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/28/VIDEFwgWcd9TTukJU6NVynhC260828.shtml",
+   "summary": "西藏日喀则市吉隆县泥石流灾害抢险救援：中国安能专业侦测力量再赴堰塞湖勘察。",
    "day": 0
   },
   {
@@ -20,66 +70,16 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/08/28/ARTIoiJr0soeekmnvxYpXPVl260827.shtml",
-   "summary": "7b803d5ff580,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "4万亿算力网开建 国产算力生态加速成型",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/28/ARTIpb0UgmHyBiCne4lNufYT260828.shtml",
-   "summary": "08f85df31f69,0,1,16:9,newPlayer6fec77d402aa,0,1,16:9,newPlayerdab254a33520,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "机械工业出口连续47个月跑赢全国外贸整体增速",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/28/ARTIlQWsU7cgziY1sGFktGmp260828.shtml",
-   "summary": "d7aa05d3dbb3,0,1,16:9,newPlayer7b4cd621cf15,0,1,16:9,newPlayer972def482f90,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "我国数据产业规模达6.78万亿元 2026数博会开幕",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/28/ARTIsQUVSzUSS1jDC2gbPF81260828.shtml",
-   "summary": "今天（28日），2026中国国际大数据产业博览会在贵州贵阳开幕。本届数博会以“词元——数据要素价值释放新路径”为主题，国家数据局将发布词元、数据标注、数据基础设施、数字人才培养等相关领域重要成果。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "“安置+转移”争分夺秒 直击西藏吉隆县抢险救援进展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/28/ARTI2NEmRdFF7r7BIiFD8L8J260828.shtml",
-   "summary": "bf6047a3f2f5,0,1,16:9,newPlayerefc34a7652ba,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "1至7月全国社会物流总额214.5万亿元 同比增5.0%",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/28/VIDE9FJz84Fk0SNV8TSAmF5W260828.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "我国开展汽车产品质量提升专项行动",
+   "theme": "社会",
+   "title": "西藏日喀则市吉隆县泥石流灾害抢险救援",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/28/VIDEvDMJyUhldcUauHfmmwzG260828.shtml",
+   "url": "https://tv.cctv.com/2026/08/28/VIDEkgrNbHrY69Ws58F3jdcW260828.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,51 +106,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "'High risk' of lake bursting and causing second flood, warns China",
+   "title": "Norway mourns King Harald as Haakon VIII ascends throne",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-   "summary": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
+   "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+   "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all ",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+   "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-   "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+   "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+   "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+   "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+   "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "What we know about deadly Nepal-Tibet floods",
+   "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+   "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+   "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+   "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-   "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+   "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+   "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Greenland says findings on genocide allegation not final",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Violence breaks out in Ceuta as migrant crisis continues",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+   "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "World's youngest reigning traditional monarch dies aged 34",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+   "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
    "day": 0
   },
   {
