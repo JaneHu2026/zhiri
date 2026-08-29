@@ -1,46 +1,46 @@
 {
- "fetchedAt": "18:55",
- "fetchedDate": "2026-08-29",
+ "fetchedAt": "01:02",
+ "fetchedDate": "2026-08-30",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平主席以尼罗河比喻中埃友谊",
+   "title": "习主席即将出访，这些要点值得关注",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/29/ARTIpegDSEWh2VXFyEfmtFDs260829.shtml",
-   "summary": "2016年1月，习近平主席访问埃及时引用这句当地谚语，表达重访埃及的心情。习近平主席在埃及媒体发表的署名文章中，寄语中埃友谊、中阿友好“像尼罗河水般奔涌向前，助推我们实现民族复兴的伟大梦想”。",
+   "url": "https://news.cctv.com/2026/08/29/ARTI8fNLZbMjmOZQCQ9A3otH260829.shtml",
+   "summary": "8月30日至9月3日，国家主席习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问。中国面向亚欧非地区的一次重大外交行动即将开启，这些要点值得关注。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "从一枚徽标、一张邮票、一句标语，展望习主席此次出访",
+   "title": "践行全球治理倡议 推动建设更加美好的世界｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/29/ARTI8dHMvmZg9ZXRu7aA2gpt260829.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/29/ARTI3hlsycUq2H2rgnHPC03p260829.shtml",
+   "summary": "秉持共商共建共享的全球治理观，中国携手各方着力破解全球治理赤字，用行动守护人类和平与发展，推动构建人类命运共同体的成果更多更好地造福全人类。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【新思想引领新征程】践行全球治理倡议 推动建设更加美好的世界",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/29/VIDE1FyRharSoG6q7pXIelY0260829.shtml",
+   "summary": "【新思想引领新征程】践行全球治理倡议，推动建设更加美好的世界。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "社会",
-   "title": "救援队持续在吉隆口岸拉网式排查搜救",
+   "title": "各方力量全力挺进受灾核心区 抢险救援持续进行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/29/VIDEK8WKbyqpmMZ9AWjKaCwU260829.shtml",
-   "summary": "西藏日喀则市吉隆县泥石流灾害抢险救援：救援队8月29日持续在吉隆口岸拉网式排查搜救。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "堰塞湖如何形成？将对抢险救援工作带来哪些风险？专家分析",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/29/ARTIAKBoIa2d8UtjHj3cWVHv260829.shtml",
-   "summary": "12d7c1d7b10c,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/29/VIDEJ0jStokUpxxp3PCmQ1ab260829.shtml",
+   "summary": "各方力量全力挺进受灾核心区，西藏吉隆县泥石流灾害抢险救援持续进行。",
    "day": 0
   },
   {
@@ -65,6 +65,16 @@
   },
   {
    "group": "gn",
+   "theme": "医疗",
+   "title": "我国居民主要健康指标持续向好",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/29/VIDEJX2qGr5EsoZRTM6ptJaq260829.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "要闻",
    "title": "中埃“文明之鹰-2026”空军联合训练 中国空军成体系参训",
    "source": "央视新闻",
@@ -74,93 +84,83 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“齐”字当选2026“一带一路”年度汉字",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/29/VIDEGP1bdUtR2THSs2gHOotC260829.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
    "group": "gj",
    "theme": "国际",
-   "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+   "title": "中国没有播放西藏洪水的镜头——我们对那里的受害者知之甚少",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+   "summary": "这场致命的山洪爆发中一些最引人注目的镜头在中国的公众视野中是隐藏的。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
+   "title": "基辅武器库遭袭 至少37人死亡 数百人撤离",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-   "summary": "The attack sparked a series of explosions, prompting an investigation into whether ammunition was being stored on site.",
+   "summary": "一项针对乌克兰军队在居民区附近储存武器的调查已经开始。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+   "title": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+   "summary": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+   "title": "9/11 劫机者的女房东透露了他们与涉嫌沙特间谍的联系",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-   "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+   "summary": "一名向两名基地组织成员出租房屋的妇女首次向 BBC 公开讲话。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+   "title": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 拘留",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-   "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+   "summary": "这位在美国生活和工作的英国公民过去曾支持特朗普和 ICE 特工。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+   "title": "冰岛就是否重启加入欧盟谈判进行投票",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+   "summary": "动荡的国际事务促使投票提前，但竞选活动更多地关注冰岛至关重要的渔业。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+   "title": "前白宫提词器操作员被勒令为特朗普演讲投注支付 172,000 美元",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-   "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+   "summary": "这名工作人员被发现利用他对总统演讲的事先了解进行了利润丰厚的赌注。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+   "title": "荷兰卫生机构对特朗普形状的摇头丸发出“红色警报”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-   "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+   "summary": "卫生研究所表示，这些药物具有延迟作用，“增加了用药过量的风险”。",
    "day": 0
   }
  ]
