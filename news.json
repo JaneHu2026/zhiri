@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:02",
+ "fetchedAt": "07:57",
  "fetchedDate": "2026-08-30",
  "source": "zhiri-server",
  "items": [
@@ -45,41 +45,41 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "多领域“新突破+新成就”绘就活力发展图景",
+   "theme": "环境",
+   "title": "全球气候变暖是冰川加速消融致灾重要原因 链生灾害监测预警难度大",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/29/ARTIscKuReIBqGy94RBloFpD260829.shtml",
-   "summary": "近年来，我国粮食仓储设施不断升级，储粮技术持续创新。28日，在安徽淮北市，单仓容量达9200吨的气膜粮仓完成吹膜成型。",
+   "url": "https://news.cctv.com/2026/08/30/ARTIQvlS8T49cymRNMIgW6BO260829.shtml",
+   "summary": "0fc7d497d3a1,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "2026数博会｜需求爆发式增长催热“词元经济” 前沿成果集中亮相",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/30/ARTIfRmgzzgNdP4XiHcuasO7260829.shtml",
+   "summary": "124541be2ef0,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "教育",
+   "title": "新闻调查｜开学将至 广西贵港受灾学校能否如期返校？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/29/ARTIDwfzLEDUPx4jDBXpTInm260829.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "2026数博会｜新品集中亮相 算力赋能产业发展",
+   "title": "对话｜人形机器人：赛场上的进化",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/29/VIDEEBH2sXom3XnqJ8eW0ypP260829.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "医疗",
-   "title": "我国居民主要健康指标持续向好",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/29/VIDEJX2qGr5EsoZRTM6ptJaq260829.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中埃“文明之鹰-2026”空军联合训练 中国空军成体系参训",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/29/VIDEUpS1m6KMKGderd36NHTx260829.shtml",
+   "url": "https://tv.cctv.com/2026/08/29/VIDEKHpWD1gbnUaLyeu4VOOQ260829.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,11 +106,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
+   "title": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 从美国被驱逐到英国",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "summary": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。",
+   "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位自封的挑衅者已被移民和海关执法局（ICE）拘留。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "挪威新国王在第一次演讲中缅怀“我亲爱的父亲”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+   "summary": "哈康八世向已故的父亲哈拉尔五世致以深切的敬意，然后概述了他希望如何统治。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "厄瓜多尔前总统因腐败入狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+   "summary": "莱宁·莫雷诺否认从一家中国公司收受贿赂以获得建造水力发电厂的合同。",
    "day": 0
   },
   {
@@ -126,16 +146,6 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 拘留",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-   "summary": "这位在美国生活和工作的英国公民过去曾支持特朗普和 ICE 特工。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "冰岛就是否重启加入欧盟谈判进行投票",
    "source": "BBC",
    "time": "今天",
@@ -146,21 +156,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "前白宫提词器操作员被勒令为特朗普演讲投注支付 172,000 美元",
+   "title": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-   "summary": "这名工作人员被发现利用他对总统演讲的事先了解进行了利润丰厚的赌注。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "荷兰卫生机构对特朗普形状的摇头丸发出“红色警报”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-   "summary": "卫生研究所表示，这些药物具有延迟作用，“增加了用药过量的风险”。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+   "summary": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。",
    "day": 0
   }
  ]

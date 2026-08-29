@@ -1,8 +1,26 @@
 {
- "fetchedAt": "01:03",
+ "fetchedAt": "07:58",
  "fetchedDate": "2026-08-30",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "Minimax H3 Max feels ILLEGAL and FAST!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-29 18:58:48",
+   "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
+   "points": [
+    "Minimax H3 Max 感觉非法且速度很快！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -49,7 +67,7 @@
    "updated": "2026-08-26 13:10:13",
    "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
    "points": [
-    "DeepSeek 的新人工智能系统不应该是不可能的"
+    "DeepSeek 的新人工智能系统不应该成为可能"
    ],
    "flags": {
     "fav": false,
@@ -114,24 +132,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Save your token cost with Gemini 3.7 Flash!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-14 21:54:23",
-   "url": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
-   "points": [
-    "使用 Gemini 3.7 Flash 节省您的代币成本！！！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "sentdex",
    "title": "The Right Harness is All You Need - For local Frontier AI",
    "duration": "—",
@@ -150,29 +150,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "科学宇宙锋轮",
-   "title": "星际外卖员：你只迟到了3秒，也被扇了一巴掌【AI全民制作人】",
-   "duration": "5:09",
-   "heat": 7734190,
-   "updated": "2026-08-29T17:03:35.505638",
-   "url": "https://www.bilibili.com/video/BV1uth56uEz3",
-   "points": [
-    "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖..."
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "istupidpig",
    "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
    "duration": "3:29",
-   "heat": 4179896,
-   "updated": "2026-08-29T17:03:35.505650",
+   "heat": 4238750,
+   "updated": "2026-08-29T23:58:42.198130",
    "url": "https://www.bilibili.com/video/BV1DNhw6iE1V",
    "points": [
     "没想到，怪兽中出了一个...不对，是一群奥特曼的卧底！"
@@ -186,11 +168,47 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "科学宇宙锋轮",
+   "title": "星际外卖员：你只迟到了3秒，也被扇了一巴掌【AI全民制作人】",
+   "duration": "5:09",
+   "heat": 7793520,
+   "updated": "2026-08-29T23:58:42.198142",
+   "url": "https://www.bilibili.com/video/BV1uth56uEz3",
+   "points": [
+    "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖..."
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影视飓风",
+   "title": "看了10年网络热门生物，无穷小亮能看出AI吗？",
+   "duration": "12:14",
+   "heat": 2367464,
+   "updated": "2026-08-29T23:58:42.198145",
+   "url": "https://www.bilibili.com/video/BV1eVtc6hEhn",
+   "points": [
+    "你现在还能一眼分辨出AI和真实视频吗？这次，我们和有着多年生物鉴定经验的无穷小亮老师，一起进行了一次AI和真实视频的鉴别！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390867,
-   "updated": "2026-08-29T17:03:35.505652",
+   "heat": 390868,
+   "updated": "2026-08-29T23:58:42.198147",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -208,7 +226,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-08-29T17:03:35.505655",
+   "updated": "2026-08-29T23:58:42.198150",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -226,7 +244,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557434,
-   "updated": "2026-08-29T17:03:35.505658",
+   "updated": "2026-08-29T23:58:42.198153",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -242,7 +260,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155625,
-   "updated": "2026-08-29T17:03:35.505660",
+   "updated": "2026-08-29T23:58:42.198155",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -260,28 +278,10 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611396,
-   "updated": "2026-08-29T17:03:35.505663",
+   "updated": "2026-08-29T23:58:42.198157",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2659209,
-   "updated": "2026-08-29T17:03:35.505665",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
-   "points": [
-    "Microsoft Edge 浏览器安装「豆包插件」教程https://bytedance.larkoffice.com/wiki/Ik5UwSJAoiUH3xk1QkOcMU1cnVh Safari 浏览器安装「豆包插"
    ],
    "flags": {
     "fav": false,
@@ -296,7 +296,7 @@
    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T17:03:35.505667",
+   "updated": "2026-08-29T23:58:42.198160",
    "url": "https://www.qbitai.com/2026/08/481372.html",
    "points": [
     "推理软件栈的微小差异，就能改变输出token"
@@ -314,7 +314,7 @@
    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T17:03:35.505670",
+   "updated": "2026-08-29T23:58:42.198162",
    "url": "https://www.qbitai.com/2026/08/481075.html",
    "points": [],
    "flags": {
@@ -330,7 +330,7 @@
    "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T17:03:35.505672",
+   "updated": "2026-08-29T23:58:42.198163",
    "url": "https://www.qbitai.com/2026/08/480940.html",
    "points": [
     "Coding正在变成Al世界的数字执行力"
@@ -348,7 +348,7 @@
    "title": "OpenClaw：红过，爱过，散了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T17:03:35.505674",
+   "updated": "2026-08-29T23:58:42.198165",
    "url": "https://www.qbitai.com/2026/08/480855.html",
    "points": [],
    "flags": {
@@ -364,7 +364,7 @@
    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T17:03:35.505676",
+   "updated": "2026-08-29T23:58:42.198167",
    "url": "https://www.qbitai.com/2026/08/480787.html",
    "points": [],
    "flags": {
@@ -380,10 +380,28 @@
    "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T17:03:35.505678",
+   "updated": "2026-08-29T23:58:42.198169",
    "url": "https://www.qbitai.com/2026/08/480591.html",
    "points": [
     "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "索尼音乐和华纳查佩尔起诉 Anthropic",
+   "duration": "—",
+   "heat": 9,
+   "updated": "2026-08-29",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+   "points": [
+    "索尼音乐和华纳查佩尔起诉 Anthropic"
    ],
    "flags": {
     "fav": false,
@@ -474,24 +492,6 @@
    "url": "https://www.technology.org/2026/08/28/how-artificial-intelligence-and-cognitive-science-are-redefining-knowledge-retention-an-analysis-of-the-longtermemory-platform/",
    "points": [
     "人工智能和认知科学重新定义知识保留"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "报告称英伟达将以 $12.9B 收购 Hugging Face",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-08-27",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-to-buy-hugging-face-for-usd12-9-billion-report-claims-could-strengthen-nvidias-open-model-strategy-and-shore-up-position-against-rivals",
-   "points": [
-    "报告称英伟达将以 $12.9B 收购 Hugging Face"
    ],
    "flags": {
     "fav": false,
