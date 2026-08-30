@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:58",
+ "fetchedAt": "13:12",
  "fetchedDate": "2026-08-30",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且速度很快！"
+    "Minimax H3 Max 感觉非法且快速！"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +67,7 @@
    "updated": "2026-08-26 13:10:13",
    "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
    "points": [
-    "DeepSeek 的新人工智能系统不应该成为可能"
+    "DeepSeek 的新人工智能系统不应该是不可能的"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "istupidpig",
    "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
    "duration": "3:29",
-   "heat": 4238750,
-   "updated": "2026-08-29T23:58:42.198130",
+   "heat": 4471335,
+   "updated": "2026-08-30T05:12:47.851612",
    "url": "https://www.bilibili.com/video/BV1DNhw6iE1V",
    "points": [
     "没想到，怪兽中出了一个...不对，是一群奥特曼的卧底！"
@@ -168,29 +168,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "科学宇宙锋轮",
-   "title": "星际外卖员：你只迟到了3秒，也被扇了一巴掌【AI全民制作人】",
-   "duration": "5:09",
-   "heat": 7793520,
-   "updated": "2026-08-29T23:58:42.198142",
-   "url": "https://www.bilibili.com/video/BV1uth56uEz3",
-   "points": [
-    "自从地球普及了星级跃迁。星际送外卖成为了风口。而你，今天接了三单外卖..."
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "影视飓风",
    "title": "看了10年网络热门生物，无穷小亮能看出AI吗？",
    "duration": "12:14",
-   "heat": 2367464,
-   "updated": "2026-08-29T23:58:42.198145",
+   "heat": 2892693,
+   "updated": "2026-08-30T05:12:47.851624",
    "url": "https://www.bilibili.com/video/BV1eVtc6hEhn",
    "points": [
     "你现在还能一眼分辨出AI和真实视频吗？这次，我们和有着多年生物鉴定经验的无穷小亮老师，一起进行了一次AI和真实视频的鉴别！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～"
@@ -204,11 +186,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "多梦综合征",
+   "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
+   "duration": "5:30",
+   "heat": 1034235,
+   "updated": "2026-08-30T05:12:47.851627",
+   "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
+   "points": [
+    "忙了许久，华强再次回归。 研究了许久的Minimax H3这次是主力。全片没有使用闭源视频平台。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390868,
-   "updated": "2026-08-29T23:58:42.198147",
+   "heat": 390871,
+   "updated": "2026-08-30T05:12:47.851630",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -226,7 +226,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-08-29T23:58:42.198150",
+   "updated": "2026-08-30T05:12:47.851632",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -244,7 +244,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557434,
-   "updated": "2026-08-29T23:58:42.198153",
+   "updated": "2026-08-30T05:12:47.851634",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -260,7 +260,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155625,
-   "updated": "2026-08-29T23:58:42.198155",
+   "updated": "2026-08-30T05:12:47.851636",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
@@ -278,7 +278,7 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611396,
-   "updated": "2026-08-29T23:58:42.198157",
+   "updated": "2026-08-30T05:12:47.851638",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [
     "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
@@ -296,7 +296,7 @@
    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T23:58:42.198160",
+   "updated": "2026-08-30T05:12:47.851640",
    "url": "https://www.qbitai.com/2026/08/481372.html",
    "points": [
     "推理软件栈的微小差异，就能改变输出token"
@@ -314,7 +314,7 @@
    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T23:58:42.198162",
+   "updated": "2026-08-30T05:12:47.851643",
    "url": "https://www.qbitai.com/2026/08/481075.html",
    "points": [],
    "flags": {
@@ -330,7 +330,7 @@
    "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T23:58:42.198163",
+   "updated": "2026-08-30T05:12:47.851645",
    "url": "https://www.qbitai.com/2026/08/480940.html",
    "points": [
     "Coding正在变成Al世界的数字执行力"
@@ -348,7 +348,7 @@
    "title": "OpenClaw：红过，爱过，散了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T23:58:42.198165",
+   "updated": "2026-08-30T05:12:47.851646",
    "url": "https://www.qbitai.com/2026/08/480855.html",
    "points": [],
    "flags": {
@@ -364,7 +364,7 @@
    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T23:58:42.198167",
+   "updated": "2026-08-30T05:12:47.851648",
    "url": "https://www.qbitai.com/2026/08/480787.html",
    "points": [],
    "flags": {
@@ -380,10 +380,46 @@
    "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-29T23:58:42.198169",
+   "updated": "2026-08-30T05:12:47.851650",
    "url": "https://www.qbitai.com/2026/08/480591.html",
    "points": [
     "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Meta Project OT 计划用 AI 代理取代员工",
+   "duration": "—",
+   "heat": 11,
+   "updated": "2026-08-30",
+   "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+   "points": [
+    "Meta Project OT 计划用 AI 代理取代员工"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "法院裁定 Anthropic 被特朗普政府非法列入黑名单",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-08-30",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+   "points": [
+    "法院裁定 Anthropic 被特朗普政府非法列入黑名单"
    ],
    "flags": {
     "fav": false,
@@ -456,42 +492,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
    "points": [
     "Hot Chips 2026：Cerebras 布局晶圆级人工智能的未来"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "TIME100人工智能领域最具影响力人物名单",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-08-28",
-   "url": "https://time.com/article/2026/08/26/time-reveals-the-2026-time100-ai-list-of-the-world-s-most-influential-people-in-artificial-intelligence/",
-   "points": [
-    "TIME100人工智能领域最具影响力人物名单"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能和认知科学重新定义知识保留",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-08-28",
-   "url": "https://www.technology.org/2026/08/28/how-artificial-intelligence-and-cognitive-science-are-redefining-knowledge-retention-an-analysis-of-the-longtermemory-platform/",
-   "points": [
-    "人工智能和认知科学重新定义知识保留"
    ],
    "flags": {
     "fav": false,
