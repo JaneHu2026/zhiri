@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:12",
+ "fetchedAt": "22:45",
  "fetchedDate": "2026-08-30",
  "source": "zhiri-server",
  "items": [
@@ -150,47 +150,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "istupidpig",
-   "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
-   "duration": "3:29",
-   "heat": 4471335,
-   "updated": "2026-08-30T05:12:47.851612",
-   "url": "https://www.bilibili.com/video/BV1DNhw6iE1V",
-   "points": [
-    "没想到，怪兽中出了一个...不对，是一群奥特曼的卧底！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影视飓风",
-   "title": "看了10年网络热门生物，无穷小亮能看出AI吗？",
-   "duration": "12:14",
-   "heat": 2892693,
-   "updated": "2026-08-30T05:12:47.851624",
-   "url": "https://www.bilibili.com/video/BV1eVtc6hEhn",
-   "points": [
-    "你现在还能一眼分辨出AI和真实视频吗？这次，我们和有着多年生物鉴定经验的无穷小亮老师，一起进行了一次AI和真实视频的鉴别！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 1034235,
-   "updated": "2026-08-30T05:12:47.851627",
+   "heat": 1577858,
+   "updated": "2026-08-30T14:45:13.045212",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [
     "忙了许久，华强再次回归。 研究了许久的Minimax H3这次是主力。全片没有使用闭源视频平台。"
@@ -204,11 +168,65 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "野生锅导演",
+   "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影",
+   "duration": "94:31",
+   "heat": 727214,
+   "updated": "2026-08-30T14:45:13.045225",
+   "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
+   "points": [
+    "从2025年2月开始启动创作，完全用业余时间制作，共耗时18个月。这个故事的原著是刘慈欣的短篇科幻《山》，是除《三体》之外我最喜欢的一部科幻小说作品，感谢AI，可以让我把它影视化。这18个月还经历了数轮AI视频技术的大升"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "巨构AI",
+   "title": "巨构：暗黑森林【AI全民制作人】",
+   "duration": "1:02",
+   "heat": 1713256,
+   "updated": "2026-08-30T14:45:13.045228",
+   "url": "https://www.bilibili.com/video/BV1bx4k6zE6D",
+   "points": [
+    "群星在坠落，黑暗保持完整。 光抵达之前，森林已经改变。 而所有凝视，终将归于黑暗。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "istupidpig",
+   "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
+   "duration": "3:29",
+   "heat": 4796900,
+   "updated": "2026-08-30T14:45:13.045231",
+   "url": "https://www.bilibili.com/video/BV1DNhw6iE1V",
+   "points": [
+    "没想到，怪兽中出了一个...不对，是一群奥特曼的卧底！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390871,
-   "updated": "2026-08-30T05:12:47.851630",
+   "heat": 390877,
+   "updated": "2026-08-30T14:45:13.045233",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -226,7 +244,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-08-30T05:12:47.851632",
+   "updated": "2026-08-30T14:45:13.045235",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -243,8 +261,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557434,
-   "updated": "2026-08-30T05:12:47.851634",
+   "heat": 557436,
+   "updated": "2026-08-30T14:45:13.045238",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -259,29 +277,11 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155625,
-   "updated": "2026-08-30T05:12:47.851636",
+   "heat": 155627,
+   "updated": "2026-08-30T14:45:13.045240",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611396,
-   "updated": "2026-08-30T05:12:47.851638",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [
-    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
    ],
    "flags": {
     "fav": false,
@@ -296,7 +296,7 @@
    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-30T05:12:47.851640",
+   "updated": "2026-08-30T14:45:13.045242",
    "url": "https://www.qbitai.com/2026/08/481372.html",
    "points": [
     "推理软件栈的微小差异，就能改变输出token"
@@ -314,7 +314,7 @@
    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-30T05:12:47.851643",
+   "updated": "2026-08-30T14:45:13.045244",
    "url": "https://www.qbitai.com/2026/08/481075.html",
    "points": [],
    "flags": {
@@ -330,7 +330,7 @@
    "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-30T05:12:47.851645",
+   "updated": "2026-08-30T14:45:13.045246",
    "url": "https://www.qbitai.com/2026/08/480940.html",
    "points": [
     "Coding正在变成Al世界的数字执行力"
@@ -348,7 +348,7 @@
    "title": "OpenClaw：红过，爱过，散了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-30T05:12:47.851646",
+   "updated": "2026-08-30T14:45:13.045248",
    "url": "https://www.qbitai.com/2026/08/480855.html",
    "points": [],
    "flags": {
@@ -364,7 +364,7 @@
    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-30T05:12:47.851648",
+   "updated": "2026-08-30T14:45:13.045250",
    "url": "https://www.qbitai.com/2026/08/480787.html",
    "points": [],
    "flags": {
@@ -380,7 +380,7 @@
    "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-30T05:12:47.851650",
+   "updated": "2026-08-30T14:45:13.045252",
    "url": "https://www.qbitai.com/2026/08/480591.html",
    "points": [
     "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。"
@@ -395,13 +395,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Meta Project OT 计划用 AI 代理取代员工",
+   "title": "先进人工智能的伦理问题",
    "duration": "—",
-   "heat": 11,
+   "heat": 2,
    "updated": "2026-08-30",
-   "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+   "url": "https://nickbostrom.com/ethics/ai",
    "points": [
-    "Meta Project OT 计划用 AI 代理取代员工"
+    "先进人工智能的伦理问题"
    ],
    "flags": {
     "fav": false,
@@ -413,13 +413,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "法院裁定 Anthropic 被特朗普政府非法列入黑名单",
+   "title": "Meta Project OT计划用AI代理取代员工",
+   "duration": "—",
+   "heat": 12,
+   "updated": "2026-08-30",
+   "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+   "points": [
+    "Meta Project OT计划用AI代理取代员工"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Anthropic被特朗普政府非法列入黑名单，法院规则",
    "duration": "—",
    "heat": 5,
    "updated": "2026-08-30",
    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
    "points": [
-    "法院裁定 Anthropic 被特朗普政府非法列入黑名单"
+    "Anthropic被特朗普政府非法列入黑名单，法院规则"
    ],
    "flags": {
     "fav": false,
@@ -431,13 +449,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "索尼音乐和华纳查佩尔起诉 Anthropic",
+   "title": "索尼音乐和华纳查普尔起诉Anthropic",
    "duration": "—",
    "heat": 9,
    "updated": "2026-08-29",
    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
    "points": [
-    "索尼音乐和华纳查佩尔起诉 Anthropic"
+    "索尼音乐和华纳查普尔起诉Anthropic"
    ],
    "flags": {
     "fav": false,
@@ -449,13 +467,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能和归纳问题 [pdf]",
+   "title": "人工智能与归纳问题[pdf]",
    "duration": "—",
    "heat": 2,
    "updated": "2026-08-28",
    "url": "https://www.iiardjournals.org/get/JHSP/VOL.%12%NO.%1%2026/Artificial%Intelligence%and%the%Problem%1-7.pdf",
    "points": [
-    "人工智能和归纳问题 [pdf]"
+    "人工智能与归纳问题[pdf]"
    ],
    "flags": {
     "fav": false,
@@ -467,31 +485,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "高级官员表示，美国国家安全局希望访问“所有”人工智能模型",
+   "title": "美国国家安全局希望获得“所有”人工智能模型，高级官员说",
    "duration": "—",
    "heat": 8,
    "updated": "2026-08-28",
    "url": "https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/",
    "points": [
-    "高级官员表示，美国国家安全局希望访问“所有”人工智能模型"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Hot Chips 2026：Cerebras 布局晶圆级人工智能的未来",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-08-28",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
-   "points": [
-    "Hot Chips 2026：Cerebras 布局晶圆级人工智能的未来"
+    "美国国家安全局希望获得“所有”人工智能模型，高级官员说"
    ],
    "flags": {
     "fav": false,

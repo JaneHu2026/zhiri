@@ -1,96 +1,116 @@
 {
- "fetchedAt": "13:11",
+ "fetchedAt": "22:43",
  "fetchedDate": "2026-08-30",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+   "title": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTIui4aJJyKVF383JPnkmy2260830.shtml",
-   "summary": "新华社北京8月30日电 8月30日上午，国家主席习近平乘专机离开北京，赴比什凯克出席2026年上海合作组织峰会，应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。",
+   "url": "https://news.cctv.com/2026/08/30/ARTIFXm5K3JTr23rcPmZXZDR260830.shtml",
+   "summary": "当地时间8月30日下午，国家主席习近平乘专机抵达比什凯克，应吉尔吉斯斯坦总统扎帕罗夫邀请，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "8月30日上午，国家主席习近平乘专机离开北京，赴比什凯克出席2026年上海合作组织峰会，并对吉尔吉斯斯坦、埃及进行国事访问",
+   "title": "习近平发表书面讲话，代表中国政府和中国人民，向扎帕罗夫总统和吉尔吉斯斯坦人民致以诚挚问候和良好祝愿｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTIui4aJJyKVF383JPnkmy2260830.shtml",
-   "summary": "新华社北京8月30日电 8月30日上午，国家主席习近平乘专机离开北京，赴比什凯克出席2026年上海合作组织峰会，应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "出口大省、沿边省份外商投资企业增长“双轮驱动”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTIYmdnsLtI0pYjudFlattl260830.shtml",
-   "summary": "2bf9ab6f8b14,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/08/30/ARTIFXm5K3JTr23rcPmZXZDR260830.shtml",
+   "summary": "当地时间8月30日下午，国家主席习近平乘专机抵达比什凯克，应吉尔吉斯斯坦总统扎帕罗夫邀请，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "多项“首次”入法 以法治集成护耕地 夯实粮食安全根基",
+   "title": "当地时间8月30日下午，国家主席习近平乘专机抵达比什凯克，应吉尔吉斯斯坦总统扎帕罗夫邀请，出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTImGQ4pb2u9LF9H1qSrJl1260830.shtml",
-   "summary": "37a5f54718b8,0,1,16:9,newPlayera1e625a0c1c3,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/08/30/VIDEeqkhl5LlMPVFJmbBHKNK260830.shtml",
+   "summary": "习近平抵达比什凯克出席2026年上海合作组织峰会并对吉尔吉斯斯坦进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "搭建人才供需对接桥梁 “点对点”服务高校毕业生等重点群体就业",
+   "theme": "要闻",
+   "title": "习近平同吉尔吉斯斯坦总统小范围晤谈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTIcItuVRKI2Ow0cf98j9rW260830.shtml",
-   "summary": "51f86fcdfa2b,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "财政科学管理试点启动已一年 成效如何？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTI4N7UlgwDSjgiYZN04YJi260830.shtml",
-   "summary": "35d58871443e,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "首套全国几何基准影像发布 卫星遥感影像有了统一“空间标尺”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTIqKUWWodRpXIi8IqveHCe260830.shtml",
+   "url": "https://news.cctv.com/2026/08/30/ARTIuPeYTW3pV6kGEWEVdlDj260830.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "独家动画演示：西藏吉隆泥石流灾害救援为啥这么难",
+   "theme": "要闻",
+   "title": "吉尔吉斯斯坦各界人士欢迎习近平主席对吉尔吉斯斯坦进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/30/ARTIYoDUm2RkimjeAZ60Kbza260830.shtml",
+   "url": "https://tv.cctv.com/2026/08/30/VIDEVHint61pbXzJcJDB6Iwj260830.shtml",
+   "summary": "推动中吉新时代全面战略伙伴关系迈上新台阶——吉尔吉斯斯坦各界人士欢迎习近平主席对吉尔吉斯斯坦进行国事访问。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "《平“语”近人——习近平喜欢的典故》（多语种版）在上海合作组织国家主流媒体播出",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/30/VIDEWLF78kg4klItZgOUseP6260830.shtml",
+   "summary": "《平“语”近人——习近平喜欢的典故》（多语种版）在上海合作组织国家主流媒体播出。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "国际社会期待上合组织峰会凝聚更多共识",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/30/VIDE3C3FpFRbSVqPRJdKtSuW260830.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "中国与上合组织其他成员国2025年贸易额占我国外贸总额的8%",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/08/30/VIDERhaOaw8LwGds2h7EERhQ260830.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "计票继续 冰岛脱欧公投岌岌可危",
+   "title": "冰岛投票反对重启加入欧盟谈判",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "summary": "关于是否恢复与欧盟的成员资格谈判的投票结果势均力敌。",
+   "summary": "RUV 广播公司报道称，52.8% 的选民拒绝了政府恢复谈判的提议。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "瑞士狂欢节枪击事件导致 22 岁女子死亡，五人受伤",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+   "summary": "苏黎世附近的一场科技活动中发生枪击事件后，另外五名二十多岁的人受伤。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "加拿大在安大略湖安装了大型标志，以应对美国的最新攻击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+   "summary": "安大略省省长道格·福特在加拿大海岸线揭幕了一块广告牌，上面写着：“安大略湖。现在和永远。”",
    "day": 0
   },
   {
@@ -106,11 +126,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大在安大略湖安装了大型标志，以应对美国的最新攻击",
+   "title": "赞比亚反对派领袖被控叛国罪",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-   "summary": "安大略省省长道格·福特在加拿大海岸线揭幕了一块广告牌，上面写着：“安大略湖。现在和永远。”",
+   "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+   "summary": "蒙杜比莱此前曾躲藏在赞比亚首都的一座联合国大楼内。",
    "day": 0
   },
   {
