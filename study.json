@@ -1,26 +1,8 @@
 {
- "fetchedAt": "08:18",
+ "fetchedAt": "14:50",
  "fetchedDate": "2026-08-31",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Minimax H3 Max feels ILLEGAL and FAST!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-29 18:58:48",
-   "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
-   "points": [
-    "Minimax H3 Max感觉非法且快速！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -32,24 +14,6 @@
    "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
    "points": [
     "数十亿美元的人工智能差距正在缩小"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Ox Alpha is GLM 5.3 Flash!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-26 16:31:41",
-   "url": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
-   "points": [
-    "Ox Alpha是GLM 5.3 Flash ！ ！ ！"
    ],
    "flags": {
     "fav": false,
@@ -96,24 +60,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "I Tested Ox Alpha (stealth model)!!!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-21 22:40:14",
-   "url": "https://www.youtube.com/watch?v=3INNP9KXxp4",
-   "points": [
-    "我测试了牛阿尔法（隐形模型） ！ ！ ！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "3Blue1Brown",
    "title": "The jumping pegs puzzle",
    "duration": "—",
@@ -132,14 +78,68 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "The Right Harness is All You Need - For local Frontier AI",
+   "author": "3Blue1Brown",
+   "title": "The 64 sugar cubes puzzle",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-08 17:22:18",
-   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+   "updated": "2026-07-24 15:05:39",
+   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
    "points": [
-    "合适的线束就是您所需的一切-适合本地Frontier AI"
+    "64块方糖的拼图"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-07-16 11:56:04",
+   "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+   "points": [
+    "但是什么是交叉熵？ |压迫就是智力第2部分"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用LLM"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "像ChatGPT一样深入了解LLM"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 1797140,
-   "updated": "2026-08-31T00:18:46.877043",
+   "heat": 2165733,
+   "updated": "2026-08-31T06:50:07.416975",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [
     "忙了许久，华强再次回归。 研究了许久的Minimax H3这次是主力。全片没有使用闭源视频平台。"
@@ -169,10 +169,10 @@
    "id": "sv_ext",
    "platform": "bilibili",
    "author": "野生锅导演",
-   "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影",
+   "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影【ai全民制作人】",
    "duration": "94:31",
-   "heat": 884473,
-   "updated": "2026-08-31T00:18:46.877054",
+   "heat": 1067329,
+   "updated": "2026-08-31T06:50:07.416986",
    "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
    "points": [
     "从2025年2月开始启动创作，完全用业余时间制作，共耗时18个月。这个故事的原著是刘慈欣的短篇科幻《山》，是除《三体》之外我最喜欢的一部科幻小说作品，感谢AI，可以让我把它影视化。这18个月还经历了数轮AI视频技术的大升"
@@ -189,8 +189,8 @@
    "author": "巨构AI",
    "title": "巨构：暗黑森林【AI全民制作人】",
    "duration": "1:02",
-   "heat": 1785333,
-   "updated": "2026-08-31T00:18:46.877057",
+   "heat": 1851190,
+   "updated": "2026-08-31T06:50:07.416989",
    "url": "https://www.bilibili.com/video/BV1bx4k6zE6D",
    "points": [
     "群星在坠落，黑暗保持完整。 光抵达之前，森林已经改变。 而所有凝视，终将归于黑暗。"
@@ -204,29 +204,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "istupidpig",
-   "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
-   "duration": "3:29",
-   "heat": 4855910,
-   "updated": "2026-08-31T00:18:46.877059",
-   "url": "https://www.bilibili.com/video/BV1DNhw6iE1V",
-   "points": [
-    "没想到，怪兽中出了一个...不对，是一群奥特曼的卧底！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390880,
-   "updated": "2026-08-31T00:18:46.877062",
+   "heat": 390884,
+   "updated": "2026-08-31T06:50:07.416991",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [
     "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
@@ -244,7 +226,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-08-31T00:18:46.877064",
+   "updated": "2026-08-31T06:50:07.416994",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [
     "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
@@ -261,8 +243,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557437,
-   "updated": "2026-08-31T00:18:46.877066",
+   "heat": 557438,
+   "updated": "2026-08-31T06:50:07.416996",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -277,11 +259,99 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155628,
-   "updated": "2026-08-31T00:18:46.877068",
+   "heat": 155629,
+   "updated": "2026-08-31T06:50:07.416998",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [
     "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611406,
+   "updated": "2026-08-31T06:50:07.417001",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-31T06:50:07.417004",
+   "url": "https://www.qbitai.com/2026/08/481893.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-31T06:50:07.417006",
+   "url": "https://www.qbitai.com/2026/08/481759.html",
+   "points": [
+    "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-31T06:50:07.417008",
+   "url": "https://www.qbitai.com/2026/08/481750.html",
+   "points": [
+    "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-31T06:50:07.417010",
+   "url": "https://www.qbitai.com/2026/08/481475.html",
+   "points": [
+    "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
    ],
    "flags": {
     "fav": false,
@@ -296,7 +366,7 @@
    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-31T00:18:46.877070",
+   "updated": "2026-08-31T06:50:07.417012",
    "url": "https://www.qbitai.com/2026/08/481372.html",
    "points": [
     "推理软件栈的微小差异，就能改变输出token"
@@ -314,7 +384,7 @@
    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-08-31T00:18:46.877072",
+   "updated": "2026-08-31T06:50:07.417014",
    "url": "https://www.qbitai.com/2026/08/481075.html",
    "points": [],
    "flags": {
@@ -325,65 +395,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Mark Zuckerberg向Meta员工发送消息",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-31T00:18:46.877074",
-   "url": "https://www.qbitai.com/2026/08/480940.html",
+   "heat": 14,
+   "updated": "2026-08-31",
+   "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
    "points": [
-    "Coding正在变成Al世界的数字执行力"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "OpenClaw：红过，爱过，散了",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-31T00:18:46.877076",
-   "url": "https://www.qbitai.com/2026/08/480855.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-31T00:18:46.877077",
-   "url": "https://www.qbitai.com/2026/08/480787.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-31T00:18:46.877079",
-   "url": "https://www.qbitai.com/2026/08/480591.html",
-   "points": [
-    "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。"
+    "Mark Zuckerberg向Meta员工发送消息"
    ],
    "flags": {
     "fav": false,
@@ -474,24 +494,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
    "points": [
     "索尼音乐和华纳查普尔起诉Anthropic"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能与归纳问题[pdf]",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-08-28",
-   "url": "https://www.iiardjournals.org/get/JHSP/VOL.%12%NO.%1%2026/Artificial%Intelligence%and%the%Problem%1-7.pdf",
-   "points": [
-    "人工智能与归纳问题[pdf]"
    ],
    "flags": {
     "fav": false,
