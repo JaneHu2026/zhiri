@@ -1,26 +1,16 @@
 {
- "fetchedAt": "14:48",
- "fetchedDate": "2026-08-31",
+ "fetchedAt": "01:27",
+ "fetchedDate": "2026-09-01",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国家主席习近平出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式",
+   "title": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/31/ARTIT48Jt0ZaYU0rdMPO0Tiv260831.shtml",
-   "summary": "新华社快讯：当地时间8月31日上午，国家主席习近平出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "骑兵马队护卫 习近平乘车前往仪式现场｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/31/ARTI3Y9n0ou5GWc3tvhdBeoy260831.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/08/31/ARTIVXAkxD12jFgdVjKMq2so260831.shtml",
+   "summary": "当地时间8月31日上午，吉尔吉斯斯坦总统扎帕罗夫同中国国家主席习近平在比什凯克和谐宫举行会谈。",
    "day": 0
   },
   {
@@ -36,50 +26,60 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "骑兵马队护卫 习近平乘车前往欢迎仪式现场",
+   "title": "习近平会见俄罗斯总统普京",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/31/ARTI3Y9n0ou5GWc3tvhdBeoy260831.shtml",
+   "url": "https://news.cctv.com/2026/08/31/ARTILk4aotyldb1E5wLmsSMN260831.shtml",
+   "summary": "习近平指出，今年5月，普京总统成功对中国进行国事访问，我们从战略高度和长远角度，对引领两国关系向更高质量、更高水平发展作出部署，就新形势下深化中俄各领域合作达成共识。两国主管部门正在积极落实，已经取得很多成果，双方的交流合作保持着蓬勃发展势头。相信在我们的战略引领和双方共同努力下，中俄关系发展的根基…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见俄罗斯总统普京。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/31/ARTILk4aotyldb1E5wLmsSMN260831.shtml",
+   "summary": "习近平指出，今年5月，普京总统成功对中国进行国事访问，我们从战略高度和长远角度，对引领两国关系向更高质量、更高水平发展作出部署，就新形势下深化中俄各领域合作达成共识。两国主管部门正在积极落实，已经取得很多成果，双方的交流合作保持着蓬勃发展势头。相信在我们的战略引领和双方共同努力下，中俄关系发展的根基…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平会见蒙古国总统呼日勒苏赫",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/31/ARTIvzjVO3UOdHPy0PK36nPA260831.shtml",
+   "summary": "习近平指出，中蒙山水相连、毗邻而居，和平共处、守望相助、合作共赢始终是两国关系的主流和底色。中方将继续把中蒙关系放在周边外交重要位置，同蒙方一道，巩固战略互信，深化互利合作，促进民心相通，为两国全面战略伙伴关系注入更多生机活力，推动构建中蒙命运共同体。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见蒙古国总统呼日勒苏赫。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/31/ARTIvzjVO3UOdHPy0PK36nPA260831.shtml",
+   "summary": "习近平指出，中蒙山水相连、毗邻而居，和平共处、守望相助、合作共赢始终是两国关系的主流和底色。中方将继续把中蒙关系放在周边外交重要位置，同蒙方一道，巩固战略互信，深化互利合作，促进民心相通，为两国全面战略伙伴关系注入更多生机活力，推动构建中蒙命运共同体。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平会见乌兹别克斯坦总统米尔济约耶夫",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/08/31/ARTIIMdQpBWrb6sdVrY7hE96260831.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "当地时间8月31日上午，习近平主席乘坐的专车在骑兵马队护卫下前往和谐宫，出席扎帕罗夫总统举行的欢迎仪式。",
+   "title": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见乌兹别克斯坦总统米尔济约耶夫。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/08/31/ARTI3Y9n0ou5GWc3tvhdBeoy260831.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/31/ARTIMiJD0W0mRvaaFqDJrOhY260831.shtml",
-   "summary": "新华社快讯：当地时间8月31日上午，国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "时政新闻眼丨习近平开启亚非之行，这些细节值得关注",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/08/31/ARTIFp61pWec2e7gf2vhjP5y260831.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "专家：中吉新时代全面战略伙伴关系将迈上新台阶",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/08/31/VIDE6QXLcERqhcMlqGvYVYyk260831.shtml",
+   "url": "https://news.cctv.com/2026/08/31/ARTIIMdQpBWrb6sdVrY7hE96260831.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -136,11 +136,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+   "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-   "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+   "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+   "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
    "day": 0
   },
   {
@@ -150,7 +150,67 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-   "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+   "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two other",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Man arrested after Swiss rave shooting that killed woman",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+   "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "The jury's options in Lindsay Clancy's murder trial",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+   "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+   "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not ",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Dolly Parton laid to rest alongside husband in Nashville",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+   "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Messi retires from Argentina duty with 'nothing left to give'",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+   "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"",
    "day": 0
   },
   {
