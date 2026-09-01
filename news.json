@@ -1,26 +1,46 @@
 {
- "fetchedAt": "22:37",
- "fetchedDate": "2026-09-01",
+ "fetchedAt": "07:53",
+ "fetchedDate": "2026-09-02",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+   "title": "习近平抵达开罗对埃及进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/01/ARTIuLNBLHB7PPOhQOeAT5AA260901.shtml",
-   "summary": "当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议。",
+   "url": "https://news.cctv.com/2026/09/02/ARTIXmYhnkXaA20tHh0IBdf3260902.shtml",
+   "summary": "新华社开罗9月1日电（记者陈梦阳 邵艺博）当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平同上海合作组织成员国领导人集体合影 |",
+   "title": "习近平抵达埃及开罗国际机场发表书面讲话｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/01/ARTID0s968j4BthbNkKTSIih260901.shtml",
-   "summary": "当地时间9月1日上午，国家主席习近平在比什凯克幸福宫同上海合作组织成员国领导人集体合影。",
+   "url": "https://news.cctv.com/2026/09/02/ARTIZfEQZ5zThlJZQXHMvOan260902.shtml",
+   "summary": "很高兴应塞西总统邀请，在中埃建交70周年之际对阿拉伯埃及共和国进行国事访问。10年前，我曾访问埃及，留下许多美好回忆，今天再次踏上这片承载深厚文明的土地，倍感亲切。我谨代表中国政府和中国人民，向友好的埃及政府和埃及人民致以诚挚问候和良好祝愿。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "埃及总统塞西夫妇在机场迎接习近平主席到访｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/02/ARTIc6GTYHAgF7FVxCAoW8b3260902.shtml",
+   "summary": "当地时间9月1日晚，国家主席习近平和夫人彭丽媛乘专机抵达开罗国际机场时，塞西总统夫妇热情迎接。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平在埃及媒体发表署名文章",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/01/ARTIhEtHkC9RTZpLMPlnPczQ260901.shtml",
+   "summary": "9月1日，在赴开罗对埃及进行国事访问之际，国家主席习近平在埃及《金字塔报》、《消息报》、《共和国报》发表题为《风雨同舟七十载，踔厉奋发新征程》的署名文章。文章全文如下：",
    "day": 0
   },
   {
@@ -50,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/01/ARTIl8CB42ZMab4joica8Fyv260901.shtml",
-   "summary": "当地时间9月1日下午，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -60,26 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/01/ARTIl8CB42ZMab4joica8Fyv260901.shtml",
-   "summary": "当地时间9月1日下午，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平会见俄罗斯总统普京",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/01/ARTICMzuvJ268NamlEabzmpX260901.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "当地时间8月31日下午，国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见俄罗斯总统普京。",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/01/ARTICMzuvJ268NamlEabzmpX260901.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,81 +106,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "“我从未去过阿富汗”：六百万被驱逐者被迫在塔利班统治下重新开始",
+   "title": "Germany says Russia behind Leipzig airport drone attack",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+   "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US strikes Iran as state media reports four killed at wedding party",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+   "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-   "summary": "截至8月，今年从巴基斯坦和伊朗被迫返回的人数已达100万人。",
+   "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "尼泊尔死亡人数突破千人 救援人员竞相寻找被困在泥浆隧道中的工人",
+   "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-   "summary": "中国官方媒体报道西藏官方死亡人数为 16 人，仍有数千人失踪。",
+   "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "检察官称，休达几乎每天都发生性侵犯事件",
+   "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-   "summary": "大多数移民已返回邻国摩洛哥，但仍有多达 5,000 人留在西班牙飞地。",
+   "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "以色列称哈马斯高级成员在加沙袭击中因袭击造成三人死亡而被捕",
+   "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-   "summary": "报道称，以色列特种部队和以色列支持的巴勒斯坦民兵发动袭击后，以色列军方发动了袭击。",
+   "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯基辅铁路工人遭遇新一轮致命袭击",
+   "title": "Ariana Grande completes tour and steps back from public life",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰官员称，首都及周边地区有 20 人受伤，其中包括两名儿童。",
+   "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+   "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普称美国对福克兰群岛的立场是“众多立场之一”正在接受审查",
+   "title": "Pistol in a lake gives hope for French cold case",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-   "summary": "英国表示，福克兰群岛居民“是英国人，有权决定自己的未来”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "前黑帮老大因策划 1996 年谋杀说唱歌手图帕克·沙库尔 (Tupac Shakur) 罪名成立",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-   "summary": "30 年前，杜安·“Keffe D”·戴维斯因驾车枪击这位说唱巨星而被定罪。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "期待已久的 Shein 首次上市后估值达 260 亿美元",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-   "summary": "该公司多年来一直寻求在纽约和伦敦出售股票，随后于周二在香港上市。",
+   "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+   "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
    "day": 0
   },
   {
