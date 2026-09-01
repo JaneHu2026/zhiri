@@ -1,8 +1,26 @@
 {
- "fetchedAt": "17:18",
+ "fetchedAt": "22:39",
  "fetchedDate": "2026-09-01",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Powerful AI Is Becoming Almost Free",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-01 09:04:56",
+   "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+   "points": [
+    "强大的人工智能几乎变得免费"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -13,7 +31,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且快速！"
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -67,25 +85,7 @@
    "updated": "2026-08-26 13:10:13",
    "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
    "points": [
-    "DeepSeek 的新人工智能系统不应该成为可能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "This Small AI Will Change Everything",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-24 16:48:40",
-   "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-   "points": [
-    "这个小人工智能将改变一切"
+    "DeepSeek 的新人工智能系统不应该是不可能的"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 2751200,
-   "updated": "2026-09-01T09:18:09.831130",
+   "heat": 2838418,
+   "updated": "2026-09-01T14:39:05.775221",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "野生锅导演",
    "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影【ai全民制作人】#SpecialForAAIFF",
    "duration": "94:31",
-   "heat": 1430291,
-   "updated": "2026-09-01T09:18:09.831144",
+   "heat": 1516211,
+   "updated": "2026-09-01T14:39:05.775236",
    "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
    "points": [],
    "flags": {
@@ -185,9 +185,25 @@
    "author": "巨构AI",
    "title": "巨构：暗黑森林【AI全民制作人】",
    "duration": "1:02",
-   "heat": 2023906,
-   "updated": "2026-09-01T09:18:09.831147",
+   "heat": 2064720,
+   "updated": "2026-09-01T14:39:05.775238",
    "url": "https://www.bilibili.com/video/BV1bx4k6zE6D",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "张拉灯",
+   "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
+   "duration": "4:55",
+   "heat": 1204250,
+   "updated": "2026-09-01T14:39:05.775241",
+   "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,10 +217,12 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390891,
-   "updated": "2026-09-01T09:18:09.831150",
+   "heat": 390893,
+   "updated": "2026-09-01T14:39:05.775244",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
+   "points": [
+    "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -218,7 +236,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-01T09:18:09.831151",
+   "updated": "2026-09-01T14:39:05.775246",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +252,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557441,
-   "updated": "2026-09-01T09:18:09.831154",
+   "updated": "2026-09-01T14:39:05.775248",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -249,8 +267,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155629,
-   "updated": "2026-09-01T09:18:09.831156",
+   "heat": 155632,
+   "updated": "2026-09-01T14:39:05.775250",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -261,14 +279,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611408,
-   "updated": "2026-09-01T09:18:09.831157",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "韩剧爽文的风吹到了AI界",
+   "duration": "—",
+   "heat": 7713964,
+   "updated": "2026-09-01T14:39:05.775253",
+   "url": "https://www.douyin.com/search/%E9%9F%A9%E5%89%A7%E7%88%BD%E6%96%87%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86AI%E7%95%8C?type=general",
+   "points": [
+    "热门话题「韩剧爽文的风吹到了AI界」：相关视频 3 条"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +302,7 @@
    "title": "GitHub最热架构图Agent，开发者故事看哭了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-01T09:18:09.831160",
+   "updated": "2026-09-01T14:39:05.775255",
    "url": "https://www.qbitai.com/2026/09/482469.html",
    "points": [
     "美观且支持实时更新的架构图，也能用AI一键生成了！"
@@ -300,7 +320,7 @@
    "title": "急急急用电！马斯克开造燃气轮机叶片",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-01T09:18:09.831162",
+   "updated": "2026-09-01T14:39:05.775257",
    "url": "https://www.qbitai.com/2026/09/482451.html",
    "points": [
     "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂"
@@ -318,7 +338,7 @@
    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-01T09:18:09.831164",
+   "updated": "2026-09-01T14:39:05.775259",
    "url": "https://www.qbitai.com/2026/09/482406.html",
    "points": [],
    "flags": {
@@ -334,7 +354,7 @@
    "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-01T09:18:09.831166",
+   "updated": "2026-09-01T14:39:05.775261",
    "url": "https://www.qbitai.com/2026/09/482337.html",
    "points": [],
    "flags": {
@@ -350,7 +370,7 @@
    "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-01T09:18:09.831168",
+   "updated": "2026-09-01T14:39:05.775264",
    "url": "https://www.qbitai.com/2026/09/482300.html",
    "points": [
     "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
@@ -368,7 +388,7 @@
    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-01T09:18:09.831170",
+   "updated": "2026-09-01T14:39:05.775266",
    "url": "https://www.qbitai.com/2026/08/481928.html",
    "points": [
     "划重点：这次不是你挨家敲门，是VC排队来看你。"
@@ -383,9 +403,27 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
+   "title": "阿拉巴马州 AG 启动针对 OpenAI 人工智能数据泄露的调查",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-01",
+   "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
+   "points": [
+    "阿拉巴马州 AG 启动针对 OpenAI 人工智能数据泄露的调查"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
    "title": "当日本在 20 世纪 80 年代尝试创造人工智能时",
    "duration": "—",
-   "heat": 8,
+   "heat": 9,
    "updated": "2026-08-31",
    "url": "https://www.tokyoweekender.com/entertainment/tech-trends/japan-fifth-generation-computer-project-ai/",
    "points": [
@@ -462,24 +500,6 @@
    "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading",
    "points": [
     "麻省理工学院人工智能报告呼吁替代评分、更多社交学习"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "先进人工智能的伦理问题",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-08-30",
-   "url": "https://nickbostrom.com/ethics/ai",
-   "points": [
-    "先进人工智能的伦理问题"
    ],
    "flags": {
     "fav": false,
