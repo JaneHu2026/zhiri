@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:11",
- "fetchedDate": "2026-09-02",
+ "fetchedAt": "07:54",
+ "fetchedDate": "2026-09-03",
  "source": "zhiri-server",
  "items": [
   {
@@ -46,40 +46,40 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平抵达开罗对埃及进行国事访问",
+   "title": "习近平和彭丽媛同埃及总统塞西夫妇共同参观大埃及博物馆",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIPk3spu8ylDEpOWwCTvVp260902.shtml",
-   "summary": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
+   "url": "https://news.cctv.com/2026/09/03/ARTIjflS976PYg27mCWCnL4l260903.shtml",
+   "summary": "当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
+   "title": "当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIPk3spu8ylDEpOWwCTvVp260902.shtml",
-   "summary": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
+   "url": "https://news.cctv.com/2026/09/03/ARTIjflS976PYg27mCWCnL4l260903.shtml",
+   "summary": "当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平同埃及总统塞西出席签字仪式",
+   "title": "习近平圆满结束对埃及的国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIMt60mSbcPZ6xgpSEy2fh260902.shtml",
+   "url": "https://news.cctv.com/2026/09/03/ARTIEh2eHuKY2IhKr0DkdKGz260903.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "尼罗河畔再相见！习近平主席抵达埃及开罗 |",
+   "title": "当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIueKmHn8dH2DbvSlZ5eCt260902.shtml",
+   "url": "https://news.cctv.com/2026/09/03/ARTIEh2eHuKY2IhKr0DkdKGz260903.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,6 +106,26 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "沙特阿拉伯称，伊朗袭击沙特油轮造成两名菲律宾水手死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+   "summary": "沙特谴责针对锡德尔的袭击，据报道周一在霍尔木兹海峡遭到不明弹丸袭击。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "西班牙抗议政府处理休达移民危机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+   "summary": "西班牙反对党指责总理佩德罗·桑切斯抛弃休达居民。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "德国局势“新升级”后，欧盟和北约誓言加大对俄罗斯施压",
    "source": "BBC",
    "time": "今天",
@@ -126,61 +146,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国船员在创纪录的海上航行250天后抵达泰国芭堤雅",
+   "title": "观看：陪审团仍无法就林赛·克兰西案达成一致决定",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-   "summary": "亚伯拉罕·林肯号航空母舰正停靠在芭堤雅附近，芭堤雅以其霓虹灯夜生活和性旅游而闻名。",
+   "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+   "summary": "两天内，陪审员第二次告诉法官，他们无法就谋杀案的判决达成一致。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泽连斯基表示，随着乌克兰加强无人机行动，航空公司应避开俄罗斯领空",
+   "title": "马耳他大亨因策划谋杀著名记者而被判无罪",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-   "summary": "中国和海湾国家的航空公司仍在使用俄罗斯领空。与此同时，俄罗斯表示将加强对英国的攻击",
+   "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+   "summary": "达芙妮·卡鲁阿娜·加利齐亚 (Daphne Caruana Galizia) 在 2017 年被汽车炸弹炸死之前，揭露了马耳他的腐败和洗钱计划。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "哈马斯卫生部称，尽管停火，今年仍有 900 多人在加沙丧生",
+   "title": "荷兰将数十亿黄金运往伦敦以应对“危机准备”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-   "summary": "该部表示，自 10 月 10 日以来，加沙地带的死亡总人数已超过 1,300 人，其中包括 301 名儿童。",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+   "summary": "荷兰央行从美国和加拿大撤回了部分黄金储备，称这是因为“地缘政治动荡加剧”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "联合国称尼泊尔在致命洪水后加强救援和恢复工作",
+   "title": "伊朗称美国袭击婚礼时造成四人死亡，构成“战争罪”，美国否认针对平民",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-   "summary": "救援工作仍在继续，援助物资已空运到村庄，已有 1,000 多人死亡，数千人失踪。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法官驳回对制作公司的诉讼后，利佐表示“感激”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位“关于该死的时间”歌手表示，她对这一结果感到“松了一口气”，并将“继续抗争”每一项指控。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "BBC 前往被占领的黎巴嫩境内，官员称以色列正在扩大阵地",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 团队参加了联合国维和部队的人道主义任务，该任务称以色列军队正在加固阵地并继续实施",
+   "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+   "summary": "伊朗媒体报道称，弹片击中一户人家，造成两名儿童死亡。随后伊朗向美国目标发射导弹和无人机",
    "day": 0
   },
   {

@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:12",
- "fetchedDate": "2026-09-02",
+ "fetchedAt": "07:56",
+ "fetchedDate": "2026-09-03",
  "source": "zhiri-server",
  "items": [
   {
@@ -153,8 +153,8 @@
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 3274345,
-   "updated": "2026-09-02T14:12:59.053499",
+   "heat": 3483121,
+   "updated": "2026-09-02T23:56:02.647936",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "野生锅导演",
    "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影【ai全民制作人】#SpecialForAAIFF",
    "duration": "94:31",
-   "heat": 1675036,
-   "updated": "2026-09-02T14:12:59.053509",
+   "heat": 1717136,
+   "updated": "2026-09-02T23:56:02.647951",
    "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 3198606,
-   "updated": "2026-09-02T14:12:59.053512",
+   "heat": 3276756,
+   "updated": "2026-09-02T23:56:02.647953",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [],
    "flags": {
@@ -201,9 +201,25 @@
    "author": "AI视次方",
    "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
    "duration": "9:35",
-   "heat": 1195693,
-   "updated": "2026-09-02T14:12:59.053515",
+   "heat": 1230961,
+   "updated": "2026-09-02T23:56:02.647956",
    "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "赵导Zshiwu",
+   "title": "极乐净土，但是黄色生物三巨头【AI全民制作人】",
+   "duration": "1:15",
+   "heat": 587637,
+   "updated": "2026-09-02T23:56:02.647958",
+   "url": "https://www.bilibili.com/video/BV1Hh4m6rEJR",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390898,
-   "updated": "2026-09-02T14:12:59.053517",
+   "heat": 390902,
+   "updated": "2026-09-02T23:56:02.647960",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-02T14:12:59.053519",
+   "updated": "2026-09-02T23:56:02.647962",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -249,25 +265,9 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557444,
-   "updated": "2026-09-02T14:12:59.053522",
+   "heat": 557445,
+   "updated": "2026-09-02T23:56:02.647964",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155632,
-   "updated": "2026-09-02T14:12:59.053523",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +282,7 @@
    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T14:12:59.053526",
+   "updated": "2026-09-02T23:56:02.647966",
    "url": "https://www.qbitai.com/2026/09/483274.html",
    "points": [
     "SkyProduction（天工工作台）全新版本于8月31日正式上线"
@@ -300,7 +300,7 @@
    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T14:12:59.053528",
+   "updated": "2026-09-02T23:56:02.647968",
    "url": "https://www.qbitai.com/2026/09/483104.html",
    "points": [
     "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
@@ -318,7 +318,7 @@
    "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T14:12:59.053530",
+   "updated": "2026-09-02T23:56:02.647970",
    "url": "https://www.qbitai.com/2026/09/483101.html",
    "points": [],
    "flags": {
@@ -334,7 +334,7 @@
    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T14:12:59.053532",
+   "updated": "2026-09-02T23:56:02.647972",
    "url": "https://www.qbitai.com/2026/09/483097.html",
    "points": [
     "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
@@ -352,7 +352,7 @@
    "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T14:12:59.053534",
+   "updated": "2026-09-02T23:56:02.647974",
    "url": "https://www.qbitai.com/2026/09/482652.html",
    "points": [
     "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
@@ -370,10 +370,46 @@
    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T14:12:59.053537",
+   "updated": "2026-09-02T23:56:02.647977",
    "url": "https://www.qbitai.com/2026/09/482855.html",
    "points": [
     "在香港兰桂坊，一位特殊的“酒保”正式上岗"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Show HN：AlparAI – 具有量子验证的自治群操作系统",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-02",
+   "url": "https://www.alparai.com/en",
+   "points": [
+    "Show HN：AlparAI – 具有量子验证的自治群操作系统"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "研究人员诱骗财富 500 强人工智能代理通过 llms.txt 运行任意代码",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-02",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+   "points": [
+    "研究人员诱骗财富 500 强人工智能代理通过 llms.txt 运行任意代码"
    ],
    "flags": {
     "fav": false,
@@ -446,42 +482,6 @@
    "url": "https://www.thefp.com/p/tyler-cowen-artificial-intelligence-takeover-hugging-face",
    "points": [
     "泰勒·考恩：你应该相信关于“人工智能接管”的可怕警告吗？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "阿拉巴马州 AG 启动针对 OpenAI 人工智能数据泄露的调查",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-01",
-   "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
-   "points": [
-    "阿拉巴马州 AG 启动针对 OpenAI 人工智能数据泄露的调查"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "当日本在 20 世纪 80 年代尝试创造人工智能时",
-   "duration": "—",
-   "heat": 9,
-   "updated": "2026-08-31",
-   "url": "https://www.tokyoweekender.com/entertainment/tech-trends/japan-fifth-generation-computer-project-ai/",
-   "points": [
-    "当日本在 20 世纪 80 年代尝试创造人工智能时"
    ],
    "flags": {
     "fav": false,
