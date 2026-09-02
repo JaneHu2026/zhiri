@@ -1,8 +1,18 @@
 {
- "fetchedAt": "11:40",
+ "fetchedAt": "16:35",
  "fetchedDate": "2026-09-02",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“中国之治”的时代回响",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/02/ARTICFKL8S1EDWg8ljt7s71m260902.shtml",
+   "summary": "“愿学习中国治国理政经验，特别是习近平主席‘我将无我、不负人民’的情怀”。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -16,31 +26,21 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平抵达埃及开罗国际机场发表书面讲话｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIZfEQZ5zThlJZQXHMvOan260902.shtml",
-   "summary": "很高兴应塞西总统邀请，在中埃建交70周年之际对阿拉伯埃及共和国进行国事访问。10年前，我曾访问埃及，留下许多美好回忆，今天再次踏上这片承载深厚文明的土地，倍感亲切。我谨代表中国政府和中国人民，向友好的埃及政府和埃及人民致以诚挚问候和良好祝愿。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "埃及总统塞西夫妇在机场迎接习近平主席到访｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIc6GTYHAgF7FVxCAoW8b3260902.shtml",
-   "summary": "当地时间9月1日晚，国家主席习近平和夫人彭丽媛乘专机抵达开罗国际机场时，塞西总统夫妇热情迎接。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
    "title": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/02/ARTIodBGo6oaacDFhETlncwD260902.shtml",
    "summary": "当地时间9月1日晚，国家主席习近平乘专机抵达开罗，应埃及总统塞西邀请，对埃及进行国事访问。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平抵达开罗太阳宫 出席欢迎仪式",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/02/ARTIKDHWoBsx8vLCLsiaecZt260902.shtml",
+   "summary": "当地时间9月2日上午，国家主席习近平和夫人彭丽媛乘车抵达开罗太阳宫，出席塞西总统举行的欢迎仪式。",
    "day": 0
   },
   {
@@ -66,20 +66,20 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "启播！《平“语”近人——习近平喜欢的典故》（阿拉伯语版）在埃及主流媒体播出",
+   "title": "联播+｜路相通 心相连",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTI2TEW1RN2EcVNRTLeMiMV260902.shtml",
+   "url": "https://news.cctv.com/2026/09/02/ARTIbP8uyOPE4ZHhS7Rxs56q260901.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "专访中国驻吉尔吉斯斯坦大使",
+   "title": "启播！《平“语”近人——习近平喜欢的典故》（阿拉伯语版）在埃及主流媒体播出",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/02/ARTIlfhI3Ebm7KO3lSe2EUK8260902.shtml",
+   "url": "https://news.cctv.com/2026/09/02/ARTI2TEW1RN2EcVNRTLeMiMV260902.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,21 +106,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "德国称俄罗斯是莱比锡机场无人机袭击的幕后黑手",
+   "title": "泽连斯基表示，随着乌克兰加强无人机行动，航空公司应避开俄罗斯领空",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-   "summary": "8 月 4 日，在乌克兰货机附近的机场发现一架携带爆炸装置的无人机。",
+   "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+   "summary": "中国和海湾国家的航空公司仍在使用俄罗斯领空。与此同时，俄罗斯表示将加强对英国的攻击",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "官方媒体报道，伊朗在美国袭击婚礼派对造成四人死亡后进行报复",
+   "title": "BBC 前往被占领的黎巴嫩境内，官员称以色列正在扩大阵地",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-   "summary": "据当地官方媒体和约旦武装部队报道，伊朗对美国在伊拉克和约旦的军事基地发动了袭击。",
+   "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 团队参加了联合国维和部队的人道主义任务，该任务称以色列军队正在加固阵地并继续实施",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "为什么美军与这座泰国城市有着历史渊源？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 的乔纳森·海德 (Jonathan Head) 从芭堤雅进行报道，芭堤雅是一个海滩度假胜地，拥有霓虹灯闪烁的夜生活场所和热闹的酒吧。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "韩国护理院院长因性侵犯残疾居民而入狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
+   "summary": "这名金姓男子因在首尔附近的设施中虐待三名居民而被判处 15 年徒刑。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃及红海沿岸巴士相撞事故造成16人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，南西奈省的事故另有 28 人受伤。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "查理柯克谋杀案嫌疑人不认罪，法官为死刑审判扫清道路",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+   "summary": "这名 23 岁的男子被指控犯有严重谋杀罪、犹他州死刑以及其他六项罪名。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "老虎伍兹在坠机被捕后改变认罪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+   "summary": "这名高尔夫球手将于周三出庭参加听证会，以改变他被指控酒后驾车的认罪。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "几内亚比绍公投批准扩大总统权力的新宪法",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
+   "summary": "这项全面的改革是在去年政变之后、提议恢复文官统治之前进行的。",
    "day": 0
   },
   {
