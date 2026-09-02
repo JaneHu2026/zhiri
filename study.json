@@ -1,5 +1,5 @@
 {
- "fetchedAt": "16:36",
+ "fetchedAt": "22:12",
  "fetchedDate": "2026-09-02",
  "source": "zhiri-server",
  "items": [
@@ -31,7 +31,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且快速！"
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2026-08-26 13:10:13",
    "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
    "points": [
-    "DeepSeek 的新人工智能系统不应该成为可能"
+    "DeepSeek 的新人工智能系统不应该是不可能的"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 2953380,
-   "updated": "2026-09-02T08:36:45.308440",
+   "heat": 3274345,
+   "updated": "2026-09-02T14:12:59.053499",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "野生锅导演",
    "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影【ai全民制作人】#SpecialForAAIFF",
    "duration": "94:31",
-   "heat": 1624219,
-   "updated": "2026-09-02T08:36:45.308453",
+   "heat": 1675036,
+   "updated": "2026-09-02T14:12:59.053509",
    "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
    "points": [],
    "flags": {
@@ -185,9 +185,25 @@
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 3128509,
-   "updated": "2026-09-02T08:36:45.308455",
+   "heat": 3198606,
+   "updated": "2026-09-02T14:12:59.053512",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "AI视次方",
+   "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
+   "duration": "9:35",
+   "heat": 1195693,
+   "updated": "2026-09-02T14:12:59.053515",
+   "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390896,
-   "updated": "2026-09-02T08:36:45.308457",
+   "heat": 390898,
+   "updated": "2026-09-02T14:12:59.053517",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -218,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-02T08:36:45.308459",
+   "updated": "2026-09-02T14:12:59.053519",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557444,
-   "updated": "2026-09-02T08:36:45.308461",
+   "updated": "2026-09-02T14:12:59.053522",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -250,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155632,
-   "updated": "2026-09-02T08:36:45.308462",
+   "updated": "2026-09-02T14:12:59.053523",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -261,14 +277,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611412,
-   "updated": "2026-09-02T08:36:45.308482",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-02T14:12:59.053526",
+   "url": "https://www.qbitai.com/2026/09/483274.html",
+   "points": [
+    "SkyProduction（天工工作台）全新版本于8月31日正式上线"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +300,7 @@
    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T08:36:45.308486",
+   "updated": "2026-09-02T14:12:59.053528",
    "url": "https://www.qbitai.com/2026/09/483104.html",
    "points": [
     "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
@@ -300,7 +318,7 @@
    "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T08:36:45.308489",
+   "updated": "2026-09-02T14:12:59.053530",
    "url": "https://www.qbitai.com/2026/09/483101.html",
    "points": [],
    "flags": {
@@ -316,7 +334,7 @@
    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T08:36:45.308492",
+   "updated": "2026-09-02T14:12:59.053532",
    "url": "https://www.qbitai.com/2026/09/483097.html",
    "points": [
     "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
@@ -334,7 +352,7 @@
    "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T08:36:45.308496",
+   "updated": "2026-09-02T14:12:59.053534",
    "url": "https://www.qbitai.com/2026/09/482652.html",
    "points": [
     "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
@@ -352,28 +370,10 @@
    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T08:36:45.308498",
+   "updated": "2026-09-02T14:12:59.053537",
    "url": "https://www.qbitai.com/2026/09/482855.html",
    "points": [
     "在香港兰桂坊，一位特殊的“酒保”正式上岗"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-02T08:36:45.308500",
-   "url": "https://www.qbitai.com/2026/09/482699.html",
-   "points": [
-    "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
    ],
    "flags": {
     "fav": false,
@@ -403,13 +403,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "黄仁勋和苏丽莎被《时代》杂志 2026 年人工智能顶尖领导者名单冷落",
+   "title": "黄仁勋和苏姿丰被《时代》杂志 2026 年人工智能顶尖领导者名单冷落",
    "duration": "—",
    "heat": 1,
    "updated": "2026-09-01",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent",
    "points": [
-    "黄仁勋和苏丽莎被《时代》杂志 2026 年人工智能顶尖领导者名单冷落"
+    "黄仁勋和苏姿丰被《时代》杂志 2026 年人工智能顶尖领导者名单冷落"
    ],
    "flags": {
     "fav": false,
