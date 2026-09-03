@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:14",
- "fetchedDate": "2026-09-03",
+ "fetchedAt": "07:51",
+ "fetchedDate": "2026-09-04",
  "source": "zhiri-server",
  "items": [
   {
@@ -26,16 +26,6 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "当地时间9月2日下午，国家主席习近平和夫人彭丽媛在埃及总统塞西和夫人依缇萨尔陪同下参观大埃及博物馆。",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/03/ARTIOCXOJfw2H23KCdvwb2Am260903.shtml",
-   "summary": "吉萨高原上，绵延千年的金字塔群同气势恢弘的大埃及博物馆遥相辉映。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
    "title": "习近平圆满结束对埃及的国事访问",
    "source": "央视新闻",
    "time": "今天",
@@ -46,40 +36,50 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "当地时间9月2日晚，国家主席习近平结束对埃及的国事访问。",
+   "title": "粤港澳加快协同创新 打造高质量发展动力源",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/03/ARTI00YI5I4sfdU6gQzlFwiB260903.shtml",
+   "url": "https://tv.cctv.com/2026/09/03/VIDEIZLJx0n8rA1K3MKFRJKp260903.shtml",
+   "summary": "【凝心聚力，真抓实干，奋力实现“十五五”良好开局】粤港澳加快协同创新，打造高质量发展动力源。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "体育",
+   "title": "【“十五五”开好局起好步】锚定体育强国建设 推动体育高质量发展",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/03/VIDE5Iljnu9iCXlCKGZn2ZUh260903.shtml",
+   "summary": "【“十五五”开好局起好步】锚定体育强国建设，推动体育高质量发展。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "航线通达五洲 航空物流筑牢外贸韧性底盘",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/03/VIDEi6xLzTKw4btgZwkKdH6e260903.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政新闻眼丨时隔10年再访埃及，习近平强调这些事",
+   "title": "新赛道“长出”新职业 多层次人才供给加速匹配产业规模化落地节奏",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/03/ARTIi6WJjYjjKLVcl3r0ESod260903.shtml",
-   "summary": "当天，习近平主席同埃及总统塞西举行会谈，畅叙友谊、共商合作，为深化中埃全面战略伙伴关系擘画新蓝图。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从三个时间坐标读懂中埃关系｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/03/ARTI1LYL1aruNT8rHvewKJoB260903.shtml",
+   "url": "https://news.cctv.com/2026/09/03/ARTIRX1U7El8wtRwfofOH347260903.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "深化埃中全面战略伙伴关系 维护地区安全稳定",
+   "title": "星火成炬｜挺膺担当 青春力量",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/03/VIDEHD30ifUCS8YbWHVhYKFi260903.shtml",
+   "url": "https://news.cctv.com/2026/09/03/ARTImADobWl4OiQN017dAlRn260903.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -146,6 +146,26 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "特朗普暗示，由于缺乏伊朗战争支持，美国不会在福克兰群岛问题上支持英国",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+   "summary": "美国总统表示，在他与伊朗持续的战争中，英国没有“帮助我”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "万斯称，美国正在调查导弹是否击中伊朗婚礼",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+   "summary": "伊朗红新月会（IRCS）表示，周二，一枚导弹的弹片击中了仪式，造成四人死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "联合国警告各国做好应对厄尔尼诺现象的准备",
    "source": "BBC",
    "time": "今天",
@@ -156,17 +176,17 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "随着“超级”厄尔尼诺现象加剧，有毒野火烟雾在东南亚蔓延",
+   "title": "移植猪肾在美国男子体内发挥作用创纪录271天",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-   "summary": "数百万人暴露在烟雾中，超过 12,000 名儿童患有呼吸道疾病。",
+   "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+   "summary": "一名男子在等待人体移植期间，通过移植的猪肾存活了创纪录的九个月。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "女权活动家兼记者格洛丽亚·斯泰纳姆去世，享年 92 岁",
+   "title": "女权主义活动家兼记者格洛丽亚·斯泰纳姆去世，享年 92 岁",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
@@ -176,11 +196,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "由于打击行动限制了小船供应，海峡走私团伙诉诸“巨型橡皮艇”",
+   "title": "印度尼西亚约 2,000 人在享用免费校餐后生病",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-   "summary": "英国广播公司(BBC)的一项调查发现，由于小船短缺，曾经相互竞争的犯罪团伙被迫联手合作。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
+   "summary": "在对该计划的批评越来越多的情况下，当局正在调查几起疑似疫情。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国亿万富翁莱昂·布莱克不顾传唤，起诉爱泼斯坦小组",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+   "summary": "该诉讼称众议院监督委员会命令他分享保密协议的传票“无效”。",
    "day": 0
   },
   {
@@ -191,36 +221,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
    "summary": "穆加耶委员会表示，他们试图阻止定居者偷羊，但以色列军方表示，他们向以色列军队投掷石块。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "审判听到安东尼·约书亚的司机在致命事故前试图超车",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-   "summary": "46 岁的阿德尼伊·莫博拉吉·卡约德 (Adeniyi Mobolaji Kayode) 被指控危险驾驶和鲁莽驾驶致人死亡等罪名。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普1美元硬币使他成为一个世纪以来首位使用美元货币的在世总统",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国造币厂特别版印有特朗普的肖像以及“LIBERTY”和“IN GOD WE TRUST”字样",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "加那利群岛附近船只获救后，80多名移民恐已死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-   "summary": "救援人员在船上找到了 44 名幸存者，但恶劣的天气意味着他们不得不留下 5 具尸体。",
    "day": 0
   },
   {
