@@ -1,8 +1,26 @@
 {
- "fetchedAt": "16:45",
+ "fetchedAt": "22:15",
  "fetchedDate": "2026-09-03",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03 08:23:37",
+   "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+   "points": [
+    "克劳德寓言人工智能比头条新闻所暗示的要奇怪得多"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -13,7 +31,7 @@
    "updated": "2026-09-01 09:04:56",
    "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
    "points": [
-    "GLM 5.3 ：强大的人工智能正在变得几乎免费"
+    "GLM 5.3：强大的人工智能几乎变得免费"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +49,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max感觉非法且快速！"
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -67,25 +85,7 @@
    "updated": "2026-08-26 16:31:41",
    "url": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
    "points": [
-    "Ox Alpha是GLM 5.3 Flash ！ ！ ！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-26 13:10:13",
-   "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-   "points": [
-    "DeepSeek的新人工智能系统不应该成为可能"
+    "Ox Alpha 是 GLM 5.3 Flash！！！"
    ],
    "flags": {
     "fav": false,
@@ -103,7 +103,7 @@
    "updated": "2026-08-21 22:40:14",
    "url": "https://www.youtube.com/watch?v=3INNP9KXxp4",
    "points": [
-    "我测试了牛阿尔法（隐形模型） ！ ！ ！"
+    "我测试了 Ox Alpha（隐形模型）！！！"
    ],
    "flags": {
     "fav": false,
@@ -121,7 +121,7 @@
    "updated": "2026-08-18 14:54:17",
    "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
    "points": [
-    "跳钉拼图"
+    "跳钉谜题"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +139,7 @@
    "updated": "2026-08-08 17:22:18",
    "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
    "points": [
-    "合适的线束就是您所需的一切-适合本地Frontier AI"
+    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 3836465,
-   "updated": "2026-09-03T08:45:43.288801",
+   "heat": 4097720,
+   "updated": "2026-09-03T14:15:58.346599",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,9 +169,25 @@
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 3463540,
-   "updated": "2026-09-03T08:45:43.288810",
+   "heat": 3528472,
+   "updated": "2026-09-03T14:15:58.346613",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "AI视次方",
+   "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
+   "duration": "9:35",
+   "heat": 1246800,
+   "updated": "2026-09-03T14:15:58.346615",
+   "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,27 +201,9 @@
    "author": "野生锅导演",
    "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影【ai全民制作人】#SpecialForAAIFF",
    "duration": "94:31",
-   "heat": 1749493,
-   "updated": "2026-09-03T08:45:43.288812",
+   "heat": 1783953,
+   "updated": "2026-09-03T14:15:58.346617",
    "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
-   "points": [
-    "从2025年2月开始启动创作，完全用业余时间制作，共耗时18个月。这个故事的原著是刘慈欣的短篇科幻《山》，是除《三体》之外我最喜欢的一部科幻小说作品，感谢AI，可以让我把它影视化。这18个月还经历了数轮AI视频技术的大升"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "AI视次方",
-   "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
-   "duration": "9:35",
-   "heat": 1246250,
-   "updated": "2026-09-03T08:45:43.288814",
-   "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
    "points": [],
    "flags": {
     "fav": false,
@@ -219,8 +217,8 @@
    "author": "赵导Zshiwu",
    "title": "极乐净土，但是黄色生物三巨头【AI全民制作人】",
    "duration": "1:15",
-   "heat": 754718,
-   "updated": "2026-09-03T08:45:43.288817",
+   "heat": 905028,
+   "updated": "2026-09-03T14:15:58.346619",
    "url": "https://www.bilibili.com/video/BV1Hh4m6rEJR",
    "points": [],
    "flags": {
@@ -235,8 +233,8 @@
    "author": "伊介书生",
    "title": "华强买瓜，但郝哥能控制AI",
    "duration": "7:18",
-   "heat": 858343,
-   "updated": "2026-09-03T08:45:43.288819",
+   "heat": 947227,
+   "updated": "2026-09-03T14:15:58.346622",
    "url": "https://www.bilibili.com/video/BV1reth6tEFm",
    "points": [],
    "flags": {
@@ -251,8 +249,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390904,
-   "updated": "2026-09-03T08:45:43.288821",
+   "heat": 390905,
+   "updated": "2026-09-03T14:15:58.346624",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -268,7 +266,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-03T08:45:43.288823",
+   "updated": "2026-09-03T14:15:58.346626",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -283,12 +281,46 @@
    "author": "抖音热榜",
    "title": "用AI把自己画成荷花仙子",
    "duration": "—",
-   "heat": 7712500,
-   "updated": "2026-09-03T08:45:43.288825",
+   "heat": 7694745,
+   "updated": "2026-09-03T14:15:58.346628",
    "url": "https://www.douyin.com/search/%E7%94%A8AI%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%94%BB%E6%88%90%E8%8D%B7%E8%8A%B1%E4%BB%99%E5%AD%90?type=general",
    "points": [
     "热门话题「用AI把自己画成荷花仙子」：相关视频 10 条"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI圈来了位天才",
+   "duration": "—",
+   "heat": 7650345,
+   "updated": "2026-09-03T14:15:58.346630",
+   "url": "https://www.douyin.com/search/AI%E5%9C%88%E6%9D%A5%E4%BA%86%E4%BD%8D%E5%A4%A9%E6%89%8D?type=general",
+   "points": [
+    "热门话题「AI圈来了位天才」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03T14:15:58.346633",
+   "url": "https://www.qbitai.com/2026/09/483786.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -302,7 +334,7 @@
    "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T08:45:43.288828",
+   "updated": "2026-09-03T14:15:58.346635",
    "url": "https://www.qbitai.com/2026/09/483565.html",
    "points": [],
    "flags": {
@@ -318,7 +350,7 @@
    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T08:45:43.288830",
+   "updated": "2026-09-03T14:15:58.346637",
    "url": "https://www.qbitai.com/2026/09/483552.html",
    "points": [],
    "flags": {
@@ -334,7 +366,7 @@
    "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T08:45:43.288831",
+   "updated": "2026-09-03T14:15:58.346639",
    "url": "https://www.qbitai.com/2026/09/483462.html",
    "points": [],
    "flags": {
@@ -350,7 +382,7 @@
    "title": "今年最难的机器人Demo，“机器人含量”为0",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T08:45:43.288833",
+   "updated": "2026-09-03T14:15:58.346640",
    "url": "https://www.qbitai.com/2026/09/483351.html",
    "points": [],
    "flags": {
@@ -366,7 +398,7 @@
    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T08:45:43.288835",
+   "updated": "2026-09-03T14:15:58.346642",
    "url": "https://www.qbitai.com/2026/09/483274.html",
    "points": [
     "SkyProduction（天工工作台）全新版本于8月31日正式上线"
@@ -379,33 +411,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-03T08:45:43.288837",
-   "url": "https://www.qbitai.com/2026/09/483104.html",
-   "points": [
-    "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "研究人员在OpenAI发布Astra之前担心安全灾难",
+   "title": "研究人员担心 OpenAI 的 Astra 发布之前会出现安全灾难",
    "duration": "—",
    "heat": 3,
    "updated": "2026-09-03",
    "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
    "points": [
-    "研究人员在OpenAI发布Astra之前担心安全灾难"
+    "研究人员担心 OpenAI 的 Astra 发布之前会出现安全灾难"
    ],
    "flags": {
     "fav": false,
@@ -417,13 +431,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "晋大师在历史性的人类胜利中击败AI KataGo",
+   "title": "围棋大师 Shin 击败 AI KataGo 取得人类历史性胜利",
    "duration": "—",
-   "heat": 40,
+   "heat": 46,
    "updated": "2026-09-03",
    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
    "points": [
-    "晋大师在历史性的人类胜利中击败AI KataGo"
+    "围棋大师 Shin 击败 AI KataGo 取得人类历史性胜利"
    ],
    "flags": {
     "fav": false,
@@ -435,13 +449,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "显示HN ： AlparAI -具有量子验证的自主Swarm OS",
+   "title": "Show HN：AlparAI – 具有量子验证的自治群操作系统",
    "duration": "—",
    "heat": 2,
    "updated": "2026-09-02",
    "url": "https://www.alparai.com/en",
    "points": [
-    "显示HN ： AlparAI -具有量子验证的自主Swarm OS"
+    "Show HN：AlparAI – 具有量子验证的自治群操作系统"
    ],
    "flags": {
     "fav": false,
@@ -453,13 +467,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "研究人员通过llms.txt欺骗Fortune-500 AI代理运行任意代码",
+   "title": "研究人员诱骗财富 500 强人工智能代理通过 llms.txt 运行任意代码",
    "duration": "—",
    "heat": 1,
    "updated": "2026-09-02",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
    "points": [
-    "研究人员通过llms.txt欺骗Fortune-500 AI代理运行任意代码"
+    "研究人员诱骗财富 500 强人工智能代理通过 llms.txt 运行任意代码"
    ],
    "flags": {
     "fav": false,
@@ -471,13 +485,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "OpenAI在Hugging Face黑客攻击后推迟了新模型的开发",
+   "title": "Hugging Face 黑客事件后 OpenAI 推迟了新模型的开发",
    "duration": "—",
    "heat": 5,
    "updated": "2026-09-01",
    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
    "points": [
-    "OpenAI在Hugging Face黑客攻击后推迟了新模型的开发"
+    "Hugging Face 黑客事件后 OpenAI 推迟了新模型的开发"
    ],
    "flags": {
     "fav": false,
@@ -489,13 +503,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Jensen Huang和Lisa Su被TIME的2026年顶级人工智能领导者名单所冷落",
+   "title": "黄仁勋和苏姿丰被《时代》杂志 2026 年人工智能顶尖领导者名单冷落",
    "duration": "—",
    "heat": 1,
    "updated": "2026-09-01",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent",
    "points": [
-    "Jensen Huang和Lisa Su被TIME的2026年顶级人工智能领导者名单所冷落"
+    "黄仁勋和苏姿丰被《时代》杂志 2026 年人工智能顶尖领导者名单冷落"
    ],
    "flags": {
     "fav": false,
