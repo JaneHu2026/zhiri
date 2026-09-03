@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:56",
+ "fetchedAt": "11:41",
  "fetchedDate": "2026-09-03",
  "source": "zhiri-server",
  "items": [
@@ -114,6 +114,24 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The jumping pegs puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-18 14:54:17",
+   "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
+   "points": [
+    "跳钉谜题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "sentdex",
    "title": "The Right Harness is All You Need - For local Frontier AI",
    "duration": "—",
@@ -131,30 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "OpenAI hacked HuggingFace",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-22 16:28:16",
-   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-   "points": [
-    "OpenAI 攻击了 HuggingFace"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 3483121,
-   "updated": "2026-09-02T23:56:02.647936",
+   "heat": 3613418,
+   "updated": "2026-09-03T03:41:01.131288",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "野生锅导演",
    "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影【ai全民制作人】#SpecialForAAIFF",
    "duration": "94:31",
-   "heat": 1717136,
-   "updated": "2026-09-02T23:56:02.647951",
+   "heat": 1726840,
+   "updated": "2026-09-03T03:41:01.131301",
    "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "多梦综合征",
    "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
    "duration": "5:30",
-   "heat": 3276756,
-   "updated": "2026-09-02T23:56:02.647953",
+   "heat": 3346720,
+   "updated": "2026-09-03T03:41:01.131303",
    "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "AI视次方",
    "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
    "duration": "9:35",
-   "heat": 1230961,
-   "updated": "2026-09-02T23:56:02.647956",
+   "heat": 1244191,
+   "updated": "2026-09-03T03:41:01.131306",
    "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "赵导Zshiwu",
    "title": "极乐净土，但是黄色生物三巨头【AI全民制作人】",
    "duration": "1:15",
-   "heat": 587637,
-   "updated": "2026-09-02T23:56:02.647958",
+   "heat": 629774,
+   "updated": "2026-09-03T03:41:01.131308",
    "url": "https://www.bilibili.com/video/BV1Hh4m6rEJR",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390902,
-   "updated": "2026-09-02T23:56:02.647960",
+   "heat": 390903,
+   "updated": "2026-09-03T03:41:01.131310",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-02T23:56:02.647962",
+   "updated": "2026-09-03T03:41:01.131312",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -266,8 +266,72 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557445,
-   "updated": "2026-09-02T23:56:02.647964",
+   "updated": "2026-09-03T03:41:01.131314",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03T03:41:01.131317",
+   "url": "https://www.qbitai.com/2026/09/483565.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03T03:41:01.131319",
+   "url": "https://www.qbitai.com/2026/09/483552.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03T03:41:01.131321",
+   "url": "https://www.qbitai.com/2026/09/483462.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "今年最难的机器人Demo，“机器人含量”为0",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03T03:41:01.131323",
+   "url": "https://www.qbitai.com/2026/09/483351.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +346,7 @@
    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T23:56:02.647966",
+   "updated": "2026-09-03T03:41:01.131325",
    "url": "https://www.qbitai.com/2026/09/483274.html",
    "points": [
     "SkyProduction（天工工作台）全新版本于8月31日正式上线"
@@ -300,7 +364,7 @@
    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-02T23:56:02.647968",
+   "updated": "2026-09-03T03:41:01.131327",
    "url": "https://www.qbitai.com/2026/09/483104.html",
    "points": [
     "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
@@ -313,31 +377,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "研究人员担心 OpenAI 的 Astra 发布之前会出现安全灾难",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-02T23:56:02.647970",
-   "url": "https://www.qbitai.com/2026/09/483101.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-02T23:56:02.647972",
-   "url": "https://www.qbitai.com/2026/09/483097.html",
+   "heat": 2,
+   "updated": "2026-09-03",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
    "points": [
-    "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
+    "研究人员担心 OpenAI 的 Astra 发布之前会出现安全灾难"
    ],
    "flags": {
     "fav": false,
@@ -347,33 +395,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "围棋大师 Shin 击败 AI KataGo 取得人类历史性胜利",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-02T23:56:02.647974",
-   "url": "https://www.qbitai.com/2026/09/482652.html",
+   "heat": 18,
+   "updated": "2026-09-03",
+   "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
    "points": [
-    "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-02T23:56:02.647977",
-   "url": "https://www.qbitai.com/2026/09/482855.html",
-   "points": [
-    "在香港兰桂坊，一位特殊的“酒保”正式上岗"
+    "围棋大师 Shin 击败 AI KataGo 取得人类历史性胜利"
    ],
    "flags": {
     "fav": false,
@@ -387,7 +417,7 @@
    "author": "Hacker News",
    "title": "Show HN：AlparAI – 具有量子验证的自治群操作系统",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-09-02",
    "url": "https://www.alparai.com/en",
    "points": [
@@ -446,42 +476,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent",
    "points": [
     "黄仁勋和苏姿丰被《时代》杂志 2026 年人工智能顶尖领导者名单冷落"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "生成式人工智能最初几年的失业担忧",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-01",
-   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877&__cf_chl_tk=2WJamtftqdfDIR9yFfYIrEBu9TugTrmIRI0Zik5sUPs-1788228368-1.0.1.1-v8szdkEGHn_fabviS.7NDaGxeVc7tIE1ievCc8_1tx8",
-   "points": [
-    "生成式人工智能最初几年的失业担忧"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "泰勒·考恩：你应该相信关于“人工智能接管”的可怕警告吗？",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-01",
-   "url": "https://www.thefp.com/p/tyler-cowen-artificial-intelligence-takeover-hugging-face",
-   "points": [
-    "泰勒·考恩：你应该相信关于“人工智能接管”的可怕警告吗？"
    ],
    "flags": {
     "fav": false,
