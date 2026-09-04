@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:52",
+ "fetchedAt": "11:42",
  "fetchedDate": "2026-09-04",
  "source": "zhiri-server",
  "items": [
@@ -67,7 +67,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且快速！"
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 4256399,
-   "updated": "2026-09-03T23:52:59.561011",
+   "heat": 4340614,
+   "updated": "2026-09-04T03:42:20.957267",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "AI视次方",
    "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
    "duration": "9:35",
-   "heat": 1247032,
-   "updated": "2026-09-03T23:52:59.561025",
+   "heat": 1247115,
+   "updated": "2026-09-04T03:42:20.957278",
    "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
    "points": [],
    "flags": {
@@ -185,25 +185,9 @@
    "author": "赵导Zshiwu",
    "title": "极乐净土，但是黄色生物三巨头【AI全民制作人】",
    "duration": "1:15",
-   "heat": 980106,
-   "updated": "2026-09-03T23:52:59.561027",
+   "heat": 1005624,
+   "updated": "2026-09-04T03:42:20.957281",
    "url": "https://www.bilibili.com/video/BV1Hh4m6rEJR",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "多梦综合征",
-   "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
-   "duration": "5:30",
-   "heat": 3590389,
-   "updated": "2026-09-03T23:52:59.561029",
-   "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,9 +201,25 @@
    "author": "伊介书生",
    "title": "华强买瓜，但郝哥能控制AI",
    "duration": "7:18",
-   "heat": 1015346,
-   "updated": "2026-09-03T23:52:59.561031",
+   "heat": 1047924,
+   "updated": "2026-09-04T03:42:20.957284",
    "url": "https://www.bilibili.com/video/BV1reth6tEFm",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "多梦综合征",
+   "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
+   "duration": "5:30",
+   "heat": 3653414,
+   "updated": "2026-09-04T03:42:20.957286",
+   "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390908,
-   "updated": "2026-09-03T23:52:59.561033",
+   "heat": 390909,
+   "updated": "2026-09-04T03:42:20.957289",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-03T23:52:59.561035",
+   "updated": "2026-09-04T03:42:20.957291",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557445,
-   "updated": "2026-09-03T23:52:59.561037",
+   "updated": "2026-09-04T03:42:20.957293",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -279,10 +279,28 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
+   "title": "OpenAI发布GPT-6 Astra",
+   "duration": "—",
+   "heat": 7730441,
+   "updated": "2026-09-04T03:42:20.957296",
+   "url": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83GPT-6%20Astra?type=general",
+   "points": [
+    "热门话题「OpenAI发布GPT-6 Astra」：相关视频 6 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
    "title": "AI圈来了位天才",
    "duration": "—",
-   "heat": 10510819,
-   "updated": "2026-09-03T23:52:59.561040",
+   "heat": 7673818,
+   "updated": "2026-09-04T03:42:20.957298",
    "url": "https://www.douyin.com/search/AI%E5%9C%88%E6%9D%A5%E4%BA%86%E4%BD%8D%E5%A4%A9%E6%89%8D?type=general",
    "points": [
     "热门话题「AI圈来了位天才」：相关视频 3 条"
@@ -295,16 +313,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "用AI把自己画成荷花仙子",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
    "duration": "—",
-   "heat": 7666546,
-   "updated": "2026-09-03T23:52:59.561042",
-   "url": "https://www.douyin.com/search/%E7%94%A8AI%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%94%BB%E6%88%90%E8%8D%B7%E8%8A%B1%E4%BB%99%E5%AD%90?type=general",
-   "points": [
-    "热门话题「用AI把自己画成荷花仙子」：相关视频 10 条"
-   ],
+   "heat": 0,
+   "updated": "2026-09-04T03:42:20.957301",
+   "url": "https://www.qbitai.com/2026/09/483598.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -318,7 +334,7 @@
    "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T23:52:59.561045",
+   "updated": "2026-09-04T03:42:20.957303",
    "url": "https://www.qbitai.com/2026/09/483948.html",
    "points": [
     "改进GPT Image 2的噪点问题"
@@ -336,7 +352,7 @@
    "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T23:52:59.561047",
+   "updated": "2026-09-04T03:42:20.957305",
    "url": "https://www.qbitai.com/2026/09/483898.html",
    "points": [],
    "flags": {
@@ -352,7 +368,7 @@
    "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T23:52:59.561048",
+   "updated": "2026-09-04T03:42:20.957307",
    "url": "https://www.qbitai.com/2026/09/483786.html",
    "points": [],
    "flags": {
@@ -368,7 +384,7 @@
    "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T23:52:59.561051",
+   "updated": "2026-09-04T03:42:20.957310",
    "url": "https://www.qbitai.com/2026/09/483565.html",
    "points": [],
    "flags": {
@@ -384,24 +400,8 @@
    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-03T23:52:59.561053",
+   "updated": "2026-09-04T03:42:20.957311",
    "url": "https://www.qbitai.com/2026/09/483552.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-03T23:52:59.561054",
-   "url": "https://www.qbitai.com/2026/09/483462.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -451,7 +451,7 @@
    "author": "Hacker News",
    "title": "OpenAI 开始推出 GPT-6 Astra",
    "duration": "—",
-   "heat": 237,
+   "heat": 248,
    "updated": "2026-09-03",
    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
    "points": [
@@ -505,7 +505,7 @@
    "author": "Hacker News",
    "title": "围棋大师 Shin 以两子让分击败 AI KataGo",
    "duration": "—",
-   "heat": 168,
+   "heat": 215,
    "updated": "2026-09-03",
    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
    "points": [
