@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:05",
- "fetchedDate": "2026-09-04",
+ "fetchedAt": "07:49",
+ "fetchedDate": "2026-09-05",
  "source": "zhiri-server",
  "items": [
   {
@@ -75,11 +75,11 @@
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "人民军队持续奋战在西藏吉隆抢险救援一线",
+   "theme": "要闻",
+   "title": "低碳“十五五”｜未来5年我国要培育建设500家零碳工厂",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDEO6DBetlxUMKzwQtTnyP2260904.shtml",
+   "url": "https://tv.cctv.com/2026/09/04/VIDEFW0xOV17hVePe0XbQsG0260904.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -136,6 +136,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "陪审团陷入僵局后，林赛·克兰西谋杀案被宣布无效审判",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+   "summary": "现在，审判无效使谋杀案以及克兰西的未来陷入悬而未决的境地，至于她是否会因她的死亡而承担刑事责任",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "欧洲成为不断升级的破坏活动的目标 - 俄罗斯是主要嫌疑人",
    "source": "BBC",
    "time": "今天",
@@ -146,11 +156,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "“层层奇迹”：尼泊尔洪水幸存者如何从隧道中获救",
+   "title": "“难得的欢乐时刻”：尼泊尔隧道救援为更多洪水幸存者带来希望",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-   "summary": "从寻找埋藏的隧道入口到炸毁汽车大小的岩石，救援人员必须克服多重挑战才能生存",
+   "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+   "summary": "仍有数百名工人被困在特里苏里河沿岸的隧道网络中。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "德国极右翼选择党在东部选举中首次尝到权力的滋味",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+   "summary": "如果它在萨克森-安哈尔特州赢得绝对多数，这将是自二战以来极右翼政党首次在德国掌握州级权力。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泽连斯基称，俄罗斯以无人机袭击乌克兰安全总部",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+   "summary": "这架无人机毫无预警地袭击了乌克兰首都市中心。",
    "day": 0
   },
   {
@@ -160,57 +190,27 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-   "summary": "发表此番言论之际，阿根廷总统哈维尔·米莱表示，“变革之风”有利于阿根廷对英国海外领土的主张。",
+   "summary": "阿根廷总统哈维尔·米莱发表上述言论之际表示，“变革之风”有利于阿根廷对英国海外领土的主张。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国柴油价格创历史新高",
+   "title": "特朗普和平特使周末访问莫斯科和基辅",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-   "summary": "自二月底伊朗冲突爆发以来，燃料价格飙升，反映出批发石油价格的飙升。",
+   "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+   "summary": "史蒂夫·威特科夫和贾里德·库什纳领导了唐纳德·特朗普总统结束俄罗斯-乌克兰战争的努力，但谈判陷入僵局。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "史蒂夫·欧文 (Steve Irwin) 去世 20 周年，家人庆祝“超级英雄”父亲",
+   "title": "阿根廷夫妇将纳粹掠夺的画作归还给合法主人",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位澳大利亚偶像于 2006 年在拍摄过程中被黄貂鱼的倒刺刺穿胸口后身亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "世界上最年轻的传统国王的遗体在继承权争议中返回乌干达",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-   "summary": "King Oyo 上周在美国因侵袭性癌症接受治疗后去世，享年 34 岁。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "100位有影响力的人受邀参加美国公开赛引发有关“网球礼仪”的辩论",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-   "summary": "由于比赛被取消的事件，影响者和内容创作者的行为已成为今年美国公开赛的一个主要话题。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "大众汽车董事会批准再裁员5万人的计划",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-   "summary": "该集团包括奥迪、保时捷、斯柯达以及大众品牌，计划到 2030 年总共裁员 10 万人。",
+   "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+   "summary": "这幅巴洛克晚期的《女士肖像》失踪了 80 年，直到在布宜诺斯艾利斯附近一栋待售房屋的照片中被发现。",
    "day": 0
   },
   {

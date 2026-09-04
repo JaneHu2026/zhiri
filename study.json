@@ -1,8 +1,26 @@
 {
- "fetchedAt": "22:06",
- "fetchedDate": "2026-09-04",
+ "fetchedAt": "07:50",
+ "fetchedDate": "2026-09-05",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "All Roads Lead back To GLM!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-04 14:44:43",
+   "url": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
+   "points": [
+    "条条大路都通GLM！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -13,7 +31,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "11 分钟内完成 GPT 6 阿斯特拉！"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +85,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且速度很快！"
+    "Minimax H3 Max 感觉非法且快速！"
    ],
    "flags": {
     "fav": false,
@@ -131,30 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "The Right Harness is All You Need - For local Frontier AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-08 17:22:18",
-   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-   "points": [
-    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 4962634,
-   "updated": "2026-09-04T14:06:32.247993",
+   "heat": 5028706,
+   "updated": "2026-09-04T23:50:26.714739",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "AI视次方",
    "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
    "duration": "9:35",
-   "heat": 1247550,
-   "updated": "2026-09-04T14:06:32.248001",
+   "heat": 1247719,
+   "updated": "2026-09-04T23:50:26.714750",
    "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390911,
-   "updated": "2026-09-04T14:06:32.248004",
+   "heat": 390914,
+   "updated": "2026-09-04T23:50:26.714752",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -202,7 +202,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-04T14:06:32.248007",
+   "updated": "2026-09-04T23:50:26.714754",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557446,
-   "updated": "2026-09-04T14:06:32.248009",
+   "heat": 557448,
+   "updated": "2026-09-04T23:50:26.714755",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155635,
-   "updated": "2026-09-04T14:06:32.248011",
+   "updated": "2026-09-04T23:50:26.714757",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611421,
-   "updated": "2026-09-04T14:06:32.248014",
+   "updated": "2026-09-04T23:50:26.714758",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
    "heat": 2659298,
-   "updated": "2026-09-04T14:06:32.248016",
+   "updated": "2026-09-04T23:50:26.714760",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "OpenAI发布GPT-6 Astra",
    "duration": "—",
-   "heat": 7658596,
-   "updated": "2026-09-04T14:06:32.248018",
+   "heat": 7765026,
+   "updated": "2026-09-04T23:50:26.714762",
    "url": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83GPT-6%20Astra?type=general",
    "points": [
     "热门话题「OpenAI发布GPT-6 Astra」：相关视频 12 条"
@@ -300,7 +300,7 @@
    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T14:06:32.248020",
+   "updated": "2026-09-04T23:50:26.714763",
    "url": "https://www.qbitai.com/2026/09/484547.html",
    "points": [
     "国产卡跑出高品质 AI Token 生产级性能"
@@ -318,7 +318,7 @@
    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T14:06:32.248023",
+   "updated": "2026-09-04T23:50:26.714765",
    "url": "https://www.qbitai.com/2026/09/484437.html",
    "points": [
     "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
@@ -336,7 +336,7 @@
    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T14:06:32.248025",
+   "updated": "2026-09-04T23:50:26.714766",
    "url": "https://www.qbitai.com/2026/09/484293.html",
    "points": [],
    "flags": {
@@ -352,7 +352,7 @@
    "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T14:06:32.248027",
+   "updated": "2026-09-04T23:50:26.714768",
    "url": "https://www.qbitai.com/2026/09/484163.html",
    "points": [
     "智能不只是模式识别，更是对世界的建模"
@@ -370,7 +370,7 @@
    "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T14:06:32.248030",
+   "updated": "2026-09-04T23:50:26.714770",
    "url": "https://www.qbitai.com/2026/09/484159.html",
    "points": [
     "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
@@ -388,9 +388,45 @@
    "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T14:06:32.248032",
+   "updated": "2026-09-04T23:50:26.714771",
    "url": "https://www.qbitai.com/2026/09/484155.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "洛杉矶地区禁止大多数人工智能对于学生",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-04",
+   "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+   "points": [
+    "洛杉矶地区禁止大多数人工智能对于学生"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "大卫·查尔默斯 (David Chalmers) 表示人工智能系统正在向他发送电子邮件",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-04",
+   "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
+   "points": [
+    "大卫·查尔默斯 (David Chalmers) 表示人工智能系统正在向他发送电子邮件"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -462,42 +498,6 @@
    "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
    "points": [
     "OpenAI 发布 Astra 迎接“AGI 新时代”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI的下一个大AI模型已经“进入AGI时代”",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-09-03",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-   "points": [
-    "OpenAI的下一个大AI模型已经“进入AGI时代”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 开始推出 GPT-6 Astra",
-   "duration": "—",
-   "heat": 269,
-   "updated": "2026-09-03",
-   "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-   "points": [
-    "OpenAI 开始推出 GPT-6 Astra"
    ],
    "flags": {
     "fav": false,
