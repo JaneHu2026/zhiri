@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:41",
+ "fetchedAt": "16:39",
  "fetchedDate": "2026-09-04",
  "source": "zhiri-server",
  "items": [
@@ -25,21 +25,21 @@
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "竞技与民生并重 擘画体育事业发展新蓝图",
+   "theme": "要闻",
+   "title": "中小企业发展“十五五”规划释放多重利好",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDEWpY3v8vswcMoV0ZFU90V260904.shtml",
+   "url": "https://tv.cctv.com/2026/09/04/VIDEiA6Uu6RjZfrsrIiWq38D260904.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "中埃科研人员携手攻关 跨越山海共解难题",
+   "theme": "民生",
+   "title": "竞技与民生并重 擘画体育事业发展新蓝图",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDEmA56jYQnd6kU9FQeMih9260904.shtml",
+   "url": "https://tv.cctv.com/2026/09/04/VIDEWpY3v8vswcMoV0ZFU90V260904.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -66,21 +66,31 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "故宫展览上新！《游春图》《步辇图》等唐宋珍品亮相",
+   "title": "新赛道长出新职业 一个快递背后“藏”着多少新职业？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/04/ARTIh7csKrbTUdVdQokPCy9j260904.shtml",
+   "url": "https://news.cctv.com/2026/09/04/ARTIePmRvZqtF2vIqZFT4eiR260904.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "商务部：炒作所谓“产能过剩”实质是推行保护主义",
+   "title": "机械化助力农牧结合迎丰收 “土特产”变身农户致富果",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDEaZ55PwAfq7QpOBF0LLpy260904.shtml",
+   "url": "https://news.cctv.com/2026/09/04/ARTIzqVYAuxhK3aIJ1JYFEWs260904.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "2026年第二批“中国好人榜”发布仪式侧记",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260904/83258c196efc4be5b273d435e67da384/c.html",
+   "summary": "【文明中国·看甘肃】一份份善举持续接力、生生不息——2026年第二批“中国好人榜”发布仪式侧记- 活动现场，主持人把话筒递到助人为乐中国好人韦怀银面前。",
    "day": 0
   },
   {
@@ -110,7 +120,7 @@
    "source": "新华网",
    "time": "今天",
    "url": "https://www.news.cn/ci/20260904/ca69ee1c2a784f1aa754b7824f1338db/c.html",
-   "summary": "千城胜景｜吉林双阳：水鸟翩飞映碧水-\"近日，吉林省长春市双阳区丰富的水资源，吸引了白鹭、白骨顶、䴙䴘、野鸭等水鸟来此繁衍生息。\"",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -126,6 +136,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "尼泊尔称山洪暴发后重建需要数十亿美元资金",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 南亚记者阿扎德·莫希里 (Azadeh Moshiri) 在尼泊尔，当局正试图在废墟中开始重建工作。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "法官拒绝罢免林赛·克兰西审判中的陪审员，紧张局势加剧",
    "source": "BBC",
    "time": "今天",
@@ -136,7 +156,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "阿根廷领导人称在福克兰群岛作业的石油公司面临制裁",
+   "title": "阿根廷领导人威胁要制裁石油公司并重申马岛主权主张",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
@@ -146,11 +166,21 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "史蒂夫·欧文 (Steve Irwin) 去世 20 周年，家人庆祝“超级英雄”父亲",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位澳大利亚偶像于 2006 年在拍摄过程中被黄貂鱼的倒刺刺穿胸口后身亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "大众汽车董事会批准再裁员5万人的计划",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-   "summary": "该集团包括奥迪、保时捷、斯柯达以及大众品牌，计划到 2030 年总共削减 10 万辆汽车。",
+   "summary": "该集团包括奥迪、保时捷、斯柯达以及大众品牌，计划到 2030 年总共裁员 10 万人。",
    "day": 0
   },
   {
@@ -166,11 +196,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "机器人会成为主题公园的未来吗？",
+   "title": "女子组合 Katseye 失去了两名成员，但她们的巡演仍然令人眼花缭乱",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-   "summary": "银河机器人公园是韩国的一个占地 16,500 平方米的场地，其景点包括随着韩国流行歌曲翩翩起舞的人形机器人。",
+   "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+   "summary": "女子组合 Katseye 虽有所削弱，但仍充满活力，在伦敦受到了英雄式的欢迎。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "肯尼亚的奶茶爱好者对这个国家的奶牛干涸感到不高兴",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+   "summary": "超市货架空空荡荡，卖家实行配给，价格上涨。",
    "day": 0
   },
   {
