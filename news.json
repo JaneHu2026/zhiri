@@ -1,5 +1,5 @@
 {
- "fetchedAt": "16:39",
+ "fetchedAt": "22:05",
  "fetchedDate": "2026-09-04",
  "source": "zhiri-server",
  "items": [
@@ -15,12 +15,52 @@
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "国新办发布会｜持续夯实全民医保基础 稳步提升参保质量",
+   "theme": "要闻",
+   "title": "跟随习主席的足迹 读懂两大文明的相遇与共鸣｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDE61CtLkcfiGnI9IykCKWV260904.shtml",
+   "url": "https://news.cctv.com/2026/09/04/ARTIF7KeFyynV09rIqSBmFoE260904.shtml",
+   "summary": "作为世界上最大的展示单一文明的博物馆，大埃及博物馆这座矗立在吉萨高地的文化地标，承载着古埃及数千年的文明记忆。“大国外交最前线”跟随习主席的足迹，感受两大文明跨越时空的双向奔赴。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及纪实",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/04/ARTIHixbiVnxF4gxMJ5RP3VA260904.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "用心用情创作更多传播真善美、受到孩子们喜爱的优秀作品",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/04/ARTI1lN07aPm3QUVv75lYvnJ260904.shtml",
+   "summary": "习近平总书记的殷殷嘱托必将激励中央广播电视总台和全国广大少儿文艺工作者再接再厉，以《小喇叭》节目开播70周年为新起点，精心创作和制作更多展现新时代中国少年儿童精神风貌的精品力作，推出更多陪伴少年儿童健康成长的优秀节目和文艺作品，用童真童语讲好中国故事，用真情实感温润幼小心灵。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "【“十五五”开好局起好步】医保高质量发展助力中国式现代化建设",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/04/ARTIrgH7l1mGiC32pFadkNwg260904.shtml",
+   "summary": "ee29a9fa60ed,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "我国商业航天迸发新动能",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/04/VIDEPjJWQcYYUiFpITlwo4uE260904.shtml",
+   "summary": "不久前，朱雀三号成功实现我国首次入轨级运载火箭陆地可控回收。朱雀三号的成功是中国商业航天体系的一次集中亮相。成功的背后，是一张覆盖全国的近700家企业的协作网络，发动机主体产自浙江湖州，不锈钢箭体产自浙江嘉兴，着陆腿产自四川广汉。",
    "day": 0
   },
   {
@@ -35,51 +75,11 @@
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "竞技与民生并重 擘画体育事业发展新蓝图",
+   "theme": "社会",
+   "title": "人民军队持续奋战在西藏吉隆抢险救援一线",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDEWpY3v8vswcMoV0ZFU90V260904.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "西藏吉隆口岸核心区搜寻工作持续进行中",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDEQfPfyQhudS3ieEsdBiuD260904.shtml",
-   "summary": "西藏吉隆泥石流灾害抢险救援：吉隆口岸核心区搜寻工作持续进行中。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "活力中国调研行｜“鹅经济”振翅高飞",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/04/VIDED4tkLGvA5Y6O5RnnjhiP260904.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "新赛道长出新职业 一个快递背后“藏”着多少新职业？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/04/ARTIePmRvZqtF2vIqZFT4eiR260904.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "机械化助力农牧结合迎丰收 “土特产”变身农户致富果",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/04/ARTIzqVYAuxhK3aIJ1JYFEWs260904.shtml",
+   "url": "https://tv.cctv.com/2026/09/04/VIDEO6DBetlxUMKzwQtTnyP2260904.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -120,7 +120,7 @@
    "source": "新华网",
    "time": "今天",
    "url": "https://www.news.cn/ci/20260904/ca69ee1c2a784f1aa754b7824f1338db/c.html",
-   "summary": "（点击查看原文）",
+   "summary": "千城胜景｜吉林双阳：水鸟翩飞映碧水-\"近日，吉林省长春市双阳区丰富的水资源，吸引了白鹭、白骨顶、䴙䴘、野鸭等水鸟来此繁衍生息。\"",
    "day": 0
   },
   {
@@ -136,31 +136,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "尼泊尔称山洪暴发后重建需要数十亿美元资金",
+   "title": "欧洲成为不断升级的破坏活动的目标 - 俄罗斯是主要嫌疑人",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 南亚记者阿扎德·莫希里 (Azadeh Moshiri) 在尼泊尔，当局正试图在废墟中开始重建工作。",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+   "summary": "德国指责俄罗斯对莱比锡机场的袭击负责，但其他地方也发生了一系列可疑事件。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法官拒绝罢免林赛·克兰西审判中的陪审员，紧张局势加剧",
+   "title": "“层层奇迹”：尼泊尔洪水幸存者如何从隧道中获救",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-   "summary": "法官决定不撤销三重谋杀案中的顽固分子后，辩护律师感到不安。",
+   "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+   "summary": "从寻找埋藏的隧道入口到炸毁汽车大小的岩石，救援人员必须克服多重挑战才能生存",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "阿根廷领导人威胁要制裁石油公司并重申马岛主权主张",
+   "title": "《No 10》称，在阿根廷重申主权主张后，英国对福克兰群岛的支持“坚定不移”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-   "summary": "哈维尔·米莱重申了英国对英国海外领土的主权要求，并表示“变革之风”有利于它。",
+   "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+   "summary": "发表此番言论之际，阿根廷总统哈维尔·米莱表示，“变革之风”有利于阿根廷对英国海外领土的主张。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国柴油价格创历史新高",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+   "summary": "自二月底伊朗冲突爆发以来，燃料价格飙升，反映出批发石油价格的飙升。",
    "day": 0
   },
   {
@@ -176,41 +186,31 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "世界上最年轻的传统国王的遗体在继承权争议中返回乌干达",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+   "summary": "King Oyo 上周在美国因侵袭性癌症接受治疗后去世，享年 34 岁。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "100位有影响力的人受邀参加美国公开赛引发有关“网球礼仪”的辩论",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+   "summary": "由于比赛被取消的事件，影响者和内容创作者的行为已成为今年美国公开赛的一个主要话题。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "大众汽车董事会批准再裁员5万人的计划",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
    "summary": "该集团包括奥迪、保时捷、斯柯达以及大众品牌，计划到 2030 年总共裁员 10 万人。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "ICE 特工被指控在镇压期间谎称射杀委内瑞拉男子",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-   "summary": "这名 ICE 官员面临与 1 月份明尼苏达州枪击事件有关的联邦指控。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "女子组合 Katseye 失去了两名成员，但她们的巡演仍然令人眼花缭乱",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
-   "summary": "女子组合 Katseye 虽有所削弱，但仍充满活力，在伦敦受到了英雄式的欢迎。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "肯尼亚的奶茶爱好者对这个国家的奶牛干涸感到不高兴",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
-   "summary": "超市货架空空荡荡，卖家实行配给，价格上涨。",
    "day": 0
   },
   {

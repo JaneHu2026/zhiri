@@ -1,5 +1,5 @@
 {
- "fetchedAt": "16:40",
+ "fetchedAt": "22:06",
  "fetchedDate": "2026-09-04",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 4508911,
-   "updated": "2026-09-04T08:40:59.239614",
+   "heat": 4962634,
+   "updated": "2026-09-04T14:06:32.247993",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
    "points": [],
    "flags": {
@@ -169,41 +169,9 @@
    "author": "AI视次方",
    "title": "爆款AI短剧/AI漫剧是怎么做出来的？0-1保姆级教程",
    "duration": "9:35",
-   "heat": 1247279,
-   "updated": "2026-09-04T08:40:59.239626",
+   "heat": 1247550,
+   "updated": "2026-09-04T14:06:32.248001",
    "url": "https://www.bilibili.com/video/BV1VRtG6wErp",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "伊介书生",
-   "title": "华强买瓜，但郝哥能控制AI",
-   "duration": "7:18",
-   "heat": 1107967,
-   "updated": "2026-09-04T08:40:59.239629",
-   "url": "https://www.bilibili.com/video/BV1reth6tEFm",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "赵导Zshiwu",
-   "title": "极乐净土，但是黄色生物三巨头【AI全民制作人】",
-   "duration": "1:15",
-   "heat": 1056075,
-   "updated": "2026-09-04T08:40:59.239630",
-   "url": "https://www.bilibili.com/video/BV1Hh4m6rEJR",
    "points": [],
    "flags": {
     "fav": false,
@@ -218,7 +186,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 390911,
-   "updated": "2026-09-04T08:40:59.239632",
+   "updated": "2026-09-04T14:06:32.248004",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +202,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-04T08:40:59.239633",
+   "updated": "2026-09-04T14:06:32.248007",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +218,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557446,
-   "updated": "2026-09-04T08:40:59.239635",
+   "updated": "2026-09-04T14:06:32.248009",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -265,9 +233,41 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155633,
-   "updated": "2026-09-04T08:40:59.239637",
+   "heat": 155635,
+   "updated": "2026-09-04T14:06:32.248011",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611421,
+   "updated": "2026-09-04T14:06:32.248014",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659298,
+   "updated": "2026-09-04T14:06:32.248016",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,12 +281,64 @@
    "author": "抖音热榜",
    "title": "OpenAI发布GPT-6 Astra",
    "duration": "—",
-   "heat": 7668450,
-   "updated": "2026-09-04T08:40:59.239639",
+   "heat": 7658596,
+   "updated": "2026-09-04T14:06:32.248018",
    "url": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83GPT-6%20Astra?type=general",
    "points": [
-    "热门话题「OpenAI发布GPT-6 Astra」：相关视频 11 条"
+    "热门话题「OpenAI发布GPT-6 Astra」：相关视频 12 条"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-04T14:06:32.248020",
+   "url": "https://www.qbitai.com/2026/09/484547.html",
+   "points": [
+    "国产卡跑出高品质 AI Token 生产级性能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-04T14:06:32.248023",
+   "url": "https://www.qbitai.com/2026/09/484437.html",
+   "points": [
+    "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-04T14:06:32.248025",
+   "url": "https://www.qbitai.com/2026/09/484293.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -300,7 +352,7 @@
    "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T08:40:59.239641",
+   "updated": "2026-09-04T14:06:32.248027",
    "url": "https://www.qbitai.com/2026/09/484163.html",
    "points": [
     "智能不只是模式识别，更是对世界的建模"
@@ -318,7 +370,7 @@
    "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T08:40:59.239642",
+   "updated": "2026-09-04T14:06:32.248030",
    "url": "https://www.qbitai.com/2026/09/484159.html",
    "points": [
     "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
@@ -336,7 +388,7 @@
    "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04T08:40:59.239643",
+   "updated": "2026-09-04T14:06:32.248032",
    "url": "https://www.qbitai.com/2026/09/484155.html",
    "points": [],
    "flags": {
@@ -347,15 +399,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "技术负责人表示，谷歌将加快芯片推出，以保持人工智能领域的领先地位",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-04T08:40:59.239645",
-   "url": "https://www.qbitai.com/2026/09/483984.html",
+   "heat": 1,
+   "updated": "2026-09-04",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
    "points": [
-    "比新业务更考验一家公司的，可能是怎么对待年轻人。"
+    "技术负责人表示，谷歌将加快芯片推出，以保持人工智能领域的领先地位"
    ],
    "flags": {
     "fav": false,
@@ -365,14 +417,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "生成式人工智能最初几年的失业担忧",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-04T08:40:59.239646",
-   "url": "https://www.qbitai.com/2026/09/483598.html",
-   "points": [],
+   "heat": 3,
+   "updated": "2026-09-04",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877",
+   "points": [
+    "生成式人工智能最初几年的失业担忧"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -381,15 +435,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Muse Spark 1.3 人工智能分析智能指数排名第三",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-04T08:40:59.239648",
-   "url": "https://www.qbitai.com/2026/09/483948.html",
+   "heat": 3,
+   "updated": "2026-09-04",
+   "url": "https://artificialanalysis.ai/#artificial-analysis-intelligence-index",
    "points": [
-    "改进GPT Image 2的噪点问题"
+    "Muse Spark 1.3 人工智能分析智能指数排名第三"
    ],
    "flags": {
     "fav": false,
@@ -439,65 +493,11 @@
    "author": "Hacker News",
    "title": "OpenAI 开始推出 GPT-6 Astra",
    "duration": "—",
-   "heat": 263,
+   "heat": 269,
    "updated": "2026-09-03",
    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
    "points": [
     "OpenAI 开始推出 GPT-6 Astra"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Nvidia 推出免费工具，将闲置计算机连接到个人人工智能数据中心",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-03",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-   "points": [
-    "Nvidia 推出免费工具，将闲置计算机连接到个人人工智能数据中心"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "研究人员担心 OpenAI 的 Astra 发布之前会出现安全灾难",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-03",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-   "points": [
-    "研究人员担心 OpenAI 的 Astra 发布之前会出现安全灾难"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "围棋大师 Shin 以两子让分击败 AI KataGo",
-   "duration": "—",
-   "heat": 290,
-   "updated": "2026-09-03",
-   "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-   "points": [
-    "围棋大师 Shin 以两子让分击败 AI KataGo"
    ],
    "flags": {
     "fav": false,
