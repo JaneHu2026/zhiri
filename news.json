@@ -1,86 +1,96 @@
 {
- "fetchedAt": "11:40",
+ "fetchedAt": "16:12",
  "fetchedDate": "2026-09-05",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平主席的开罗时间",
+   "title": "三个关键词看习主席中亚中东之行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTIRucdgv6vOi1G1M8KOZKR260905.shtml",
-   "summary": "9月3日上午，国家主席习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问后回到北京。",
+   "url": "https://news.cctv.com/2026/09/05/ARTI0axDzDL8MVMwBKNhKfAQ260905.shtml",
+   "summary": "9月3日上午，习近平主席圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问后回到北京。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "金融政策“组合拳”释放积极信号 护航中国经济向稳向好",
+   "theme": "民生",
+   "title": "两项养老机构强制性国标发布 划出“安全红线+服务底线”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTIaCfRHJ5LLfPo8jQ1wqjM260905.shtml",
-   "summary": "a99e470ecddb,0,1,16:9,newPlayer76375b848214,0,1,16:9,newPlayerf6ba66359f67,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/09/05/ARTIpKA6BP2eKzIBELMWtrfU260905.shtml",
+   "summary": "c340e017ba88,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "一起到循环经济一线看身边的“大循环” 餐厨废油如何能“飞”上天？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/05/ARTIEJ4zcyGpswrUIUwQHYzn260905.shtml",
+   "summary": "37e2281122ef,0,1,16:9,newPlayerd0393e5d4442,0,1,16:9,newPlayerb3f4b89c569f,0,1,16:9,newPlayer1067c955fb76,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "今年上半年支持城市更新减税降费及退税4870亿元",
+   "title": "中俄蒙开展“边防合作-2026”联合演练 对外释放哪些信号？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/05/VIDEZlucMSvltvXXdMMua42Z260905.shtml",
+   "url": "https://tv.cctv.com/2026/09/05/VIDEoGaLd0N73G6UJjIpRido260905.shtml",
+   "summary": "中俄蒙开展“边防合作-2026”联合演练·专家解读：此次联合演练对外释放哪些信号？",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "全国刑事技术技能大赛｜模拟电诈作案场景 现场勘查民警各显神通",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/05/VIDEIRB2fx0DBw6FWPIQqXPq260905.shtml",
+   "summary": "全国刑事技术技能大赛：模拟电诈作案场景，现场勘查民警各显神通。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "星火成炬｜徽风皖韵 “皖”美安徽",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/05/ARTICg4cGZGd12ydhnQZhtFP260905.shtml",
+   "summary": "有人说，这里是最像“水墨画”照进现实的地方——远山晕作淡墨，层层向天际；白墙如纸，错落的墙头顺着山势勾勒出简约的线条；薄雾漫过湖面，古村、石桥如同沉进水中，虚实相融。一砖一瓦留白，一山一水本真，这就是独属于安徽的风韵。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "全国花粉过敏指数地图出炉 北方秋季花粉高峰期推迟",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/05/VIDE0gcBkerFJjUYpWnJiuLy260905.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "民政部：西藏吉隆泥石流灾害慈善捐赠超过6.6亿元",
+   "title": "物流需求保持扩张 景气水平进一步提升",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTI2EuQg04EQYCNoDfQmIZC260905.shtml",
-   "summary": "今天（9月5日）是我国第十一个“中华慈善日”，今年慈善日的主题是“弘扬慈善文化 践行慈善惠民”。近年来，慈善力量在救灾、扶贫济困等方面发挥了重要作用。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "8月中国物流需求保持扩张 景气水平提升",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTI3y3yJfVYtU54PVXiO7C5260905.shtml",
-   "summary": "中国物流与采购联合会今日发布8月份中国物流业景气指数。物流需求保持扩张，景气指数在扩张区间内继续提升。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "首次！北斗基准站一张网服务数据向社会共享开放",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/05/VIDE8u8tbv7lQmV5YDdjS1Gs260905.shtml",
+   "url": "https://news.cctv.com/2026/09/05/ARTIApf9ZUdasQzrGoxBNftS260905.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "查查孩子视力有多少“存款”！远离近视从这些事做起",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普和平特使周末访问莫斯科和基辅",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTIagsjM4xG2LzjWcWaGfpk260905.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国建筑集团有限公司党组成员、副总经理陈勇被查",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTIJZUcQpoExCBFiShNbNcQ260905.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+   "summary": "史蒂夫·威特科夫和贾里德·库什纳领导了唐纳德·特朗普总统结束俄罗斯-乌克兰战争的努力，但谈判陷入僵局。",
    "day": 0
   },
   {
@@ -106,11 +116,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "泰特兄弟在罗马尼亚被控进一步贩运和性犯罪",
+   "title": "林赛·克兰西谋杀案审判让美国对她是受害者还是罪犯产生了分歧",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-   "summary": "安德鲁·泰特和特里斯坦·泰特目前被关押在迈阿密监狱，他们因单独的指控而反对引渡到英国，并否认所有指控。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+   "summary": "一些人说，这起案件揭示了母亲们的心理健康问题，而另一些人则认为这不是谋杀的借口。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "为什么欧洲国家要把黄金从北美转移出去？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+   "summary": "荷兰已经转移了 86 吨闪亮的东西 - 这是怎么回事？",
    "day": 0
   },
   {
@@ -131,6 +151,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
    "summary": "由于公民反对不断发展的监控网络，人工智能摄像头在美国各地遭到破坏。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "事实证明，俄罗斯在西非更擅长保护朋友而不是与敌人作战？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+   "summary": "俄罗斯军队被派来帮助击败圣战分子，但他们也捍卫尼日尔的军事领导地位。",
    "day": 0
   }
  ]
