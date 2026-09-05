@@ -1,8 +1,28 @@
 {
- "fetchedAt": "21:18",
- "fetchedDate": "2026-09-05",
+ "fetchedAt": "07:38",
+ "fetchedDate": "2026-09-06",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "时政微观察丨“给孩子们讲好故事”，这封贺信饱含深情和期望",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/05/ARTIsnhyZKEgav5xh2cbxqOL260905.shtml",
+   "summary": "“70年来，《小喇叭》节目坚持‘给孩子们讲好故事’，陪伴了一代代少年儿童健康成长。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "贺信引发热烈反响 |",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/05/ARTIbJqvwNr9dJrjp6paZy3k260905.shtml",
+   "summary": "《小喇叭》于1956年9月4日开播，是新中国首个专为学龄前儿童打造的广播节目，目前已成为融广播、电视、新媒体和校园广播站等为一体的品牌节目。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -35,22 +55,22 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "一起到循环经济一线看身边的“大循环” 餐厨废油如何能“飞”上天？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTIEJ4zcyGpswrUIUwQHYzn260905.shtml",
-   "summary": "37e2281122ef,0,1,16:9,newPlayerd0393e5d4442,0,1,16:9,newPlayerb3f4b89c569f,0,1,16:9,newPlayer1067c955fb76,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "要闻",
    "title": "全国刑事技术技能大赛｜模拟电诈作案场景 现场勘查民警各显神通",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/09/05/VIDEIRB2fx0DBw6FWPIQqXPq260905.shtml",
    "summary": "全国刑事技术技能大赛：模拟电诈作案场景，现场勘查民警各显神通。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "新能源车动力电池“退役潮”将至 如何应对？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/05/VIDESqAYSWaAsyDtIeN47PJe260905.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -64,33 +84,63 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "星火成炬｜徽风皖韵 “皖”美安徽",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国特使在莫斯科会见普京讨论乌克兰问题",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTICg4cGZGd12ydhnQZhtFP260905.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "前7个月我国服务贸易保持较快增长",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/05/VIDE0Dsjk6tx3erdlwnkizwc260905.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+   "summary": "视频显示，弗拉基米尔·普京向史蒂夫·威特科夫和贾里德·库什纳致意，然后表示目前的情况“并不那么容易”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国特使在乌克兰会谈前抵达莫斯科",
+   "title": "随着冲突爆发，美国和伊朗对船只进行报复性袭击",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-   "summary": "史蒂夫·威特科夫和贾里德·库什纳将于周日前往乌克兰之前与俄罗斯举行会谈。",
+   "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+   "summary": "美国称袭击了三艘伊朗油轮，而伊朗则称袭击了三艘与美国有联系的船只。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "玻利维亚军营发生爆炸 至少两人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+   "summary": "当局担心维亚查的死亡人数将会上升，并警告人们远离军营，因为存在进一步爆炸的风险。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "威廉王子将出席挪威国王哈拉尔的葬礼",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+   "summary": "威尔士亲王将于下周代表国王出席在奥斯陆举行的哈拉尔五世葬礼。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃及毒品案11人被判处死刑 电视节目主持人",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+   "summary": "莎拉·哈利法因其处理犯罪问题的电视节目《碟中谍》而闻名。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "不同的世界地图哪些是正确的，哪些是错误的",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+   "summary": "随着联合国采用新的世界地图来反映非洲的真实面积，让我们仔细看看不同地图的正确和错误。",
    "day": 0
   },
   {
@@ -111,56 +161,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
    "summary": "多哥发起的这项决议得到了 164 个国家的支持，其中美国是唯一投反对票的国家。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "玻利维亚军营发生爆炸 至少两人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-   "summary": "当局担心维亚查的死亡人数将会上升，并警告人们远离军营，因为存在进一步爆炸的风险。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "泰特兄弟在罗马尼亚被正式起诉贩卖人口和性犯罪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-   "summary": "安德鲁·泰特和特里斯坦·泰特目前被关押在迈阿密监狱，他们因单独的指控而反对引渡到英国，并否认所有指控。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "林赛·克兰西谋杀案审判让美国对她是受害者还是罪犯产生了分歧",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-   "summary": "一些人说，这起案件揭示了母亲们的心理健康问题，而另一些人则认为这不是谋杀的借口。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "为什么欧洲国家要把黄金从北美转移出去？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-   "summary": "荷兰已经转移了 86 吨闪亮的东西 - 这是怎么回事？",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "事实证明，俄罗斯在西非更擅长保护朋友而不是与敌人作战？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯军队被派来帮助击败圣战分子，但他们也捍卫尼日尔的军事领导地位。",
    "day": 0
   }
  ]
