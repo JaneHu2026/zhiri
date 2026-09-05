@@ -1,5 +1,5 @@
 {
- "fetchedAt": "16:13",
+ "fetchedAt": "21:19",
  "fetchedDate": "2026-09-05",
  "source": "zhiri-server",
  "items": [
@@ -153,10 +153,12 @@
    "author": "张拉灯",
    "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
    "duration": "4:55",
-   "heat": 5115519,
-   "updated": "2026-09-05T08:13:05.153583",
+   "heat": 5189682,
+   "updated": "2026-09-05T13:19:38.402018",
    "url": "https://www.bilibili.com/video/BV1a3th65EQb",
-   "points": [],
+   "points": [
+    "这谁又能想得到呢？西西弗斯推的石头，居然是孙悟空……"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -169,8 +171,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390915,
-   "updated": "2026-09-05T08:13:05.153597",
+   "heat": 390917,
+   "updated": "2026-09-05T13:19:38.402027",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -186,7 +188,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-05T08:13:05.153599",
+   "updated": "2026-09-05T13:19:38.402030",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -202,7 +204,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557449,
-   "updated": "2026-09-05T08:13:05.153601",
+   "updated": "2026-09-05T13:19:38.402032",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -217,8 +219,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155636,
-   "updated": "2026-09-05T08:13:05.153603",
+   "heat": 155637,
+   "updated": "2026-09-05T13:19:38.402034",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -233,8 +235,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611421,
-   "updated": "2026-09-05T08:13:05.153605",
+   "heat": 611422,
+   "updated": "2026-09-05T13:19:38.402036",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -249,8 +251,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659300,
-   "updated": "2026-09-05T08:13:05.153607",
+   "heat": 2659306,
+   "updated": "2026-09-05T13:19:38.402038",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -265,8 +267,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58666,
-   "updated": "2026-09-05T08:13:05.153609",
+   "heat": 58667,
+   "updated": "2026-09-05T13:19:38.402040",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -282,7 +284,7 @@
    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-05T08:13:05.153611",
+   "updated": "2026-09-05T13:19:38.402042",
    "url": "https://www.qbitai.com/2026/09/484649.html",
    "points": [
     "AI直接吐出正确答案，但最关键的可能不是答案"
@@ -300,7 +302,7 @@
    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-05T08:13:05.153613",
+   "updated": "2026-09-05T13:19:38.402044",
    "url": "https://www.qbitai.com/2026/09/484551.html",
    "points": [],
    "flags": {
@@ -316,7 +318,7 @@
    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-05T08:13:05.153615",
+   "updated": "2026-09-05T13:19:38.402045",
    "url": "https://www.qbitai.com/2026/09/484547.html",
    "points": [
     "国产卡跑出高品质 AI Token 生产级性能"
@@ -334,7 +336,7 @@
    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-05T08:13:05.153617",
+   "updated": "2026-09-05T13:19:38.402047",
    "url": "https://www.qbitai.com/2026/09/484437.html",
    "points": [
     "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
@@ -352,7 +354,7 @@
    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-05T08:13:05.153619",
+   "updated": "2026-09-05T13:19:38.402049",
    "url": "https://www.qbitai.com/2026/09/484293.html",
    "points": [],
    "flags": {
@@ -368,7 +370,7 @@
    "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-05T08:13:05.153621",
+   "updated": "2026-09-05T13:19:38.402051",
    "url": "https://www.qbitai.com/2026/09/484163.html",
    "points": [
     "智能不只是模式识别，更是对世界的建模"
@@ -385,7 +387,7 @@
    "author": "Hacker News",
    "title": "人工智能分析智能指数 v4.2",
    "duration": "—",
-   "heat": 110,
+   "heat": 129,
    "updated": "2026-09-05",
    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
    "points": [

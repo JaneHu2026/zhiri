@@ -1,16 +1,26 @@
 {
- "fetchedAt": "16:12",
+ "fetchedAt": "21:18",
  "fetchedDate": "2026-09-05",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "三个关键词看习主席中亚中东之行",
+   "title": "习近平致信祝贺总台《小喇叭》节目开播70周年引发热烈反响",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTI0axDzDL8MVMwBKNhKfAQ260905.shtml",
-   "summary": "9月3日上午，习近平主席圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问后回到北京。",
+   "url": "https://tv.cctv.com/2026/09/05/VIDEz4BWtdvMKROkGGu8w18h260905.shtml",
+   "summary": "深耕少儿文化沃土，培养德智体美劳全面发展的社会主义建设者和接班人——习近平总书记致信祝贺中央广播电视总台《小喇叭》节目开播70周年引发热烈反响。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "兜住万家事 筑牢平安网 书写新时代基层治理的民生答卷",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/05/VIDEsDbiDZF98dX1D53QuBjH260905.shtml",
+   "summary": "【新思想引领新征程】兜住万家事，筑牢平安网，书写新时代基层治理的民生答卷。",
    "day": 0
   },
   {
@@ -36,16 +46,6 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中俄蒙开展“边防合作-2026”联合演练 对外释放哪些信号？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/05/VIDEoGaLd0N73G6UJjIpRido260905.shtml",
-   "summary": "中俄蒙开展“边防合作-2026”联合演练·专家解读：此次联合演练对外释放哪些信号？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
    "title": "全国刑事技术技能大赛｜模拟电诈作案场景 现场勘查民警各显神通",
    "source": "央视新闻",
    "time": "今天",
@@ -55,42 +55,52 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "星火成炬｜徽风皖韵 “皖”美安徽",
+   "theme": "科技",
+   "title": "“全”释硬科技｜从氦-3到水冰 月球上到底藏着多少资源",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTICg4cGZGd12ydhnQZhtFP260905.shtml",
-   "summary": "有人说，这里是最像“水墨画”照进现实的地方——远山晕作淡墨，层层向天际；白墙如纸，错落的墙头顺着山势勾勒出简约的线条；薄雾漫过湖面，古村、石桥如同沉进水中，虚实相融。一砖一瓦留白，一山一水本真，这就是独属于安徽的风韵。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全国花粉过敏指数地图出炉 北方秋季花粉高峰期推迟",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/05/VIDE0gcBkerFJjUYpWnJiuLy260905.shtml",
+   "url": "https://tv.cctv.com/2026/09/05/VIDEJPniwZz9UMvIFFguYoBr260905.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "物流需求保持扩张 景气水平进一步提升",
+   "title": "星火成炬｜徽风皖韵 “皖”美安徽",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/05/ARTIApf9ZUdasQzrGoxBNftS260905.shtml",
+   "url": "https://news.cctv.com/2026/09/05/ARTICg4cGZGd12ydhnQZhtFP260905.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "前7个月我国服务贸易保持较快增长",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/05/VIDE0Dsjk6tx3erdlwnkizwc260905.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普和平特使周末访问莫斯科和基辅",
+   "title": "美国特使在乌克兰会谈前抵达莫斯科",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-   "summary": "史蒂夫·威特科夫和贾里德·库什纳领导了唐纳德·特朗普总统结束俄罗斯-乌克兰战争的努力，但谈判陷入僵局。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+   "summary": "史蒂夫·威特科夫和贾里德·库什纳将于周日前往乌克兰之前与俄罗斯举行会谈。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普签署命令取消对灰狼的濒危物种保护",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+   "summary": "美国总统表示，此举将帮助牧场主，但自然资源保护主义者表示，这可能会破坏恢复种群数量的努力。",
    "day": 0
   },
   {
@@ -116,6 +126,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "泰特兄弟在罗马尼亚被正式起诉贩卖人口和性犯罪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+   "summary": "安德鲁·泰特和特里斯坦·泰特目前被关押在迈阿密监狱，他们因单独的指控而反对引渡到英国，并否认所有指控。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "林赛·克兰西谋杀案审判让美国对她是受害者还是罪犯产生了分歧",
    "source": "BBC",
    "time": "今天",
@@ -131,26 +151,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
    "summary": "荷兰已经转移了 86 吨闪亮的东西 - 这是怎么回事？",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "加拿大在与美国的贸易战中能反击多少？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国可能是更大的贸易伙伴，但在不断升级的贸易战中，加拿大还不应该被排除在外。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "弗洛克表示，它的摄像头让美国变得更安全——那么为什么它们会遭到破坏呢？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-   "summary": "由于公民反对不断发展的监控网络，人工智能摄像头在美国各地遭到破坏。",
    "day": 0
   },
   {
