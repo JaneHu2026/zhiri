@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:28",
- "fetchedDate": "2026-09-06",
+ "fetchedAt": "07:36",
+ "fetchedDate": "2026-09-07",
  "source": "zhiri-server",
  "items": [
   {
@@ -45,52 +45,92 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "让每一滴水发挥最大价值 从“节水账本”看中国经济向新向绿行",
+   "theme": "科技",
+   "title": "开源共生：AI时代的创新路径",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTI5EWNA36zhR8zaDx7LLPn260906.shtml",
-   "summary": "3806a40fe15d,0,1,16:9,newPlayerfd0db4cedb3b,0,1,16:9,newPlayer66728dbe76c0,0,1,16:9,newPlayera50c9932cbc8,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "第二十六届投洽会将于9月8日至11日举行 布展有序进行",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEW3tONPbktUF7FIlEHPc8260906.shtml",
-   "summary": "第二十六届投洽会将于9月8日至11日举行：布展有序进行，搭建工作9月6日将完成。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "瑞金至延安 长征出发地到落脚点实现高铁直达",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEj1caeMx9Ek0YGaUmanw2260906.shtml",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEW8sRhHhGpaZjEeigs3Ax260906.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "每周质量报告｜独家直击首次质量督察",
+   "title": "活力中国调研行｜从一趟旅游列车的突围看“交旅融合”消费潜力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEGM3YYTpdexGiHGnlwblF260906.shtml",
+   "url": "https://news.cctv.com/2026/09/06/ARTI17I3yA2Q04Z39i65A2lp260906.shtml",
+   "summary": "defc3b28050f,0,1,16:9,newPlayer8a7c3998233c,0,1,16:9,newPlayera69025862802,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "《第二届“丝路之星”国际音乐大赛》首场竞演",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEEeBsPEr1vAyXxMdl9nWY260906.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "一鼎惊藏291字铭文《金石探文明》带你探寻大盂鼎",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDE1PXCmbyZJMds6JjshIfG260906.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国特使在俄罗斯与普京会谈后在乌克兰会见泽连斯基",
+   "title": "德国极右翼选择党将在东部州取得重大胜利，仅差一点点获得多数席位",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+   "summary": "德国选择党称赞这是一个“历史性的结果”，预计将赢得 44% 的选票，远远领先于保守党的 17%。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泽伦斯基表示，在与美国特使会谈后，他预计战争将持续到冬季",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "summary": "史蒂夫·威特科夫和贾里德·库什纳周六在莫斯科与普京举行会谈后抵达基辅。",
+   "summary": "史蒂夫·威特科夫和贾里德·库什纳前往基辅后，没有宣布重大突破。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "和谈富有象征意义，但俄罗斯和乌克兰之间的根本分歧仍然存在",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+   "summary": "詹姆斯·兰代尔写道，尽管美国特使与普京和泽伦斯基进行了会谈，但基辅的预期是战斗将继续下去。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "火山喷发导致17万名乘客滞留印尼",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+   "summary": "火山喷发后，雅加达附近空域发现火山灰，导致超过 17 万名乘客滞留。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "数十人担心被困在德里倒塌的建筑中",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+   "summary": "据信，这座五层旅馆倒塌时，里面有多达 50 人。",
    "day": 0
   },
   {
@@ -106,61 +146,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "印尼火山喷发致15万名乘客滞留",
+   "title": "伊朗警告称将对美国袭击做出“更快、更严厉、更痛苦的反应”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-   "summary": "火山喷发后，雅加达附近空域发现火山灰，导致超过 15 万名乘客滞留。",
+   "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+   "summary": "此前一天，华盛顿表示已袭击伊朗油轮，以回应德黑兰在该地区袭击美国军舰的行为。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "观看：64 岁尼泊尔妇女在被泥土掩埋的家中被发现还活着的那一刻",
+   "title": "志愿者冒着生命危险拆除印度尼西亚山火的“碳炸弹”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-   "summary": "钱迪卡·什雷斯塔 (Chandika Shrestha) 在半掩埋的房子里待了十多天后，被空运到医院。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“他是生命线”——海地护理人员在美国被解雇后，家庭一片茫然",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
-   "summary": "海地移民占本已不堪重负的家庭护理劳动力的很大一部分。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "不同的世界地图哪些是正确的，哪些是错误的",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-   "summary": "随着联合国采用新的世界地图来反映非洲的真实面积，让我们仔细看看不同地图的正确和错误。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "观看：64 岁尼泊尔妇女在被泥土掩埋的家中被发现还活着的那一刻",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-   "summary": "钱迪卡·什雷斯塔 (Chandika Shrestha) 在半掩埋的房子里待了十多天后，被空运到医院。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "为什么蒙特利尔一家著名的三明治店被迫更换苏打水",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
-   "summary": "蒙特利尔最著名的熟食店之一施瓦茨已经更换了黑樱桃苏打水的供应商。",
+   "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+   "summary": "婆罗洲的泥炭火灾正在释放古老储存的碳，并在整个东南亚散发出有毒烟雾。",
    "day": 0
   },
   {

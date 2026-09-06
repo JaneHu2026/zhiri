@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:29",
- "fetchedDate": "2026-09-06",
+ "fetchedAt": "07:38",
+ "fetchedDate": "2026-09-07",
  "source": "zhiri-server",
  "items": [
   {
@@ -31,7 +31,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "11 分钟内完成 GPT 6 阿斯特拉！"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且速度很快！"
+    "Minimax H3 Max 感觉非法且快速！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390924,
-   "updated": "2026-09-06T13:29:26.740864",
+   "heat": 390928,
+   "updated": "2026-09-06T23:38:21.081451",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653412,
-   "updated": "2026-09-06T13:29:26.740876",
+   "heat": 653413,
+   "updated": "2026-09-06T23:38:21.081465",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557453,
-   "updated": "2026-09-06T13:29:26.740879",
+   "heat": 557457,
+   "updated": "2026-09-06T23:38:21.081468",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -202,7 +202,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155637,
-   "updated": "2026-09-06T13:29:26.740881",
+   "updated": "2026-09-06T23:38:21.081470",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -217,10 +217,12 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611426,
-   "updated": "2026-09-06T13:29:26.740883",
+   "heat": 611428,
+   "updated": "2026-09-06T23:38:21.081472",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -233,8 +235,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659329,
-   "updated": "2026-09-06T13:29:26.740885",
+   "heat": 2659334,
+   "updated": "2026-09-06T23:38:21.081475",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -249,8 +251,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58667,
-   "updated": "2026-09-06T13:29:26.740887",
+   "heat": 58668,
+   "updated": "2026-09-06T23:38:21.081477",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -266,7 +268,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015297,
-   "updated": "2026-09-06T13:29:26.740890",
+   "updated": "2026-09-06T23:38:21.081479",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [],
    "flags": {
@@ -281,11 +283,29 @@
    "author": "抖音热榜",
    "title": "用AI拼豆的方式打开旅行",
    "duration": "—",
-   "heat": 7735398,
-   "updated": "2026-09-06T13:29:26.740892",
+   "heat": 9876225,
+   "updated": "2026-09-06T23:38:21.081481",
    "url": "https://www.douyin.com/search/%E7%94%A8AI%E6%8B%BC%E8%B1%86%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%97%85%E8%A1%8C?type=general",
    "points": [
     "热门话题「用AI拼豆的方式打开旅行」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "GAI上海演唱会",
+   "duration": "—",
+   "heat": 7655127,
+   "updated": "2026-09-06T23:38:21.081483",
+   "url": "https://www.douyin.com/search/GAI%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+   "points": [
+    "热门话题「GAI上海演唱会」：相关视频 3 条"
    ],
    "flags": {
     "fav": false,
@@ -300,7 +320,7 @@
    "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T13:29:26.740895",
+   "updated": "2026-09-06T23:38:21.081486",
    "url": "https://www.qbitai.com/2026/09/484897.html",
    "points": [
     "让机器人学会利用更长的多模态Context"
@@ -318,7 +338,7 @@
    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T13:29:26.740897",
+   "updated": "2026-09-06T23:38:21.081488",
    "url": "https://www.qbitai.com/2026/09/484890.html",
    "points": [],
    "flags": {
@@ -334,7 +354,7 @@
    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T13:29:26.740899",
+   "updated": "2026-09-06T23:38:21.081489",
    "url": "https://www.qbitai.com/2026/09/484683.html",
    "points": [],
    "flags": {
@@ -350,7 +370,7 @@
    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T13:29:26.740901",
+   "updated": "2026-09-06T23:38:21.081491",
    "url": "https://www.qbitai.com/2026/09/484649.html",
    "points": [
     "AI直接吐出正确答案，但最关键的可能不是答案"
@@ -368,7 +388,7 @@
    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T13:29:26.740903",
+   "updated": "2026-09-06T23:38:21.081493",
    "url": "https://www.qbitai.com/2026/09/484551.html",
    "points": [],
    "flags": {
@@ -384,7 +404,7 @@
    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T13:29:26.740906",
+   "updated": "2026-09-06T23:38:21.081495",
    "url": "https://www.qbitai.com/2026/09/484547.html",
    "points": [
     "国产卡跑出高品质 AI Token 生产级性能"
@@ -399,13 +419,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "是的，我们正在进入通用人工智能时代",
+   "title": "我是一位研究人工智能影响的父亲：这是父母需要知道的",
    "duration": "—",
-   "heat": 3,
+   "heat": 1,
    "updated": "2026-09-06",
-   "url": "https://www.wsj.com/cio-journal/yes-were-entering-the-era-of-artificial-general-intelligence-d9b0920e",
+   "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
    "points": [
-    "是的，我们正在进入通用人工智能时代"
+    "我是一位研究人工智能影响的父亲：这是父母需要知道的"
    ],
    "flags": {
     "fav": false,
@@ -417,13 +437,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "谁的智力更人工？",
+   "title": "人工智能的微观经济学（开放获取）",
    "duration": "—",
    "heat": 2,
    "updated": "2026-09-06",
-   "url": "https://desnitch.substack.com/p/whose-intelligence-is-more-artificial",
+   "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
    "points": [
-    "谁的智力更人工？"
+    "人工智能的微观经济学（开放获取）"
    ],
    "flags": {
     "fav": false,
@@ -435,13 +455,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "洛杉矶地区禁止大多数人工智能对于学生",
+   "title": "用人工智能设计物理实验",
    "duration": "—",
-   "heat": 4,
+   "heat": 1,
    "updated": "2026-09-06",
-   "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+   "url": "https://www.nature.com/articles/s41586-026-10898-6",
    "points": [
-    "洛杉矶地区禁止大多数人工智能对于学生"
+    "用人工智能设计物理实验"
    ],
    "flags": {
     "fav": false,
@@ -453,13 +473,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "关于人工智能无法控制的警告是否成真？",
+   "title": "随着代币数量爆炸式增长 25 倍，Frontier AI 面临定价清算",
    "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-05",
-   "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+   "heat": 2,
+   "updated": "2026-09-06",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
    "points": [
-    "关于人工智能无法控制的警告是否成真？"
+    "随着代币数量爆炸式增长 25 倍，Frontier AI 面临定价清算"
    ],
    "flags": {
     "fav": false,
@@ -471,13 +491,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "OpenAI 承认德国维基“事件”",
+   "title": "星云的人工智能政策",
    "duration": "—",
-   "heat": 9,
-   "updated": "2026-09-05",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+   "heat": 2,
+   "updated": "2026-09-06",
+   "url": "https://blog.nebula.tv/artificially-intelligent/",
    "points": [
-    "OpenAI 承认德国维基“事件”"
+    "星云的人工智能政策"
    ],
    "flags": {
     "fav": false,
@@ -489,13 +509,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能分析智能指数 v4.2",
+   "title": "人工智能作为法官辩护人的力量倍增器",
    "duration": "—",
-   "heat": 156,
-   "updated": "2026-09-05",
-   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+   "heat": 1,
+   "updated": "2026-09-06",
+   "url": "https://www.lineofdeparture.army.mil/Journals/Army-Lawyer/Archive/Issue-2-2026/AI-as-Force-Multiplier-for-Judge-Advocates/",
    "points": [
-    "人工智能分析智能指数 v4.2"
+    "人工智能作为法官辩护人的力量倍增器"
    ],
    "flags": {
     "fav": false,
