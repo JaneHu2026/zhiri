@@ -1,16 +1,46 @@
 {
- "fetchedAt": "16:29",
+ "fetchedAt": "21:28",
  "fetchedDate": "2026-09-06",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "初心不改 虽远不怠——习近平主席出席二〇二六年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
+   "title": "习近平主席中亚、中东之旅难忘瞬间",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTI63A471GQqpCbCu3HC93r260906.shtml",
-   "summary": "8月30日至9月2日，中国北京—吉尔吉斯斯坦比什凯克—埃及开罗，航程在亚非两块大陆间划了一道壮美的弧线。",
+   "url": "https://news.cctv.com/2026/09/06/ARTI7q9gXVEssdwUeRXD4XFP260906.shtml",
+   "summary": "5天4夜里，习近平主席密集出席20余场活动，双多边结合、跨区域联动，高瞻远瞩提倡议、脚踏实地促合作、推心置腹话友好，访问亮点纷呈，取得圆满成功。访问期间，一个个精彩瞬间令人难忘，中国作为可靠伙伴和负责任大国的形象更加深入人心。（视频：孙硕）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "新思想引领新征程｜着力构建新型电力系统 能源安全底气更足",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEv57TOIV9gq7gdOaFD2Ne260906.shtml",
+   "summary": "【新思想引领新征程】着力构建新型电力系统，能源安全底气更足。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "河南：健全现代流通体系 服务全国统一大市场",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDE2RBWm4erSycVH8R3fTG1260906.shtml",
+   "summary": "【凝心聚力、真抓实干，奋力实现“十五五”良好开局】河南：健全现代流通体系，服务全国统一大市场。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "全国秋粮全面进入产量形成关键时期",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEAlmndgf7ys4CESKp8rh7260906.shtml",
+   "summary": "多光谱无人机在百米高空来回穿梭，一旦发现疑似虫害、长势偏弱的地块，就俯冲到12—60米低空近距离补拍核实。云端AI算法随即解析，自动生成彩色水稻长势分析图。",
    "day": 0
   },
   {
@@ -36,61 +66,31 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "一线调研｜涉外法治前移 成为中国企业“走出去”坚实底气",
+   "title": "瑞金至延安 长征出发地到落脚点实现高铁直达",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTIePBnOgaPFdj79EtQBJTM260906.shtml",
-   "summary": "3f80a6543009,0,1,16:9,newPlayera6b267fc05a8,0,1,16:9,newPlayer2dfa0919818c,0,1,16:9,newPlayer842a053e09a3,0,1,16:9,newPlayer323f12882432,0,1,16:9,newP…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "西藏吉隆县泥石流灾害抢险救援工作持续推进 重点区域精细搜寻",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEOOOuCUvAWw4FzrdMbzCr260906.shtml",
-   "summary": "西藏吉隆县泥石流灾害抢险救援工作持续推进：重点对联检大楼、宿舍楼等区域精细搜寻。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国空间站：漫步太空 遥望星海",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEDolKUkOqO3Bvsn0L4y0t260906.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "祁连山科考：高温加剧八一冰川消融 已完全没有积累区",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEhcRvaiuNZUwgyELBMNgV260906.shtml",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEj1caeMx9Ek0YGaUmanw2260906.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "亮相！“丝路之星”大赛首期竞演今晚播出",
+   "title": "每周质量报告｜独家直击首次质量督察",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTINgLt1CzHsIpVBahGHDff260906.shtml",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEGM3YYTpdexGiHGnlwblF260906.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国特使在俄罗斯会见普京后准备参加乌克兰会谈",
+   "title": "美国特使在俄罗斯与普京会谈后在乌克兰会见泽连斯基",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "summary": "这将是特朗普高级谈判代表史蒂夫·威特科夫和贾里德·库什纳首次访问基辅。",
+   "summary": "史蒂夫·威特科夫和贾里德·库什纳周六在莫斯科与普京举行会谈后抵达基辅。",
    "day": 0
   },
   {
@@ -106,11 +106,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "火山喷发导致印尼主要机场航班暂停",
+   "title": "印尼火山喷发致15万名乘客滞留",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-   "summary": "火山喷发后，雅加达附近空域发现火山灰，导致超过 20,000 名乘客滞留。",
+   "summary": "火山喷发后，雅加达附近空域发现火山灰，导致超过 15 万名乘客滞留。",
    "day": 0
   },
   {
@@ -131,6 +131,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
    "summary": "海地移民占本已不堪重负的家庭护理劳动力的很大一部分。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "不同的世界地图哪些是正确的，哪些是错误的",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+   "summary": "随着联合国采用新的世界地图来反映非洲的真实面积，让我们仔细看看不同地图的正确和错误。",
    "day": 0
   },
   {
