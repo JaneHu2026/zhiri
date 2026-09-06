@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:42",
+ "fetchedAt": "16:29",
  "fetchedDate": "2026-09-06",
  "source": "zhiri-server",
  "items": [
@@ -15,12 +15,22 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "中国节水账本｜用更少的水产更多的粮",
+   "theme": "财经",
+   "title": "让每一滴水发挥最大价值 从“节水账本”看中国经济向新向绿行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEegycOWIR3kU0TKyx4TKj260906.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/09/06/ARTI5EWNA36zhR8zaDx7LLPn260906.shtml",
+   "summary": "3806a40fe15d,0,1,16:9,newPlayerfd0db4cedb3b,0,1,16:9,newPlayer66728dbe76c0,0,1,16:9,newPlayera50c9932cbc8,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "第二十六届投洽会将于9月8日至11日举行 布展有序进行",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEW3tONPbktUF7FIlEHPc8260906.shtml",
+   "summary": "第二十六届投洽会将于9月8日至11日举行：布展有序进行，搭建工作9月6日将完成。",
    "day": 0
   },
   {
@@ -31,6 +41,26 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/06/ARTIePBnOgaPFdj79EtQBJTM260906.shtml",
    "summary": "3f80a6543009,0,1,16:9,newPlayera6b267fc05a8,0,1,16:9,newPlayer2dfa0919818c,0,1,16:9,newPlayer842a053e09a3,0,1,16:9,newPlayer323f12882432,0,1,16:9,newP…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "西藏吉隆县泥石流灾害抢险救援工作持续推进 重点区域精细搜寻",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEOOOuCUvAWw4FzrdMbzCr260906.shtml",
+   "summary": "西藏吉隆县泥石流灾害抢险救援工作持续推进：重点对联检大楼、宿舍楼等区域精细搜寻。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国空间站：漫步太空 遥望星海",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/06/VIDEDolKUkOqO3Bvsn0L4y0t260906.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -46,51 +76,41 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中国动力电池多点突破 加速产业向新发展",
+   "title": "亮相！“丝路之星”大赛首期竞演今晚播出",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTIzrh2QuVAmuStq1FS70by260906.shtml",
-   "summary": "ad98c8e95bd5,0,1,16:9,newPlayeree252f5bbbbf,0,1,16:9,newPlayera16276cd9965,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "扩大供给 挖掘潜力 中国推动扩大消费一线新观察",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTIZKbxVT7VghniPu1aHEGn260906.shtml",
-   "summary": "7月30日召开的中共中央政治局会议提出，要有效扩大国内需求，适应不同群体消费需求扩大优质供给，挖掘服务消费潜力。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "8月中国大宗商品价格指数为132.3点 市场运行向好",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/06/VIDEn98ryEIBb4TTTqxiMtRZ260906.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "煤炭解锁清洁利用新场景 能源结构加快向“绿”转型",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/06/ARTIk238F4yv3YutkMOdIJtT260906.shtml",
+   "url": "https://news.cctv.com/2026/09/06/ARTINgLt1CzHsIpVBahGHDff260906.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国特使在莫斯科会见普京后准备参加乌克兰会谈",
+   "title": "美国特使在俄罗斯会见普京后准备参加乌克兰会谈",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "summary": "史蒂夫·威特科夫和贾里德·库什纳离开莫斯科会谈，希望在乌克兰举行“同样富有成效的会议”。",
+   "summary": "这将是特朗普高级谈判代表史蒂夫·威特科夫和贾里德·库什纳首次访问基辅。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃及毒品案12人被判处死刑 电视节目主持人",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+   "summary": "莎拉·哈利法因其处理犯罪问题的电视节目《碟中谍》而闻名。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "火山喷发导致印尼主要机场航班暂停",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+   "summary": "火山喷发后，雅加达附近空域发现火山灰，导致超过 20,000 名乘客滞留。",
    "day": 0
   },
   {
@@ -111,6 +131,26 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
    "summary": "海地移民占本已不堪重负的家庭护理劳动力的很大一部分。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：64 岁尼泊尔妇女在被泥土掩埋的家中被发现还活着的那一刻",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+   "summary": "钱迪卡·什雷斯塔 (Chandika Shrestha) 在半掩埋的房子里待了十多天后，被空运到医院。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "为什么蒙特利尔一家著名的三明治店被迫更换苏打水",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+   "summary": "蒙特利尔最著名的熟食店之一施瓦茨已经更换了黑樱桃苏打水的供应商。",
    "day": 0
   },
   {

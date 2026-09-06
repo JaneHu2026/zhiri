@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:43",
+ "fetchedAt": "16:30",
  "fetchedDate": "2026-09-06",
  "source": "zhiri-server",
  "items": [
@@ -85,7 +85,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且快速！"
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390923,
-   "updated": "2026-09-06T03:43:41.546854",
+   "heat": 390924,
+   "updated": "2026-09-06T08:30:14.456459",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -170,7 +170,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653412,
-   "updated": "2026-09-06T03:43:41.546867",
+   "updated": "2026-09-06T08:30:14.456472",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -186,7 +186,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557452,
-   "updated": "2026-09-06T03:43:41.546870",
+   "updated": "2026-09-06T08:30:14.456474",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -202,7 +202,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155637,
-   "updated": "2026-09-06T03:43:41.546872",
+   "updated": "2026-09-06T08:30:14.456476",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611422,
-   "updated": "2026-09-06T03:43:41.546874",
+   "heat": 611425,
+   "updated": "2026-09-06T08:30:14.456478",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659312,
-   "updated": "2026-09-06T03:43:41.546876",
+   "heat": 2659320,
+   "updated": "2026-09-06T08:30:14.456480",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58667,
-   "updated": "2026-09-06T03:43:41.546878",
+   "updated": "2026-09-06T08:30:14.456482",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015297,
-   "updated": "2026-09-06T03:43:41.546879",
+   "updated": "2026-09-06T08:30:14.456483",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [],
    "flags": {
@@ -279,14 +279,30 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "AI展现不了安徽的美",
+   "title": "用AI拼豆的方式打开旅行",
    "duration": "—",
-   "heat": 9186494,
-   "updated": "2026-09-06T03:43:41.546882",
-   "url": "https://www.douyin.com/search/AI%E5%B1%95%E7%8E%B0%E4%B8%8D%E4%BA%86%E5%AE%89%E5%BE%BD%E7%9A%84%E7%BE%8E?type=general",
+   "heat": 7724442,
+   "updated": "2026-09-06T08:30:14.456485",
+   "url": "https://www.douyin.com/search/%E7%94%A8AI%E6%8B%BC%E8%B1%86%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%97%85%E8%A1%8C?type=general",
    "points": [
-    "热门话题「AI展现不了安徽的美」：相关视频 1 条"
+    "热门话题「用AI拼豆的方式打开旅行」：相关视频 3 条"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-06T08:30:14.456488",
+   "url": "https://www.qbitai.com/2026/09/484890.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -300,7 +316,7 @@
    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T03:43:41.546884",
+   "updated": "2026-09-06T08:30:14.456490",
    "url": "https://www.qbitai.com/2026/09/484683.html",
    "points": [],
    "flags": {
@@ -316,7 +332,7 @@
    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T03:43:41.546886",
+   "updated": "2026-09-06T08:30:14.456491",
    "url": "https://www.qbitai.com/2026/09/484649.html",
    "points": [
     "AI直接吐出正确答案，但最关键的可能不是答案"
@@ -334,7 +350,7 @@
    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T03:43:41.546888",
+   "updated": "2026-09-06T08:30:14.456493",
    "url": "https://www.qbitai.com/2026/09/484551.html",
    "points": [],
    "flags": {
@@ -350,7 +366,7 @@
    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T03:43:41.546890",
+   "updated": "2026-09-06T08:30:14.456494",
    "url": "https://www.qbitai.com/2026/09/484547.html",
    "points": [
     "国产卡跑出高品质 AI Token 生产级性能"
@@ -368,7 +384,7 @@
    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-06T03:43:41.546892",
+   "updated": "2026-09-06T08:30:14.456496",
    "url": "https://www.qbitai.com/2026/09/484437.html",
    "points": [
     "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
@@ -381,14 +397,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "洛杉矶地区禁止大多数人工智能对于学生",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-06T03:43:41.546894",
-   "url": "https://www.qbitai.com/2026/09/484293.html",
-   "points": [],
+   "heat": 3,
+   "updated": "2026-09-06",
+   "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+   "points": [
+    "洛杉矶地区禁止大多数人工智能对于学生"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -401,7 +419,7 @@
    "author": "Hacker News",
    "title": "关于人工智能无法控制的警告是否成真？",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-09-05",
    "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
    "points": [
@@ -437,7 +455,7 @@
    "author": "Hacker News",
    "title": "人工智能分析智能指数 v4.2",
    "duration": "—",
-   "heat": 147,
+   "heat": 155,
    "updated": "2026-09-05",
    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
    "points": [
@@ -478,24 +496,6 @@
    "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
    "points": [
     "大卫·查尔默斯 (David Chalmers) 表示人工智能系统正在向他发送电子邮件"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "技术负责人表示，谷歌将加快芯片推出，以保持人工智能领域的领先地位",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-04",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
-   "points": [
-    "技术负责人表示，谷歌将加快芯片推出，以保持人工智能领域的领先地位"
    ],
    "flags": {
     "fav": false,
