@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:43",
+ "fetchedAt": "17:07",
  "fetchedDate": "2026-09-07",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390930,
-   "updated": "2026-09-07T03:43:14.654200",
+   "heat": 390931,
+   "updated": "2026-09-07T09:07:40.299478",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -170,7 +170,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653413,
-   "updated": "2026-09-07T03:43:14.654210",
+   "updated": "2026-09-07T09:07:40.299490",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -186,7 +186,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557457,
-   "updated": "2026-09-07T03:43:14.654212",
+   "updated": "2026-09-07T09:07:40.299493",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -202,7 +202,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155637,
-   "updated": "2026-09-07T03:43:14.654214",
+   "updated": "2026-09-07T09:07:40.299495",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -218,7 +218,7 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611428,
-   "updated": "2026-09-07T03:43:14.654217",
+   "updated": "2026-09-07T09:07:40.299497",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659334,
-   "updated": "2026-09-07T03:43:14.654219",
+   "heat": 2659337,
+   "updated": "2026-09-07T09:07:40.299500",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58668,
-   "updated": "2026-09-07T03:43:14.654221",
+   "updated": "2026-09-07T09:07:40.299502",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "你永远猜不到真正用途的蹦跶机器人",
    "duration": "0:37",
    "heat": 1015297,
-   "updated": "2026-09-07T03:43:14.654223",
+   "updated": "2026-09-07T09:07:40.299504",
    "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
    "points": [],
    "flags": {
@@ -279,13 +279,13 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "用AI拼豆的方式打开旅行",
+   "title": "华为再发布高性能芯片",
    "duration": "—",
-   "heat": 9102564,
-   "updated": "2026-09-07T03:43:14.654225",
-   "url": "https://www.douyin.com/search/%E7%94%A8AI%E6%8B%BC%E8%B1%86%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%97%85%E8%A1%8C?type=general",
+   "heat": 12115685,
+   "updated": "2026-09-07T09:07:40.299507",
+   "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E5%86%8D%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87?type=general",
    "points": [
-    "热门话题「用AI拼豆的方式打开旅行」：相关视频 3 条"
+    "热门话题「华为再发布高性能芯片」：相关视频 5 条"
    ],
    "flags": {
     "fav": false,
@@ -299,8 +299,8 @@
    "author": "抖音热榜",
    "title": "GAI上海演唱会",
    "duration": "—",
-   "heat": 7659860,
-   "updated": "2026-09-07T03:43:14.654228",
+   "heat": 7630831,
+   "updated": "2026-09-07T09:07:40.299509",
    "url": "https://www.douyin.com/search/GAI%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
    "points": [
     "热门话题「GAI上海演唱会」：相关视频 3 条"
@@ -315,10 +315,78 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-07T09:07:40.299512",
+   "url": "https://www.qbitai.com/2026/09/485064.html",
+   "points": [
+    "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-07T09:07:40.299514",
+   "url": "https://www.qbitai.com/2026/09/485056.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "业内首个！“千问办公”推出“多人工作台”",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-07T09:07:40.299516",
+   "url": "https://www.qbitai.com/2026/09/485046.html",
+   "points": [
+    "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-07T09:07:40.299518",
+   "url": "https://www.qbitai.com/2026/09/485039.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-07T03:43:14.654230",
+   "updated": "2026-09-07T09:07:40.299520",
    "url": "https://www.qbitai.com/2026/09/484897.html",
    "points": [
     "让机器人学会利用更长的多模态Context"
@@ -336,77 +404,9 @@
    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-07T03:43:14.654232",
+   "updated": "2026-09-07T09:07:40.299522",
    "url": "https://www.qbitai.com/2026/09/484890.html",
    "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-07T03:43:14.654234",
-   "url": "https://www.qbitai.com/2026/09/484683.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-07T03:43:14.654235",
-   "url": "https://www.qbitai.com/2026/09/484649.html",
-   "points": [
-    "AI直接吐出正确答案，但最关键的可能不是答案"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-07T03:43:14.654238",
-   "url": "https://www.qbitai.com/2026/09/484551.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-07T03:43:14.654239",
-   "url": "https://www.qbitai.com/2026/09/484547.html",
-   "points": [
-    "国产卡跑出高品质 AI Token 生产级性能"
-   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -419,7 +419,7 @@
    "author": "Hacker News",
    "title": "我是一位研究人工智能影响的父亲：这是父母需要知道的",
    "duration": "—",
-   "heat": 2,
+   "heat": 5,
    "updated": "2026-09-06",
    "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
    "points": [
