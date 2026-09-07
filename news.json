@@ -1,16 +1,16 @@
 {
- "fetchedAt": "17:06",
+ "fetchedAt": "23:37",
  "fetchedDate": "2026-09-07",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时代·人民·文明——中国元首外交的思想启迪",
+   "title": "历史坐标里的“中埃时刻”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/07/ARTI7sLzfXiHNSo632adH9XG260907.shtml",
-   "summary": "中亚，联结广袤的亚欧大陆，不同文明在此交流交融；中东，处两洋三洲五海之地，沉淀着人类古老的文明印记。",
+   "url": "https://news.cctv.com/2026/09/07/ARTIUTI0fWUbjrWJuixXPIIm260907.shtml",
+   "summary": "时间是人类发展的空间。对于同为文明古国的中国和埃及来说，时间是传统友谊的见证，也是合作共赢的基石。",
    "day": 0
   },
   {
@@ -25,12 +25,22 @@
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "国新办发布会｜到2028年培育50家百亿规模龙头企业",
+   "theme": "要闻",
+   "title": "【新思想引领新征程】以主体功能区战略塑造发展新优势",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/07/VIDEfM7KZ4CYLVIGh5TT0yLg260907.shtml",
-   "summary": "推动历史经典产业高质量发展：到2028年培育50家百亿规模龙头企业。",
+   "url": "https://tv.cctv.com/2026/09/07/VIDE9q2zCkpmHs2nzVNtSgbM260907.shtml",
+   "summary": "眼下，福建正在加紧编制耕地保护和国土绿化空间专项规划。作为落实主体功能区战略的一项工作，各市县的自然资源、林业部门工作人员通过厘清耕地林地的重叠面积，细化国土空间边界，把水土条件好的地划为耕地好好种粮，生态脆弱的陡坡地划为林地做好保护。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "我国加快推动历史经典产业迈向中高端",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/07/VIDETOHyHD2eKysjbX38JiiS260907.shtml",
+   "summary": "历史经典产业是指丝绸、茶叶、瓷器、中药、文房四宝等文化底蕴深厚的中华传统特色产业。",
    "day": 0
   },
   {
@@ -41,16 +51,6 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/09/07/VIDEKcjp7VhsTry5uQgUYL5t260907.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "2026中国文化旅游产业博览会有什么？新奇文创点亮游玩体验",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/07/VIDEEvCe5K1egAt1eXiCd9Z9260907.shtml",
-   "summary": "2026中国文化旅游产业博览会有什么？科技加持文旅，新奇文创点亮游玩体验。",
    "day": 0
   },
   {
@@ -75,11 +75,11 @@
   },
   {
    "group": "gn",
-   "theme": "医疗",
-   "title": "中国人民解放军“和平列车”医疗队抵达老挝",
+   "theme": "民生",
+   "title": "民生一件事｜老旧小区加装电梯的“破冰之路”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/07/VIDEdnSE33fuMuVVAvK8VRKK260907.shtml",
+   "url": "https://tv.cctv.com/2026/09/07/VIDET8ZamjX7wRisUkylWZSP260907.shtml?spm=C53156045404.PKXC0xLPAnP9.0.0",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -126,17 +126,17 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "德国极右翼选择党在东部地区取得重大胜利，但未能获得多数席位",
+   "title": "德国极右翼选择党表示“民主要求”政党在州选举获胜后与他们合作",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "summary": "初步结果显示，德国另类选择党以大幅优势获胜——几乎获得 44% 的选票。",
+   "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+   "summary": "极右翼政党在距离多数席位仅差三个席位后正试图在该州组建政府。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "以色列对黎巴嫩南部村庄的袭击造成九人死亡",
+   "title": "以色列袭击黎巴嫩南部村庄 造成 12 人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
@@ -156,21 +156,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "亚马逊货机在迈阿密机场坠毁致五人死亡",
+   "title": "调查开始调查货机冲出迈阿密跑道的原因",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-   "summary": "官员称，一架波音 767-300 货机“冲出”跑道并起火，造成 5 人死亡、5 人重伤。",
+   "summary": "亚马逊飞机在迈阿密国际机场降落后冲出跑道，造成五人死亡、五人受伤。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "印尼火山喷发导致27万人滞留 机场延长关闭时间",
+   "title": "俄罗斯全天候空袭基辅空袭警报创历史新高",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-   "summary": "距离首都雅加达约 150 公里的喀拉喀托火山于周五晚间开始喷发。",
+   "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+   "summary": "学校、企业和公共交通都在应对俄罗斯空袭的激增。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尼泊尔为山洪灾害受害者举行全国哀悼日",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+   "summary": "灾难发生后的第13天，印度教哀悼期的最后一天，全国降半旗。",
    "day": 0
   },
   {
@@ -186,21 +196,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "中国将向国有银行和保险公司注资540亿美元以提振经济",
+   "title": "布隆迪人在打击未注册商人之前急于离开肯尼亚",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-   "summary": "面对诸多挑战，北京正计划重塑经济。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "德里建筑倒塌，救援人员挖掘废墟，造成七人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-   "summary": "目前尚不清楚大楼内有多少人，也不清楚废墟下是否还有人。",
+   "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+   "summary": "肯尼亚将开始实施限制外国人经营小规模企业的措施。",
    "day": 0
   },
   {
