@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:15",
- "fetchedDate": "2026-09-08",
+ "fetchedAt": "07:56",
+ "fetchedDate": "2026-09-09",
  "source": "zhiri-server",
  "items": [
   {
@@ -106,11 +106,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "随着对美国的反关税生效，加拿大准备应对长期贸易战",
+   "title": "英国宣布对约旦河西岸定居点实施制裁，引发以色列强烈反应",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-   "summary": "这些关税将适用于价值200亿美元的美国产品，危及全球最大双边贸易关系的稳定",
+   "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+   "summary": "英国外交大臣指责定居者对巴勒斯坦人进行“种族清洗”，以色列则关闭了英国的外交通道作为回应",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "保罗·亚当斯：英以关系处于几十年来的最低点",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+   "summary": "以色列对伦敦与被占领约旦河西岸以色列定居点的贸易禁令的反应表明了这一时刻的重要性。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国对加拿大酒类和其他商品实施进口禁令",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+   "summary": "这是两国贸易战的最新升级，恰逢加拿大对美国商品征收报复性关税生效。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“一直萦绕在我的脑海中”——25 年来，9/11 事件对失去亲人的人来说仍然是一种痛苦",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+   "summary": "随着 25 周年纪念日的临近，对所谓的袭击策划者接受审判的等待仍在继续。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "雷诺阿价值数百万画作在法国博物馆抢劫中被盗",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+   "summary": "这是欧洲一系列备受瞩目的艺术品盗窃案中的最新一起，再次使博物馆和画廊的安全成为人们关注的焦点。",
    "day": 0
   },
   {
@@ -126,61 +166,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯空袭基辅 至少两人死亡",
+   "title": "乌克兰电视台大楼遭俄罗斯无人机袭击 基辅5人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-   "summary": "周二早些时候，俄罗斯军队发动无人机袭击，乌克兰首都响起空袭警报和爆炸声。",
+   "summary": "泽连斯基总统将乌克兰首都的白天无人机袭击描述为“俄罗斯退化的新一页”",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "薪酬最高的世界领导人加薪100万美元",
+   "title": "英国寡妇22年后面临被瑞典驱逐出境",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-   "summary": "新加坡总理黄循财的年薪将增至 360 万新加坡元（280 万美元；210 万英镑）。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "9/11 之后石棉“几乎无处不在”——新文件揭示了空气质量问题",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-   "summary": "当时的官​​员向公众保证，袭击发生后空气是安全的，但文件表明存在担忧。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "埃菲尔铁塔女工作人员换成男工作人员进行宗教参观后的调查",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-   "summary": "周一，愤怒的员工罢工，导致这座法国地标建筑关闭一天。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "调查人员称，迈阿密空难中有五人死于地面两辆车内",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-   "summary": "迈阿密机场一架波音 767-300 客机冲出跑道后，调查人员将现场描述为“彻底的破坏”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "关于杀害澳大利亚冲浪者兄弟和美国朋友的审判在墨西哥开始",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-   "summary": "杰克·罗宾逊和卡勒姆·罗宾逊以及他们的美国朋友卡特·罗德的尸体被发现在一口井底，身上有枪伤。",
+   "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+   "summary": "一名78岁的英国妇女因未能按时填写脱欧居留申请而面临被驱逐出境。",
    "day": 0
   },
   {
