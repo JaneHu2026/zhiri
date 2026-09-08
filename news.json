@@ -1,16 +1,46 @@
 {
- "fetchedAt": "13:43",
+ "fetchedAt": "22:15",
  "fetchedDate": "2026-09-08",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "总书记的人民情怀丨“推动未来产业同新兴产业、传统产业相得益彰”",
+   "title": "习近平同英国首相伯纳姆通电话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIwOgl5ZJwIgUXGvavaW1K260908.shtml",
-   "summary": "7月30日，习近平总书记主持中共中央政治局会议。会议强调：“积极推动前沿技术突破和未来产业发展，着力打造新兴支柱产业，持续推动传统产业改造升级。”",
+   "url": "https://news.cctv.com/2026/09/08/ARTIWTXHFwlIPWR4n4l0W7IC260908.shtml",
+   "summary": "新华社北京9月8日电 9月8日晚，国家主席习近平应约同英国首相伯纳姆通电话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "习近平：中英是全面战略伙伴，虽然两国社会制度和国情不同，但共同利益大于分歧，双方应当互尊互信、超越分歧、求同存异，做大互利合作的蛋糕",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/08/ARTIWTXHFwlIPWR4n4l0W7IC260908.shtml",
+   "summary": "新华社北京9月8日电 9月8日晚，国家主席习近平应约同英国首相伯纳姆通电话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "天天学习｜一扇窗，看见开放的中国",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/08/ARTIO5BTJ8Rkz78aNnmrDvWu260903.shtml",
+   "summary": "习近平主席多次“寄语”服贸会，作出“有序推进服务市场开放”“加快培育服务贸易数字化新动能”“以服务开放推动包容发展，以服务合作促进联动融通，以服务创新培育发展动能，以服务共享创造美好未来”等重要指示，为推动中国服务贸易高质量发展指明方向。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "【新思想引领新征程】我国服务贸易新格局加速成型",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/08/VIDEYh9IWHFYB8KvULLDkrHQ260908.shtml",
+   "summary": "眼下，地处南半球的巴西，农户们正忙着为下一轮农作物种植做准备。这座家庭农场用上了中国的智慧农机系统，实时采集农机位置、运行轨迹和作业时长，让当地农户的生产效率提升了80%。",
    "day": 0
   },
   {
@@ -26,60 +56,30 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "全国秋粮全面进入产量形成关键时期",
+   "title": "【新闻特写】奔向中国 投资中国",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIZAamodNNNCD7Zle3XNe1260908.shtml",
-   "summary": "8999e47b7884,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/09/08/VIDEeNtgF6iPoypkkLOI0TVf260908.shtml",
+   "summary": "新面孔、老朋友，全球投资者纷至沓来，本届投洽会有全球129个国家和地区的工商企业团组参加，数量比上届增加6个，全球GDP排名前50位的经济体中有48个参会。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "开局起步“十五五” 新一代通信网有何不一样？",
+   "title": "逛展游园无缝衔接 今年服贸会有这些新亮点",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTI26oaVQEwgZkpRpO7dyQ6260908.shtml",
-   "summary": "646a330caa32,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "第二十六届投洽会开幕 世界客商齐聚厦门寻机遇",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/08/VIDEL1Wdb4iu9hxqTiWCqK6c260908.shtml",
-   "summary": "第二十六届中国国际投资贸易洽谈会9月8日开幕：投资中国，参会嘉宾关注哪些领域？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "平陆运河将于9月16日建成通航 怎样发挥通江达海效益？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/08/VIDEOykT5SvGISSTnhuCZGVK260908.shtml",
-   "summary": "广西：平陆运河将于9月16日建成通航，货源如何？怎样发挥通江达海效益？",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "新消费图鉴｜赏万亩荷塘 一叶小舟激活亲水文旅消费",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/08/VIDEm43GWuWvMmp4LqxQZBQ5260908.shtml",
+   "url": "https://news.cctv.com/2026/09/08/ARTIUVBusWfxHnmZyNy2Qi9W260908.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "我国国内有效发明专利拥有量达539.4万件",
+   "theme": "教育",
+   "title": "从“全覆盖”到“自主化” 我国教材体系建设进入新阶段",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTImxzYNraETcW8omwSe87I260908.shtml",
+   "url": "https://news.cctv.com/2026/09/08/ARTIBLQGzAB9D8360leDKqIl260908.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,51 +106,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "乌克兰首席检察官因呼叫中心腐败丑闻辞职",
+   "title": "随着对美国的反关税生效，加拿大准备应对长期贸易战",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-   "summary": "鲁斯兰·克拉夫琴科在辞职信中否认了对他的指控，称他不希望他的办公室“被用作",
+   "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+   "summary": "这些关税将适用于价值200亿美元的美国产品，危及全球最大双边贸易关系的稳定",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "英国政府预计将宣布限制与约旦河西岸定居点的贸易",
+   "title": "阿根廷将对在福克兰群岛运营的石油公司提起刑事诉讼",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-   "summary": "外交大臣埃德·米利班德将于今天概述这些提议，此举可能会促使以色列进行报复。",
+   "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+   "summary": "几天前，阿根廷总统哈维尔·米莱加强了对福克兰群岛的主权主张。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普威胁停止在美国销售加拿大庞巴迪飞机",
+   "title": "俄罗斯空袭基辅 至少两人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-   "summary": "针对加拿大最大公司之一的威胁正值两个邻国之间不断升级的贸易战之际。",
+   "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+   "summary": "周二早些时候，俄罗斯军队发动无人机袭击，乌克兰首都响起空袭警报和爆炸声。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "朝鲜和俄罗斯第一座连接两国的公路桥开通",
+   "title": "薪酬最高的世界领导人加薪100万美元",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-   "summary": "自乌克兰战争爆发以来，两国关系不断加强。",
+   "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+   "summary": "新加坡总理黄循财的年薪将增至 360 万新加坡元（280 万美元；210 万英镑）。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "涉嫌谋杀澳大利亚冲浪兄弟的审判在墨西哥开始",
+   "title": "9/11 之后石棉“几乎无处不在”——新文件揭示了空气质量问题",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+   "summary": "当时的官​​员向公众保证，袭击发生后空气是安全的，但文件表明存在担忧。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃菲尔铁塔女工作人员换成男工作人员进行宗教参观后的调查",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+   "summary": "周一，愤怒的员工罢工，导致这座法国地标建筑关闭一天。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "调查人员称，迈阿密空难中有五人死于地面两辆车内",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+   "summary": "迈阿密机场一架波音 767-300 客机冲出跑道后，调查人员将现场描述为“彻底的破坏”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "关于杀害澳大利亚冲浪者兄弟和美国朋友的审判在墨西哥开始",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-   "summary": "杰克·罗宾逊和卡勒姆·罗宾逊以及他们的美国朋友的尸体被发现，头部有枪伤。",
+   "summary": "杰克·罗宾逊和卡勒姆·罗宾逊以及他们的美国朋友卡特·罗德的尸体被发现在一口井底，身上有枪伤。",
    "day": 0
   },
   {
