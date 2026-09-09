@@ -1,8 +1,26 @@
 {
- "fetchedAt": "12:15",
+ "fetchedAt": "22:16",
  "fetchedDate": "2026-09-09",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "GPT-6 Astra Changes Everything",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-08 08:24:27",
+   "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+   "points": [
+    "GPT-6 Astra 改变了一切"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -60,6 +78,42 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03 08:23:37",
+   "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+   "points": [
+    "克劳德寓言人工智能比头条新闻所暗示的要奇怪得多"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-01 09:04:56",
+   "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+   "points": [
+    "GLM 5.3：强大的人工智能几乎变得免费"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "1littlecoder",
    "title": "Minimax H3 Max feels ILLEGAL and FAST!",
    "duration": "—",
@@ -95,52 +149,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "The Right Harness is All You Need - For local Frontier AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-08 17:22:18",
-   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-   "points": [
-    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The 64 sugar cubes puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-24 15:05:39",
-   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-   "points": [
-    "64块方糖拼图"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "OpenAI hacked HuggingFace",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-22 16:28:16",
-   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-   "points": [
-    "OpenAI 攻击了 HuggingFace"
-   ],
+   "platform": "bilibili",
+   "author": "阿丸焖居",
+   "title": "假如你生活在十万人的宿舍【AI全民制作人】",
+   "duration": "5:11",
+   "heat": 2026834,
+   "updated": "2026-09-09T14:16:20.701099",
+   "url": "https://www.bilibili.com/video/BV138bP6gEvx",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -153,8 +169,8 @@
    "author": "墨八分钱",
    "title": "地表42度，美国飞行员开战斗机冲上万米高空，竟是为了做冰淇淋？【AI全民制作人】",
    "duration": "1:59",
-   "heat": 1508693,
-   "updated": "2026-09-09T04:15:39.070828",
+   "heat": 1649418,
+   "updated": "2026-09-09T14:16:20.701108",
    "url": "https://www.bilibili.com/video/BV1Mabw6cEzV",
    "points": [],
    "flags": {
@@ -169,8 +185,8 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第三集【AI全民制作人】",
    "duration": "3:24",
-   "heat": 1653927,
-   "updated": "2026-09-09T04:15:39.070839",
+   "heat": 1802009,
+   "updated": "2026-09-09T14:16:20.701110",
    "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
    "points": [],
    "flags": {
@@ -185,9 +201,41 @@
    "author": "蚊子-学做美食",
    "title": "没错，这是跟AI学的麦乐鸡块。",
    "duration": "2:36",
-   "heat": 782315,
-   "updated": "2026-09-09T04:15:39.070841",
+   "heat": 1129002,
+   "updated": "2026-09-09T14:16:20.701112",
    "url": "https://www.bilibili.com/video/BV1okbt6EE7e",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "814宇宙",
+   "title": "《感染区》本作品由LibTV平台制作 #LibTV、#LibTV创作者成长计划  #地铁 #原创 #AI",
+   "duration": "3:21",
+   "heat": 1465903,
+   "updated": "2026-09-09T14:16:20.701114",
+   "url": "https://www.bilibili.com/video/BV1mSbH6JE6J",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "雨哥到处跑",
+   "title": "兼职挑战！！挑战AI让我尝试的3个职业！！",
+   "duration": "16:07",
+   "heat": 833921,
+   "updated": "2026-09-09T14:16:20.701116",
+   "url": "https://www.bilibili.com/video/BV1vybN6UEaX",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +249,8 @@
    "author": "阿怪MrWeird",
    "title": "【中国推理01】土木工程搞刺杀有没有搞头",
    "duration": "37:45",
-   "heat": 880192,
-   "updated": "2026-09-09T04:15:39.070843",
+   "heat": 974898,
+   "updated": "2026-09-09T14:16:20.701118",
    "url": "https://www.bilibili.com/video/BV1yqtq6SEcv",
    "points": [],
    "flags": {
@@ -217,57 +265,9 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390936,
-   "updated": "2026-09-09T04:15:39.070845",
+   "heat": 390938,
+   "updated": "2026-09-09T14:16:20.701120",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "优设AIGC",
-   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
-   "duration": "0:54",
-   "heat": 653413,
-   "updated": "2026-09-09T04:15:39.070847",
-   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Jack-Cui",
-   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
-   "duration": "2:30",
-   "heat": 557464,
-   "updated": "2026-09-09T04:15:39.070849",
-   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155638,
-   "updated": "2026-09-09T04:15:39.070851",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
     "fav": false,
@@ -279,13 +279,81 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "专家解读韬定律逻辑折叠芯片",
+   "title": "戚薇AI分身打戏看着好爽",
    "duration": "—",
-   "heat": 7643321,
-   "updated": "2026-09-09T04:15:39.070853",
-   "url": "https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E9%9F%AC%E5%AE%9A%E5%BE%8B%E9%80%BB%E8%BE%91%E6%8A%98%E5%8F%A0%E8%8A%AF%E7%89%87?type=general",
+   "heat": 7724272,
+   "updated": "2026-09-09T14:16:20.701122",
+   "url": "https://www.douyin.com/search/%E6%88%9A%E8%96%87AI%E5%88%86%E8%BA%AB%E6%89%93%E6%88%8F%E7%9C%8B%E7%9D%80%E5%A5%BD%E7%88%BD?type=general",
    "points": [
-    "热门话题「专家解读韬定律逻辑折叠芯片」：相关视频 3 条"
+    "热门话题「戚薇AI分身打戏看着好爽」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI已经摸不透曹骏了",
+   "duration": "—",
+   "heat": 7703221,
+   "updated": "2026-09-09T14:16:20.701124",
+   "url": "https://www.douyin.com/search/AI%E5%B7%B2%E7%BB%8F%E6%91%B8%E4%B8%8D%E9%80%8F%E6%9B%B9%E9%AA%8F%E4%BA%86?type=general",
+   "points": [
+    "热门话题「AI已经摸不透曹骏了」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-09T14:16:20.701126",
+   "url": "https://www.qbitai.com/2026/09/486374.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-09T14:16:20.701128",
+   "url": "https://www.qbitai.com/2026/09/486370.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-09T14:16:20.701130",
+   "url": "https://www.qbitai.com/2026/09/486288.html",
+   "points": [
+    "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
    ],
    "flags": {
     "fav": false,
@@ -300,7 +368,7 @@
    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T04:15:39.070855",
+   "updated": "2026-09-09T14:16:20.701132",
    "url": "https://www.qbitai.com/2026/09/486052.html",
    "points": [
     "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
@@ -318,7 +386,7 @@
    "title": "宜宾，一场机器人“招聘会”的产业雄心",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T04:15:39.070857",
+   "updated": "2026-09-09T14:16:20.701134",
    "url": "https://www.qbitai.com/2026/09/486038.html",
    "points": [
     "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
@@ -336,7 +404,7 @@
    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T04:15:39.070859",
+   "updated": "2026-09-09T14:16:20.701136",
    "url": "https://www.qbitai.com/2026/09/485854.html",
    "points": [],
    "flags": {
@@ -347,51 +415,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "医学需要认真对待人工智能",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T04:15:39.070861",
-   "url": "https://www.qbitai.com/2026/09/485784.html",
+   "heat": 2,
+   "updated": "2026-09-09",
+   "url": "https://www.theatlantic.com/health/2026/09/artificial-intelligence-autonomous-doctor-medicine/688543/",
    "points": [
-    "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T04:15:39.070863",
-   "url": "https://www.qbitai.com/2026/09/485630.html",
-   "points": [
-    "从看市场，到见场景；从认识伙伴，到寻找合作。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "3秒变身！会合体的机器人，卖到全球50国",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T04:15:39.070865",
-   "url": "https://www.qbitai.com/2026/09/485525.html",
-   "points": [
-    "谁说现在机器人都长得差不多的！"
+    "医学需要认真对待人工智能"
    ],
    "flags": {
     "fav": false,
@@ -405,7 +437,7 @@
    "author": "Hacker News",
    "title": "OpenAI 表示 GPT-6 Astra 可以发现零日漏洞，但也更难监控",
    "duration": "—",
-   "heat": 4,
+   "heat": 5,
    "updated": "2026-09-08",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
    "points": [
@@ -482,42 +514,6 @@
    "url": "https://www.law.berkeley.edu/wp-content/uploads/2026/05/AI-Final-Policy-26.pdf",
    "points": [
     "加州大学伯克利分校法学院人工智能政策 [pdf]"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能分析智能指数 v4.3",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-09-07",
-   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3",
-   "points": [
-    "人工智能分析智能指数 v4.3"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "weibo",
-   "author": "微博",
-   "title": "-今天也在種草莓-: #方桃子#“方桃子”是AI技术在娱乐和商业领域一次先锋且极具争议的探索。因主演爆款AI短剧《被裁掉的女孩》出道，随后以虚拟网红身份活跃，开...",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T04:15:39.070875",
-   "url": "https://weibo.com/7737888595/Rhi4VsKNa",
-   "points": [
-    "今天也在種草莓-: #方桃子#“方桃子”是AI技术在娱乐和商业领域一次先锋且极具争议的探索。因主演爆款AI短剧《被裁掉的女孩》出道，随后以虚拟网红身份活跃，开创了“剧集爆火—人格塑型—粉丝沉淀—商业代言—舆论承压”的完整"
    ],
    "flags": {
     "fav": false,
