@@ -1,106 +1,116 @@
 {
- "fetchedAt": "07:56",
+ "fetchedAt": "12:14",
  "fetchedDate": "2026-09-09",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平同英国首相伯纳姆通电话",
+   "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIWTXHFwlIPWR4n4l0W7IC260908.shtml",
-   "summary": "新华社北京9月8日电 9月8日晚，国家主席习近平应约同英国首相伯纳姆通电话。",
+   "url": "https://news.cctv.com/2026/09/09/ARTIQJxgiQJIbGiFZZ34uzTr260909.shtml",
+   "summary": "新华社北京9月9日电 9月9日，中共中央总书记、国家主席习近平就朝鲜国庆78周年向朝鲜劳动党总书记、国务委员会委员长金正恩致贺电。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "社会",
-   "title": "习近平：中英是全面战略伙伴，虽然两国社会制度和国情不同，但共同利益大于分歧，双方应当互尊互信、超越分歧、求同存异，做大互利合作的蛋糕",
+   "title": "习近平：中朝两国是守望相助、命运与共的社会主义友好邻邦。维护好、巩固好、发展好中朝关系始终是中国党和政府坚定不移的方针",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIWTXHFwlIPWR4n4l0W7IC260908.shtml",
-   "summary": "新华社北京9月8日电 9月8日晚，国家主席习近平应约同英国首相伯纳姆通电话。",
+   "url": "https://news.cctv.com/2026/09/09/ARTIQJxgiQJIbGiFZZ34uzTr260909.shtml",
+   "summary": "新华社北京9月9日电 9月9日，中共中央总书记、国家主席习近平就朝鲜国庆78周年向朝鲜劳动党总书记、国务委员会委员长金正恩致贺电。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "天天学习｜一扇窗，看见开放的中国",
+   "title": "渔业发展“十五五”规划公布 我国优质水产品供给量将明显增加",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIO5BTJ8Rkz78aNnmrDvWu260903.shtml",
-   "summary": "习近平主席多次“寄语”服贸会，作出“有序推进服务市场开放”“加快培育服务贸易数字化新动能”“以服务开放推动包容发展，以服务合作促进联动融通，以服务创新培育发展动能，以服务共享创造美好未来”等重要指示，为推动中国服务贸易高质量发展指明方向。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "【新思想引领新征程】我国服务贸易新格局加速成型",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/08/VIDEYh9IWHFYB8KvULLDkrHQ260908.shtml",
-   "summary": "眼下，地处南半球的巴西，农户们正忙着为下一轮农作物种植做准备。这座家庭农场用上了中国的智慧农机系统，实时采集农机位置、运行轨迹和作业时长，让当地农户的生产效率提升了80%。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "前8个月我国外贸增长17.6%！数据拆解我国外贸高速增长的底层逻辑",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/08/VIDE7g5z58KVrhVgQDFcTVMh260908.shtml",
-   "summary": "2026年前8个月我国货物贸易进出口同比增长17.6%，数据拆解2026年我国外贸高速增长的底层逻辑。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "【新闻特写】奔向中国 投资中国",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/08/VIDEeNtgF6iPoypkkLOI0TVf260908.shtml",
-   "summary": "新面孔、老朋友，全球投资者纷至沓来，本届投洽会有全球129个国家和地区的工商企业团组参加，数量比上届增加6个，全球GDP排名前50位的经济体中有48个参会。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "逛展游园无缝衔接 今年服贸会有这些新亮点",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIUVBusWfxHnmZyNy2Qi9W260908.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "教育",
-   "title": "从“全覆盖”到“自主化” 我国教材体系建设进入新阶段",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/08/ARTIBLQGzAB9D8360leDKqIl260908.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "一张车票 奔赴爷爷向往的延安",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260908/c178de07563e44928a1c3c3844ad4bea/c.html",
-   "summary": "一张车票 奔赴爷爷向往的延安- 9月6日上午，瑞金至延安直达高铁正式开行，标志着中央红军长征出发地江西瑞金与落脚点陕西延安实现高铁直达。",
+   "url": "https://tv.cctv.com/2026/09/09/VIDE9ZDm6f1dI4UMUdsmHPRt260909.shtml",
+   "summary": "渔业发展“十五五”规划公布，我国优质水产品供给量将明显增加。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "民生",
-   "title": "这份规划，将让你我网上生活更美好",
+   "title": "赓续长征精神 奋进复兴征程｜民生振兴绘赣南新颜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/09/VIDEAlbb8K9d0bCBsa4rPtVq260909.shtml",
+   "summary": "赓续长征精神，奋进复兴征程：红脉润乡土，民生振兴绘赣南新颜。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国空间站第五次“天宫课堂”开讲",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/09/VIDErNYO7ILySjfU1zwNucqS260909.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "前7个月中国服务贸易成绩单“含金量”十足 看中国智慧如何服务全球",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/09/ARTI0l1BzgzPXzHVOY9IACKX260908.shtml",
+   "summary": "9072c0b5fc23,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "海上油田增产技术获突破 国内首个百米水深油气原位扩容平台投用",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/09/VIDEKOhDCXrVE4KGwpPI5Mbh260909.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "医保缴费年限可按月累计 灵活就业人员参保有了新选择",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/09/ARTIBgh13xrGVFVaYLeRVso3260909.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【文明中国·看北京】阵地强根基 善治聚合力",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/government/20260908/59b438d9dfee4bab8ab44f2e02f55a42/c.html",
-   "summary": "这份规划，将让你我网上生活更美好-\"记者：周圆、高亢海报制作：许涵毅新华社国内部出品。\"",
+   "url": "https://www.news.cn/government/20260909/5f52d900411f4fe08a8842b2eee8898f/c.html",
+   "summary": "【文明中国·看北京】阵地强根基 善治聚合力——大兴区基层文明实践的烟火温度-在榆垡镇，群众既是服务的接收者，也是文明实践的参与者。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "电视剧《种墨园》以宣纸技艺传承剖析人的精神世界",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260909/0570cf5008494860a42774f031089fb5/c.html",
+   "summary": "电视剧《种墨园》以宣纸技艺传承剖析人的精神世界- 电视剧《种墨园》剧照（受访者供图） 电视剧《种墨园》以千年宣纸制作技艺传承为核心主线，讲述当代青年扎根乡土、守护非遗、弘扬工匠精神的故事。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "宁夏贺兰山新发现500多幅岩画",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260909/cb3f285282df4729991ed0a03ce97d90/c.html",
+   "summary": "宁夏贺兰山新发现500多幅岩画- 据贺兰山岩画管理处副主任张建国介绍，新发现的岩画主要位于贺兰山洪积扇区域，题材与此前已发现岩画基本一致。",
    "day": 0
   },
   {
@@ -110,87 +120,37 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-   "summary": "英国外交大臣指责定居者对巴勒斯坦人进行“种族清洗”，以色列则关闭了英国的外交通道作为回应",
+   "summary": "英国外交大臣指责定居者对巴勒斯坦人进行“种族清洗”，以色列则关闭了英国的基地作为回应。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "保罗·亚当斯：英以关系处于几十年来的最低点",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列对伦敦与被占领约旦河西岸以色列定居点的贸易禁令的反应表明了这一时刻的重要性。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "美国对加拿大酒类和其他商品实施进口禁令",
+   "title": "美国对加拿大酒类、摩托车和其他商品实施进口禁令",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-   "summary": "这是两国贸易战的最新升级，恰逢加拿大对美国商品征收报复性关税生效。",
+   "summary": "这是长期贸易战中的最新一次打击，恰逢加拿大对美国商品征收反关税生效。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "“一直萦绕在我的脑海中”——25 年来，9/11 事件对失去亲人的人来说仍然是一种痛苦",
+   "title": "香港首位后殖民领导人去世 享年89岁",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-   "summary": "随着 25 周年纪念日的临近，对所谓的袭击策划者接受审判的等待仍在继续。",
+   "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+   "summary": "1997 年香港回归后的首任领导人董建华的任期充满了危机和抗议。",
    "day": 0
   },
   {
    "group": "gj",
-   "theme": "国际",
-   "title": "雷诺阿价值数百万画作在法国博物馆抢劫中被盗",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-   "summary": "这是欧洲一系列备受瞩目的艺术品盗窃案中的最新一起，再次使博物馆和画廊的安全成为人们关注的焦点。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "阿根廷将对在福克兰群岛运营的石油公司提起刑事诉讼",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-   "summary": "几天前，阿根廷总统哈维尔·米莱加强了对福克兰群岛的主权主张。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "乌克兰电视台大楼遭俄罗斯无人机袭击 基辅5人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-   "summary": "泽连斯基总统将乌克兰首都的白天无人机袭击描述为“俄罗斯退化的新一页”",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "英国寡妇22年后面临被瑞典驱逐出境",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-   "summary": "一名78岁的英国妇女因未能按时填写脱欧居留申请而面临被驱逐出境。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "环境",
-   "title": "列国鉴丨新加坡，城市国家的高温应对之道",
+   "theme": "要闻",
+   "title": "列国鉴丨肯尼亚：“系在角马尾巴上的GDP”",
    "source": "人民网",
    "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0908/c1002-40794490.html",
-   "summary": "新华社新加坡9月7日电（记者舒畅）在新加坡，晒到背烫、走到衣服湿透，是全年都可能有的体验。为了应对高温，经过多年规划实践，新加坡已找到三大“凉”策：遮阳、借风、绿化。 同时，随着全球气候变化，新",
+   "url": "https://world.people.com.cn/n1/2026/0909/c1002-40795328.html",
+   "summary": "新华社内罗毕9月8日电（记者严钰景）每年7月至9月，上百万头角马、斑马、瞪羚从坦桑尼亚塞伦盖蒂进入肯尼亚马赛马拉，壮观的动物大迁徙迎来高潮。这一自然奇观，连同《动物世界》《狮子王》里常见的野生动物",
    "day": 0
   }
  ]
