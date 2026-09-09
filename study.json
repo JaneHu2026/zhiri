@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:16",
- "fetchedDate": "2026-09-09",
+ "fetchedAt": "07:56",
+ "fetchedDate": "2026-09-10",
  "source": "zhiri-server",
  "items": [
   {
@@ -153,8 +153,8 @@
    "author": "阿丸焖居",
    "title": "假如你生活在十万人的宿舍【AI全民制作人】",
    "duration": "5:11",
-   "heat": 2026834,
-   "updated": "2026-09-09T14:16:20.701099",
+   "heat": 2085713,
+   "updated": "2026-09-09T23:56:16.562036",
    "url": "https://www.bilibili.com/video/BV138bP6gEvx",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "墨八分钱",
    "title": "地表42度，美国飞行员开战斗机冲上万米高空，竟是为了做冰淇淋？【AI全民制作人】",
    "duration": "1:59",
-   "heat": 1649418,
-   "updated": "2026-09-09T14:16:20.701108",
+   "heat": 1697697,
+   "updated": "2026-09-09T23:56:16.562048",
    "url": "https://www.bilibili.com/video/BV1Mabw6cEzV",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第三集【AI全民制作人】",
    "duration": "3:24",
-   "heat": 1802009,
-   "updated": "2026-09-09T14:16:20.701110",
+   "heat": 1868445,
+   "updated": "2026-09-09T23:56:16.562050",
    "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
    "points": [],
    "flags": {
@@ -201,25 +201,9 @@
    "author": "蚊子-学做美食",
    "title": "没错，这是跟AI学的麦乐鸡块。",
    "duration": "2:36",
-   "heat": 1129002,
-   "updated": "2026-09-09T14:16:20.701112",
+   "heat": 1231140,
+   "updated": "2026-09-09T23:56:16.562052",
    "url": "https://www.bilibili.com/video/BV1okbt6EE7e",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "814宇宙",
-   "title": "《感染区》本作品由LibTV平台制作 #LibTV、#LibTV创作者成长计划  #地铁 #原创 #AI",
-   "duration": "3:21",
-   "heat": 1465903,
-   "updated": "2026-09-09T14:16:20.701114",
-   "url": "https://www.bilibili.com/video/BV1mSbH6JE6J",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +217,8 @@
    "author": "雨哥到处跑",
    "title": "兼职挑战！！挑战AI让我尝试的3个职业！！",
    "duration": "16:07",
-   "heat": 833921,
-   "updated": "2026-09-09T14:16:20.701116",
+   "heat": 898737,
+   "updated": "2026-09-09T23:56:16.562054",
    "url": "https://www.bilibili.com/video/BV1vybN6UEaX",
    "points": [],
    "flags": {
@@ -246,12 +230,28 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "阿怪MrWeird",
-   "title": "【中国推理01】土木工程搞刺杀有没有搞头",
-   "duration": "37:45",
-   "heat": 974898,
-   "updated": "2026-09-09T14:16:20.701118",
-   "url": "https://www.bilibili.com/video/BV1yqtq6SEcv",
+   "author": "814宇宙",
+   "title": "《感染区》本作品由LibTV平台制作 #LibTV、#LibTV创作者成长计划  #地铁 #原创 #AI",
+   "duration": "3:21",
+   "heat": 1510211,
+   "updated": "2026-09-09T23:56:16.562056",
+   "url": "https://www.bilibili.com/video/BV1mSbH6JE6J",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "分析学爱好者",
+   "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
+   "duration": "7:31",
+   "heat": 936564,
+   "updated": "2026-09-09T23:56:16.562058",
+   "url": "https://www.bilibili.com/video/BV1SdYn6cEoq",
    "points": [],
    "flags": {
     "fav": false,
@@ -265,8 +265,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390938,
-   "updated": "2026-09-09T14:16:20.701120",
+   "heat": 390944,
+   "updated": "2026-09-09T23:56:16.562060",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -279,28 +279,10 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "戚薇AI分身打戏看着好爽",
-   "duration": "—",
-   "heat": 7724272,
-   "updated": "2026-09-09T14:16:20.701122",
-   "url": "https://www.douyin.com/search/%E6%88%9A%E8%96%87AI%E5%88%86%E8%BA%AB%E6%89%93%E6%88%8F%E7%9C%8B%E7%9D%80%E5%A5%BD%E7%88%BD?type=general",
-   "points": [
-    "热门话题「戚薇AI分身打戏看着好爽」：相关视频 3 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
    "title": "AI已经摸不透曹骏了",
    "duration": "—",
-   "heat": 7703221,
-   "updated": "2026-09-09T14:16:20.701124",
+   "heat": 7654825,
+   "updated": "2026-09-09T23:56:16.562062",
    "url": "https://www.douyin.com/search/AI%E5%B7%B2%E7%BB%8F%E6%91%B8%E4%B8%8D%E9%80%8F%E6%9B%B9%E9%AA%8F%E4%BA%86?type=general",
    "points": [
     "热门话题「AI已经摸不透曹骏了」：相关视频 3 条"
@@ -315,10 +297,26 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-09T23:56:16.562064",
+   "url": "https://www.qbitai.com/2026/09/486450.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T14:16:20.701126",
+   "updated": "2026-09-09T23:56:16.562066",
    "url": "https://www.qbitai.com/2026/09/486374.html",
    "points": [],
    "flags": {
@@ -334,7 +332,7 @@
    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T14:16:20.701128",
+   "updated": "2026-09-09T23:56:16.562068",
    "url": "https://www.qbitai.com/2026/09/486370.html",
    "points": [],
    "flags": {
@@ -350,7 +348,7 @@
    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T14:16:20.701130",
+   "updated": "2026-09-09T23:56:16.562070",
    "url": "https://www.qbitai.com/2026/09/486288.html",
    "points": [
     "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
@@ -368,7 +366,7 @@
    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T14:16:20.701132",
+   "updated": "2026-09-09T23:56:16.562071",
    "url": "https://www.qbitai.com/2026/09/486052.html",
    "points": [
     "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
@@ -386,7 +384,7 @@
    "title": "宜宾，一场机器人“招聘会”的产业雄心",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T14:16:20.701134",
+   "updated": "2026-09-09T23:56:16.562076",
    "url": "https://www.qbitai.com/2026/09/486038.html",
    "points": [
     "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
@@ -399,14 +397,34 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能标记语言",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T14:16:20.701136",
-   "url": "https://www.qbitai.com/2026/09/485854.html",
-   "points": [],
+   "heat": 3,
+   "updated": "2026-09-09",
+   "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Markup_Language",
+   "points": [
+    "人工智能标记语言"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Anthropic 正在建立一个预测监视系统来监控活动人士",
+   "duration": "—",
+   "heat": 270,
+   "updated": "2026-09-09",
+   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+   "points": [
+    "Anthropic 正在建立一个预测监视系统来监控活动人士"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -487,33 +505,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "世界模型（人工智能）",
+   "platform": "weibo",
+   "author": "微博",
+   "title": "愚者IK吖: 补2026.9.9【ai漫剧】《学长，签完字》5'56min压缩包饭饭🍚｜天台&楼梯间 [图片]",
    "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-08",
-   "url": "https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)",
+   "heat": 0,
+   "updated": "2026-09-09T23:56:16.562084",
+   "url": "https://weibo.com/7477234751/RhpO3gH3C",
    "points": [
-    "世界模型（人工智能）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "加州大学伯克利分校法学院人工智能政策 [pdf]",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-07",
-   "url": "https://www.law.berkeley.edu/wp-content/uploads/2026/05/AI-Final-Policy-26.pdf",
-   "points": [
-    "加州大学伯克利分校法学院人工智能政策 [pdf]"
+    "愚者IK吖: 补2026.9.9【ai漫剧】《学长，签完字》5'56min压缩包饭饭🍚｜天台&amp;楼梯间"
    ],
    "flags": {
     "fav": false,

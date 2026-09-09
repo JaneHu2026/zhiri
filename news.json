@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:15",
- "fetchedDate": "2026-09-09",
+ "fetchedAt": "07:55",
+ "fetchedDate": "2026-09-10",
  "source": "zhiri-server",
  "items": [
   {
@@ -116,11 +116,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "德国极右翼选举获胜后，默茨在激烈的辩论中攻击选择党",
+   "title": "西班牙情报部门在激增之前就休达大规模穿越计划发出警告",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-   "summary": "德国总理与选择党领袖爱丽丝·韦德尔发生冲突，称她的移民政策相当于对技术工人的“种族清洗”。",
+   "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+   "summary": "解密文件显示，西班牙和摩洛哥当局在社交媒体呼吁大规模移民过境的前一天收到警报。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "谷歌选择芬兰作为其在欧洲最大的单一投资",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+   "summary": "这家美国科技巨头表示，耗资 130 亿欧元的数据中心项目将创造数万个就业岗位。",
    "day": 0
   },
   {
@@ -136,6 +146,26 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "伊朗将核违规行为提交联合国安理会",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+   "summary": "德黑兰谴责该决议，指责美国和以色列对其核设施的袭击扰乱了检查。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "德国极右翼选举获胜后，默茨在激烈的辩论中攻击选择党",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+   "summary": "德国总理与选择党领袖爱丽丝·韦德尔发生冲突，称她的移民政策相当于对技术工人的“种族清洗”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "美国将禁止进口部分加拿大酒类、乳制品和摩托车",
    "source": "BBC",
    "time": "今天",
@@ -146,51 +176,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄罗斯和乌克兰交锋，摩尔多瓦边境两人死亡",
+   "title": "欧洲王室成员在挪威向哈拉尔五世国王致敬",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-   "summary": "与此同时，俄罗斯南部城市新罗西斯克有四人死亡，其中包括一名儿童。",
+   "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+   "summary": "威尔士亲王和三位北欧国王出席了周三的诉讼程序。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "监管机构称朝鲜已建造两层铀浓缩设施",
+   "title": "乌干达军事首长表示，乌干达将退出哈里王子的“不败运动会”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-   "summary": "国际原子能机构表示，该设施引起“严重关注”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "哥伦比亚新​​总统放宽枪支管制规定",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-   "summary": "总统阿韦拉多·德拉埃斯普里埃拉解除了长达十年的合法枪支携带许可暂停令。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "因版权问题白宫下架俄罗斯方块风格的“Build The Wall”游戏",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯方块公司表示，他们非常严肃地对待“版权侵权行为”，并且没有参与该游戏。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "被害青少年家属在 D4vd 审判中呼吁判处死刑",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-   "summary": "Celeste Rivas Hernandez 的父母表示，如果 D4vd 被判有罪，处决“将是完美的”。",
+   "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+   "summary": "就在乌干达表示将参加的两个月后，国防部长宣布了这一决定。",
    "day": 0
   },
   {
