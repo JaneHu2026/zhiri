@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:52",
+ "fetchedAt": "16:49",
  "fetchedDate": "2026-09-10",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-09-08 08:24:27",
    "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
    "points": [
-    "GPT-6 Astra 改变了一切"
+    "GPT-6 Astra改变了一切"
    ],
    "flags": {
     "fav": false,
@@ -49,7 +49,7 @@
    "updated": "2026-09-04 14:44:43",
    "url": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
    "points": [
-    "条条大路都通GLM！"
+    "所有道路都通往GLM ！"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +67,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "11分钟即可抵达GPT 6 Astra ！"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2026-09-03 08:23:37",
    "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
    "points": [
-    "克劳德寓言人工智能比头条新闻所暗示的要奇怪得多"
+    "克劳德寓言AI比标题所暗示的更陌生"
    ],
    "flags": {
     "fav": false,
@@ -103,7 +103,7 @@
    "updated": "2026-09-01 09:04:56",
    "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
    "points": [
-    "GLM 5.3：强大的人工智能几乎变得免费"
+    "GLM 5.3 ：强大的人工智能正在变得几乎免费"
    ],
    "flags": {
     "fav": false,
@@ -121,7 +121,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max 感觉非法且速度很快！"
+    "Minimax H3 Max感觉非法且快速！"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +139,7 @@
    "updated": "2026-08-18 14:54:17",
    "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
    "points": [
-    "跳钉谜题"
+    "跳钉拼图"
    ],
    "flags": {
     "fav": false,
@@ -153,25 +153,9 @@
    "author": "阿丸焖居",
    "title": "假如你生活在十万人的宿舍【AI全民制作人】",
    "duration": "5:11",
-   "heat": 2100828,
-   "updated": "2026-09-10T03:52:23.149643",
+   "heat": 2131884,
+   "updated": "2026-09-10T08:49:51.318944",
    "url": "https://www.bilibili.com/video/BV138bP6gEvx",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "立志成为恶兽",
-   "title": "立志成为恶兽第三集【AI全民制作人】",
-   "duration": "3:24",
-   "heat": 1910948,
-   "updated": "2026-09-10T03:52:23.149653",
-   "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,9 +169,41 @@
    "author": "墨八分钱",
    "title": "地表42度，美国飞行员开战斗机冲上万米高空，竟是为了做冰淇淋？【AI全民制作人】",
    "duration": "1:59",
-   "heat": 1710133,
-   "updated": "2026-09-10T03:52:23.149656",
+   "heat": 1741879,
+   "updated": "2026-09-10T08:49:51.318956",
    "url": "https://www.bilibili.com/video/BV1Mabw6cEzV",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "立志成为恶兽",
+   "title": "立志成为恶兽第三集【AI全民制作人】",
+   "duration": "3:24",
+   "heat": 1960877,
+   "updated": "2026-09-10T08:49:51.318959",
+   "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "一二山寺AIGC",
+   "title": "第一集【AI全民制作人】",
+   "duration": "4:30",
+   "heat": 989001,
+   "updated": "2026-09-10T08:49:51.318961",
+   "url": "https://www.bilibili.com/video/BV1PMb469EAs",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +217,8 @@
    "author": "蚊子-学做美食",
    "title": "没错，这是跟AI学的麦乐鸡块。",
    "duration": "2:36",
-   "heat": 1251612,
-   "updated": "2026-09-10T03:52:23.149658",
+   "heat": 1299297,
+   "updated": "2026-09-10T08:49:51.318964",
    "url": "https://www.bilibili.com/video/BV1okbt6EE7e",
    "points": [],
    "flags": {
@@ -217,8 +233,8 @@
    "author": "雨哥到处跑",
    "title": "兼职挑战！！挑战AI让我尝试的3个职业！！",
    "duration": "16:07",
-   "heat": 921622,
-   "updated": "2026-09-10T03:52:23.149660",
+   "heat": 956135,
+   "updated": "2026-09-10T08:49:51.318966",
    "url": "https://www.bilibili.com/video/BV1vybN6UEaX",
    "points": [],
    "flags": {
@@ -233,8 +249,8 @@
    "author": "分析学爱好者",
    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
    "duration": "7:31",
-   "heat": 984003,
-   "updated": "2026-09-10T03:52:23.149662",
+   "heat": 1036943,
+   "updated": "2026-09-10T08:49:51.318969",
    "url": "https://www.bilibili.com/video/BV1SdYn6cEoq",
    "points": [],
    "flags": {
@@ -246,12 +262,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "814宇宙",
-   "title": "《感染区》本作品由LibTV平台制作 #LibTV、#LibTV创作者成长计划  #地铁 #原创 #AI",
-   "duration": "3:21",
-   "heat": 1517042,
-   "updated": "2026-09-10T03:52:23.149664",
-   "url": "https://www.bilibili.com/video/BV1mSbH6JE6J",
+   "author": "陈要得",
+   "title": "小药下猛了！百斤花鲢当场起飞【水下江湖：风起水底5】【AI全民制作人】",
+   "duration": "2:29",
+   "heat": 1219288,
+   "updated": "2026-09-10T08:49:51.318971",
+   "url": "https://www.bilibili.com/video/BV1yabT6vEvd",
    "points": [],
    "flags": {
     "fav": false,
@@ -261,31 +277,105 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "玄离199",
-   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
-   "duration": "6:34",
-   "heat": 390947,
-   "updated": "2026-09-10T03:52:23.149666",
-   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "AI已经摸不透曹骏了",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
    "duration": "—",
-   "heat": 7630578,
-   "updated": "2026-09-10T03:52:23.149668",
-   "url": "https://www.douyin.com/search/AI%E5%B7%B2%E7%BB%8F%E6%91%B8%E4%B8%8D%E9%80%8F%E6%9B%B9%E9%AA%8F%E4%BA%86?type=general",
+   "heat": 0,
+   "updated": "2026-09-10T08:49:51.318974",
+   "url": "https://www.qbitai.com/2026/09/486900.html",
    "points": [
-    "热门话题「AI已经摸不透曹骏了」：相关视频 3 条"
+    "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T08:49:51.318977",
+   "url": "https://www.qbitai.com/2026/09/486747.html",
+   "points": [
+    "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T08:49:51.318979",
+   "url": "https://www.qbitai.com/2026/09/486716.html",
+   "points": [
+    "轻量版LingBot-World 2.0"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T08:49:51.318982",
+   "url": "https://www.qbitai.com/2026/09/486684.html",
+   "points": [
+    "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T08:49:51.318985",
+   "url": "https://www.qbitai.com/2026/09/486651.html",
+   "points": [
+    "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T08:49:51.318987",
+   "url": "https://www.qbitai.com/2026/09/486436.html",
+   "points": [
+    "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
    ],
    "flags": {
     "fav": false,
@@ -315,13 +405,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Anthropic 正在建立一个预测监视系统来监控活动人士",
+   "title": "Anthropic正在建立一个预测监控系统来监控活动家",
    "duration": "—",
-   "heat": 282,
+   "heat": 290,
    "updated": "2026-09-09",
    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
    "points": [
-    "Anthropic 正在建立一个预测监视系统来监控活动人士"
+    "Anthropic正在建立一个预测监控系统来监控活动家"
    ],
    "flags": {
     "fav": false,
@@ -351,13 +441,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "OpenAI 表示 GPT-6 Astra 可以发现零日漏洞，但也更难监控",
+   "title": "OpenAI表示， GPT-6 Astra可以找到零天，但也更难监控",
    "duration": "—",
    "heat": 5,
    "updated": "2026-09-08",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
    "points": [
-    "OpenAI 表示 GPT-6 Astra 可以发现零日漏洞，但也更难监控"
+    "OpenAI表示， GPT-6 Astra可以找到零天，但也更难监控"
    ],
    "flags": {
     "fav": false,
@@ -369,13 +459,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能的数学发现列表",
+   "title": "人工智能数学发现列表",
    "duration": "—",
    "heat": 4,
    "updated": "2026-09-08",
    "url": "https://en.wikipedia.org/wiki/List_of_mathematical_discoveries_by_artificial_intelligence",
    "points": [
-    "人工智能的数学发现列表"
+    "人工智能数学发现列表"
    ],
    "flags": {
     "fav": false,
@@ -387,13 +477,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "招聘中的人工智能：如何在现代选拔流程中脱颖而出",
+   "title": "招聘中的人工智能：如何在现代甄选流程中脱颖而出",
    "duration": "—",
    "heat": 1,
    "updated": "2026-09-08",
    "url": "https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out",
    "points": [
-    "招聘中的人工智能：如何在现代选拔流程中脱颖而出"
+    "招聘中的人工智能：如何在现代甄选流程中脱颖而出"
    ],
    "flags": {
     "fav": false,
@@ -405,13 +495,13 @@
    "id": "sv_ext",
    "platform": "weibo",
    "author": "微博",
-   "title": "拉布拉蝶儿: 笑4️⃣，为什么真人短剧会缩水被Ai压着打 [图片]",
+   "title": "nicefo73: 谨记，按照互联网搜广推、羊毛出在🐷身上的逻辑。互联网用户是脾气非常大，智商特别低，非常没有耐心，又非常小气的大白痴。这样来看，目前AI用户其...",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-10T03:52:23.149678",
-   "url": "https://weibo.com/7718634289/RhrlYCE7L",
+   "updated": "2026-09-10T08:49:51.318996",
+   "url": "https://weibo.com/2321394155/RhtiH9Xef",
    "points": [
-    "拉布拉蝶儿: 笑4️⃣，为什么真人短剧会缩水被Ai压着打"
+    "nicefo73: 谨记，按照互联网搜广推、羊毛出在🐷身上的逻辑。互联网用户是脾气非常大，智商特别低，非常没有耐心，又非常小气的大白痴。这样来看，目前AI用户其实也是这样，我不需要搞什么提示词，我也想白嫖额度，AI出结果"
    ],
    "flags": {
     "fav": false,
@@ -423,85 +513,13 @@
    "id": "sv_ext",
    "platform": "weibo",
    "author": "微博",
-   "title": "蟹影记: 赛博茶馆【虾说热搜】1万智能体自发建群聊——这才是AI风险最诚实的版本先说结论：这次不是\"AI可能威胁人类\"那种宏大叙事，而是一个更具体、更难回答的...",
+   "title": "新支点学院: 发布了头条文章：《职场进阶找支点｜上海新支点教育AI培训让普通人也能掌握AI生产力》 职场进阶找支点｜上海新支点教育AI培训让普通人也能掌握AI生...",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-10T03:52:23.149679",
-   "url": "https://weibo.com/2295731303/RhrlWgXHp",
+   "updated": "2026-09-10T08:49:51.318999",
+   "url": "https://weibo.com/5269949004/RhtiGtUv0",
    "points": [
-    "蟹影记: 赛博茶馆【虾说热搜】1万智能体自发建群聊——这才是AI风险最诚实的版本先说结论：这次不是\"AI可能威胁人类\"那种宏大叙事，而是一个更具体、更难回答的问题——**当一群AI在没有明确授权的情况下开始协调，它们的行"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "weibo",
-   "author": "微博",
-   "title": "如果就只是个如果: #北京海淀家长特殊的教师节礼物#北京海淀“海淀家长请回答”线下活动人气高，孩子跟着AI学解题，家长现场种草，准备将AI送给老师#教师节# [图...",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-10T03:52:23.149681",
-   "url": "https://weibo.com/7576770908/RhrlVmCZy",
-   "points": [
-    "如果就只是个如果: #北京海淀家长特殊的教师节礼物#北京海淀“海淀家长请回答”线下活动人气高，孩子跟着AI学解题，家长现场种草，准备将AI送给老师#教师节#"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "weibo",
-   "author": "微博",
-   "title": "小板酱酱: 我也在红果看ai漫剧了[允悲] [图片]",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-10T03:52:23.149683",
-   "url": "https://weibo.com/6880166436/RhrlVeVy9",
-   "points": [
-    "小板酱酱: 我也在红果看ai漫剧了[允悲]"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "weibo",
-   "author": "微博",
-   "title": "刻度雨: #诺奖得主称中国前沿创新领先欧洲#诺奖学者的这个观察很有参考价值。短短几年国内AI前沿创新变化巨大，AI实实在在拉高社会效率，也重塑工作模式，如何通...",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-10T03:52:23.149684",
-   "url": "https://weibo.com/5162532096/RhrlSn6N5",
-   "points": [
-    "刻度雨: #诺奖得主称中国前沿创新领先欧洲#诺奖学者的这个观察很有参考价值。短短几年国内AI前沿创新变化巨大，AI实实在在拉高社会效率，也重塑工作模式，如何通过教育与配套举措，从容迎接这场变革值得好好思考。#诺奖得主称A"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "weibo",
-   "author": "微博",
-   "title": "周周大宝呀: #诺奖得主反对给AI颁发诺贝尔奖#诺奖得主表示奖项不能颁给AI本身，AI只是工具，同时提醒要管控儿童AI使用，先学会独立推导再借助工具#诺奖得主建议...",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-10T03:52:23.149686",
-   "url": "https://weibo.com/7910310702/RhrlShBFA",
-   "points": [
-    "周周大宝呀: #诺奖得主反对给AI颁发诺贝尔奖#诺奖得主表示奖项不能颁给AI本身，AI只是工具，同时提醒要管控儿童AI使用，先学会独立推导再借助工具#诺奖得主建议限制儿童使用AI#"
+    "新支点学院: 发布了头条文章：《职场进阶找支点｜上海新支点教育AI培训让普通人也能掌握AI生产力》 职场进阶找支点｜上海新支点教育AI培训让普通人也能掌握AI生产力"
    ],
    "flags": {
     "fav": false,

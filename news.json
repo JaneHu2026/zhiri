@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:51",
+ "fetchedAt": "16:48",
  "fetchedDate": "2026-09-10",
  "source": "zhiri-server",
  "items": [
@@ -26,10 +26,50 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "超1.4亿人次！青茂口岸开通五周年成绩单出炉",
+   "title": "人民领袖｜梁家河的扫盲班",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/10/VIDESTTztlteGNlWGLFT6QGi260910.shtml",
+   "url": "https://news.cctv.com/2026/09/10/ARTILhxfmjAJrqhHs9D6U1IW260819.shtml",
+   "summary": "陕北梁家河的知青窑洞里，热情的知青对着窑洞门外的村里少年武晖轻声叫着。那一年，武晖14岁，和知青们的年龄差别不大。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "纪念中国工农红军长征胜利90周年｜穿越闽西长征路 一镜到底览新颜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/10/VIDEXM7cxyDiWGrOO4ikWqdu260910.shtml",
+   "summary": "纪念中国工农红军长征胜利90周年·福建：穿越闽西长征路，一镜到底览新颜。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "2026年服贸会｜多项新技术集中发布 中国服务加速出海",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/10/VIDEJl3Hsx9i0C2XRVQsEXEW260910.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "全球跨境投资呈现新的结构性变化 中国继续保持双向投资大国地位",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/10/ARTIiqLW1iR55AHkaF3jORwL260910.shtml",
+   "summary": "60c865ef4fbd,0,1,16:9,newPlayercdeee7789e6c,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "向新向优向好！光通信技术攻坚突破 筑牢数字经济算力底座",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/10/VIDEBbdTZPa4rYiT9mfsQrqe260910.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -40,46 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/09/10/VIDEVwzBY0ka5YWwADqrRQjx260910.shtml",
-   "summary": "天语望远镜成功完成首次成像：摄下逾百万颗恒星，即将进入科学观测阶段。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "“最美教师”先进事迹发布",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/10/ARTIhDaAugtESp2Es9oa25kH260910.shtml",
-   "summary": "为深入学习贯彻习近平总书记关于教育的重要论述，大力弘扬教育家精神，营造尊师重教社会风尚，加快建设教育强国，办好人民满意的教育，在第42个教师节到来之际，中央宣传部、教育部向全社会发布“最美教师”先进事迹。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“数”说服贸｜今年1至7月：服贸稳中有增 出口亮眼",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/10/VIDEiSyHWpPIEJg6BCTfUa04260910.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "商务部回应美对中国AI企业“工业规模”蒸馏美模型指控",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/10/VIDEeDECO1yFnBZ9ONp41QPS260910.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "第七批国家组织医用耗材集采开标 共纳入23个品种",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/10/ARTIz2CUYZzykgGpBUXPct9b260910.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -101,6 +101,76 @@
    "time": "今天",
    "url": "https://www.news.cn/government/20260910/83d8769733a6496c8b4b9b6a86d10412/c.html",
    "summary": "中央宣传部、教育部联合发布“最美教师”先进事迹-\"新华社北京9月10日电 为深入学习贯彻习近平总书记关于教育的重要论述，大力弘扬教育家精神，营造尊师重教社会风尚，加快建设教育强国，办好人民满意的教育，在第42个教师节到来之际，中央宣传部、教育部向全社会发布“最美教师”先进事迹。\"",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Iran war won't end until after crucial November elections, says Trump",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the e",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+   "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+   "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+   "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Four key takeaways from Republican midterms convention",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+   "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Watch: Do Republicans blame Trump for high oil prices?",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
+   "summary": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barre",
    "day": 0
   },
   {
