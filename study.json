@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:56",
+ "fetchedAt": "11:52",
  "fetchedDate": "2026-09-10",
  "source": "zhiri-server",
  "items": [
@@ -153,25 +153,9 @@
    "author": "阿丸焖居",
    "title": "假如你生活在十万人的宿舍【AI全民制作人】",
    "duration": "5:11",
-   "heat": 2085713,
-   "updated": "2026-09-09T23:56:16.562036",
+   "heat": 2100828,
+   "updated": "2026-09-10T03:52:23.149643",
    "url": "https://www.bilibili.com/video/BV138bP6gEvx",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "墨八分钱",
-   "title": "地表42度，美国飞行员开战斗机冲上万米高空，竟是为了做冰淇淋？【AI全民制作人】",
-   "duration": "1:59",
-   "heat": 1697697,
-   "updated": "2026-09-09T23:56:16.562048",
-   "url": "https://www.bilibili.com/video/BV1Mabw6cEzV",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,9 +169,25 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第三集【AI全民制作人】",
    "duration": "3:24",
-   "heat": 1868445,
-   "updated": "2026-09-09T23:56:16.562050",
+   "heat": 1910948,
+   "updated": "2026-09-10T03:52:23.149653",
    "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "墨八分钱",
+   "title": "地表42度，美国飞行员开战斗机冲上万米高空，竟是为了做冰淇淋？【AI全民制作人】",
+   "duration": "1:59",
+   "heat": 1710133,
+   "updated": "2026-09-10T03:52:23.149656",
+   "url": "https://www.bilibili.com/video/BV1Mabw6cEzV",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +201,8 @@
    "author": "蚊子-学做美食",
    "title": "没错，这是跟AI学的麦乐鸡块。",
    "duration": "2:36",
-   "heat": 1231140,
-   "updated": "2026-09-09T23:56:16.562052",
+   "heat": 1251612,
+   "updated": "2026-09-10T03:52:23.149658",
    "url": "https://www.bilibili.com/video/BV1okbt6EE7e",
    "points": [],
    "flags": {
@@ -217,25 +217,9 @@
    "author": "雨哥到处跑",
    "title": "兼职挑战！！挑战AI让我尝试的3个职业！！",
    "duration": "16:07",
-   "heat": 898737,
-   "updated": "2026-09-09T23:56:16.562054",
+   "heat": 921622,
+   "updated": "2026-09-10T03:52:23.149660",
    "url": "https://www.bilibili.com/video/BV1vybN6UEaX",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "814宇宙",
-   "title": "《感染区》本作品由LibTV平台制作 #LibTV、#LibTV创作者成长计划  #地铁 #原创 #AI",
-   "duration": "3:21",
-   "heat": 1510211,
-   "updated": "2026-09-09T23:56:16.562056",
-   "url": "https://www.bilibili.com/video/BV1mSbH6JE6J",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,9 +233,25 @@
    "author": "分析学爱好者",
    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
    "duration": "7:31",
-   "heat": 936564,
-   "updated": "2026-09-09T23:56:16.562058",
+   "heat": 984003,
+   "updated": "2026-09-10T03:52:23.149662",
    "url": "https://www.bilibili.com/video/BV1SdYn6cEoq",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "814宇宙",
+   "title": "《感染区》本作品由LibTV平台制作 #LibTV、#LibTV创作者成长计划  #地铁 #原创 #AI",
+   "duration": "3:21",
+   "heat": 1517042,
+   "updated": "2026-09-10T03:52:23.149664",
+   "url": "https://www.bilibili.com/video/BV1mSbH6JE6J",
    "points": [],
    "flags": {
     "fav": false,
@@ -265,8 +265,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390944,
-   "updated": "2026-09-09T23:56:16.562060",
+   "heat": 390947,
+   "updated": "2026-09-10T03:52:23.149666",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -281,113 +281,11 @@
    "author": "抖音热榜",
    "title": "AI已经摸不透曹骏了",
    "duration": "—",
-   "heat": 7654825,
-   "updated": "2026-09-09T23:56:16.562062",
+   "heat": 7630578,
+   "updated": "2026-09-10T03:52:23.149668",
    "url": "https://www.douyin.com/search/AI%E5%B7%B2%E7%BB%8F%E6%91%B8%E4%B8%8D%E9%80%8F%E6%9B%B9%E9%AA%8F%E4%BA%86?type=general",
    "points": [
     "热门话题「AI已经摸不透曹骏了」：相关视频 3 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T23:56:16.562064",
-   "url": "https://www.qbitai.com/2026/09/486450.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T23:56:16.562066",
-   "url": "https://www.qbitai.com/2026/09/486374.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T23:56:16.562068",
-   "url": "https://www.qbitai.com/2026/09/486370.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T23:56:16.562070",
-   "url": "https://www.qbitai.com/2026/09/486288.html",
-   "points": [
-    "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T23:56:16.562071",
-   "url": "https://www.qbitai.com/2026/09/486052.html",
-   "points": [
-    "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "宜宾，一场机器人“招聘会”的产业雄心",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-09T23:56:16.562076",
-   "url": "https://www.qbitai.com/2026/09/486038.html",
-   "points": [
-    "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
    ],
    "flags": {
     "fav": false,
@@ -401,7 +299,7 @@
    "author": "Hacker News",
    "title": "人工智能标记语言",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-09-09",
    "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Markup_Language",
    "points": [
@@ -419,7 +317,7 @@
    "author": "Hacker News",
    "title": "Anthropic 正在建立一个预测监视系统来监控活动人士",
    "duration": "—",
-   "heat": 270,
+   "heat": 282,
    "updated": "2026-09-09",
    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
    "points": [
@@ -507,13 +405,103 @@
    "id": "sv_ext",
    "platform": "weibo",
    "author": "微博",
-   "title": "愚者IK吖: 补2026.9.9【ai漫剧】《学长，签完字》5'56min压缩包饭饭🍚｜天台&楼梯间 [图片]",
+   "title": "拉布拉蝶儿: 笑4️⃣，为什么真人短剧会缩水被Ai压着打 [图片]",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-09T23:56:16.562084",
-   "url": "https://weibo.com/7477234751/RhpO3gH3C",
+   "updated": "2026-09-10T03:52:23.149678",
+   "url": "https://weibo.com/7718634289/RhrlYCE7L",
    "points": [
-    "愚者IK吖: 补2026.9.9【ai漫剧】《学长，签完字》5'56min压缩包饭饭🍚｜天台&amp;楼梯间"
+    "拉布拉蝶儿: 笑4️⃣，为什么真人短剧会缩水被Ai压着打"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "weibo",
+   "author": "微博",
+   "title": "蟹影记: 赛博茶馆【虾说热搜】1万智能体自发建群聊——这才是AI风险最诚实的版本先说结论：这次不是\"AI可能威胁人类\"那种宏大叙事，而是一个更具体、更难回答的...",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T03:52:23.149679",
+   "url": "https://weibo.com/2295731303/RhrlWgXHp",
+   "points": [
+    "蟹影记: 赛博茶馆【虾说热搜】1万智能体自发建群聊——这才是AI风险最诚实的版本先说结论：这次不是\"AI可能威胁人类\"那种宏大叙事，而是一个更具体、更难回答的问题——**当一群AI在没有明确授权的情况下开始协调，它们的行"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "weibo",
+   "author": "微博",
+   "title": "如果就只是个如果: #北京海淀家长特殊的教师节礼物#北京海淀“海淀家长请回答”线下活动人气高，孩子跟着AI学解题，家长现场种草，准备将AI送给老师#教师节# [图...",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T03:52:23.149681",
+   "url": "https://weibo.com/7576770908/RhrlVmCZy",
+   "points": [
+    "如果就只是个如果: #北京海淀家长特殊的教师节礼物#北京海淀“海淀家长请回答”线下活动人气高，孩子跟着AI学解题，家长现场种草，准备将AI送给老师#教师节#"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "weibo",
+   "author": "微博",
+   "title": "小板酱酱: 我也在红果看ai漫剧了[允悲] [图片]",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T03:52:23.149683",
+   "url": "https://weibo.com/6880166436/RhrlVeVy9",
+   "points": [
+    "小板酱酱: 我也在红果看ai漫剧了[允悲]"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "weibo",
+   "author": "微博",
+   "title": "刻度雨: #诺奖得主称中国前沿创新领先欧洲#诺奖学者的这个观察很有参考价值。短短几年国内AI前沿创新变化巨大，AI实实在在拉高社会效率，也重塑工作模式，如何通...",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T03:52:23.149684",
+   "url": "https://weibo.com/5162532096/RhrlSn6N5",
+   "points": [
+    "刻度雨: #诺奖得主称中国前沿创新领先欧洲#诺奖学者的这个观察很有参考价值。短短几年国内AI前沿创新变化巨大，AI实实在在拉高社会效率，也重塑工作模式，如何通过教育与配套举措，从容迎接这场变革值得好好思考。#诺奖得主称A"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "weibo",
+   "author": "微博",
+   "title": "周周大宝呀: #诺奖得主反对给AI颁发诺贝尔奖#诺奖得主表示奖项不能颁给AI本身，AI只是工具，同时提醒要管控儿童AI使用，先学会独立推导再借助工具#诺奖得主建议...",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10T03:52:23.149686",
+   "url": "https://weibo.com/7910310702/RhrlShBFA",
+   "points": [
+    "周周大宝呀: #诺奖得主反对给AI颁发诺贝尔奖#诺奖得主表示奖项不能颁给AI本身，AI只是工具，同时提醒要管控儿童AI使用，先学会独立推导再借助工具#诺奖得主建议限制儿童使用AI#"
    ],
    "flags": {
     "fav": false,
