@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:09",
- "fetchedDate": "2026-09-10",
+ "fetchedAt": "07:50",
+ "fetchedDate": "2026-09-11",
  "source": "zhiri-server",
  "items": [
   {
@@ -85,6 +85,16 @@
   },
   {
    "group": "gn",
+   "theme": "政策",
+   "title": "新华网发布“算电协同智能调度服务平台” 以算法调度推动算力与绿电高效协同",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20260910/8e6f3138eba84ca1a9cea7115fb3a9f8/c.html",
+   "summary": "新华网发布“算电协同智能调度服务平台” 以算法调度推动算力与绿电高效协同-\"新华网数字经济事业中心任燚发布“算电协同智能调度服务平台”。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "要闻",
    "title": "北京：在南中轴线上挖掘别样的文明底蕴",
    "source": "新华网",
@@ -106,41 +116,71 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普表示，如果共和党赢得中期选举，每个成年美国人将获得 5,000 美元",
+   "title": "据报道也门胡塞武装占领了红海战略港口莫卡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国总统在一次党代会上发表讲话时没有透露该计划将如何运作或资金从何而来的细节。",
+   "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+   "summary": "莫卡的捕获将使伊朗支持的组织更接近控制曼德海峡水道，这是一条重要的航运路线。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "观看：特朗普 5000 美元的竞选承诺合法吗？",
+   "title": "特朗普真的能为每个美国成年人支付 5000 美元吗？",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国总统表示，如果共和党赢得 11 月中期选举，每个美国人将获得 5,000 美元（3,700 英镑）。",
+   "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+   "summary": "分析人士质疑美国总统大选年的提议是否可行、合法或负担得起。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普表示，伊朗战争要等到十一月关键选举之后才会结束",
+   "title": "数据显示，飞行员在致命坠机前警告亚马逊货机速度太快",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-   "summary": "总统还表示，直到 11 月的比赛结束后，油价才会下跌，并声称没有证据表明伊朗希望影响石油供应。",
+   "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+   "summary": "一名飞行员向另一名飞行员讲述了飞机“超速”的情况，但即使警报响起，对方的反应也参差不齐。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "菲律宾渡轮发生“令人心碎”的火灾，造成5人死亡、86人失踪",
+   "title": "以色列内塔尼亚胡因阿联酋警告他10月7日袭击事件而起诉报纸",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-   "summary": "火灾发生在该船接近目的地巴拉望岛旅游热点科隆岛时。",
+   "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+   "summary": "该报表示，在发表了出现该说法的书中的摘录后，它坚持自己的报道。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "刚果民主共和国学校火灾造成20多名儿童死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，东部叛军控制的布卡武市发生火灾，两所学校被吞没，他们在逃离时发生了踩踏事件。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国一男子威胁要杀死儿子的老师，被判入狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+   "summary": "父亲威胁要斩首图卢兹附近的一名女小学教师。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "瑞士阿尔卑斯山客车坠毁造成多人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+   "summary": "一辆载有 48 名荷兰乘客的客车翻覆，造成多人死亡。",
    "day": 0
   },
   {
@@ -151,36 +191,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
    "summary": "奥约国王的家人称，他留下了一份遗嘱，指定他的小儿子为托罗王国的继承人。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "中国东部货船起火 25人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-   "summary": "据央视报道，机上 42 人中，有 17 人被疏散。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "苹果新任老板豪赌1999英镑推出首款折叠式iPhone",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-   "summary": "苹果在一次活动中展示了 iPhone 近 20 年来首次重大设计变化。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "乌干达军事酋长表示，乌干达将退出哈里王子的“不败运动会”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-   "summary": "就在乌干达表示将参加的两个月后，国防部长宣布了这一决定。",
    "day": 0
   },
   {
