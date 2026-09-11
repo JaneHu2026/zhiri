@@ -1,18 +1,8 @@
 {
- "fetchedAt": "11:47",
+ "fetchedAt": "16:45",
  "fetchedDate": "2026-09-11",
  "source": "zhiri-server",
  "items": [
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“是老师培养了我们”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/11/ARTI8iepNTe43WPVRVjIouXa260911.shtml",
-   "summary": "【学习进行时】在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
-   "day": 0
-  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -25,61 +15,71 @@
   },
   {
    "group": "gn",
+   "theme": "要闻",
+   "title": "截至2025年末 中国对金砖国家直接投资存量820亿美元 ｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/11/VIDE4LI6THQoWl3WkKmfPQ0z260911.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "金砖国家已达成60余份成果文件",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/11/VIDEykrnjVuXjJ94tdpTRwW1260911.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "细说“十五五”金融蓝图 新变化关乎你我“钱袋子”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/11/ARTI82I85PWdtpwwIiTTUrOB260911.shtml",
+   "summary": "75eb7d387b90,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "社会",
-   "title": "全球服务 互惠共享｜“数”说服贸·服务出海的两大引擎",
+   "title": "全景解读全球数字贸易新趋势 中国数字服务出口竞争力增强",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/11/ARTIiTozIc4pC9p0wHYxfhOR260911.shtml",
-   "summary": "fcb5192c21e9,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/09/11/ARTIKRshR8eQYyIdnBq63Kba260911.shtml",
+   "summary": "2468d3a1bc89,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "文化中国行｜守护雄关沧桑 留住古村乡愁",
+   "theme": "要闻",
+   "title": "投洽会上的“扩列”是中国与世界双向奔赴的“合作圈”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/11/VIDELIYig3jjg5Mq4MWiINZe260911.shtml",
+   "url": "https://news.cctv.com/2026/09/11/ARTIqkzIrzY8tg3dfqhBwzlS260911.shtml",
+   "summary": "e3a8e3b5326e,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "出行热、消费新、外资聚 中国大市场支撑经济向新向优向好",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/11/ARTIBFkozSDgeI3R30HgnLHP260911.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国稀土 钨 锡等14种矿产储量世界第一",
+   "title": "纪念中国工农红军长征胜利90周年｜雄越五岭启新征 南粤山河续华章",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/11/ARTIKQTDGpRLT1JKOvobq8We260911.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "听“红色主讲人”话峥嵘",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/11/ARTI1fpySqLXtEBUxiKFxHvR260911.shtml",
-   "summary": "最近，江西于都县梓山镇潭头村村民孙观发的日程愈发忙碌。每天早上5点多起床后先在村里锻炼一圈，再回屋烧水、做早饭，迎接新的游客——在自己家或村里“红色讲堂”开启新一天的宣讲。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "事关智能网联新能源汽车产业 工信部等九部门发文",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/11/ARTInAXtFXGqQvtbPt2cjRgi260911.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "设施完善+模式创新 8月份我国农村电商物流活跃",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/11/VIDE1Xk747ZwnlseeG6yOM5F260911.shtml",
+   "url": "https://tv.cctv.com/2026/09/11/VIDE7hWQDpwcBTfIsX05K8hx260911.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,11 +106,61 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "法国一男子威胁要杀死儿子的老师，被判入狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+   "summary": "父亲威胁要斩首图卢兹附近的一名女小学教师。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "瑞士阿尔卑斯山客车坠毁造成多人死亡",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
    "summary": "这辆旅游巴士在瑞士东南部阿尔卑斯山翻车时载有数十名荷兰乘客。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "戴安娜王妃的“复仇礼服”将被拍卖",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+   "summary": "苏富比拍卖行预计，这件连衣裙将于 12 月 9 日拍卖，售价高达 30 万美元（22 万英镑）。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普是否通过中期代表大会赢得了选民的支持？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 北美编辑莎拉·史密斯 (Sarah Smith) 详细分析了在选举中期举行的首届共和党全国代表大会的主要内容。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：美国人记得他们在 9/11 所做的事情",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 询问华盛顿人们那天做了什么以及 2001 年 9 月 11 日如何改变了这个国家。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "9/11 事件中遇害的穆斯林警察的兄弟对要求马姆达尼出席追悼会感到“失望”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+   "summary": "泽尚·哈姆达尼 (Zeshan Hamdani) 在反击穆斯林市长佐赫兰·马姆达尼 (Zohran Mamdani) 参加 9/11 活动后发表讲话。",
    "day": 0
   },
   {

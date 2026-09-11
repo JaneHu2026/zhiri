@@ -1,8 +1,44 @@
 {
- "fetchedAt": "11:47",
+ "fetchedAt": "16:45",
  "fetchedDate": "2026-09-11",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "I Never Thought I’d See This Happen",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-10 08:47:23",
+   "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+   "points": [
+    "我从没想过我会看到这种事发生"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "GPT-6 Astra Changes Everything",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-08 08:24:27",
+   "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+   "points": [
+    "GPT-6 Astra 改变了一切"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -60,6 +96,24 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-03 08:23:37",
+   "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+   "points": [
+    "克劳德寓言人工智能比头条新闻所暗示的要奇怪得多"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "1littlecoder",
    "title": "Minimax H3 Max feels ILLEGAL and FAST!",
    "duration": "—",
@@ -95,66 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "The Right Harness is All You Need - For local Frontier AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-08 17:22:18",
-   "url": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-   "points": [
-    "您所需要的就是正确的安全带 - 对于本地前沿人工智能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The 64 sugar cubes puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-24 15:05:39",
-   "url": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-   "points": [
-    "64块方糖拼图"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "OpenAI hacked HuggingFace",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-07-22 16:28:16",
-   "url": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-   "points": [
-    "OpenAI 攻击了 HuggingFace"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "一二山寺AIGC",
    "title": "第一集【AI全民制作人】",
    "duration": "4:30",
-   "heat": 1057563,
-   "updated": "2026-09-11T03:47:53.270684",
+   "heat": 1069651,
+   "updated": "2026-09-11T08:45:59.723412",
    "url": "https://www.bilibili.com/video/BV1PMb469EAs",
    "points": [],
    "flags": {
@@ -169,25 +169,9 @@
    "author": "阿丸焖居",
    "title": "假如你生活在十万人的宿舍【AI全民制作人】",
    "duration": "5:11",
-   "heat": 2232209,
-   "updated": "2026-09-11T03:47:53.270697",
+   "heat": 2261290,
+   "updated": "2026-09-11T08:45:59.723425",
    "url": "https://www.bilibili.com/video/BV138bP6gEvx",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "雨哥到处跑",
-   "title": "兼职挑战！！挑战AI让我尝试的3个职业！！",
-   "duration": "16:07",
-   "heat": 1161770,
-   "updated": "2026-09-11T03:47:53.270700",
-   "url": "https://www.bilibili.com/video/BV1vybN6UEaX",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,41 +185,9 @@
    "author": "分析学爱好者",
    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
    "duration": "7:31",
-   "heat": 1143146,
-   "updated": "2026-09-11T03:47:53.270702",
+   "heat": 1158179,
+   "updated": "2026-09-11T08:45:59.723428",
    "url": "https://www.bilibili.com/video/BV1SdYn6cEoq",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "立志成为恶兽",
-   "title": "立志成为恶兽第三集【AI全民制作人】",
-   "duration": "3:24",
-   "heat": 2102918,
-   "updated": "2026-09-11T03:47:53.270704",
-   "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "蚊子-学做美食",
-   "title": "没错，这是跟AI学的麦乐鸡块。",
-   "duration": "2:36",
-   "heat": 1438636,
-   "updated": "2026-09-11T03:47:53.270706",
-   "url": "https://www.bilibili.com/video/BV1okbt6EE7e",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,8 +201,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390953,
-   "updated": "2026-09-11T03:47:53.270708",
+   "heat": 390955,
+   "updated": "2026-09-11T08:45:59.723431",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -265,10 +217,92 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653417,
-   "updated": "2026-09-11T03:47:53.270710",
+   "heat": 653418,
+   "updated": "2026-09-11T08:45:59.723433",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557464,
+   "updated": "2026-09-11T08:45:59.723435",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155643,
+   "updated": "2026-09-11T08:45:59.723437",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611439,
+   "updated": "2026-09-11T08:45:59.723440",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-11T08:45:59.723442",
+   "url": "https://www.qbitai.com/2026/09/487273.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-11T08:45:59.723444",
+   "url": "https://www.qbitai.com/2026/09/487176.html",
+   "points": [
+    "今年12月，北京，MEET2027智能未来大会！"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +316,7 @@
    "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T03:47:53.270712",
+   "updated": "2026-09-11T08:45:59.723447",
    "url": "https://www.qbitai.com/2026/09/487163.html",
    "points": [],
    "flags": {
@@ -298,7 +332,7 @@
    "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T03:47:53.270713",
+   "updated": "2026-09-11T08:45:59.723449",
    "url": "https://www.qbitai.com/2026/09/487092.html",
    "points": [],
    "flags": {
@@ -314,7 +348,7 @@
    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T03:47:53.270715",
+   "updated": "2026-09-11T08:45:59.723451",
    "url": "https://www.qbitai.com/2026/09/486900.html",
    "points": [
     "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
@@ -332,46 +366,10 @@
    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T03:47:53.270717",
+   "updated": "2026-09-11T08:45:59.723453",
    "url": "https://www.qbitai.com/2026/09/486747.html",
    "points": [
     "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-11T03:47:53.270719",
-   "url": "https://www.qbitai.com/2026/09/486716.html",
-   "points": [
-    "轻量版LingBot-World 2.0"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-11T03:47:53.270720",
-   "url": "https://www.qbitai.com/2026/09/486684.html",
-   "points": [
-    "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
    ],
    "flags": {
     "fav": false,
@@ -439,7 +437,7 @@
    "author": "Hacker News",
    "title": "数学家想要证明 OpenAI 没有使用他们的工作成果",
    "duration": "—",
-   "heat": 76,
+   "heat": 77,
    "updated": "2026-09-10",
    "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
    "points": [
@@ -475,7 +473,7 @@
    "author": "Hacker News",
    "title": "Anthropic 正在建立一个预测监视系统来监控活动人士",
    "duration": "—",
-   "heat": 307,
+   "heat": 311,
    "updated": "2026-09-09",
    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
    "points": [
