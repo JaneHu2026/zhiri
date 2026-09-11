@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:08",
- "fetchedDate": "2026-09-11",
+ "fetchedAt": "07:58",
+ "fetchedDate": "2026-09-12",
  "source": "zhiri-server",
  "items": [
   {
@@ -85,6 +85,16 @@
   },
   {
    "group": "gn",
+   "theme": "政策",
+   "title": "新华GEO智能体平台发布海外生成式引擎营销服务 助力工业企业拓展全球市场",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20260911/7b1e86ef00d54e3aae1538d5d5043bec/c.html",
+   "summary": "新华GEO智能体平台发布海外生成式引擎营销服务 助力工业企业拓展全球市场-新华网数字经济事业中心常务副总经理张涛作产品介绍随着海外采购商日益依赖人工智能辅助决策，中国工业企业如何提升品牌在AI系统中的可见度与可信度，成为出海新课题。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "要闻",
    "title": "【文明中国·看甘肃】穷山峁吃上了“文旅饭”",
    "source": "新华网",
@@ -106,21 +116,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "人择阻止了利用人工智能制造生物武器的可能尝试",
+   "title": "胡塞武装声称在也门取得重大进展并加强对红海航线的控制",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-   "summary": "Anthropic 的威胁情报报告是在该公司的一位前高级研究员警告人工智能的风险之后发布的。",
+   "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+   "summary": "据报道，伊朗支持的胡塞武装还占领了主要航线上的战略岛屿佩林。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "香港天安门活动人士被判处最高七年监禁",
+   "title": "在臭名昭著的黑手党谋杀母亲事件中作证指控父亲的妇女惨死",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-   "summary": "香港曾经是中国领土上唯一可以让人们聚集纪念1989年镇压的地方之一。",
+   "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+   "summary": "丹尼斯·科斯科就她母亲在意大利被谋杀一事出庭作证，指控强大的光荣会家族和她自己的父亲。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国客运列车出轨 至少44人受伤",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+   "summary": "法国交通部长表示，诺曼底鲁昂-卡昂航线的火车上载有 180 名乘客。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "黑人妇女被发现吊死在树上被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+   "summary": "八月，塔西娅·福琼的尸体在密西西比州一处废弃房屋的空地上被发现。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "挪威公主阿斯特丽德在参加弟弟哈拉尔国王的葬礼两天后去世",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+   "summary": "新国王哈康八世在向姨妈致敬时表示，阿斯特丽德公主“以热情和尽职的方式代表了王室”。",
    "day": 0
   },
   {
@@ -151,36 +191,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
    "summary": "苏富比拍卖行预计，这件连衣裙将于 12 月 9 日拍卖，售价高达 30 万美元（22 万英镑）。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "菲律宾救援人员在火灾发生 40 小时后登上渡轮",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-   "summary": "浓浓的有毒烟雾和极端的温度给登船的救援人员带来了挑战。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "六名被指控浪漫诈骗的尼日利亚人将被引渡到美国",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-   "summary": "南非警方称，这六人将在美国面临电汇欺诈和洗钱指控。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "瑞士阿尔卑斯山客车相撞事故造成五人死亡、数十人受伤",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-   "summary": "这辆旅游巴士在瑞士东南部阿尔卑斯山翻车时载有数十名荷兰乘客。",
    "day": 0
   },
   {
