@@ -1,36 +1,46 @@
 {
- "fetchedAt": "16:45",
+ "fetchedAt": "22:08",
  "fetchedDate": "2026-09-11",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "联播+｜“全球南方”第一方阵",
+   "title": "习主席引领金砖合作，一起重温精彩论述",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/11/ARTITnBDychMF9rMGWFyjGT2260909.shtml",
-   "summary": "当前，“全球南方”在国际舞台上日益活跃，正成为重塑世界秩序的关键力量。作为“全球南方”第一方阵，金砖合作机制创立20年来，以实际行动凝聚共识，在促进南南合作、推动世界多极化等方面发挥了重要作用。",
+   "url": "https://news.cctv.com/2026/09/11/ARTI1Rvnh3jRDAiBBD0xMj9c260911.shtml",
+   "summary": "习近平主席将赴印度出席金砖国家领导人第十八次会晤。谈金砖合作，习主席有不少精彩论述：“疾风知劲草，烈火见真金”“不畏浮云遮望眼”“以天下之利为利，以人民之心为心”……跟随视频，一起重温金砖金句。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "截至2025年末 中国对金砖国家直接投资存量820亿美元 ｜",
+   "title": "践行全球发展倡议 汇聚发展振兴力量｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/11/VIDE4LI6THQoWl3WkKmfPQ0z260911.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/09/11/ARTIOoVsuBQ0L3D9vs37bPlk260911.shtml",
+   "summary": "当今世界，科技和产业变革日新月异，但同时，全球发展动力不足，合作意愿下降，南北鸿沟加大，联合国2030年可持续发展议程大幅滞后。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "金砖国家已达成60余份成果文件",
+   "theme": "要闻",
+   "title": "凝聚合力 推动“大金砖合作”高质量发展｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/11/VIDEykrnjVuXjJ94tdpTRwW1260911.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/09/11/ARTIAh5aZfY1uwY9uZ3CLjIJ260911.shtml",
+   "summary": "国际人士表示，中国始终秉持开放包容、合作共赢的金砖精神，积极贡献中国智慧与方案。明年，中国将再次担任金砖轮值主席国。各方期待中国凝聚金砖国家集体智慧与强大合力，共同书写金砖合作的崭新篇章。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【新思想引领新征程】践行全球发展倡议 汇聚发展振兴力量",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/11/VIDEaBYsIzqMcQVHphLcppYO260911.shtml",
+   "summary": "当今世界，科技和产业变革日新月异，但同时，全球发展动力不足，合作意愿下降，南北鸿沟加大，联合国2030年可持续发展议程大幅滞后。",
    "day": 0
   },
   {
@@ -60,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/11/ARTIqkzIrzY8tg3dfqhBwzlS260911.shtml",
-   "summary": "e3a8e3b5326e,0,1,16:9,newPlayer",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -70,16 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/11/ARTIBFkozSDgeI3R30HgnLHP260911.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "纪念中国工农红军长征胜利90周年｜雄越五岭启新征 南粤山河续华章",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/11/VIDE7hWQDpwcBTfIsX05K8hx260911.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,21 +106,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国一男子威胁要杀死儿子的老师，被判入狱",
+   "title": "人择阻止了利用人工智能制造生物武器的可能尝试",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-   "summary": "父亲威胁要斩首图卢兹附近的一名女小学教师。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+   "summary": "Anthropic 的威胁情报报告是在该公司的一位前高级研究员警告人工智能的风险之后发布的。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "瑞士阿尔卑斯山客车坠毁造成多人死亡",
+   "title": "香港天安门活动人士被判处最高七年监禁",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-   "summary": "这辆旅游巴士在瑞士东南部阿尔卑斯山翻车时载有数十名荷兰乘客。",
+   "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+   "summary": "香港曾经是中国领土上唯一可以让人们聚集纪念1989年镇压的地方之一。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "以色列称摧毁了真主党主要地下基地",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+   "summary": "根据美国地质调查局的数据，这次强烈的爆炸相当于 4.1 级地震。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "佛教僧侣因涉嫌贪污300万美元丑闻被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+   "summary": "泰国警方还逮捕了一名疑似女同伙，这名僧人发誓独身，并被拍到与该女同伙发生性关系。",
    "day": 0
   },
   {
@@ -136,31 +156,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普是否通过中期代表大会赢得了选民的支持？",
+   "title": "菲律宾救援人员在火灾发生 40 小时后登上渡轮",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 北美编辑莎拉·史密斯 (Sarah Smith) 详细分析了在选举中期举行的首届共和党全国代表大会的主要内容。",
+   "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+   "summary": "浓浓的有毒烟雾和极端的温度给登船的救援人员带来了挑战。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "观看：美国人记得他们在 9/11 所做的事情",
+   "title": "六名被指控浪漫诈骗的尼日利亚人将被引渡到美国",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 询问华盛顿人们那天做了什么以及 2001 年 9 月 11 日如何改变了这个国家。",
+   "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+   "summary": "南非警方称，这六人将在美国面临电汇欺诈和洗钱指控。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "9/11 事件中遇害的穆斯林警察的兄弟对要求马姆达尼出席追悼会感到“失望”",
+   "title": "瑞士阿尔卑斯山客车相撞事故造成五人死亡、数十人受伤",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
-   "summary": "泽尚·哈姆达尼 (Zeshan Hamdani) 在反击穆斯林市长佐赫兰·马姆达尼 (Zohran Mamdani) 参加 9/11 活动后发表讲话。",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+   "summary": "这辆旅游巴士在瑞士东南部阿尔卑斯山翻车时载有数十名荷兰乘客。",
    "day": 0
   },
   {

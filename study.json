@@ -1,5 +1,5 @@
 {
- "fetchedAt": "16:45",
+ "fetchedAt": "22:09",
  "fetchedDate": "2026-09-11",
  "source": "zhiri-server",
  "items": [
@@ -153,25 +153,9 @@
    "author": "一二山寺AIGC",
    "title": "第一集【AI全民制作人】",
    "duration": "4:30",
-   "heat": 1069651,
-   "updated": "2026-09-11T08:45:59.723412",
+   "heat": 1086854,
+   "updated": "2026-09-11T14:09:30.402948",
    "url": "https://www.bilibili.com/video/BV1PMb469EAs",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿丸焖居",
-   "title": "假如你生活在十万人的宿舍【AI全民制作人】",
-   "duration": "5:11",
-   "heat": 2261290,
-   "updated": "2026-09-11T08:45:59.723425",
-   "url": "https://www.bilibili.com/video/BV138bP6gEvx",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +169,8 @@
    "author": "分析学爱好者",
    "title": "OpenAI官宣攻克千禧年七大难题的NS方程问题",
    "duration": "7:31",
-   "heat": 1158179,
-   "updated": "2026-09-11T08:45:59.723428",
+   "heat": 1175689,
+   "updated": "2026-09-11T14:09:30.402961",
    "url": "https://www.bilibili.com/video/BV1SdYn6cEoq",
    "points": [],
    "flags": {
@@ -201,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390955,
-   "updated": "2026-09-11T08:45:59.723431",
+   "heat": 390957,
+   "updated": "2026-09-11T14:09:30.402963",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -218,7 +202,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653418,
-   "updated": "2026-09-11T08:45:59.723433",
+   "updated": "2026-09-11T14:09:30.402965",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +218,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557464,
-   "updated": "2026-09-11T08:45:59.723435",
+   "updated": "2026-09-11T14:09:30.402966",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -250,7 +234,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155643,
-   "updated": "2026-09-11T08:45:59.723437",
+   "updated": "2026-09-11T14:09:30.402968",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -265,9 +249,41 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611439,
-   "updated": "2026-09-11T08:45:59.723440",
+   "heat": 611440,
+   "updated": "2026-09-11T14:09:30.402970",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659396,
+   "updated": "2026-09-11T14:09:30.402972",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "不简单，“吃货快乐榜”也全面AI化了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-11T14:09:30.402974",
+   "url": "https://www.qbitai.com/2026/09/487282.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +298,7 @@
    "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T08:45:59.723442",
+   "updated": "2026-09-11T14:09:30.402975",
    "url": "https://www.qbitai.com/2026/09/487273.html",
    "points": [],
    "flags": {
@@ -298,7 +314,7 @@
    "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T08:45:59.723444",
+   "updated": "2026-09-11T14:09:30.402977",
    "url": "https://www.qbitai.com/2026/09/487176.html",
    "points": [
     "今年12月，北京，MEET2027智能未来大会！"
@@ -316,7 +332,7 @@
    "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T08:45:59.723447",
+   "updated": "2026-09-11T14:09:30.402979",
    "url": "https://www.qbitai.com/2026/09/487163.html",
    "points": [],
    "flags": {
@@ -332,7 +348,7 @@
    "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T08:45:59.723449",
+   "updated": "2026-09-11T14:09:30.402980",
    "url": "https://www.qbitai.com/2026/09/487092.html",
    "points": [],
    "flags": {
@@ -348,7 +364,7 @@
    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-11T08:45:59.723451",
+   "updated": "2026-09-11T14:09:30.402982",
    "url": "https://www.qbitai.com/2026/09/486900.html",
    "points": [
     "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
@@ -361,15 +377,33 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能歇斯底里跳过鲨鱼",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-11T08:45:59.723453",
-   "url": "https://www.qbitai.com/2026/09/486747.html",
+   "heat": 2,
+   "updated": "2026-09-11",
+   "url": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
    "points": [
-    "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
+    "人工智能歇斯底里跳过鲨鱼"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "忧心忡忡的人类研究人员警告说，人工智能“可能会杀死所有人类”",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-11",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+   "points": [
+    "忧心忡忡的人类研究人员警告说，人工智能“可能会杀死所有人类”"
    ],
    "flags": {
     "fav": false,
@@ -442,42 +476,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
    "points": [
     "数学家想要证明 OpenAI 没有使用他们的工作成果"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能标记语言",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-09",
-   "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Markup_Language",
-   "points": [
-    "人工智能标记语言"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Anthropic 正在建立一个预测监视系统来监控活动人士",
-   "duration": "—",
-   "heat": 311,
-   "updated": "2026-09-09",
-   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-   "points": [
-    "Anthropic 正在建立一个预测监视系统来监控活动人士"
    ],
    "flags": {
     "fav": false,
