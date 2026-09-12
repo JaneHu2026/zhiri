@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:26",
- "fetchedDate": "2026-09-12",
+ "fetchedAt": "07:51",
+ "fetchedDate": "2026-09-13",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,14 +9,24 @@
    "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTIaEv3OOE7oCKlLwxCWN8E260912.shtml",
+   "url": "https://news.cctv.com/2026/09/12/ARTIza5J0YnjRAyB0vGyCTm5260912.shtml",
    "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋｜",
+   "title": "习近平总结金砖20年发展成就｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/12/ARTITwzHIbGJyYoSBgJGef1J260912.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "金砖国家要坚定站在历史正确一边，勇做时代先锋｜",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/12/ARTIgVXgr5fV0TDqnXrE4rxl260912.shtml",
@@ -26,11 +36,11 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用",
+   "title": "携手推动构建人类命运共同体｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTIaevWnV7oWm2WHH0AwznW260912.shtml",
-   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。",
+   "url": "https://news.cctv.com/2026/09/12/ARTIyuLVoQADcB9ayoKXKABB260912.shtml",
+   "summary": "习近平主席“四个先锋”的主张环环相扣、有机统一，构筑起金砖国家勇担时代使命的完整行动框架，有着重要的引领作用。团结合作，始终是金砖合作机制事业发展、生生不息的力量源泉。只要坚持坦诚相待、求同存异，尊重彼此核心关切，以沟通对话增进相互理解、妥处矛盾分歧，就能确保金砖合作行稳致远。",
    "day": 0
   },
   {
@@ -56,31 +66,31 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
+   "title": "习近平会见印度总理莫迪",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTIqEjFOM0bjdAEK5zSnU6s260912.shtml",
-   "summary": "当地时间9月12日中午，国家主席习近平乘专机抵达新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。习近平抵达新德里帕拉姆空军基地时，印度政府高级官员热情迎接。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "当地时间9月12日中午，国家主席习近平乘专机抵达新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTIqEjFOM0bjdAEK5zSnU6s260912.shtml",
+   "url": "https://news.cctv.com/2026/09/13/ARTInFmyrnLMf2ZH8TrMLBfB260912.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "习近平总结金砖20年发展成就",
+   "theme": "政策",
+   "title": "当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTITwzHIbGJyYoSBgJGef1J260912.shtml",
+   "url": "https://news.cctv.com/2026/09/13/ARTInFmyrnLMf2ZH8TrMLBfB260912.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+   "summary": "这一呼吁发出之际，人们越来越担心人工智能模型可能会在全球范围内造成严重损害。",
    "day": 0
   },
   {
@@ -96,11 +106,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普访问爱尔兰期间表示，统一的爱尔兰将是“太棒了”",
+   "title": "特朗普关于统一爱尔兰的言论可能瞄准了大西洋彼岸的受众",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-   "summary": "特朗普将在都柏林举行会议，然后参加在克莱尔郡敦贝格举行的爱尔兰高尔夫公开赛。",
+   "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+   "summary": "没有人能预料到今天的全球头条新闻会是特朗普希望看到一个统一的爱尔兰。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "智利疗养院发生火灾 16人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+   "summary": "智利中部阿劳卡尼亚地区的家中有十人被疏散。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国官员调查是否恶意行为导致火车脱轨",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，周五一列客运列车相撞，造成 44 人受伤，在铁轨上发现了铁轨碎片。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "乌干达国王奥约下葬，呼吁团结一致支持继任者",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+   "summary": "一位电视新闻主持人被任命为托罗传统王国的新君主，但已故国王的家人声称他选择了一位继承人。",
    "day": 0
   },
   {
@@ -116,51 +156,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "菲律宾渡轮火灾死亡人数升至35人，仍有数十人失踪",
+   "title": "菲律宾渡轮火灾死亡人数上升至76人，仍有更多人失踪",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
    "summary": "该国海岸警卫队表示，由于有毒烟雾和挥之不去的高温，接近这艘烧毁的船只的速度已经放缓。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“这就像一只狗向我们放行”——对肯尼亚镇压外国贸易商的担忧",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-   "summary": "随着受惊的移民逃离该国，当局一直在努力控制影响。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法国客运列车出轨 至少44人受伤",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-   "summary": "当地官员称，诺曼底鲁昂-卡昂航线的火车上共有 186 名乘客。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法国创纪录的热浪将使香槟变得更烈",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-   "summary": "在一次不同寻常的收获后，酿酒师可以生产出酒精度高达 15% 的起泡酒，从而生产出更甜的葡萄。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "密西西比州黑人妇女被发现吊死在树上被捕",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-   "summary": "八月，塔西娅·福琼的尸体在密西西比州一处废弃房屋的空地上被发现。",
    "day": 0
   }
  ]

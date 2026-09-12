@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:27",
- "fetchedDate": "2026-09-12",
+ "fetchedAt": "07:52",
+ "fetchedDate": "2026-09-13",
  "source": "zhiri-server",
  "items": [
   {
@@ -103,7 +103,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "11 分钟内完成 GPT 6 阿斯特拉！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "不登校芹菜",
    "title": "I can't wait x 忘情牛肉面  但是gumi唱",
    "duration": "0:33",
-   "heat": 492102,
-   "updated": "2026-09-12T13:27:14.336759",
+   "heat": 534441,
+   "updated": "2026-09-12T23:52:37.829680",
    "url": "https://www.bilibili.com/video/BV1bqYJ6sEVD",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390966,
-   "updated": "2026-09-12T13:27:14.336768",
+   "heat": 390967,
+   "updated": "2026-09-12T23:52:37.829691",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -186,7 +186,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653419,
-   "updated": "2026-09-12T13:27:14.336771",
+   "updated": "2026-09-12T23:52:37.829692",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557467,
-   "updated": "2026-09-12T13:27:14.336773",
+   "heat": 557468,
+   "updated": "2026-09-12T23:52:37.829694",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -218,11 +218,9 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155644,
-   "updated": "2026-09-12T13:27:14.336775",
+   "updated": "2026-09-12T23:52:37.829696",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [
-    "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
-   ],
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -235,10 +233,12 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611447,
-   "updated": "2026-09-12T13:27:14.336778",
+   "heat": 611448,
+   "updated": "2026-09-12T23:52:37.829697",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -251,8 +251,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659408,
-   "updated": "2026-09-12T13:27:14.336780",
+   "heat": 2659416,
+   "updated": "2026-09-12T23:52:37.829699",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -268,7 +268,7 @@
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
    "heat": 58674,
-   "updated": "2026-09-12T13:27:14.336782",
+   "updated": "2026-09-12T23:52:37.829700",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -281,28 +281,10 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "AirPods 5首发评测",
-   "duration": "—",
-   "heat": 7728606,
-   "updated": "2026-09-12T13:27:14.336784",
-   "url": "https://www.douyin.com/search/AirPods%205%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B?type=general",
-   "points": [
-    "热门话题「AirPods 5首发评测」：相关视频 3 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
    "title": "解锁AI韩剧生存模式",
    "duration": "—",
-   "heat": 7718035,
-   "updated": "2026-09-12T13:27:14.336786",
+   "heat": 7689706,
+   "updated": "2026-09-12T23:52:37.829702",
    "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F?type=general",
    "points": [
     "热门话题「解锁AI韩剧生存模式」：相关视频 3 条"
@@ -320,7 +302,7 @@
    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-12T13:27:14.336788",
+   "updated": "2026-09-12T23:52:37.829704",
    "url": "https://www.qbitai.com/2026/09/487860.html",
    "points": [
     "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
@@ -338,7 +320,7 @@
    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-12T13:27:14.336790",
+   "updated": "2026-09-12T23:52:37.829706",
    "url": "https://www.qbitai.com/2026/09/487796.html",
    "points": [
     "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
@@ -356,7 +338,7 @@
    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-12T13:27:14.336792",
+   "updated": "2026-09-12T23:52:37.829707",
    "url": "https://www.qbitai.com/2026/09/487701.html",
    "points": [
     "FrontierMath Tier 4，饱和了"
@@ -374,7 +356,7 @@
    "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-12T13:27:14.336794",
+   "updated": "2026-09-12T23:52:37.829709",
    "url": "https://www.qbitai.com/2026/09/487631.html",
    "points": [],
    "flags": {
@@ -390,7 +372,7 @@
    "title": "啊？Anthropic最高320万招销售，只为服务Meta",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-12T13:27:14.336796",
+   "updated": "2026-09-12T23:52:37.829710",
    "url": "https://www.qbitai.com/2026/09/487573.html",
    "points": [],
    "flags": {
@@ -406,7 +388,7 @@
    "title": "不简单，“吃货快乐榜”也全面AI化了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-12T13:27:14.336798",
+   "updated": "2026-09-12T23:52:37.829712",
    "url": "https://www.qbitai.com/2026/09/487282.html",
    "points": [],
    "flags": {
@@ -419,13 +401,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能革命：第 2 部分 (2015)",
+   "title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
    "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-11",
-   "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html",
+   "heat": 4,
+   "updated": "2026-09-12",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
    "points": [
-    "人工智能革命：第 2 部分 (2015)"
+    "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "“我所有的受资助者都是蓝眼睛。”爱泼斯坦和科技黑暗意识形态",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-09-12",
+   "url": "https://www.codastory.com/authoritarian-tech/blue-eyes-epstein-artificial-intelligence-eugenics-silicon-valley/",
+   "points": [
+    "“我所有的受资助者都是蓝眼睛。”爱泼斯坦和科技黑暗意识形态"
    ],
    "flags": {
     "fav": false,
@@ -473,42 +473,6 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "忧心忡忡的人类研究人员警告说，人工智能“可能会杀死所有人类”",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-11",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-   "points": [
-    "忧心忡忡的人类研究人员警告说，人工智能“可能会杀死所有人类”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "五角大楼要求 OpenAI 提供人工智能，旨在很少说不",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-09-10",
-   "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-   "points": [
-    "五角大楼要求 OpenAI 提供人工智能，旨在很少说不"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
    "title": "旧 MacBook 使用镜子、网络摄像头和 AI 代理来编写自己的 AMD GPU 驱动程序",
    "duration": "—",
    "heat": 1,
@@ -516,6 +480,24 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/old-macbook-uses-a-mirror-webcam-and-ai-agent-to-code-its-own-amd-gpu-drivers-agent-first-omarchy-linux-debugs-itself-ai-can-check-its-own-progress-on-screen-in-real-time",
    "points": [
     "旧 MacBook 使用镜子、网络摄像头和 AI 代理来编写自己的 AMD GPU 驱动程序"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "每年 4 万美元的学校，人工智能在没有老师的情况下塑造每一节课",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-10",
+   "url": "https://www.cbsnews.com/news/alpha-school-artificial-intelligence/",
+   "points": [
+    "每年 4 万美元的学校，人工智能在没有老师的情况下塑造每一节课"
    ],
    "flags": {
     "fav": false,
