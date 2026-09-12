@@ -1,76 +1,166 @@
 {
- "fetchedAt": "12:23",
+ "fetchedAt": "21:26",
  "fetchedDate": "2026-09-12",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+   "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTIEHVPjpnlapc9JlkMZr5y260912.shtml",
-   "summary": "新华社北京9月12日电 9月12日上午，国家主席习近平乘专机赴新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
+   "url": "https://news.cctv.com/2026/09/12/ARTIaEv3OOE7oCKlLwxCWN8E260912.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤",
+   "title": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/12/VIDEwUfmgAXQMa5tQMp6bpKB260912.shtml",
-   "summary": "国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤：凝聚合力，推动“大金砖合作”高质量发展。",
+   "url": "https://news.cctv.com/2026/09/12/ARTIgVXgr5fV0TDqnXrE4rxl260912.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "赓续长征精神 奋进复兴征程｜福建宁化：红色热土 逐绿前行",
+   "title": "中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/12/VIDEBZX3Si4Q7IJ1c8QnVLi0260912.shtml",
+   "url": "https://news.cctv.com/2026/09/12/ARTIaevWnV7oWm2WHH0AwznW260912.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平：共担时代责任 勇做先锋力量",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/12/ARTIaEv3OOE7oCKlLwxCWN8E260912.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/12/ARTIaEv3OOE7oCKlLwxCWN8E260912.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/12/ARTIqEjFOM0bjdAEK5zSnU6s260912.shtml",
+   "summary": "当地时间9月12日中午，国家主席习近平乘专机抵达新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。习近平抵达新德里帕拉姆空军基地时，印度政府高级官员热情迎接。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月12日中午，国家主席习近平乘专机抵达新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/12/ARTIqEjFOM0bjdAEK5zSnU6s260912.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "2026服贸会，“新”在何处？",
+   "title": "习近平总结金砖20年发展成就",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/12/ARTIPs7BShmE2oPvxa0UBtjd260912.shtml",
-   "summary": "c7ff987358ea,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国“智造”圈粉海外客 入境游从“看风景”转向“看智造”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/12/VIDE6tahVX2G0d7UTO52Tm94260912.shtml",
-   "summary": "中国“智造”圈粉海外客：入境游从“看风景”转向“看智造”，感受中国创新活力。",
+   "url": "https://news.cctv.com/2026/09/12/ARTITwzHIbGJyYoSBgJGef1J260912.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+   "title": "沙特阿拉伯在伊拉克发动无人机袭击后关闭了主要石油管道",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+   "summary": "伊拉克撤换了一名军事指挥官，并对来自与伊朗接壤地区的袭击事件展开调查。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普访问爱尔兰期间表示，统一的爱尔兰将是“太棒了”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+   "summary": "特朗普将在都柏林举行会议，然后参加在克莱尔郡敦贝格举行的爱尔兰高尔夫公开赛。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "联合国官员告诉BBC，乌克兰面临自俄罗斯全面入侵以来“最艰难的冬天”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+   "summary": "一名联合国高级官员告诉英国广播公司，要争分夺秒地确保冬季获得电力和水。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "菲律宾渡轮火灾死亡人数升至35人，仍有数十人失踪",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+   "summary": "该国海岸警卫队表示，由于有毒烟雾和挥之不去的高温，接近这艘烧毁的船只的速度已经放缓。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+   "title": "“这就像一只狗向我们放行”——对肯尼亚镇压外国贸易商的担忧",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+   "summary": "随着受惊的移民逃离该国，当局一直在努力控制影响。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国客运列车出轨 至少44人受伤",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+   "summary": "当地官员称，诺曼底鲁昂-卡昂航线的火车上共有 186 名乘客。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国创纪录的热浪将使香槟变得更烈",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+   "summary": "在一次不同寻常的收获后，酿酒师可以生产出酒精度高达 15% 的起泡酒，从而生产出更甜的葡萄。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "密西西比州黑人妇女被发现吊死在树上被捕",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-   "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+   "summary": "八月，塔西娅·福琼的尸体在密西西比州一处废弃房屋的空地上被发现。",
    "day": 0
   }
  ]
