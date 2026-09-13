@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:10",
- "fetchedDate": "2026-09-13",
+ "fetchedAt": "07:57",
+ "fetchedDate": "2026-09-14",
  "source": "zhiri-server",
  "items": [
   {
@@ -86,41 +86,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "前人类研究人员告诉 BBC，人工智能工作人员“真正害怕”人类的未来",
+   "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-   "summary": "与此同时，这家人工智能公司的老板以存在“严重”风险为由，呼吁放慢该技术的开发速度。",
+   "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+   "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this mor",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "伊朗战争重塑金砖国家关系，但也暴露分歧",
+   "title": "Trump downplays warnings of AI risks, citing rivalry with China",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-   "summary": "金砖国家成员一致认为，他们需要一个新的全球秩序，但很难回答应该用什么来取代它以及如何实现这一秩序。",
+   "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+   "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "印度尼西亚渡轮在爪哇海倾覆 造成6人死亡、130人失踪",
+   "title": "Questions mount over what an AI 'slowdown' would look like",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+   "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Swedish party blocs tied after Sunday vote, projections say",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+   "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-   "summary": "船只和直升机正在搜寻因遭遇恶劣天气而在 Virgo Transport 8 号船上失踪的人员。",
+   "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "他们在发布有关查理·柯克的帖子后失去了工作，但有些人并不后悔",
+   "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-   "summary": "柯克遇刺后被解雇的一些人从雇主那里赢得了巨额赔偿，另一些人则不得不从头开始。",
+   "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+   "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Iran war reshapes Brics ties but also exposes divisions",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+   "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
    "day": 0
   },
   {
