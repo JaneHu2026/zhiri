@@ -1,76 +1,146 @@
 {
- "fetchedAt": "11:58",
+ "fetchedAt": "22:10",
  "fetchedDate": "2026-09-13",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
+   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平就深化金砖合作提出5项倡议 |",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
+   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单 |",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
+   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平：筑牢金砖合作根基 壮大全球南方力量",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
+   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
+   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平：共担时代责任 勇做先锋力量",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTI70BmqPWqDHxOVuDmJwvC260913.shtml",
+   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/13/ARTI70BmqPWqDHxOVuDmJwvC260913.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "习近平会见印度总理莫迪",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTInFmyrnLMf2ZH8TrMLBfB260912.shtml",
-   "summary": "当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTInFmyrnLMf2ZH8TrMLBfB260912.shtml",
-   "summary": "当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "金砖国家领导人第十八次会晤新德里宣言（摘要）",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIgZ3jPxN2nbAcInteEJiP260913.shtml",
-   "summary": "金砖国家领导人重申秉持互尊互谅、主权平等、团结民主、开放包容、深化合作、协商一致的金砖精神。在过去20年金砖合作基础上，进一步强化扩员后的金砖政治安全、经贸财金、人文交流“三轮驱动”合作。通过促进和平，构建更具代表性、更加公平的国际秩序，重振和改革多边体系，推动实现可持续发展和包容性增长，深化金砖战…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "金砖20年——看“大金砖合作”的共识与未来",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIVT8SRANJ4no03wWZid3N260913.shtml",
-   "summary": "习近平主席提到三个关键词深刻总结金砖20年发展成就，指出金砖合作机制正迈入“大金砖合作”高质量发展新阶段。面对百年变局，习近平主席强调“四个先锋”，为金砖合作贡献中国智慧、中国方案。习主席还宣布中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "透过数据看服贸会“成绩单” 中国服务贸易转型升级跑出“加速度”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTI9Wh69zwWk35eD3eP3yLl260913.shtml",
-   "summary": "2939cc8b2671,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "首个、首次、首台！本周我国硬核成果持续“上新”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTI0vDmlLy63axQWpUjTxiD260913.shtml",
-   "summary": "69f9ec177495,0,1,16:9,newPlayereabb999e0090,0,1,16:9,newPlayerb4ab59e927cc,0,1,16:9,newPlayerff27e2c3627a,0,1,16:9,newPlayerfed244334b54,0,1,16:9,newP…",
+   "url": "https://news.cctv.com/2026/09/13/ARTIHmoGblozIcrx7W6xvbgH260913.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+   "title": "前人类研究人员告诉 BBC，人工智能工作人员“真正害怕”人类的未来",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+   "summary": "与此同时，这家人工智能公司的老板以存在“严重”风险为由，呼吁放慢该技术的开发速度。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "伊朗战争重塑金砖国家关系，但也暴露分歧",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+   "summary": "金砖国家成员一致认为，他们需要一个新的全球秩序，但很难回答应该用什么来取代它以及如何实现这一秩序。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度尼西亚渡轮在爪哇海倾覆 造成6人死亡、130人失踪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+   "summary": "船只和直升机正在搜寻因遭遇恶劣天气而在 Virgo Transport 8 号船上失踪的人员。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "他们在发布有关查理·柯克的帖子后失去了工作，但有些人并不后悔",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+   "summary": "柯克遇刺后被解雇的一些人从雇主那里赢得了巨额赔偿，另一些人则不得不从头开始。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "财经",
+   "title": "服贸会中拉人士共探贸易合作增长新潜力",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797755.html",
+   "summary": "9月11日，参观者在2026年服贸会巴西馆品尝咖啡和巧克力。新华社记者魏梦佳摄 新华社北京9月13日电题：服贸会中拉人士共探贸易合作增长新潜力 新华社记者魏梦佳、林如萱、朱艺琳 在北京举办的",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "中国智能技术助力全球南方矿业发展",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797756.html",
+   "summary": "9月10日拍摄的矿业国际合作部长论坛暨2026中国国际矿业大会开幕式现场。新华社记者李然摄 新华社天津9月13日电题：中国智能技术助力全球南方矿业发展 新华社记者梁姊、郭方达、马博文 走进天",
    "day": 0
   }
  ]

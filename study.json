@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:59",
+ "fetchedAt": "22:11",
  "fetchedDate": "2026-09-13",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-09-11 14:10:01",
    "url": "https://www.youtube.com/watch?v=KSXm_KCMR60",
    "points": [
-    "有效的末日论"
+    "有效的厄运论"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +31,7 @@
    "updated": "2026-09-10 08:47:23",
    "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
    "points": [
-    "我从没想过我会看到这样的事情发生"
+    "我从没想过我会看到这种事发生"
    ],
    "flags": {
     "fav": false,
@@ -49,7 +49,7 @@
    "updated": "2026-09-08 08:24:27",
    "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
    "points": [
-    "GPT-6 Astra改变了一切"
+    "GPT-6 Astra 改变了一切"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2026-09-04 14:44:43",
    "url": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
    "points": [
-    "所有道路都通往GLM ！"
+    "条条大路都通GLM！"
    ],
    "flags": {
     "fav": false,
@@ -103,7 +103,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11分钟即可抵达GPT 6 Astra ！"
+    "11 分钟内完成 GPT 6 Astra！"
    ],
    "flags": {
     "fav": false,
@@ -121,7 +121,7 @@
    "updated": "2026-09-03 08:23:37",
    "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
    "points": [
-    "克劳德寓言AI比标题所暗示的更陌生"
+    "克劳德寓言人工智能比头条新闻所暗示的要奇怪得多"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +139,7 @@
    "updated": "2026-08-29 18:58:48",
    "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
    "points": [
-    "Minimax H3 Max感觉非法且快速！"
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -150,12 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "不登校芹菜",
-   "title": "I can't wait x 忘情牛肉面  但是gumi唱",
-   "duration": "0:33",
-   "heat": 548323,
-   "updated": "2026-09-13T03:59:45.045708",
-   "url": "https://www.bilibili.com/video/BV1bqYJ6sEVD",
+   "author": "kevinbparry",
+   "title": "Race chair",
+   "duration": "0:37",
+   "heat": 1063049,
+   "updated": "2026-09-13T14:11:39.497523",
+   "url": "https://www.bilibili.com/video/BV1kBtU6UEkm",
    "points": [],
    "flags": {
     "fav": false,
@@ -166,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "No_Tables",
-   "title": "元素战争：破晓 - 预告【HoYoFair × bilibilionly】",
-   "duration": "0:31",
-   "heat": 730438,
-   "updated": "2026-09-13T03:59:45.045722",
-   "url": "https://www.bilibili.com/video/BV1gUYN6DE1C",
+   "author": "一日三困",
+   "title": "【ai歌曲 皮嫁骨】喜庆版",
+   "duration": "6:21",
+   "heat": 392551,
+   "updated": "2026-09-13T14:11:39.497534",
+   "url": "https://www.bilibili.com/video/BV1kMY76iEVw",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390968,
-   "updated": "2026-09-13T03:59:45.045724",
+   "heat": 390971,
+   "updated": "2026-09-13T14:11:39.497536",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653419,
-   "updated": "2026-09-13T03:59:45.045727",
+   "heat": 653420,
+   "updated": "2026-09-13T14:11:39.497538",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557468,
-   "updated": "2026-09-13T03:59:45.045729",
+   "heat": 557470,
+   "updated": "2026-09-13T14:11:39.497541",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155644,
-   "updated": "2026-09-13T03:59:45.045732",
+   "heat": 155646,
+   "updated": "2026-09-13T14:11:39.497543",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -249,8 +249,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611449,
-   "updated": "2026-09-13T03:59:45.045734",
+   "heat": 611450,
+   "updated": "2026-09-13T14:11:39.497545",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -265,10 +265,64 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659420,
-   "updated": "2026-09-13T03:59:45.045736",
+   "heat": 2659428,
+   "updated": "2026-09-13T14:11:39.497547",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI巨头按下“IPO暂停键”",
+   "duration": "—",
+   "heat": 7827363,
+   "updated": "2026-09-13T14:11:39.497549",
+   "url": "https://www.douyin.com/search/AI%E5%B7%A8%E5%A4%B4%E6%8C%89%E4%B8%8B%E2%80%9CIPO%E6%9A%82%E5%81%9C%E9%94%AE%E2%80%9D?type=general",
+   "points": [
+    "热门话题「AI巨头按下“IPO暂停键”」：相关视频 2 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "解锁AI韩剧生存模式",
+   "duration": "—",
+   "heat": 7692148,
+   "updated": "2026-09-13T14:11:39.497552",
+   "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F?type=general",
+   "points": [
+    "热门话题「解锁AI韩剧生存模式」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-13T14:11:39.497554",
+   "url": "https://www.qbitai.com/2026/09/488672.html",
+   "points": [
+    "亮源新创的Physical Al路线清晰了"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +336,7 @@
    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-13T03:59:45.045738",
+   "updated": "2026-09-13T14:11:39.497556",
    "url": "https://www.qbitai.com/2026/09/487860.html",
    "points": [
     "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
@@ -300,7 +354,7 @@
    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-13T03:59:45.045740",
+   "updated": "2026-09-13T14:11:39.497558",
    "url": "https://www.qbitai.com/2026/09/487796.html",
    "points": [
     "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
@@ -318,7 +372,7 @@
    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-13T03:59:45.045742",
+   "updated": "2026-09-13T14:11:39.497559",
    "url": "https://www.qbitai.com/2026/09/487701.html",
    "points": [
     "FrontierMath Tier 4，饱和了"
@@ -333,11 +387,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+   "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-13T03:59:45.045744",
-   "url": "https://www.qbitai.com/2026/09/487631.html",
+   "updated": "2026-09-13T14:11:39.497561",
+   "url": "https://www.qbitai.com/2026/09/487688.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -349,27 +403,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+   "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-13T03:59:45.045746",
-   "url": "https://www.qbitai.com/2026/09/487573.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-13T03:59:45.045748",
-   "url": "https://www.qbitai.com/2026/09/487415.html",
+   "updated": "2026-09-13T14:11:39.497563",
+   "url": "https://www.qbitai.com/2026/09/487653.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -381,13 +419,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "OpenAI的流氓AI在5月份试图入侵另一家公司",
+   "title": "中国军事研究人员被发现利用克劳德进行防空和武器研究",
    "duration": "—",
-   "heat": 4,
+   "heat": 1,
+   "updated": "2026-09-13",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
+   "points": [
+    "中国军事研究人员被发现利用克劳德进行防空和武器研究"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
+   "duration": "—",
+   "heat": 5,
    "updated": "2026-09-12",
    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
    "points": [
-    "OpenAI的流氓AI在5月份试图入侵另一家公司"
+    "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司"
    ],
    "flags": {
     "fav": false,
@@ -399,13 +455,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "“我所有的被资助者都有蓝眼睛。“爱泼斯坦和科技黑暗意识形态",
+   "title": "“我所有的受资助者都是蓝眼睛。”爱泼斯坦和科技黑暗意识形态",
    "duration": "—",
-   "heat": 6,
+   "heat": 10,
    "updated": "2026-09-12",
    "url": "https://www.codastory.com/authoritarian-tech/blue-eyes-epstein-artificial-intelligence-eugenics-silicon-valley/",
    "points": [
-    "“我所有的被资助者都有蓝眼睛。“爱泼斯坦和科技黑暗意识形态"
+    "“我所有的受资助者都是蓝眼睛。”爱泼斯坦和科技黑暗意识形态"
    ],
    "flags": {
     "fav": false,
@@ -417,13 +473,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能革命：第2部分（ 2015 ）",
+   "title": "人工智能革命：第 2 部分 (2015)",
    "duration": "—",
    "heat": 2,
    "updated": "2026-09-11",
    "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html",
    "points": [
-    "人工智能革命：第2部分（ 2015 ）"
+    "人工智能革命：第 2 部分 (2015)"
    ],
    "flags": {
     "fav": false,
@@ -453,31 +509,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "AI歇斯底里跳鲨鱼",
+   "title": "人工智能歇斯底里跳过鲨鱼",
    "duration": "—",
    "heat": 3,
    "updated": "2026-09-11",
    "url": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
    "points": [
-    "AI歇斯底里跳鲨鱼"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "担忧的人类学研究人员警告说，人工智能“可能会杀死所有人类”",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-11",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-   "points": [
-    "担忧的人类学研究人员警告说，人工智能“可能会杀死所有人类”"
+    "人工智能歇斯底里跳过鲨鱼"
    ],
    "flags": {
     "fav": false,
