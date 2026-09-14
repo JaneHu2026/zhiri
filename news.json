@@ -1,86 +1,116 @@
 {
- "fetchedAt": "07:57",
+ "fetchedAt": "12:41",
  "fetchedDate": "2026-09-14",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+   "title": "时政新闻眼丨“大金砖”如何实现大发展？习近平提出这些倡议",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
+   "url": "https://news.cctv.com/2026/09/14/ARTIxqDdxSTQGBzhmAAq4sf5260914.shtml",
+   "summary": "当地时间9月13日上午，习近平主席在新德里出席金砖国家领导人第十八次会晤第二阶段会议，发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话，鲜明指出“大金砖”要有大作为、实现大发展，就必须筑牢务实合作根基。《时政新闻眼》为你解读。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/14/ARTIcgbA7n3xridk13mSjZs6260914.shtml",
+   "summary": "2026年9月12日至13日，国家主席习近平应邀赴印度出席金砖国家领导人第十八次会晤。行程结束之际，中共中央政治局委员、外交部长王毅向随行记者介绍此访情况。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "大国外交最前线丨凝聚金砖共识 共同书写全球南方团结自强新篇章",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/14/ARTIZi2YcJyplBasrwjK5QOy260914.shtml",
    "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平就深化金砖合作提出5项倡议 |",
+   "title": "秋粮收获在即 全链条护航粮食颗粒归仓",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
-   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单 |",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
-   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平：筑牢金砖合作根基 壮大全球南方力量",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
-   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIQi14YWEGYofaw38x0jSG260913.shtml",
-   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平：共担时代责任 勇做先锋力量",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTI70BmqPWqDHxOVuDmJwvC260913.shtml",
-   "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTI70BmqPWqDHxOVuDmJwvC260913.shtml",
+   "url": "https://tv.cctv.com/2026/09/14/VIDEEbr1zghvcFUR3sIxkJCa260914.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平会见印度总理莫迪",
+   "title": "最新、最强、最大 盘点平陆运河多重硬核实力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/13/ARTIHmoGblozIcrx7W6xvbgH260913.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://tv.cctv.com/2026/09/14/VIDEYYn745lcMhmzCQ828gF5260914.shtml",
+   "summary": "平陆运河9月16日通航，全线准备就绪·平陆运河关键词：“最”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "2026《中国好人》 致敬平凡中铸就不凡的中国人",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/14/VIDEtU1iEZq2cxSoGEINQiHg260914.shtml",
+   "summary": "本期节目主要内容： 2026年是中国共产党成立105周年，是红军长征胜利90周年，也是“十五五”开局之年。在这样一个历史交汇点上，我们共同相聚于此，礼赞中国好人，不仅是向好人致敬，也是致敬时代，致敬信仰，致敬每一位在平凡之中创造不凡的中国人。（《中国好人》 20260913）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国好人特别节目礼赞凡人微光 传递文明薪火",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260914/5c9e4e89f295406f957c198d85601967/c.html",
+   "summary": "中国好人特别节目礼赞凡人微光 传递文明薪火-\"在节目现场，2025年上榜中国好人代表动情讲述了助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲的故事。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "贵州全面推行急难事项“小额快救”",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260914/6658032c67e74c98a8132298bbf1849c/c.html",
+   "summary": "贵州全面推行急难事项“小额快救”-\"在实施“小额快救”后基本生活仍然存在困难的，可按程序申请常规临时救助。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "杭州：124件玉琮首聚良渚博物院“琮谱”特展",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260914/c347e08c2e9f4d5eb81c4bd045ad1968/c.html",
+   "summary": "杭州：124件玉琮首聚良渚博物院“琮谱”特展- 12日，“琮谱——良渚遗址发现九十周年特展”在浙江杭州良渚博物院开展。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "湖北推出系列秋日文旅消费举措",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260914/3e58971774d34a40916d4cfd2876f35a/c.html",
+   "summary": "湖北推出系列秋日文旅消费举措-新华社记者 杜子璇 摄 9月13日，人们在武汉汉口历史风貌区游览拍照。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "安徽黄梅戏经典荟萃亮相台北",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20260914/9d3574a919e4446eb4f1b5185f2c29dc/c.html",
+   "summary": "安徽黄梅戏经典荟萃亮相台北- 9月13日，演员表演黄梅戏经典唱段《天仙配·路遇》（手机照片）。",
    "day": 0
   },
   {
@@ -90,97 +120,37 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-   "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this mor",
+   "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this mo",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-   "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Questions mount over what an AI 'slowdown' would look like",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-   "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Swedish party blocs tied after Sunday vote, projections say",
+   "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-   "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-   "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Iran war reshapes Brics ties but also exposes divisions",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-   "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "财经",
-   "title": "服贸会中拉人士共探贸易合作增长新潜力",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797755.html",
-   "summary": "9月11日，参观者在2026年服贸会巴西馆品尝咖啡和巧克力。新华社记者魏梦佳摄 新华社北京9月13日电题：服贸会中拉人士共探贸易合作增长新潜力 新华社记者魏梦佳、林如萱、朱艺琳 在北京举办的",
+   "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "中国智能技术助力全球南方矿业发展",
+   "title": "瑞典议会选举开始投票",
    "source": "人民网",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797756.html",
-   "summary": "9月10日拍摄的矿业国际合作部长论坛暨2026中国国际矿业大会开幕式现场。新华社记者李然摄 新华社天津9月13日电题：中国智能技术助力全球南方矿业发展 新华社记者梁姊、郭方达、马博文 走进天",
+   "url": "http://world.people.com.cn/n1/2026/0914/c1002-40798288.html",
+   "summary": "瑞典议会选举13日上午开始投票。此次选举将产生新一届全国议会，并影响未来瑞典政府组成和政策走向。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "印尼失联客轮已有约110人获救",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0914/c1002-40798293.html",
+   "summary": "印度尼西亚国家搜救局9月13日说，此前在爪哇海海域失联的一艘客轮已经沉没。目前已确认有1人遇难、约110人获救，另有约130人仍在搜寻中。",
    "day": 0
   }
  ]
