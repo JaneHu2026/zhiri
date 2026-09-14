@@ -1,8 +1,26 @@
 {
- "fetchedAt": "12:42",
- "fetchedDate": "2026-09-14",
+ "fetchedAt": "00:15",
+ "fetchedDate": "2026-09-15",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Everything is LLM - Vibe coding a robot task",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-14 15:11:08",
+   "url": "https://www.youtube.com/watch?v=OIw6zY_AQOg",
+   "points": [
+    "一切都是LLM -氛围编码机器人任务"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -131,16 +149,30 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Minimax H3 Max feels ILLEGAL and FAST!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-29 18:58:48",
-   "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
-   "points": [
-    "Minimax H3 Max感觉非法且快速！"
-   ],
+   "platform": "bilibili",
+   "author": "SillyZ_Official",
+   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+   "duration": "9:38",
+   "heat": 1057755,
+   "updated": "2026-09-14T16:15:26.043537",
+   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "高情厚意",
+   "title": "【4K】由安吉拉制作的月计最强安吉拉（ai）手书|Mikumiku ooeeoo~完整版（完全替换）",
+   "duration": "1:17",
+   "heat": 258783,
+   "updated": "2026-09-14T16:15:26.043547",
+   "url": "https://www.bilibili.com/video/BV1EuYm6EEHy",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -153,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390975,
-   "updated": "2026-09-14T04:42:55.784790",
+   "heat": 390986,
+   "updated": "2026-09-14T16:15:26.043549",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -170,7 +202,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653421,
-   "updated": "2026-09-14T04:42:55.784802",
+   "updated": "2026-09-14T16:15:26.043552",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -185,8 +217,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557471,
-   "updated": "2026-09-14T04:42:55.784804",
+   "heat": 557475,
+   "updated": "2026-09-14T16:15:26.043554",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -202,7 +234,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155646,
-   "updated": "2026-09-14T04:42:55.784807",
+   "updated": "2026-09-14T16:15:26.043556",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -217,8 +249,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611450,
-   "updated": "2026-09-14T04:42:55.784810",
+   "heat": 611455,
+   "updated": "2026-09-14T16:15:26.043558",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -233,8 +265,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659438,
-   "updated": "2026-09-14T04:42:55.784812",
+   "heat": 2659452,
+   "updated": "2026-09-14T16:15:26.043560",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -245,47 +277,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "CG迷李辰",
-   "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
-   "duration": "21:11",
-   "heat": 58675,
-   "updated": "2026-09-14T04:42:55.784814",
-   "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "AI斌工厂",
-   "title": "你永远猜不到真正用途的蹦跶机器人",
-   "duration": "0:37",
-   "heat": 1015298,
-   "updated": "2026-09-14T04:42:55.784816",
-   "url": "https://www.bilibili.com/video/BV14rZVYvEdC",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "我国实现一体化算力统筹监测",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
    "duration": "—",
-   "heat": 11777921,
-   "updated": "2026-09-14T04:42:55.784818",
-   "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%BD%93%E5%8C%96%E7%AE%97%E5%8A%9B%E7%BB%9F%E7%AD%B9%E7%9B%91%E6%B5%8B?type=general",
+   "heat": 0,
+   "updated": "2026-09-14T16:15:26.043563",
+   "url": "https://www.qbitai.com/2026/09/489105.html",
    "points": [
-    "热门话题「我国实现一体化算力统筹监测」：相关视频 2 条"
+    "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
    ],
    "flags": {
     "fav": false,
@@ -297,47 +297,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+   "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-14T04:42:55.784821",
-   "url": "https://www.qbitai.com/2026/09/488832.html",
-   "points": [
-    "小模型突破瓶颈，旗舰模型打开新空间"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-14T04:42:55.784823",
-   "url": "https://www.qbitai.com/2026/09/488725.html",
-   "points": [
-    "这家中国公司，刚跑完了物理闭环里最难的一段路"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-14T04:42:55.784825",
-   "url": "https://www.qbitai.com/2026/09/488699.html",
+   "updated": "2026-09-14T16:15:26.043564",
+   "url": "https://www.qbitai.com/2026/09/489106.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -349,13 +313,29 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+   "title": "探索RSI，生数新世界模型让机器人开始自我进化",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-14T04:42:55.784827",
-   "url": "https://www.qbitai.com/2026/09/488694.html",
+   "updated": "2026-09-14T16:15:26.043566",
+   "url": "https://www.qbitai.com/2026/09/489037.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "分子之心QuantaMind登Science Advances，让AI给分子世界&#8221;拍电影&#8221;",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-14T16:15:26.043568",
+   "url": "https://www.qbitai.com/2026/09/489023.html",
    "points": [
-    "模型、论文都还没出，没想到先从财务公告上剧透了"
+    "AI 蛋白质设计迈入“动态时代”"
    ],
    "flags": {
     "fav": false,
@@ -367,14 +347,12 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+   "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-14T04:42:55.784829",
-   "url": "https://www.qbitai.com/2026/09/488672.html",
-   "points": [
-    "亮源新创的Physical Al路线清晰了"
-   ],
+   "updated": "2026-09-14T16:15:26.043570",
+   "url": "https://www.qbitai.com/2026/09/488912.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -385,13 +363,67 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+   "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-14T04:42:55.784831",
-   "url": "https://www.qbitai.com/2026/09/487860.html",
+   "updated": "2026-09-14T16:15:26.043572",
+   "url": "https://www.qbitai.com/2026/09/488875.html",
    "points": [
-    "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+    "共话AI时代的生活、影像与创造。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Timnit Gebru表示人工智能需要减速（ 2021年）",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-14",
+   "url": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+   "points": [
+    "Timnit Gebru表示人工智能需要减速（ 2021年）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Alexa +新一代Alexa",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-14",
+   "url": "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence",
+   "points": [
+    "Alexa +新一代Alexa"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能对教育效益的“不存在”研究",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-14",
+   "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/09/14/nonexistent-research-ais-benefits-education",
+   "points": [
+    "人工智能对教育效益的“不存在”研究"
    ],
    "flags": {
     "fav": false,
@@ -405,7 +437,7 @@
    "author": "Hacker News",
    "title": "伯尼·桑德斯（ Bernie Sanders ）提议对追求ASI计划的开发商判处20年徒刑",
    "duration": "—",
-   "heat": 13,
+   "heat": 16,
    "updated": "2026-09-14",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
    "points": [
@@ -423,7 +455,7 @@
    "author": "Hacker News",
    "title": "人工智能的恶意使用",
    "duration": "—",
-   "heat": 25,
+   "heat": 78,
    "updated": "2026-09-14",
    "url": "https://arxiv.org/abs/1802.07228",
    "points": [
@@ -441,65 +473,11 @@
    "author": "Hacker News",
    "title": "机会主义人工智能使用常规非对比度CT检测结直肠癌",
    "duration": "—",
-   "heat": 5,
+   "heat": 6,
    "updated": "2026-09-14",
    "url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
    "points": [
     "机会主义人工智能使用常规非对比度CT检测结直肠癌"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能的五大优缺点是什么？",
-   "duration": "—",
-   "heat": 7,
-   "updated": "2026-09-13",
-   "url": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence",
-   "points": [
-    "人工智能的五大优缺点是什么？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能公司Joonko前首席执行官对证券欺诈认罪",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-13",
-   "url": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
-   "points": [
-    "人工智能公司Joonko前首席执行官对证券欺诈认罪"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "工程师将模拟的苍蝇大脑变成加密货币日内交易者",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-13",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
-   "points": [
-    "工程师将模拟的苍蝇大脑变成加密货币日内交易者"
    ],
    "flags": {
     "fav": false,

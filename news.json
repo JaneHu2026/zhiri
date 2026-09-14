@@ -1,12 +1,12 @@
 {
- "fetchedAt": "12:41",
- "fetchedDate": "2026-09-14",
+ "fetchedAt": "00:14",
+ "fetchedDate": "2026-09-15",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政新闻眼丨“大金砖”如何实现大发展？习近平提出这些倡议",
+   "title": "“大金砖”如何实现大发展？习近平提出这些倡议｜",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/14/ARTIxqDdxSTQGBzhmAAq4sf5260914.shtml",
@@ -16,51 +16,71 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+   "title": "为全球南方聚力 启金砖合作新程｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/14/ARTIcgbA7n3xridk13mSjZs6260914.shtml",
-   "summary": "2026年9月12日至13日，国家主席习近平应邀赴印度出席金砖国家领导人第十八次会晤。行程结束之际，中共中央政治局委员、外交部长王毅向随行记者介绍此访情况。",
+   "url": "https://news.cctv.com/2026/09/14/ARTIhVWllZEu4jsSqakOiSW3260914.shtml",
+   "summary": "一是为金砖合作增效。在开放包容、合作共赢的金砖精神引领下，金砖国家形成全方位、多层次合作架构，成为名副其实的全球南方第一方阵、南南合作的首要平台。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "大国外交最前线丨凝聚金砖共识 共同书写全球南方团结自强新篇章",
+   "title": "为全球南方聚力 启金砖合作新程",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/14/ARTIZi2YcJyplBasrwjK5QOy260914.shtml",
-   "summary": "当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。",
+   "url": "https://news.cctv.com/2026/09/14/ARTIhVWllZEu4jsSqakOiSW3260914.shtml",
+   "summary": "一是为金砖合作增效。在开放包容、合作共赢的金砖精神引领下，金砖国家形成全方位、多层次合作架构，成为名副其实的全球南方第一方阵、南南合作的首要平台。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "秋粮收获在即 全链条护航粮食颗粒归仓",
+   "theme": "财经",
+   "title": "人气旺成果丰！关键词解锁服贸会上的经济新机遇",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/14/VIDEEbr1zghvcFUR3sIxkJCa260914.shtml",
+   "url": "https://news.cctv.com/2026/09/14/ARTIeZCU46N2g3jOWFPycgTw260914.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "抓好秋粮生产 保障粮食丰收",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/14/ARTINqETX0jfIpXemEDZxM0R260914.shtml",
+   "summary": "b8f9ee539afc,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "奋力实现“十五五”良好开局｜四川加快建设清洁能源强省",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/14/ARTIQkE6rtwHwC8RVakTvrGM260914.shtml",
+   "summary": "e5ae5d53d3f8,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "数字掌控、运河“智”变 这项世纪工程藏着多少“黑科技”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/14/ARTIEuXhYpsATCvRMR8PQ4Iz260914.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "最新、最强、最大 盘点平陆运河多重硬核实力",
+   "title": "成功跨越黄河！“陇电入浙”工程甘肃段全线贯通",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/14/VIDEYYn745lcMhmzCQ828gF5260914.shtml",
-   "summary": "平陆运河9月16日通航，全线准备就绪·平陆运河关键词：“最”。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "2026《中国好人》 致敬平凡中铸就不凡的中国人",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/14/VIDEtU1iEZq2cxSoGEINQiHg260914.shtml",
-   "summary": "本期节目主要内容： 2026年是中国共产党成立105周年，是红军长征胜利90周年，也是“十五五”开局之年。在这样一个历史交汇点上，我们共同相聚于此，礼赞中国好人，不仅是向好人致敬，也是致敬时代，致敬信仰，致敬每一位在平凡之中创造不凡的中国人。（《中国好人》 20260913）",
+   "url": "https://news.cctv.com/2026/09/14/ARTI9Yx0iDlu3pgapsnIJCFm260914.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -116,6 +136,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "China criticises idea it is in 'malicious competition' over AI",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+   "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
    "source": "BBC",
    "time": "今天",
@@ -126,11 +156,61 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "Thousands demand end to violence in Mexican cartel hotspot",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+   "summary": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-   "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+   "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Body of missing runner found in South Africa",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+   "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+   "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+   "summary": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
    "day": 0
   },
   {
