@@ -1,5 +1,5 @@
 {
- "fetchedAt": "08:24",
+ "fetchedAt": "14:02",
  "fetchedDate": "2026-09-15",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "SillyZ_Official",
    "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
    "duration": "9:38",
-   "heat": 1143991,
-   "updated": "2026-09-15T00:24:30.763095",
+   "heat": 1227255,
+   "updated": "2026-09-15T06:02:04.437655",
    "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390989,
-   "updated": "2026-09-15T00:24:30.763106",
+   "heat": 390991,
+   "updated": "2026-09-15T06:02:04.437666",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -186,7 +186,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653422,
-   "updated": "2026-09-15T00:24:30.763108",
+   "updated": "2026-09-15T06:02:04.437669",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -202,7 +202,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557476,
-   "updated": "2026-09-15T00:24:30.763110",
+   "updated": "2026-09-15T06:02:04.437671",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -218,7 +218,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155646,
-   "updated": "2026-09-15T00:24:30.763112",
+   "updated": "2026-09-15T06:02:04.437672",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -234,9 +234,11 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611455,
-   "updated": "2026-09-15T00:24:30.763114",
+   "updated": "2026-09-15T06:02:04.437674",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
+   "points": [
+    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -249,8 +251,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659453,
-   "updated": "2026-09-15T00:24:30.763115",
+   "heat": 2659460,
+   "updated": "2026-09-15T06:02:04.437676",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -265,8 +267,8 @@
    "author": "CG迷李辰",
    "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
    "duration": "21:11",
-   "heat": 58676,
-   "updated": "2026-09-15T00:24:30.763117",
+   "heat": 58677,
+   "updated": "2026-09-15T06:02:04.437678",
    "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
    "points": [],
    "flags": {
@@ -277,15 +279,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "苹果推出Siri人工智能",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T00:24:30.763119",
-   "url": "https://www.qbitai.com/2026/09/489105.html",
+   "heat": 10454512,
+   "updated": "2026-09-15T06:02:04.437680",
+   "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BASiri%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD?type=general",
    "points": [
-    "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
+    "热门话题「苹果推出Siri人工智能」：相关视频 6 条"
    ],
    "flags": {
     "fav": false,
@@ -295,81 +297,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "世界人工智能合作组织",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T00:24:30.763121",
-   "url": "https://www.qbitai.com/2026/09/489106.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T00:24:30.763123",
-   "url": "https://www.qbitai.com/2026/09/489037.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "分子之心QuantaMind登Science Advances，让AI给分子世界&#8221;拍电影&#8221;",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T00:24:30.763124",
-   "url": "https://www.qbitai.com/2026/09/489023.html",
+   "heat": 1,
+   "updated": "2026-09-15",
+   "url": "https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization",
    "points": [
-    "AI 蛋白质设计迈入“动态时代”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T00:24:30.763126",
-   "url": "https://www.qbitai.com/2026/09/488912.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T00:24:30.763128",
-   "url": "https://www.qbitai.com/2026/09/488875.html",
-   "points": [
-    "共话AI时代的生活、影像与创造。"
+    "世界人工智能合作组织"
    ],
    "flags": {
     "fav": false,
@@ -460,24 +396,6 @@
    "url": "https://arxiv.org/abs/1802.07228",
    "points": [
     "人工智能的恶意使用"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "机会性 AI 使用常规非造影 CT 检测结直肠癌",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-09-14",
-   "url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
-   "points": [
-    "机会性 AI 使用常规非造影 CT 检测结直肠癌"
    ],
    "flags": {
     "fav": false,
