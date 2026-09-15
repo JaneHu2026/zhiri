@@ -1,5 +1,5 @@
 {
- "fetchedAt": "14:02",
+ "fetchedAt": "22:44",
  "fetchedDate": "2026-09-15",
  "source": "zhiri-server",
  "items": [
@@ -153,9 +153,25 @@
    "author": "SillyZ_Official",
    "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
    "duration": "9:38",
-   "heat": 1227255,
-   "updated": "2026-09-15T06:02:04.437655",
+   "heat": 1457038,
+   "updated": "2026-09-15T14:44:11.500472",
    "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "罐头Visuals",
+   "title": "高分AI短片《人生反悔局》：解不开的：“如果当初”",
+   "duration": "6:07",
+   "heat": 455192,
+   "updated": "2026-09-15T14:44:11.500485",
+   "url": "https://www.bilibili.com/video/BV1DhYQ6UEpe",
    "points": [],
    "flags": {
     "fav": false,
@@ -169,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390991,
-   "updated": "2026-09-15T06:02:04.437666",
+   "heat": 390994,
+   "updated": "2026-09-15T14:44:11.500487",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -186,7 +202,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653422,
-   "updated": "2026-09-15T06:02:04.437669",
+   "updated": "2026-09-15T14:44:11.500488",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -201,8 +217,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557476,
-   "updated": "2026-09-15T06:02:04.437671",
+   "heat": 557480,
+   "updated": "2026-09-15T14:44:11.500490",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -218,7 +234,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155646,
-   "updated": "2026-09-15T06:02:04.437672",
+   "updated": "2026-09-15T14:44:11.500491",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -233,12 +249,10 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611455,
-   "updated": "2026-09-15T06:02:04.437674",
+   "heat": 611457,
+   "updated": "2026-09-15T14:44:11.500493",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [
-    "华为的产品咱们已经做过不少视频了，好像就电视聊的不多。华为前几天刚发布了全新的华为智慧屏 S6 Pro，咱们就借这个机会好好聊一聊，这台鸿蒙AI电视，到底有哪些升级。"
-   ],
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -251,8 +265,8 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659460,
-   "updated": "2026-09-15T06:02:04.437676",
+   "heat": 2659484,
+   "updated": "2026-09-15T14:44:11.500495",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
@@ -263,13 +277,85 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "CG迷李辰",
-   "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
-   "duration": "21:11",
-   "heat": 58677,
-   "updated": "2026-09-15T06:02:04.437678",
-   "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "梁文锋CFO到位！投过智谱MiniMax",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15T14:44:11.500496",
+   "url": "https://www.qbitai.com/2026/09/489707.html",
+   "points": [
+    "严文韬，1991年生，高瓴创投合伙人"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15T14:44:11.500498",
+   "url": "https://www.qbitai.com/2026/09/489698.html",
+   "points": [
+    "首发全场景倒车能力，体验再进一步"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15T14:44:11.500499",
+   "url": "https://www.qbitai.com/2026/09/489460.html",
+   "points": [
+    "卡位具身智能规模化落地“最后一公里”！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15T14:44:11.500501",
+   "url": "https://www.qbitai.com/2026/09/489389.html",
+   "points": [
+    "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15T14:44:11.500502",
+   "url": "https://www.qbitai.com/2026/09/489381.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -279,15 +365,31 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "苹果推出Siri人工智能",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Meta新研究：字节模型蒸馏后，天花板破了",
    "duration": "—",
-   "heat": 10454512,
-   "updated": "2026-09-15T06:02:04.437680",
-   "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BASiri%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD?type=general",
+   "heat": 0,
+   "updated": "2026-09-15T14:44:11.500503",
+   "url": "https://www.qbitai.com/2026/09/489337.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "大型科技公司的人工智能放缓是安全协议还是卡特尔？",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-09-15",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
    "points": [
-    "热门话题「苹果推出Siri人工智能」：相关视频 6 条"
+    "大型科技公司的人工智能放缓是安全协议还是卡特尔？"
    ],
    "flags": {
     "fav": false,
@@ -317,13 +419,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Timnit Gebru 表示人工智能需要放慢脚步 (2021)",
+   "title": "Timnit Gebru 表示人工智能需要放慢速度 (2021)",
    "duration": "—",
-   "heat": 2,
+   "heat": 3,
    "updated": "2026-09-14",
    "url": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
    "points": [
-    "Timnit Gebru 表示人工智能需要放慢脚步 (2021)"
+    "Timnit Gebru 表示人工智能需要放慢速度 (2021)"
    ],
    "flags": {
     "fav": false,
@@ -378,24 +480,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
    "points": [
     "伯尼·桑德斯提议对推行 ASI 计划的开发商判处 20 年监禁"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能的恶意使用",
-   "duration": "—",
-   "heat": 85,
-   "updated": "2026-09-14",
-   "url": "https://arxiv.org/abs/1802.07228",
-   "points": [
-    "人工智能的恶意使用"
    ],
    "flags": {
     "fav": false,
