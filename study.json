@@ -1,8 +1,26 @@
 {
- "fetchedAt": "22:44",
- "fetchedDate": "2026-09-15",
+ "fetchedAt": "13:46",
+ "fetchedDate": "2026-09-16",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15 10:12:34",
+   "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+   "points": [
+    "克劳德现在在其文本中留下了隐形指纹"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -131,16 +149,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-03 08:23:37",
-   "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-   "points": [
-    "克劳德寓言人工智能比头条新闻所暗示的要奇怪得多"
-   ],
+   "platform": "bilibili",
+   "author": "SillyZ_Official",
+   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+   "duration": "9:38",
+   "heat": 1629247,
+   "updated": "2026-09-16T05:46:57.695839",
+   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -150,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "SillyZ_Official",
-   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-   "duration": "9:38",
-   "heat": 1457038,
-   "updated": "2026-09-15T14:44:11.500472",
-   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+   "author": "阿丸焖居",
+   "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+   "duration": "4:59",
+   "heat": 2229231,
+   "updated": "2026-09-16T05:46:57.695850",
+   "url": "https://www.bilibili.com/video/BV1CSej6kETr",
    "points": [],
    "flags": {
     "fav": false,
@@ -169,10 +185,12 @@
    "author": "罐头Visuals",
    "title": "高分AI短片《人生反悔局》：解不开的：“如果当初”",
    "duration": "6:07",
-   "heat": 455192,
-   "updated": "2026-09-15T14:44:11.500485",
+   "heat": 489681,
+   "updated": "2026-09-16T05:46:57.695853",
    "url": "https://www.bilibili.com/video/BV1DhYQ6UEpe",
-   "points": [],
+   "points": [
+    "我们总以为人生有一条“正确”的路，只要选对，就能一劳永逸。可当你有机会一次次反悔，一次次推翻过去，才会发现——每条路都有每条路的重量，没有哪种人生全是坦途，也没有哪一次选择能替你扛下所有。这部短片拍的是当代人的选择焦虑与"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -185,8 +203,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390994,
-   "updated": "2026-09-15T14:44:11.500487",
+   "heat": 390996,
+   "updated": "2026-09-16T05:46:57.695856",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -202,7 +220,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653422,
-   "updated": "2026-09-15T14:44:11.500488",
+   "updated": "2026-09-16T05:46:57.695858",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -217,8 +235,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557480,
-   "updated": "2026-09-15T14:44:11.500490",
+   "heat": 557481,
+   "updated": "2026-09-16T05:46:57.695860",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -233,8 +251,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155646,
-   "updated": "2026-09-15T14:44:11.500491",
+   "heat": 155647,
+   "updated": "2026-09-16T05:46:57.695862",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -249,8 +267,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611457,
-   "updated": "2026-09-15T14:44:11.500493",
+   "heat": 611459,
+   "updated": "2026-09-16T05:46:57.695864",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -261,14 +279,48 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2659484,
-   "updated": "2026-09-15T14:44:11.500495",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "量子位2026人工智能年度榜单，正式启动！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-16T05:46:57.695867",
+   "url": "https://www.qbitai.com/2026/09/490329.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-16T05:46:57.695869",
+   "url": "https://www.qbitai.com/2026/09/490109.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-16T05:46:57.695871",
+   "url": "https://www.qbitai.com/2026/09/490098.html",
+   "points": [
+    "任务通过率提升24.2%，token成本最高下降45%"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +334,7 @@
    "title": "梁文锋CFO到位！投过智谱MiniMax",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-15T14:44:11.500496",
+   "updated": "2026-09-16T05:46:57.695873",
    "url": "https://www.qbitai.com/2026/09/489707.html",
    "points": [
     "严文韬，1991年生，高瓴创投合伙人"
@@ -300,7 +352,7 @@
    "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-15T14:44:11.500498",
+   "updated": "2026-09-16T05:46:57.695875",
    "url": "https://www.qbitai.com/2026/09/489698.html",
    "points": [
     "首发全场景倒车能力，体验再进一步"
@@ -318,7 +370,7 @@
    "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-15T14:44:11.500499",
+   "updated": "2026-09-16T05:46:57.695876",
    "url": "https://www.qbitai.com/2026/09/489460.html",
    "points": [
     "卡位具身智能规模化落地“最后一公里”！"
@@ -331,15 +383,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "符号人工智能",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T14:44:11.500501",
-   "url": "https://www.qbitai.com/2026/09/489389.html",
+   "heat": 1,
+   "updated": "2026-09-16",
+   "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
    "points": [
-    "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
+    "符号人工智能"
    ],
    "flags": {
     "fav": false,
@@ -349,14 +401,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能，引用不引用",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T14:44:11.500502",
-   "url": "https://www.qbitai.com/2026/09/489381.html",
-   "points": [],
+   "heat": 3,
+   "updated": "2026-09-16",
+   "url": "https://www.penny-arcade.com/news/post/2026/09/15/artificial-intelligence-quote-unquote",
+   "points": [
+    "人工智能，引用不引用"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -365,14 +419,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能警告背后的危险意识形态",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15T14:44:11.500503",
-   "url": "https://www.qbitai.com/2026/09/489337.html",
-   "points": [],
+   "heat": 4,
+   "updated": "2026-09-15",
+   "url": "https://www.thefp.com/p/dangerous-ideology-effective-altruism-artificial-intelligence",
+   "points": [
+    "人工智能警告背后的危险意识形态"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -419,67 +475,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Timnit Gebru 表示人工智能需要放慢速度 (2021)",
+   "title": "Timnit Gebru 表示人工智能需要放慢脚步 (2021)",
    "duration": "—",
    "heat": 3,
    "updated": "2026-09-14",
    "url": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
    "points": [
-    "Timnit Gebru 表示人工智能需要放慢速度 (2021)"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Alexa+ 下一代 Alexa",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-14",
-   "url": "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence",
-   "points": [
-    "Alexa+ 下一代 Alexa"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "关于人工智能对教育的好处的“不存在”的研究",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-14",
-   "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/09/14/nonexistent-research-ais-benefits-education",
-   "points": [
-    "关于人工智能对教育的好处的“不存在”的研究"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "伯尼·桑德斯提议对推行 ASI 计划的开发商判处 20 年监禁",
-   "duration": "—",
-   "heat": 16,
-   "updated": "2026-09-14",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
-   "points": [
-    "伯尼·桑德斯提议对推行 ASI 计划的开发商判处 20 年监禁"
+    "Timnit Gebru 表示人工智能需要放慢脚步 (2021)"
    ],
    "flags": {
     "fav": false,
