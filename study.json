@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:46",
+ "fetchedAt": "22:43",
  "fetchedDate": "2026-09-16",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "SillyZ_Official",
    "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
    "duration": "9:38",
-   "heat": 1629247,
-   "updated": "2026-09-16T05:46:57.695839",
+   "heat": 1799971,
+   "updated": "2026-09-16T14:43:46.182128",
    "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
@@ -169,9 +169,25 @@
    "author": "阿丸焖居",
    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
    "duration": "4:59",
-   "heat": 2229231,
-   "updated": "2026-09-16T05:46:57.695850",
+   "heat": 2711418,
+   "updated": "2026-09-16T14:43:46.182141",
    "url": "https://www.bilibili.com/video/BV1CSej6kETr",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "魔法大头菜",
+   "title": "机器人来至冬也会冷吗？",
+   "duration": "1:16",
+   "heat": 275712,
+   "updated": "2026-09-16T14:43:46.182144",
+   "url": "https://www.bilibili.com/video/BV15VYo6iErv",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,12 +201,10 @@
    "author": "罐头Visuals",
    "title": "高分AI短片《人生反悔局》：解不开的：“如果当初”",
    "duration": "6:07",
-   "heat": 489681,
-   "updated": "2026-09-16T05:46:57.695853",
+   "heat": 506485,
+   "updated": "2026-09-16T14:43:46.182146",
    "url": "https://www.bilibili.com/video/BV1DhYQ6UEpe",
-   "points": [
-    "我们总以为人生有一条“正确”的路，只要选对，就能一劳永逸。可当你有机会一次次反悔，一次次推翻过去，才会发现——每条路都有每条路的重量，没有哪种人生全是坦途，也没有哪一次选择能替你扛下所有。这部短片拍的是当代人的选择焦虑与"
-   ],
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -203,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 390996,
-   "updated": "2026-09-16T05:46:57.695856",
+   "heat": 391001,
+   "updated": "2026-09-16T14:43:46.182148",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -219,8 +233,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653422,
-   "updated": "2026-09-16T05:46:57.695858",
+   "heat": 653423,
+   "updated": "2026-09-16T14:43:46.182150",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -235,8 +249,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557481,
-   "updated": "2026-09-16T05:46:57.695860",
+   "heat": 557483,
+   "updated": "2026-09-16T14:43:46.182152",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -252,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155647,
-   "updated": "2026-09-16T05:46:57.695862",
+   "updated": "2026-09-16T14:43:46.182154",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -263,63 +277,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611459,
-   "updated": "2026-09-16T05:46:57.695864",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "量子位2026人工智能年度榜单，正式启动！",
+   "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-16T05:46:57.695867",
-   "url": "https://www.qbitai.com/2026/09/490329.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-16T05:46:57.695869",
-   "url": "https://www.qbitai.com/2026/09/490109.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-16T05:46:57.695871",
-   "url": "https://www.qbitai.com/2026/09/490098.html",
+   "updated": "2026-09-16T14:43:46.182156",
+   "url": "https://www.qbitai.com/2026/09/490760.html",
    "points": [
-    "任务通过率提升24.2%，token成本最高下降45%"
+    "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。"
    ],
    "flags": {
     "fav": false,
@@ -331,13 +297,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "梁文锋CFO到位！投过智谱MiniMax",
+   "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-16T05:46:57.695873",
-   "url": "https://www.qbitai.com/2026/09/489707.html",
+   "updated": "2026-09-16T14:43:46.182158",
+   "url": "https://www.qbitai.com/2026/09/490756.html",
    "points": [
-    "严文韬，1991年生，高瓴创投合伙人"
+    "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地"
    ],
    "flags": {
     "fav": false,
@@ -349,13 +315,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+   "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-16T05:46:57.695875",
-   "url": "https://www.qbitai.com/2026/09/489698.html",
+   "updated": "2026-09-16T14:43:46.182160",
+   "url": "https://www.qbitai.com/2026/09/490750.html",
    "points": [
-    "首发全场景倒车能力，体验再进一步"
+    "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。"
    ],
    "flags": {
     "fav": false,
@@ -367,13 +333,85 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+   "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-16T05:46:57.695876",
-   "url": "https://www.qbitai.com/2026/09/489460.html",
+   "updated": "2026-09-16T14:43:46.182162",
+   "url": "https://www.qbitai.com/2026/09/490416.html",
    "points": [
-    "卡位具身智能规模化落地“最后一公里”！"
+    "帮助成熟赛道复制方案，帮助新赛道长出场景。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-16T14:43:46.182164",
+   "url": "https://www.qbitai.com/2026/09/490400.html",
+   "points": [
+    "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-16T14:43:46.182167",
+   "url": "https://www.qbitai.com/2026/09/490396.html",
+   "points": [
+    "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "奥特曼：“我是人类团队的一员”（采访）",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-16",
+   "url": "https://www.zeit.de/zeit-magazin/leben/2026-09/sam-altman-openai-artificial-intelligence-chatgpt-english",
+   "points": [
+    "奥特曼：“我是人类团队的一员”（采访）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "中国的开放权重人工智能模型仅比美国前沿产品落后 4 个月",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-16",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+   "points": [
+    "中国的开放权重人工智能模型仅比美国前沿产品落后 4 个月"
    ],
    "flags": {
     "fav": false,
@@ -405,7 +443,7 @@
    "author": "Hacker News",
    "title": "人工智能，引用不引用",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-09-16",
    "url": "https://www.penny-arcade.com/news/post/2026/09/15/artificial-intelligence-quote-unquote",
    "points": [
@@ -446,42 +484,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
    "points": [
     "大型科技公司的人工智能放缓是安全协议还是卡特尔？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "世界人工智能合作组织",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-15",
-   "url": "https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization",
-   "points": [
-    "世界人工智能合作组织"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Timnit Gebru 表示人工智能需要放慢脚步 (2021)",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-14",
-   "url": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-   "points": [
-    "Timnit Gebru 表示人工智能需要放慢脚步 (2021)"
    ],
    "flags": {
     "fav": false,
