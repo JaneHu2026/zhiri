@@ -1,5 +1,5 @@
 {
- "fetchedAt": "08:13",
+ "fetchedAt": "13:53",
  "fetchedDate": "2026-09-17",
  "source": "zhiri-server",
  "items": [
@@ -150,12 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "SillyZ_Official",
-   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-   "duration": "9:38",
-   "heat": 1937359,
-   "updated": "2026-09-17T00:13:06.748031",
-   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+   "author": "极客湾Geekerwan",
+   "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
+   "duration": "26:52",
+   "heat": 1184346,
+   "updated": "2026-09-17T05:53:59.781189",
+   "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
    "points": [],
    "flags": {
     "fav": false,
@@ -166,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "极客湾Geekerwan",
-   "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
-   "duration": "26:52",
-   "heat": 834251,
-   "updated": "2026-09-17T00:13:06.748041",
-   "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
+   "author": "SillyZ_Official",
+   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+   "duration": "9:38",
+   "heat": 2054881,
+   "updated": "2026-09-17T05:53:59.781197",
+   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,41 +185,9 @@
    "author": "阿丸焖居",
    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
    "duration": "4:59",
-   "heat": 2843646,
-   "updated": "2026-09-17T00:13:06.748044",
+   "heat": 2925243,
+   "updated": "2026-09-17T05:53:59.781200",
    "url": "https://www.bilibili.com/video/BV1CSej6kETr",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "魔法大头菜",
-   "title": "机器人来至冬也会冷吗？",
-   "duration": "1:16",
-   "heat": 294429,
-   "updated": "2026-09-17T00:13:06.748046",
-   "url": "https://www.bilibili.com/video/BV15VYo6iErv",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "罐头Visuals",
-   "title": "高分AI短片《人生反悔局》：解不开的：“如果当初”",
-   "duration": "6:07",
-   "heat": 513029,
-   "updated": "2026-09-17T00:13:06.748049",
-   "url": "https://www.bilibili.com/video/BV1DhYQ6UEpe",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,9 +201,25 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 517191,
-   "updated": "2026-09-17T00:13:06.748051",
+   "heat": 828932,
+   "updated": "2026-09-17T05:53:59.781202",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "魔法大头菜",
+   "title": "机器人来至冬也会冷吗？",
+   "duration": "1:16",
+   "heat": 309340,
+   "updated": "2026-09-17T05:53:59.781204",
+   "url": "https://www.bilibili.com/video/BV15VYo6iErv",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391006,
-   "updated": "2026-09-17T00:13:06.748053",
+   "heat": 391007,
+   "updated": "2026-09-17T05:53:59.781207",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -266,8 +250,24 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653423,
-   "updated": "2026-09-17T00:13:06.748055",
+   "updated": "2026-09-17T05:53:59.781208",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557485,
+   "updated": "2026-09-17T05:53:59.781211",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
     "fav": false,
@@ -279,14 +279,84 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "马斯克：若AI控制军事系统将很糟糕",
+   "title": "豆包AI手机来了",
    "duration": "—",
-   "heat": 7641170,
-   "updated": "2026-09-17T00:13:06.748058",
-   "url": "https://www.douyin.com/search/%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%8B%A5AI%E6%8E%A7%E5%88%B6%E5%86%9B%E4%BA%8B%E7%B3%BB%E7%BB%9F%E5%B0%86%E5%BE%88%E7%B3%9F%E7%B3%95?type=general",
+   "heat": 7731243,
+   "updated": "2026-09-17T05:53:59.781213",
+   "url": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85AI%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86?type=general",
    "points": [
-    "热门话题「马斯克：若AI控制军事系统将很糟糕」：相关视频 5 条"
+    "热门话题「豆包AI手机来了」：相关视频 6 条"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "马斯克睡进工地！为AI基建拼了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T05:53:59.781215",
+   "url": "https://www.qbitai.com/2026/09/491280.html",
+   "points": [
+    "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T05:53:59.781217",
+   "url": "https://www.qbitai.com/2026/09/491147.html",
+   "points": [
+    "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T05:53:59.781219",
+   "url": "https://www.qbitai.com/2026/09/491062.html",
+   "points": [
+    "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T05:53:59.781221",
+   "url": "https://www.qbitai.com/2026/09/490950.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -300,7 +370,7 @@
    "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T00:13:06.748061",
+   "updated": "2026-09-17T05:53:59.781222",
    "url": "https://www.qbitai.com/2026/09/490760.html",
    "points": [
     "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。"
@@ -318,82 +388,10 @@
    "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T00:13:06.748063",
+   "updated": "2026-09-17T05:53:59.781224",
    "url": "https://www.qbitai.com/2026/09/490756.html",
    "points": [
     "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T00:13:06.748065",
-   "url": "https://www.qbitai.com/2026/09/490750.html",
-   "points": [
-    "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T00:13:06.748067",
-   "url": "https://www.qbitai.com/2026/09/490416.html",
-   "points": [
-    "帮助成熟赛道复制方案，帮助新赛道长出场景。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T00:13:06.748069",
-   "url": "https://www.qbitai.com/2026/09/490400.html",
-   "points": [
-    "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T00:13:06.748071",
-   "url": "https://www.qbitai.com/2026/09/490396.html",
-   "points": [
-    "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。"
    ],
    "flags": {
     "fav": false,
@@ -407,7 +405,7 @@
    "author": "Hacker News",
    "title": "新卫星和人工智能正在改变野火检测",
    "duration": "—",
-   "heat": 4,
+   "heat": 5,
    "updated": "2026-09-16",
    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
    "points": [
