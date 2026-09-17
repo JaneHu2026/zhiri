@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:53",
+ "fetchedAt": "22:47",
  "fetchedDate": "2026-09-17",
  "source": "zhiri-server",
  "items": [
@@ -153,25 +153,9 @@
    "author": "极客湾Geekerwan",
    "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
    "duration": "26:52",
-   "heat": 1184346,
-   "updated": "2026-09-17T05:53:59.781189",
+   "heat": 1500463,
+   "updated": "2026-09-17T14:47:12.560242",
    "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "SillyZ_Official",
-   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-   "duration": "9:38",
-   "heat": 2054881,
-   "updated": "2026-09-17T05:53:59.781197",
-   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,9 +169,25 @@
    "author": "阿丸焖居",
    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
    "duration": "4:59",
-   "heat": 2925243,
-   "updated": "2026-09-17T05:53:59.781200",
+   "heat": 3134598,
+   "updated": "2026-09-17T14:47:12.560251",
    "url": "https://www.bilibili.com/video/BV1CSej6kETr",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "SillyZ_Official",
+   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+   "duration": "9:38",
+   "heat": 2570209,
+   "updated": "2026-09-17T14:47:12.560253",
+   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +201,8 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 828932,
-   "updated": "2026-09-17T05:53:59.781202",
+   "heat": 1210854,
+   "updated": "2026-09-17T14:47:12.560256",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "魔法大头菜",
    "title": "机器人来至冬也会冷吗？",
    "duration": "1:16",
-   "heat": 309340,
-   "updated": "2026-09-17T05:53:59.781204",
+   "heat": 337017,
+   "updated": "2026-09-17T14:47:12.560259",
    "url": "https://www.bilibili.com/video/BV15VYo6iErv",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391007,
-   "updated": "2026-09-17T05:53:59.781207",
+   "heat": 391009,
+   "updated": "2026-09-17T14:47:12.560260",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653423,
-   "updated": "2026-09-17T05:53:59.781208",
+   "updated": "2026-09-17T14:47:12.560263",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557485,
-   "updated": "2026-09-17T05:53:59.781211",
+   "updated": "2026-09-17T14:47:12.560265",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -279,13 +279,99 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "豆包AI手机来了",
+   "title": "AI越来越聪明我们更懂自己了吗",
    "duration": "—",
-   "heat": 7731243,
-   "updated": "2026-09-17T05:53:59.781213",
-   "url": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85AI%E6%89%8B%E6%9C%BA%E6%9D%A5%E4%BA%86?type=general",
+   "heat": 7765497,
+   "updated": "2026-09-17T14:47:12.560268",
+   "url": "https://www.douyin.com/search/AI%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%81%AA%E6%98%8E%E6%88%91%E4%BB%AC%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1%E4%BA%86%E5%90%97?type=general",
    "points": [
-    "热门话题「豆包AI手机来了」：相关视频 6 条"
+    "热门话题「AI越来越聪明我们更懂自己了吗」：相关视频 6 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Claude Code团队讲究啊，这都往外说",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T14:47:12.560270",
+   "url": "https://www.qbitai.com/2026/09/491596.html",
+   "points": [
+    "工程师的核心永远是Problem Solving。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T14:47:12.560298",
+   "url": "https://www.qbitai.com/2026/09/491522.html",
+   "points": [
+    "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T14:47:12.560301",
+   "url": "https://www.qbitai.com/2026/09/491454.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T14:47:12.560304",
+   "url": "https://www.qbitai.com/2026/09/491391.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "刚刚，唐杰发布智谱RSI首个成果",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-17T14:47:12.560306",
+   "url": "https://www.qbitai.com/2026/09/491357.html",
+   "points": [
+    "GLM已经开始参与构建GLM了"
    ],
    "flags": {
     "fav": false,
@@ -300,98 +386,10 @@
    "title": "马斯克睡进工地！为AI基建拼了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T05:53:59.781215",
+   "updated": "2026-09-17T14:47:12.560308",
    "url": "https://www.qbitai.com/2026/09/491280.html",
    "points": [
     "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T05:53:59.781217",
-   "url": "https://www.qbitai.com/2026/09/491147.html",
-   "points": [
-    "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T05:53:59.781219",
-   "url": "https://www.qbitai.com/2026/09/491062.html",
-   "points": [
-    "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T05:53:59.781221",
-   "url": "https://www.qbitai.com/2026/09/490950.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T05:53:59.781222",
-   "url": "https://www.qbitai.com/2026/09/490760.html",
-   "points": [
-    "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-17T05:53:59.781224",
-   "url": "https://www.qbitai.com/2026/09/490756.html",
-   "points": [
-    "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地"
    ],
    "flags": {
     "fav": false,
