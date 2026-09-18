@@ -1,5 +1,5 @@
 {
- "fetchedAt": "08:00",
+ "fetchedAt": "12:32",
  "fetchedDate": "2026-09-18",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "极客湾Geekerwan",
    "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
    "duration": "26:52",
-   "heat": 1627148,
-   "updated": "2026-09-18T00:00:56.145961",
+   "heat": 1707389,
+   "updated": "2026-09-18T04:32:27.985625",
    "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "阿丸焖居",
    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
    "duration": "4:59",
-   "heat": 3234703,
-   "updated": "2026-09-18T00:00:56.145976",
+   "heat": 3277445,
+   "updated": "2026-09-18T04:32:27.985635",
    "url": "https://www.bilibili.com/video/BV1CSej6kETr",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 1356544,
-   "updated": "2026-09-18T00:00:56.145978",
+   "heat": 1465074,
+   "updated": "2026-09-18T04:32:27.985638",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
    "points": [],
    "flags": {
@@ -201,25 +201,9 @@
    "author": "SillyZ_Official",
    "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
    "duration": "9:38",
-   "heat": 2703301,
-   "updated": "2026-09-18T00:00:56.145980",
+   "heat": 2755714,
+   "updated": "2026-09-18T04:32:27.985640",
    "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "魔法大头菜",
-   "title": "机器人来至冬也会冷吗？",
-   "duration": "1:16",
-   "heat": 349770,
-   "updated": "2026-09-18T00:00:56.145981",
-   "url": "https://www.bilibili.com/video/BV15VYo6iErv",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,9 +217,25 @@
    "author": "赤鸢与白狐",
    "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
    "duration": "4:58",
-   "heat": 408496,
-   "updated": "2026-09-18T00:00:56.145983",
+   "heat": 529121,
+   "updated": "2026-09-18T04:32:27.985642",
    "url": "https://www.bilibili.com/video/BV1tue36vEZy",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "魔法大头菜",
+   "title": "机器人来至冬也会冷吗？",
+   "duration": "1:16",
+   "heat": 357119,
+   "updated": "2026-09-18T04:32:27.985644",
+   "url": "https://www.bilibili.com/video/BV15VYo6iErv",
    "points": [],
    "flags": {
     "fav": false,
@@ -250,7 +250,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391010,
-   "updated": "2026-09-18T00:00:56.145985",
+   "updated": "2026-09-18T04:32:27.985647",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653423,
-   "updated": "2026-09-18T00:00:56.145987",
+   "updated": "2026-09-18T04:32:27.985648",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "AI越来越聪明我们更懂自己了吗",
    "duration": "—",
-   "heat": 8943371,
-   "updated": "2026-09-18T00:00:56.145989",
+   "heat": 7680499,
+   "updated": "2026-09-18T04:32:27.985651",
    "url": "https://www.douyin.com/search/AI%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%81%AA%E6%98%8E%E6%88%91%E4%BB%AC%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1%E4%BA%86%E5%90%97?type=general",
    "points": [
     "热门话题「AI越来越聪明我们更懂自己了吗」：相关视频 6 条"
@@ -297,10 +297,42 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "Manus重生第17天，估值居然就翻倍了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18T04:32:27.985653",
+   "url": "https://www.qbitai.com/2026/09/491764.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18T04:32:27.985655",
+   "url": "https://www.qbitai.com/2026/09/491711.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "Claude Code团队讲究啊，这都往外说",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T00:00:56.145991",
+   "updated": "2026-09-18T04:32:27.985656",
    "url": "https://www.qbitai.com/2026/09/491596.html",
    "points": [
     "工程师的核心永远是Problem Solving。"
@@ -318,7 +350,7 @@
    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T00:00:56.145993",
+   "updated": "2026-09-18T04:32:27.985658",
    "url": "https://www.qbitai.com/2026/09/491522.html",
    "points": [
     "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。"
@@ -336,7 +368,7 @@
    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T00:00:56.145994",
+   "updated": "2026-09-18T04:32:27.985660",
    "url": "https://www.qbitai.com/2026/09/491454.html",
    "points": [],
    "flags": {
@@ -352,7 +384,7 @@
    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T00:00:56.145996",
+   "updated": "2026-09-18T04:32:27.985662",
    "url": "https://www.qbitai.com/2026/09/491391.html",
    "points": [],
    "flags": {
@@ -363,33 +395,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "刚刚，唐杰发布智谱RSI首个成果",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "达里奥·阿莫代的文章解释了人们担心人工智能的原因",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18T00:00:56.145997",
-   "url": "https://www.qbitai.com/2026/09/491357.html",
+   "heat": 5,
+   "updated": "2026-09-18",
+   "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
    "points": [
-    "GLM已经开始参与构建GLM了"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "马斯克睡进工地！为AI基建拼了",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18T00:00:56.145998",
-   "url": "https://www.qbitai.com/2026/09/491280.html",
-   "points": [
-    "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
+    "达里奥·阿莫代的文章解释了人们担心人工智能的原因"
    ],
    "flags": {
     "fav": false,
@@ -403,7 +417,7 @@
    "author": "Hacker News",
    "title": "人工智能聊天机器人可以通过回复有关怀孕的短信来拯救生命吗？",
    "duration": "—",
-   "heat": 1,
+   "heat": 3,
    "updated": "2026-09-17",
    "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
    "points": [
@@ -421,7 +435,7 @@
    "author": "Hacker News",
    "title": "三兄弟如何打造人工智能斜坡帝国",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-09-17",
    "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
    "points": [
@@ -475,29 +489,11 @@
    "author": "Hacker News",
    "title": "人工智能现在击败了一些最优秀的人类预测者",
    "duration": "—",
-   "heat": 109,
+   "heat": 115,
    "updated": "2026-09-17",
    "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
    "points": [
     "人工智能现在击败了一些最优秀的人类预测者"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "新卫星和人工智能正在改变野火检测",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-09-16",
-   "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
-   "points": [
-    "新卫星和人工智能正在改变野火检测"
    ],
    "flags": {
     "fav": false,
