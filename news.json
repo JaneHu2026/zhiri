@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:46",
- "fetchedDate": "2026-09-17",
+ "fetchedAt": "07:59",
+ "fetchedDate": "2026-09-18",
  "source": "zhiri-server",
  "items": [
   {
@@ -76,10 +76,10 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "平陆运河建成通航纪实",
+   "title": "文旅重塑 宁夏打造国际旅游目的地",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/17/VIDEfv2UGv4bG53rsFdRRip2260917.shtml",
+   "url": "https://tv.cctv.com/2026/09/17/VIDENVG4W01Y4YC1LUIEppmL260917.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -136,6 +136,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "加拿大欢迎欧盟提出成为“准成员”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+   "summary": "加拿大总理马克·卡尼表示，加拿大与欧盟的联盟将为“其他民主国家树立一座灯塔”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "南非警方调查一系列死亡事件时发现第九具女性尸体",
    "source": "BBC",
    "time": "今天",
@@ -146,41 +156,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "英国广播公司发现，阿萨德政权策划绑架美国记者数周",
+   "title": "联合国专家表示有理由相信美国在伊朗袭击中犯下了战争罪",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-   "summary": "消息人士称，奥斯汀·泰斯的绑架得到了叙利亚前领导人巴沙尔·阿萨德的批准。",
+   "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+   "summary": "美国尚未承认二月份对米纳布一所小学和拉默德一所体育场馆进行的致命袭击。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "微软警告称，不受控制的人工智能可能会导致“硅物种”与人类竞争",
+   "title": "战争已过半年，美国允许伊朗代表团出席在纽约举行的联合国会议",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-   "summary": "穆斯塔法·苏莱曼 (Mustafa Suleyman) 表示，他相信竞争对手人工智能公司 Anthropic 实际上是在教克劳德“可能是有意识的”。",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+   "summary": "据英国广播公司了解，伊朗总统马苏德·佩泽什基安和外交部长阿巴斯·阿拉格奇是获准进入美国的代表之一。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "瑞典首相克里斯特森在选举失败后辞职",
+   "title": "在中国被监禁的美国学者的妻子要求特朗普在习近平会议上提高逮捕力度",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-   "summary": "马格达莱娜·安德森领导的左翼反对党似乎将组建下一届政府。",
+   "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+   "summary": "西尔维娅·辛（Sylvia Zin）是在中国被监禁的人的家人之一，他们在特朗普下次接待中国领导人时寻求帮助",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "欧盟宣布计划限制 15 岁以下青少年使用社交媒体",
+   "title": "Hyrox 运动员为弄脏自己后继续比赛道歉",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
-   "summary": "根据该计划，只有 15 岁以上的儿童才能建立自己的社交媒体帐户。",
+   "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+   "summary": "乔安娜·维茨克(Joanna Wietrzyk)在上周参加比赛后也放弃了在健身比赛中的胜利。",
    "day": 0
   },
   {
@@ -196,21 +206,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "克洛普希望在德国大选中“夺回”旗帜",
+   "title": "英国广播公司发现，阿萨德政权策划绑架美国记者数周",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-   "summary": "德国新任主教练尤尔根·克洛普表示，在最近的极右翼事件之后，他的球队可以帮助确保“民族自豪感不会被托付给错误的人”",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "美国三年来首次加息",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-   "summary": "尽管唐纳德·特朗普总统强烈反对并呼吁降息，但还是一致决定加息。",
+   "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+   "summary": "消息人士称，奥斯汀·泰斯的绑架得到了叙利亚前领导人巴沙尔·阿萨德的批准。",
    "day": 0
   },
   {

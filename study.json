@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:47",
- "fetchedDate": "2026-09-17",
+ "fetchedAt": "08:00",
+ "fetchedDate": "2026-09-18",
  "source": "zhiri-server",
  "items": [
   {
@@ -139,7 +139,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "11 分钟内完成 GPT 6 阿斯特拉！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "极客湾Geekerwan",
    "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
    "duration": "26:52",
-   "heat": 1500463,
-   "updated": "2026-09-17T14:47:12.560242",
+   "heat": 1627148,
+   "updated": "2026-09-18T00:00:56.145961",
    "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
    "points": [],
    "flags": {
@@ -169,25 +169,9 @@
    "author": "阿丸焖居",
    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
    "duration": "4:59",
-   "heat": 3134598,
-   "updated": "2026-09-17T14:47:12.560251",
+   "heat": 3234703,
+   "updated": "2026-09-18T00:00:56.145976",
    "url": "https://www.bilibili.com/video/BV1CSej6kETr",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "SillyZ_Official",
-   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-   "duration": "9:38",
-   "heat": 2570209,
-   "updated": "2026-09-17T14:47:12.560253",
-   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,9 +185,25 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 1210854,
-   "updated": "2026-09-17T14:47:12.560256",
+   "heat": 1356544,
+   "updated": "2026-09-18T00:00:56.145978",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "SillyZ_Official",
+   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+   "duration": "9:38",
+   "heat": 2703301,
+   "updated": "2026-09-18T00:00:56.145980",
+   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,9 +217,25 @@
    "author": "魔法大头菜",
    "title": "机器人来至冬也会冷吗？",
    "duration": "1:16",
-   "heat": 337017,
-   "updated": "2026-09-17T14:47:12.560259",
+   "heat": 349770,
+   "updated": "2026-09-18T00:00:56.145981",
    "url": "https://www.bilibili.com/video/BV15VYo6iErv",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "赤鸢与白狐",
+   "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
+   "duration": "4:58",
+   "heat": 408496,
+   "updated": "2026-09-18T00:00:56.145983",
+   "url": "https://www.bilibili.com/video/BV1tue36vEZy",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +249,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391009,
-   "updated": "2026-09-17T14:47:12.560260",
+   "heat": 391010,
+   "updated": "2026-09-18T00:00:56.145985",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,24 +266,8 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653423,
-   "updated": "2026-09-17T14:47:12.560263",
+   "updated": "2026-09-18T00:00:56.145987",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Jack-Cui",
-   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
-   "duration": "2:30",
-   "heat": 557485,
-   "updated": "2026-09-17T14:47:12.560265",
-   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "AI越来越聪明我们更懂自己了吗",
    "duration": "—",
-   "heat": 7765497,
-   "updated": "2026-09-17T14:47:12.560268",
+   "heat": 8943371,
+   "updated": "2026-09-18T00:00:56.145989",
    "url": "https://www.douyin.com/search/AI%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%81%AA%E6%98%8E%E6%88%91%E4%BB%AC%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1%E4%BA%86%E5%90%97?type=general",
    "points": [
     "热门话题「AI越来越聪明我们更懂自己了吗」：相关视频 6 条"
@@ -300,7 +300,7 @@
    "title": "Claude Code团队讲究啊，这都往外说",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T14:47:12.560270",
+   "updated": "2026-09-18T00:00:56.145991",
    "url": "https://www.qbitai.com/2026/09/491596.html",
    "points": [
     "工程师的核心永远是Problem Solving。"
@@ -318,7 +318,7 @@
    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T14:47:12.560298",
+   "updated": "2026-09-18T00:00:56.145993",
    "url": "https://www.qbitai.com/2026/09/491522.html",
    "points": [
     "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。"
@@ -336,7 +336,7 @@
    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T14:47:12.560301",
+   "updated": "2026-09-18T00:00:56.145994",
    "url": "https://www.qbitai.com/2026/09/491454.html",
    "points": [],
    "flags": {
@@ -352,7 +352,7 @@
    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T14:47:12.560304",
+   "updated": "2026-09-18T00:00:56.145996",
    "url": "https://www.qbitai.com/2026/09/491391.html",
    "points": [],
    "flags": {
@@ -368,7 +368,7 @@
    "title": "刚刚，唐杰发布智谱RSI首个成果",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T14:47:12.560306",
+   "updated": "2026-09-18T00:00:56.145997",
    "url": "https://www.qbitai.com/2026/09/491357.html",
    "points": [
     "GLM已经开始参与构建GLM了"
@@ -386,10 +386,100 @@
    "title": "马斯克睡进工地！为AI基建拼了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-17T14:47:12.560308",
+   "updated": "2026-09-18T00:00:56.145998",
    "url": "https://www.qbitai.com/2026/09/491280.html",
    "points": [
     "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能聊天机器人可以通过回复有关怀孕的短信来拯救生命吗？",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-17",
+   "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+   "points": [
+    "人工智能聊天机器人可以通过回复有关怀孕的短信来拯救生命吗？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "三兄弟如何打造人工智能斜坡帝国",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-17",
+   "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
+   "points": [
+    "三兄弟如何打造人工智能斜坡帝国"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "三兄弟建立了AI Slop帝国",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-17",
+   "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
+   "points": [
+    "三兄弟建立了AI Slop帝国"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "突然爆炸的人工智能安全世界",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-17",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+   "points": [
+    "突然爆炸的人工智能安全世界"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能现在击败了一些最优秀的人类预测者",
+   "duration": "—",
+   "heat": 109,
+   "updated": "2026-09-17",
+   "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+   "points": [
+    "人工智能现在击败了一些最优秀的人类预测者"
    ],
    "flags": {
     "fav": false,
@@ -408,96 +498,6 @@
    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
    "points": [
     "新卫星和人工智能正在改变野火检测"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "性感的人工智能约会应用程序骗局就在这里（礼物链接）",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-16",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-   "points": [
-    "性感的人工智能约会应用程序骗局就在这里（礼物链接）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Anyhropic 推出 Google Docs 替代方案：Claude Docs",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-16",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-   "points": [
-    "Anyhropic 推出 Google Docs 替代方案：Claude Docs"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工分析：智力指数测量什么？",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-16",
-   "url": "https://itsmonkey.business/blogposts/01-On_Artificial_Analysis.html",
-   "points": [
-    "人工分析：智力指数测量什么？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "奥特曼：“我是人类团队的一员”（采访）",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-16",
-   "url": "https://www.zeit.de/zeit-magazin/leben/2026-09/sam-altman-openai-artificial-intelligence-chatgpt-english",
-   "points": [
-    "奥特曼：“我是人类团队的一员”（采访）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "中国的开放权重人工智能模型仅比美国前沿产品落后 4 个月",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-16",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-   "points": [
-    "中国的开放权重人工智能模型仅比美国前沿产品落后 4 个月"
    ],
    "flags": {
     "fav": false,
