@@ -1,8 +1,26 @@
 {
- "fetchedAt": "12:32",
+ "fetchedAt": "22:14",
  "fetchedDate": "2026-09-18",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek’s Insane New Architecture",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 07:03:46",
+   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+   "points": [
+    "DeepSeek 疯狂的新架构"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -78,24 +96,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "GPT-6 Astra Changes Everything",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-08 08:24:27",
-   "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-   "points": [
-    "GPT-6 Astra 改变了一切"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "1littlecoder",
    "title": "open source AI is winning !",
    "duration": "—",
@@ -139,7 +139,7 @@
    "updated": "2026-09-04 00:00:19",
    "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
    "points": [
-    "11 分钟内完成 GPT 6 阿斯特拉！"
+    "11 分钟内完成 GPT 6 Astra！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "极客湾Geekerwan",
    "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
    "duration": "26:52",
-   "heat": 1707389,
-   "updated": "2026-09-18T04:32:27.985625",
+   "heat": 1895956,
+   "updated": "2026-09-18T14:14:06.184174",
    "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "阿丸焖居",
    "title": "当你和一百万人一起吃火锅【AI全民制作人】",
    "duration": "4:59",
-   "heat": 3277445,
-   "updated": "2026-09-18T04:32:27.985635",
+   "heat": 3423329,
+   "updated": "2026-09-18T14:14:06.184187",
    "url": "https://www.bilibili.com/video/BV1CSej6kETr",
    "points": [],
    "flags": {
@@ -185,25 +185,9 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 1465074,
-   "updated": "2026-09-18T04:32:27.985638",
+   "heat": 1759545,
+   "updated": "2026-09-18T14:14:06.184190",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "SillyZ_Official",
-   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-   "duration": "9:38",
-   "heat": 2755714,
-   "updated": "2026-09-18T04:32:27.985640",
-   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +201,8 @@
    "author": "赤鸢与白狐",
    "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
    "duration": "4:58",
-   "heat": 529121,
-   "updated": "2026-09-18T04:32:27.985642",
+   "heat": 772304,
+   "updated": "2026-09-18T14:14:06.184193",
    "url": "https://www.bilibili.com/video/BV1tue36vEZy",
    "points": [],
    "flags": {
@@ -230,12 +214,44 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "魔法大头菜",
-   "title": "机器人来至冬也会冷吗？",
-   "duration": "1:16",
-   "heat": 357119,
-   "updated": "2026-09-18T04:32:27.985644",
-   "url": "https://www.bilibili.com/video/BV15VYo6iErv",
+   "author": "即兴演奏家",
+   "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
+   "duration": "2:32",
+   "heat": 504904,
+   "updated": "2026-09-18T14:14:06.184195",
+   "url": "https://www.bilibili.com/video/BV15Be361EbR",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "韩小魔-筑基期",
+   "title": "听说你最近一段时间一直在找我？【AI全民制作人】",
+   "duration": "2:03",
+   "heat": 1690131,
+   "updated": "2026-09-18T14:14:06.184198",
+   "url": "https://www.bilibili.com/video/BV1Yieu6uEUU",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "SillyZ_Official",
+   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+   "duration": "9:38",
+   "heat": 3562115,
+   "updated": "2026-09-18T14:14:06.184200",
+   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,8 +265,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391010,
-   "updated": "2026-09-18T04:32:27.985647",
+   "heat": 391015,
+   "updated": "2026-09-18T14:14:06.184202",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -261,14 +277,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "优设AIGC",
-   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
-   "duration": "0:54",
-   "heat": 653423,
-   "updated": "2026-09-18T04:32:27.985648",
-   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18T14:14:06.184205",
+   "url": "https://www.qbitai.com/2026/09/492238.html",
+   "points": [
+    "从一次成功到一万次稳定执行，具身智能还缺什么？"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -277,15 +295,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "AI越来越聪明我们更懂自己了吗",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
    "duration": "—",
-   "heat": 7680499,
-   "updated": "2026-09-18T04:32:27.985651",
-   "url": "https://www.douyin.com/search/AI%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%81%AA%E6%98%8E%E6%88%91%E4%BB%AC%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1%E4%BA%86%E5%90%97?type=general",
+   "heat": 0,
+   "updated": "2026-09-18T14:14:06.184207",
+   "url": "https://www.qbitai.com/2026/09/492175.html",
    "points": [
-    "热门话题「AI越来越聪明我们更懂自己了吗」：相关视频 6 条"
+    "LimiX让模型理解数据背后的因果机制"
    ],
    "flags": {
     "fav": false,
@@ -300,7 +318,7 @@
    "title": "Manus重生第17天，估值居然就翻倍了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T04:32:27.985653",
+   "updated": "2026-09-18T14:14:06.184209",
    "url": "https://www.qbitai.com/2026/09/491764.html",
    "points": [],
    "flags": {
@@ -316,7 +334,7 @@
    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T04:32:27.985655",
+   "updated": "2026-09-18T14:14:06.184211",
    "url": "https://www.qbitai.com/2026/09/491711.html",
    "points": [],
    "flags": {
@@ -332,7 +350,7 @@
    "title": "Claude Code团队讲究啊，这都往外说",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T04:32:27.985656",
+   "updated": "2026-09-18T14:14:06.184213",
    "url": "https://www.qbitai.com/2026/09/491596.html",
    "points": [
     "工程师的核心永远是Problem Solving。"
@@ -347,45 +365,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18T04:32:27.985658",
-   "url": "https://www.qbitai.com/2026/09/491522.html",
-   "points": [
-    "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T04:32:27.985660",
+   "updated": "2026-09-18T14:14:06.184215",
    "url": "https://www.qbitai.com/2026/09/491454.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18T04:32:27.985662",
-   "url": "https://www.qbitai.com/2026/09/491391.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -399,7 +383,7 @@
    "author": "Hacker News",
    "title": "达里奥·阿莫代的文章解释了人们担心人工智能的原因",
    "duration": "—",
-   "heat": 5,
+   "heat": 6,
    "updated": "2026-09-18",
    "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
    "points": [
@@ -435,7 +419,7 @@
    "author": "Hacker News",
    "title": "三兄弟如何打造人工智能斜坡帝国",
    "duration": "—",
-   "heat": 4,
+   "heat": 7,
    "updated": "2026-09-17",
    "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
    "points": [
@@ -453,7 +437,7 @@
    "author": "Hacker News",
    "title": "三兄弟建立了AI Slop帝国",
    "duration": "—",
-   "heat": 2,
+   "heat": 5,
    "updated": "2026-09-17",
    "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
    "points": [
@@ -489,7 +473,7 @@
    "author": "Hacker News",
    "title": "人工智能现在击败了一些最优秀的人类预测者",
    "duration": "—",
-   "heat": 115,
+   "heat": 119,
    "updated": "2026-09-17",
    "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
    "points": [
