@@ -1,8 +1,44 @@
 {
- "fetchedAt": "22:14",
- "fetchedDate": "2026-09-18",
+ "fetchedAt": "08:00",
+ "fetchedDate": "2026-09-19",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:14:08",
+   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:12:53",
+   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -42,42 +78,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "Everything is LLM - Vibe coding a robot task",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-14 15:11:08",
-   "url": "https://www.youtube.com/watch?v=OIw6zY_AQOg",
-   "points": [
-    "一切都是法学硕士 - Vibe 编码机器人任务"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Effective Doomerism",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-11 14:10:01",
-   "url": "https://www.youtube.com/watch?v=KSXm_KCMR60",
-   "points": [
-    "有效的厄运论"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "Two Minute Papers",
    "title": "I Never Thought I’d See This Happen",
    "duration": "—",
@@ -96,14 +96,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "open source AI is winning !",
+   "author": "3Blue1Brown",
+   "title": "The jumping pegs puzzle",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-08 05:51:29",
-   "url": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
+   "updated": "2026-08-18 14:54:17",
+   "url": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
    "points": [
-    "开源人工智能正在获胜！"
+    "跳钉谜题"
    ],
    "flags": {
     "fav": false,
@@ -114,14 +114,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "All Roads Lead back To GLM!",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04 14:44:43",
-   "url": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
    "points": [
-    "条条大路都通GLM！"
+    "我如何使用法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -132,14 +132,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "GPT 6 Astra in 11 mins!",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04 00:00:19",
-   "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "深入研究 ChatGPT 等法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -153,25 +153,9 @@
    "author": "极客湾Geekerwan",
    "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
    "duration": "26:52",
-   "heat": 1895956,
-   "updated": "2026-09-18T14:14:06.184174",
+   "heat": 2000229,
+   "updated": "2026-09-19T00:00:31.160526",
    "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿丸焖居",
-   "title": "当你和一百万人一起吃火锅【AI全民制作人】",
-   "duration": "4:59",
-   "heat": 3423329,
-   "updated": "2026-09-18T14:14:06.184187",
-   "url": "https://www.bilibili.com/video/BV1CSej6kETr",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +169,8 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 1759545,
-   "updated": "2026-09-18T14:14:06.184190",
+   "heat": 1902108,
+   "updated": "2026-09-19T00:00:31.160538",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
    "points": [],
    "flags": {
@@ -201,9 +185,25 @@
    "author": "赤鸢与白狐",
    "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
    "duration": "4:58",
-   "heat": 772304,
-   "updated": "2026-09-18T14:14:06.184193",
+   "heat": 874645,
+   "updated": "2026-09-19T00:00:31.160540",
    "url": "https://www.bilibili.com/video/BV1tue36vEZy",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "阿丸焖居",
+   "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+   "duration": "4:59",
+   "heat": 3507842,
+   "updated": "2026-09-19T00:00:31.160542",
+   "url": "https://www.bilibili.com/video/BV1CSej6kETr",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "即兴演奏家",
    "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
    "duration": "2:32",
-   "heat": 504904,
-   "updated": "2026-09-18T14:14:06.184195",
+   "heat": 677459,
+   "updated": "2026-09-19T00:00:31.160544",
    "url": "https://www.bilibili.com/video/BV15Be361EbR",
    "points": [],
    "flags": {
@@ -233,26 +233,12 @@
    "author": "韩小魔-筑基期",
    "title": "听说你最近一段时间一直在找我？【AI全民制作人】",
    "duration": "2:03",
-   "heat": 1690131,
-   "updated": "2026-09-18T14:14:06.184198",
+   "heat": 2080417,
+   "updated": "2026-09-19T00:00:31.160547",
    "url": "https://www.bilibili.com/video/BV1Yieu6uEUU",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "SillyZ_Official",
-   "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
-   "duration": "9:38",
-   "heat": 3562115,
-   "updated": "2026-09-18T14:14:06.184200",
-   "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
-   "points": [],
+   "points": [
+    "-"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -265,10 +251,60 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391015,
-   "updated": "2026-09-18T14:14:06.184202",
+   "heat": 391018,
+   "updated": "2026-09-19T00:00:31.160549",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "优设AIGC",
+   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
+   "duration": "0:54",
+   "heat": 653425,
+   "updated": "2026-09-19T00:00:31.160551",
+   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-19T00:00:31.160554",
+   "url": "https://www.qbitai.com/2026/09/492426.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-19T00:00:31.160557",
+   "url": "https://www.qbitai.com/2026/09/492421.html",
+   "points": [
+    "成果中唯一聚焦算电协同全链路运营的AI技术产品"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +318,7 @@
    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T14:14:06.184205",
+   "updated": "2026-09-19T00:00:31.160559",
    "url": "https://www.qbitai.com/2026/09/492238.html",
    "points": [
     "从一次成功到一万次稳定执行，具身智能还缺什么？"
@@ -300,7 +336,7 @@
    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T14:14:06.184207",
+   "updated": "2026-09-19T00:00:31.160561",
    "url": "https://www.qbitai.com/2026/09/492175.html",
    "points": [
     "LimiX让模型理解数据背后的因果机制"
@@ -318,7 +354,7 @@
    "title": "Manus重生第17天，估值居然就翻倍了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T14:14:06.184209",
+   "updated": "2026-09-19T00:00:31.160563",
    "url": "https://www.qbitai.com/2026/09/491764.html",
    "points": [],
    "flags": {
@@ -334,7 +370,7 @@
    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18T14:14:06.184211",
+   "updated": "2026-09-19T00:00:31.160565",
    "url": "https://www.qbitai.com/2026/09/491711.html",
    "points": [],
    "flags": {
@@ -345,15 +381,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude Code团队讲究啊，这都往外说",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Show HN：禁止核发射自动化",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18T14:14:06.184213",
-   "url": "https://www.qbitai.com/2026/09/491596.html",
+   "heat": 3,
+   "updated": "2026-09-18",
+   "url": "https://news.ycombinator.com/item?id=49760615",
    "points": [
-    "工程师的核心永远是Problem Solving。"
+    "Show HN：禁止核发射自动化"
    ],
    "flags": {
     "fav": false,
@@ -363,14 +399,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能犯罪守则",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18T14:14:06.184215",
-   "url": "https://www.qbitai.com/2026/09/491454.html",
-   "points": [],
+   "heat": 1,
+   "updated": "2026-09-18",
+   "url": "https://syntheticjudiciary.com/",
+   "points": [
+    "人工智能犯罪守则"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -442,42 +480,6 @@
    "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
    "points": [
     "三兄弟建立了AI Slop帝国"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "突然爆炸的人工智能安全世界",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-17",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-   "points": [
-    "突然爆炸的人工智能安全世界"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能现在击败了一些最优秀的人类预测者",
-   "duration": "—",
-   "heat": 119,
-   "updated": "2026-09-17",
-   "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
-   "points": [
-    "人工智能现在击败了一些最优秀的人类预测者"
    ],
    "flags": {
     "fav": false,

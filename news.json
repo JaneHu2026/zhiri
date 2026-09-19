@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:13",
- "fetchedDate": "2026-09-18",
+ "fetchedAt": "07:59",
+ "fetchedDate": "2026-09-19",
  "source": "zhiri-server",
  "items": [
   {
@@ -106,6 +106,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "在特朗普吞并威胁后，美国和丹麦就格陵兰岛达成协议",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+   "summary": "特朗普表示，该协议将赋予美国“对格陵兰岛安全和所有其他需求的永久控制权”，但具体细节尚未公布。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "马克龙表示，俄罗斯对欧洲的混合攻击正在加剧",
    "source": "BBC",
    "time": "今天",
@@ -116,21 +126,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "菲律宾校园枪击案三死八伤",
+   "title": "特朗普表示，他将禁止 CNN 和 Politico 进入白宫",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-   "summary": "枪手是该国自六月以来第三起校园枪击事件的死者之一。",
+   "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位美国总统在整个政治生涯中与美国媒体的关系一直紧张而激烈。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "警方开始行动从休达海滩转移移民",
+   "title": "肯尼迪中心是否损失了“数亿美元”？",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，周五早上，警方向空中开枪，当时他们正在努力控制人群，争先恐后地在帐篷营地占据一席之地。",
+   "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+   "summary": "2024 年的记录显示，如果算上捐款和赠款，该场馆还有数百万美元的盈余。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴基斯坦清真寺遭满载炸药车辆冲撞 至少21人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+   "summary": "一名四岁儿童在袭击中丧生，枪手还向警察设施开火。",
    "day": 0
   },
   {
@@ -146,41 +166,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴基斯坦清真寺遭满载炸药车辆冲撞 至少16人死亡",
+   "title": "瑞安航空老板迈克尔·奥利里就“高票价强奸犯”言论道歉",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-   "summary": "一名高级警官称，周五祈祷期间，一辆满载炸药的车辆撞向一座清真寺建筑。",
+   "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+   "summary": "奥利里形容他对语言的选择是“粗心”，并表示“这种事不会再发生了”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "数十名涉嫌非法采矿者在尼日利亚拘留期间死亡",
+   "title": "亚运会韩国队奏响朝鲜国歌",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-   "summary": "当局将死亡与疾病联系起来，但情报报告和被告亲属对此提出了争议。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "日本将利率提高至31年来新高以遏制物价上涨",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-   "summary": "由于高能源价格推高通胀，世界各国央行纷纷加息。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "扎拉·拉尔森批评白宫在驱逐视频中使用她的歌曲",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-   "summary": "在艺术家称拉尔森的《午夜太阳》剪辑“非人化”后，白宫将其从其中一卷中删除。",
+   "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+   "summary": "组织者为在日本亚运会上为韩国男子曲棍球队演奏朝鲜国歌而道歉。",
    "day": 0
   },
   {
@@ -201,6 +201,16 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/0918/c1002-40800982.html",
    "summary": "新华社东京9月17日电（记者陈泽安 梁晨 李子越）日本首相、自民党总裁高市早苗16日和17日分别对自民党高层和内阁进行改组，重要职务大多维持原有人选不变，自民党执政伙伴、右翼政党日本维新会成员首次",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "一家美国人的湟源乡愁",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/0918/c1002-40800963.html",
+   "summary": "一家两代美国人，父亲柏立美扎根青海湟源近30年，其女美安遗愿是安葬回湟源，其子柏大卫把青海湟源当作唯一故乡，筹赠600多万元医疗设备、捐资助学。",
    "day": 0
   }
  ]
