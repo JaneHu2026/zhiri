@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:46",
- "fetchedDate": "2026-09-19",
+ "fetchedAt": "07:57",
+ "fetchedDate": "2026-09-20",
  "source": "zhiri-server",
  "items": [
   {
@@ -36,71 +36,121 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "平陆运河“黄金通道”与东博会“黄金平台”双向赋能催生新机遇",
+   "title": "解码乡游“蝶变”：乡村游的“升级密码”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/19/ARTIbiuzInwMkuCZ24rd1vH5260919.shtml",
-   "summary": "b1f90d0ec435,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/09/19/VIDETr8ZmG9Xq039LKNY5B9L260919.shtml",
+   "summary": "本期节目主要内容：陕西省礼泉县的袁家村没有名山大川，却做到了年接待游客超1100万人次；浙江省长兴县的顾渚村每年接待几百万游客，其中回头客占比超过70%。这两个村让乡村旅游从“火一阵”走向“一直火”，让游客从“过路客”变成了“过夜客”和“回头客”，一起来看记者调查。（《振兴路上新观察》 202609…",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "这片“蔚蓝”从开放政策到科技力量孕育无限可能",
+   "theme": "要闻",
+   "title": "活力中国调研行｜湖北石首：一株芦苇焕新生 长江洲滩长出绿色财富",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/19/ARTIkcAq4pA7TfSTWyociF0i260919.shtml",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEWEtsD5adWpuVDjlXJuDO260920.shtml",
+   "summary": "活力中国调研行·湖北石首：一株芦苇焕新生，长江洲滩长出绿色财富。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "“人工智能+教育”如何加得更好？记者观察",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEGizr0LU1Zksb8i2hwURe260920.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "新闻调查｜伪造全套票据“洗白”药品 总台曝光回流药黑色产业链",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/19/VIDEftqK8VWoqMGlu7EXooyd260919.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国成功发射株洲太空星际PIESAT-2 13~16星",
+   "title": "平陆运河工程规划专家揭秘：世纪工程背后的故事",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/19/ARTIUyB2SNJhfeHENfD0mdOf260919.shtml",
-   "summary": "c145188a0dea,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "教育",
-   "title": "各地开展形式多样的群众性国防教育活动",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/19/VIDEL5qycpSLv8GvQFis3FfR260919.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "科技种田红利惠及千家万户 昔日“小块田”变身连片“千亩方”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/19/ARTI2oIvNkAZTLjsK1YvZe1k260919.shtml",
+   "url": "https://tv.cctv.com/2026/09/19/VIDEhJRxp8jrnNcoCaOlGakL260919.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "在特朗普吞并威胁后，美国和丹麦就格陵兰岛达成协议",
+   "title": "胡塞武装称他们用弹道导弹瞄准沙特首都",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+   "summary": "据报道，周六利雅得机场的一个油库遭到袭击，导致航班延误，沙特阿拉伯称其击落了一枚瞄准目标的弹道导弹。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "北约欢迎格陵兰岛协议，特朗普称该协议将赋予美国“永久安全控制权”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-   "summary": "丹麦和格陵兰岛对这项协议表示欢迎，特朗普声称该协议将使美国“永久控制安全和所有其他需求”。",
+   "summary": "在唐纳德·特朗普几个月来威胁吞并该领土后，丹麦和美国达成协议。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普表示，他将禁止 CNN 和 Politico 进入白宫",
+   "title": "我们的班主任是个施虐者。我们联手伸张正义——现在我们结婚了",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位美国总统在整个政治生涯中与美国媒体的关系一直紧张而激烈。",
+   "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+   "summary": "学生们在坠入爱河之前花了数年时间收集针对印尼校长的证据。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普禁止一些媒体后，记者被拒绝进入白宫",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+   "summary": "据媒体报道，CNN、MS NOW 和 Politico 记者的白宫记者证被没收。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "文化宝藏被战争摧毁，人们寻求正义",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+   "summary": "世界各地冲突不断，文化古迹遭到破坏。这些人正在与之抗争。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "匡威在强烈反对后撤下了“令人深感不安”的广告",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+   "summary": "社交媒体用户表示，该品牌 Instagram 帐户上的一张图片类似于三K党的头巾和悬挂物。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普称美国将组建“人工智能部队”并任命人工智能沙皇",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+   "summary": "在有关新兴技术的警告之际，总统表示，他的政府“不会以任何方式阻碍或扼杀经济增长”。",
    "day": 0
   },
   {
@@ -111,46 +161,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
    "summary": "一位谷歌官员告诉英国广播公司，人工智能模型访问了互联网并猜测了三个网站的凭据。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "鲨鱼袭击事件引发西澳大利亚罕见的杀戮令，受害者被命名",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-   "summary": "格雷格·奥尼尔的家人说，他“热爱海洋”，警船和直升机在珀斯的海滩巡逻，寻找他的尸体和鲨鱼。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "古巴最近发生大停电，数百万人断电",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-   "summary": "由于美国的封锁加剧了燃料短缺，大范围停电变得越来越普遍。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "自胡塞武装袭击升级以来，沙特阿拉伯首次向利雅得发出空袭警报",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-   "summary": "首都发生爆炸后，居民们随后收到警报。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "克里·肯尼迪：如果肯尼迪中心被拆除，“这将是一场悲剧”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
-   "summary": "当抗议者聚集在会场谴责拆除威胁时，英国广播公司 (BBC) 的凯特里奥娜·佩里 (Caitriona Perry) 与已故总统的侄女进行了交谈。",
    "day": 0
   }
  ]
