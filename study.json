@@ -1,5 +1,5 @@
 {
- "fetchedAt": "08:00",
+ "fetchedAt": "12:29",
  "fetchedDate": "2026-09-19",
  "source": "zhiri-server",
  "items": [
@@ -32,60 +32,6 @@
    "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
    "points": [
     "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek’s Insane New Architecture",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 07:03:46",
-   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-   "points": [
-    "DeepSeek 疯狂的新架构"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15 10:12:34",
-   "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-   "points": [
-    "克劳德现在在其文本中留下了隐形指纹"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "I Never Thought I’d See This Happen",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-10 08:47:23",
-   "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-   "points": [
-    "我从没想过我会看到这种事发生"
    ],
    "flags": {
     "fav": false,
@@ -149,12 +95,30 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Let's reproduce GPT-2 (124M)",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2024-06-09 23:31:35",
+   "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+   "points": [
+    "我们来重现GPT-2（124M）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "极客湾Geekerwan",
    "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
    "duration": "26:52",
-   "heat": 2000229,
-   "updated": "2026-09-19T00:00:31.160526",
+   "heat": 2067199,
+   "updated": "2026-09-19T04:29:03.874858",
    "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
    "points": [],
    "flags": {
@@ -169,41 +133,9 @@
    "author": "立志成为恶兽",
    "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
    "duration": "4:39",
-   "heat": 1902108,
-   "updated": "2026-09-19T00:00:31.160538",
+   "heat": 2004778,
+   "updated": "2026-09-19T04:29:03.874868",
    "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "赤鸢与白狐",
-   "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
-   "duration": "4:58",
-   "heat": 874645,
-   "updated": "2026-09-19T00:00:31.160540",
-   "url": "https://www.bilibili.com/video/BV1tue36vEZy",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿丸焖居",
-   "title": "当你和一百万人一起吃火锅【AI全民制作人】",
-   "duration": "4:59",
-   "heat": 3507842,
-   "updated": "2026-09-19T00:00:31.160542",
-   "url": "https://www.bilibili.com/video/BV1CSej6kETr",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,9 +149,25 @@
    "author": "即兴演奏家",
    "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
    "duration": "2:32",
-   "heat": 677459,
-   "updated": "2026-09-19T00:00:31.160544",
+   "heat": 860018,
+   "updated": "2026-09-19T04:29:03.874870",
    "url": "https://www.bilibili.com/video/BV15Be361EbR",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "赤鸢与白狐",
+   "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
+   "duration": "4:58",
+   "heat": 993489,
+   "updated": "2026-09-19T04:29:03.874872",
+   "url": "https://www.bilibili.com/video/BV1tue36vEZy",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,12 +181,26 @@
    "author": "韩小魔-筑基期",
    "title": "听说你最近一段时间一直在找我？【AI全民制作人】",
    "duration": "2:03",
-   "heat": 2080417,
-   "updated": "2026-09-19T00:00:31.160547",
+   "heat": 2239128,
+   "updated": "2026-09-19T04:29:03.874873",
    "url": "https://www.bilibili.com/video/BV1Yieu6uEUU",
-   "points": [
-    "-"
-   ],
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "阿丸焖居",
+   "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+   "duration": "4:59",
+   "heat": 3572980,
+   "updated": "2026-09-19T04:29:03.874875",
+   "url": "https://www.bilibili.com/video/BV1CSej6kETr",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -251,8 +213,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391018,
-   "updated": "2026-09-19T00:00:31.160549",
+   "heat": 391021,
+   "updated": "2026-09-19T04:29:03.874876",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -268,9 +230,11 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653425,
-   "updated": "2026-09-19T00:00:31.160551",
+   "updated": "2026-09-19T04:29:03.874878",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
+   "points": [
+    "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -284,7 +248,7 @@
    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-19T00:00:31.160554",
+   "updated": "2026-09-19T04:29:03.874881",
    "url": "https://www.qbitai.com/2026/09/492426.html",
    "points": [],
    "flags": {
@@ -300,7 +264,7 @@
    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-19T00:00:31.160557",
+   "updated": "2026-09-19T04:29:03.874882",
    "url": "https://www.qbitai.com/2026/09/492421.html",
    "points": [
     "成果中唯一聚焦算电协同全链路运营的AI技术产品"
@@ -318,7 +282,7 @@
    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-19T00:00:31.160559",
+   "updated": "2026-09-19T04:29:03.874884",
    "url": "https://www.qbitai.com/2026/09/492238.html",
    "points": [
     "从一次成功到一万次稳定执行，具身智能还缺什么？"
@@ -336,7 +300,7 @@
    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-19T00:00:31.160561",
+   "updated": "2026-09-19T04:29:03.874886",
    "url": "https://www.qbitai.com/2026/09/492175.html",
    "points": [
     "LimiX让模型理解数据背后的因果机制"
@@ -354,7 +318,7 @@
    "title": "Manus重生第17天，估值居然就翻倍了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-19T00:00:31.160563",
+   "updated": "2026-09-19T04:29:03.874887",
    "url": "https://www.qbitai.com/2026/09/491764.html",
    "points": [],
    "flags": {
@@ -370,7 +334,7 @@
    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-19T00:00:31.160565",
+   "updated": "2026-09-19T04:29:03.874889",
    "url": "https://www.qbitai.com/2026/09/491711.html",
    "points": [],
    "flags": {
@@ -385,7 +349,7 @@
    "author": "Hacker News",
    "title": "Show HN：禁止核发射自动化",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-09-18",
    "url": "https://news.ycombinator.com/item?id=49760615",
    "points": [
