@@ -1,15 +1,45 @@
 {
- "fetchedAt": "12:43",
+ "fetchedAt": "22:01",
  "fetchedDate": "2026-09-20",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "体育",
-   "title": "“体育精神是中国精神的一个缩影”，一起为中国队加油！",
+   "theme": "要闻",
+   "title": "天天学习｜年轻的事业",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTIyb0SyDcoV9J7YkeMGDRh260920.shtml",
+   "url": "https://news.cctv.com/2026/09/20/ARTI8yGTtY4iqA5Ox2ZIK1y1260914.shtml",
+   "summary": "当前，全球人工智能技术创新进入前所未有的活跃期。立足时代大势，习近平总书记深刻把握人工智能发展趋势和规律，揭示了人工智能蓬勃向上的产业特质，并对广大青年勇担创新使命寄予殷切期望。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【新思想引领新征程】大河安澜映初心",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/20/ARTIltf2AyKUyEL1ZZ7sXN77260920.shtml",
+   "summary": "眼下，沿黄各省区坚持量水而行，精打细算用好水资源，把生态优势转化为发展优势、富民优势，让百姓共享黄河保护治理成果。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "重庆：“屏”实力聚链成群 新赛道乘风而起",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEatIgvgm9apJbBx09TFO5260920.shtml",
+   "summary": "奔流“十五五”，长江万里行·重庆：“屏”实力聚链成群，新赛道乘风而起。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "我国成功发射秦岭卫星01、02星等9颗卫星",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEFaDG2X6ouLxssilKiWWm260920.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -26,60 +56,30 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "第23届中国—东盟博览会｜新闻特写：新机遇拓展新空间",
+   "title": "唤醒低效用地 盘活闲置空间 全国已累计盘活低效用地超200万亩",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEcY1Hziz3fqpFEL7chv8m260920.shtml",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEqoKLouSTkFPrfcIGO9Co260920.shtml",
+   "summary": "唤醒低效用地，盘活闲置空间：全国已累计盘活低效用地超200万亩。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "山水资源“活起来”撬动多元消费",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/20/ARTIdqWd0QVVSpJmXlgGYBoV260920.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "活力中国调研行｜湖北石首：一株芦苇焕新生 长江洲滩长出绿色财富",
+   "title": "从东海之滨到西北内陆 多样时令水产抢“鲜”上市充实百姓餐桌",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEWEtsD5adWpuVDjlXJuDO260920.shtml",
-   "summary": "活力中国调研行·湖北石首：一株芦苇焕新生，长江洲滩长出绿色财富。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "节前看市场｜河北承德：马铃薯丰收季 农旅融合走出新路子",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDE7dwNIHhk3RFvfcSJqumI260920.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全国爱牙日｜儿童蛀牙高发 乳牙防护要趁早",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEbEZLeoOn3l3M7IAsau30260920.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "本周 我国硬核科技与重大工程捷报频传",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTIyXOwM8J3cK29dp9dgsGZ260920.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "抢抓新机遇 老区启新程",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEIdI5eiGxOcraekqrhLOV260920.shtml",
+   "url": "https://news.cctv.com/2026/09/20/ARTI7FlkU9RbUJ15nDvs0wcn260920.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,11 +106,41 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "艾德·希兰在费城秀上解决麦克莫尔争议时承认“错误”",
+   "title": "市长称，乌克兰发射了数百架无人机，这是对莫斯科最大规模的袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+   "summary": "莫斯科市长表示，隔夜的袭击中有 450 架无人机被击落，造成两人死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "艾德·希兰 (Ed Sheeran) 在麦克莫尔争议后的首秀中承认“错误”",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-   "summary": "自从说唱歌手麦克勒莫尔被取消巡演以来，这位巨星在他的第一场音乐会上谈到了以色列和加沙。",
+   "summary": "在麦克莫尔因在舞台上发表亲巴勒斯坦言论而被取消巡演后，这位歌手谈到了以色列和加沙。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "德国大选正在进行，可能决定总理梅尔茨的命运",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+   "summary": "总理面临着巨大的政治压力，如果他的政党在周日的民意调查中陷入困境，这种压力将会增加。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：埃德·希兰 (Ed Sheeran) 在演出中就麦克莫尔争议发表讲话时，粉丝们的反应",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+   "summary": "艾德·希兰告诉观众，在麦克莫尔因发表亲巴勒斯坦言论而被取消巡回演出后，他犯了错误。",
    "day": 0
   },
   {
