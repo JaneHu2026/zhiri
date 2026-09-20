@@ -1,8 +1,18 @@
 {
- "fetchedAt": "22:01",
- "fetchedDate": "2026-09-20",
+ "fetchedAt": "07:57",
+ "fetchedDate": "2026-09-21",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "以文化自觉，守护城市根脉",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/20/ARTIuhg81iaO9aUA14jAfWmZ260920.shtml",
+   "summary": "习近平总书记高度重视历史文化保护传承，强调重视保护城市独特的历史文脉、人文地理、自然景观。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -26,60 +36,50 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "重庆：“屏”实力聚链成群 新赛道乘风而起",
+   "title": "解码乡游“蝶变”：“小而美”乡游如何长红",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEatIgvgm9apJbBx09TFO5260920.shtml",
-   "summary": "奔流“十五五”，长江万里行·重庆：“屏”实力聚链成群，新赛道乘风而起。",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEHLcE7m9rc7irRDG7ptX2260920.shtml",
+   "summary": "本期节目主要内容：这些年，不少地方都在探索乡村旅游“小而美”的发展路径，怎么立足乡土特色，挖掘乡村独有的资源禀赋，有的地方已经做出了亮眼实践，有的还在探索的路上。这些“小而美”的乡村样本能不能持续走下去，今天我们一起寻找答案。（《振兴路上新观察》 20260920 乡村旅游系列报道 解码乡游“蝶变”…",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "我国成功发射秦岭卫星01、02星等9颗卫星",
+   "theme": "财经",
+   "title": "中国经济大讲堂｜平陆运河：通江达海开辟西南经济新航道",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEFaDG2X6ouLxssilKiWWm260920.shtml",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEFycXY9H1tzzDimUaoTBB260920.shtml",
+   "summary": "本期节目主要内容： 一河通江海，携手向未来。2026年9月16日，新中国成立以来第一条通江达海的运河——平陆运河正式通航。作为西部陆海新通道的骨干工程，它打通了西南最短出海通道，将改写整个西南地区的出海格局。 （《中国经济大讲堂》 20260920 平陆运河：通江达海开辟西南经济新航道）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "面对面｜《经济新航道》和《凡人英雄》",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEcOLU2VsnzRKz7GJZVa8b260920.shtml",
+   "summary": "本期节目主要内容： 我国第一条通江达海运河工程建成通航，平陆运河总体设计技术负责人吴澎以匠心直面世纪工程的重重考验，在需求预测与工程现实之间达到平衡。动画电影《八仙！》成为今夏暑期档黑马，导演牟正洋立足本土民俗文脉，一次次推倒重来，用动画讲好东方故事。（《面对面》 20260920）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "时代追梦人｜对话陈和生：让大科学装置从“国之重器”走近百姓生活",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/20/VIDE6ThJSs73XbT7T0VVZKPy260920.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "万里边疆行｜筑牢南粤边海防线 奋进蓝海新广东",
+   "title": "《新花路放——最美的心愿之旅》从山花烟火 驶向草原长风",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEtvafCkuq9LLOYki04wG1260920.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "唤醒低效用地 盘活闲置空间 全国已累计盘活低效用地超200万亩",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEqoKLouSTkFPrfcIGO9Co260920.shtml",
-   "summary": "唤醒低效用地，盘活闲置空间：全国已累计盘活低效用地超200万亩。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "山水资源“活起来”撬动多元消费",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTIdqWd0QVVSpJmXlgGYBoV260920.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从东海之滨到西北内陆 多样时令水产抢“鲜”上市充实百姓餐桌",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTI7FlkU9RbUJ15nDvs0wcn260920.shtml",
+   "url": "https://tv.cctv.com/2026/09/20/VIDEYHg4JWcgaYvIwpTRKo0x260920.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,6 +106,16 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "德国总理默茨称州选举对其政党来说是一场“灾难”，但誓言继续留任",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+   "summary": "出口民意调查显示，默茨领导的中右翼基民盟在柏林州和梅克伦堡-前波莫瑞州遭受了严重损失。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "市长称，乌克兰发射了数百架无人机，这是对莫斯科最大规模的袭击",
    "source": "BBC",
    "time": "今天",
@@ -126,11 +136,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "德国大选正在进行，可能决定总理梅尔茨的命运",
+   "title": "特朗普称凯旋门将成为配备无人机和狙击手的军事综合体",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-   "summary": "总理面临着巨大的政治压力，如果他的政党在周日的民意调查中陷入困境，这种压力将会增加。",
+   "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+   "summary": "特朗普表示，更新的计划是应美国军方的要求并出于国家安全目的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "希腊82岁男子与76岁男子因日光浴躺椅发生争吵后死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+   "summary": "一名目击者称，现场非常混乱，海滩的另一端都能听到尖叫声。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴基斯坦前总理伊姆兰·汗的妹妹被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+   "summary": "阿莉玛·哈努姆被指控在全国范围内的抗议活动之前动员她哥哥的支持者。",
    "day": 0
   },
   {
@@ -140,7 +170,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
-   "summary": "艾德·希兰告诉观众，在麦克莫尔因发表亲巴勒斯坦言论而被取消巡回演出后，他犯了错误。",
+   "summary": "艾德·希兰告诉观众，麦克勒莫尔因发表亲巴勒斯坦言论而被取消巡回演出后，他犯了错误。",
    "day": 0
   },
   {
@@ -150,7 +180,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
-   "summary": "一些艾德·希兰的歌迷表示，在麦克勒莫因制作音乐而退出巡演后，他们很高兴能享受音乐，而不是为了政治。",
+   "summary": "一些艾德·希兰的歌迷表示，在麦克莫尔因制作而退出巡演后，他们很高兴能享受音乐，而不是为了政治。",
    "day": 0
   },
   {
