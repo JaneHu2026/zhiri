@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:43",
- "fetchedDate": "2026-09-21",
+ "fetchedAt": "00:21",
+ "fetchedDate": "2026-09-22",
  "source": "zhiri-server",
  "items": [
   {
@@ -150,12 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "即兴演奏家",
-   "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
-   "duration": "2:32",
-   "heat": 1131487,
-   "updated": "2026-09-21T04:43:23.979457",
-   "url": "https://www.bilibili.com/video/BV15Be361EbR",
+   "author": "No_Tables",
+   "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
+   "duration": "33:52",
+   "heat": 1106266,
+   "updated": "2026-09-21T16:21:00.919505",
+   "url": "https://www.bilibili.com/video/BV1woez6TECm",
    "points": [],
    "flags": {
     "fav": false,
@@ -166,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "No_Tables",
-   "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
-   "duration": "33:52",
-   "heat": 501241,
-   "updated": "2026-09-21T04:43:23.979465",
-   "url": "https://www.bilibili.com/video/BV1woez6TECm",
+   "author": "Stormz67",
+   "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
+   "duration": "4:00",
+   "heat": 524692,
+   "updated": "2026-09-21T16:21:00.919515",
+   "url": "https://www.bilibili.com/video/BV1aSei65EFe",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +185,8 @@
    "author": "兰斯的画室LanceStudio",
    "title": "中式魅魔挑战（你能闯到第几关？）【AI音乐】",
    "duration": "2:21",
-   "heat": 4587323,
-   "updated": "2026-09-21T04:43:23.979468",
+   "heat": 5224732,
+   "updated": "2026-09-21T16:21:00.919518",
    "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
    "points": [],
    "flags": {
@@ -198,12 +198,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "泽央zeyang",
-   "title": "直到肯定你是真的【AI全民制作人】",
-   "duration": "1:19",
-   "heat": 1426604,
-   "updated": "2026-09-21T04:43:23.979470",
-   "url": "https://www.bilibili.com/video/BV1Hweg6HEL6",
+   "author": "特效小哥studio",
+   "title": "80岁的奶奶把\"豆包\"当闺蜜。。。",
+   "duration": "7:08",
+   "heat": 1248161,
+   "updated": "2026-09-21T16:21:00.919520",
+   "url": "https://www.bilibili.com/video/BV1Jvem6WE5g",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391045,
-   "updated": "2026-09-21T04:43:23.979472",
+   "heat": 391050,
+   "updated": "2026-09-21T16:21:00.919522",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653428,
-   "updated": "2026-09-21T04:43:23.979474",
+   "updated": "2026-09-21T16:21:00.919525",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -249,8 +249,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557495,
-   "updated": "2026-09-21T04:43:23.979476",
+   "heat": 557497,
+   "updated": "2026-09-21T16:21:00.919527",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,9 +266,97 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155651,
-   "updated": "2026-09-21T04:43:23.979478",
+   "updated": "2026-09-21T16:21:00.919529",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "跟与辉同行用AI打开山西",
+   "duration": "—",
+   "heat": 7673344,
+   "updated": "2026-09-21T16:21:00.919532",
+   "url": "https://www.douyin.com/search/%E8%B7%9F%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E7%94%A8AI%E6%89%93%E5%BC%80%E5%B1%B1%E8%A5%BF?type=general",
+   "points": [
+    "热门话题「跟与辉同行用AI打开山西」：相关视频 1 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T16:21:00.919534",
+   "url": "https://www.qbitai.com/2026/09/493241.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T16:21:00.919536",
+   "url": "https://www.qbitai.com/2026/09/493235.html",
+   "points": [
+    "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T16:21:00.919538",
+   "url": "https://www.qbitai.com/2026/09/493231.html",
+   "points": [
+    "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T16:21:00.919539",
+   "url": "https://www.qbitai.com/2026/09/493218.html",
+   "points": [
+    "在物理世界真正干活的具身智能体"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +370,7 @@
    "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T04:43:23.979480",
+   "updated": "2026-09-21T16:21:00.919542",
    "url": "https://www.qbitai.com/2026/09/493179.html",
    "points": [],
    "flags": {
@@ -298,7 +386,7 @@
    "title": "中国Neocloud市场第一！商汤大装置全面领跑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T04:43:23.979482",
+   "updated": "2026-09-21T16:21:00.919543",
    "url": "https://www.qbitai.com/2026/09/493175.html",
    "points": [],
    "flags": {
@@ -309,15 +397,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "我们可以信任生产代码的开源模型吗？评估结果",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-21T04:43:23.979484",
-   "url": "https://www.qbitai.com/2026/09/493114.html",
+   "heat": 2,
+   "updated": "2026-09-21",
+   "url": "https://medium.com/towards-artificial-intelligence/can-we-trust-open-source-models-for-production-code-754e3c7c3b7a",
    "points": [
-    "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
+    "我们可以信任生产代码的开源模型吗？评估结果"
    ],
    "flags": {
     "fav": false,
@@ -327,15 +415,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "美国将组建“AI部队”并任命人工智能沙皇",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-21T04:43:23.979486",
-   "url": "https://www.qbitai.com/2026/09/493109.html",
+   "heat": 2,
+   "updated": "2026-09-21",
+   "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
    "points": [
-    "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。"
+    "美国将组建“AI部队”并任命人工智能沙皇"
    ],
    "flags": {
     "fav": false,
@@ -345,32 +433,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "AI 控制的机械臂 97% 的时间都会尝试有害的任务",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-21T04:43:23.979487",
-   "url": "https://www.qbitai.com/2026/09/493091.html",
+   "heat": 2,
+   "updated": "2026-09-21",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
    "points": [
-    "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上"
+    "AI 控制的机械臂 97% 的时间都会尝试有害的任务"
    ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-21T04:43:23.979489",
-   "url": "https://www.qbitai.com/2026/09/492973.html",
-   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -424,60 +496,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
    "points": [
     "OpenAI 和微软知道他们正在为网络开启“末日循环”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "由于对快速发展的技术的担忧，特朗普任命人工智能沙皇",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-09-19",
-   "url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
-   "points": [
-    "由于对快速发展的技术的担忧，特朗普任命人工智能沙皇"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
-   "duration": "—",
-   "heat": 183,
-   "updated": "2026-09-19",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-   "points": [
-    "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "ChatGPT-6 Astra 首次破解了 108 年未解的一战德国密码",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-19",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
-   "points": [
-    "ChatGPT-6 Astra 首次破解了 108 年未解的一战德国密码"
    ],
    "flags": {
     "fav": false,
