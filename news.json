@@ -1,106 +1,96 @@
 {
- "fetchedAt": "07:57",
+ "fetchedAt": "12:42",
  "fetchedDate": "2026-09-21",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "以文化自觉，守护城市根脉",
+   "theme": "要闻",
+   "title": "为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTIuhg81iaO9aUA14jAfWmZ260920.shtml",
-   "summary": "习近平总书记高度重视历史文化保护传承，强调重视保护城市独特的历史文脉、人文地理、自然景观。",
+   "url": "https://news.cctv.com/2026/09/21/ARTIgxMFDE4aKHE5p2F32tqG260921.shtml",
+   "summary": "2021年9月21日，面对全球发展事业何去何从的时代之问，习近平主席在联合国舞台上郑重提出全球发展倡议。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "走进2026世界制造业大会现场 一起领略先进制造业满满“科技范儿”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/21/ARTI7AcRrGyzqPv6iAY5FvF1260921.shtml",
+   "summary": "a7e34ff48882,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "东博会公众开放日：“AI大卖场”人气旺 “未来空间”展区科技感足",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/21/ARTI2lAZZiscdd0zfl34jLzh260921.shtml",
+   "summary": "9e51c3973757,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "从“读书人”变成“书中人” “图书馆+AI”为读者带来更好阅读体验",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/21/ARTIxlw8gogF2YEMl57387hU260921.shtml",
+   "summary": "3941d3c57730,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "祁连山将建成系列冰川冻土观测站 用科技手段守护河西走廊“生命线”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/21/ARTIyZwnNgTAi4OQSbMtJmga260921.shtml",
+   "summary": "8694efe23e9a,0,1,16:9,newPlayer2782721cef5f,0,1,16:9,newPlayerd00d0ccd71ca,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "天天学习｜年轻的事业",
+   "title": "一文了解阿尔茨海默病 老人出现这些“异常”可能是患病早期信号",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTI8yGTtY4iqA5Ox2ZIK1y1260914.shtml",
-   "summary": "当前，全球人工智能技术创新进入前所未有的活跃期。立足时代大势，习近平总书记深刻把握人工智能发展趋势和规律，揭示了人工智能蓬勃向上的产业特质，并对广大青年勇担创新使命寄予殷切期望。",
+   "url": "https://news.cctv.com/2026/09/21/ARTIUm9ZYMNk5c8ZVtYoIkdQ260921.shtml",
+   "summary": "f90d63512a13,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "【新思想引领新征程】大河安澜映初心",
+   "title": "时政微周刊丨总书记的一周（9月14日—9月20日）",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/20/ARTIltf2AyKUyEL1ZZ7sXN77260920.shtml",
-   "summary": "眼下，沿黄各省区坚持量水而行，精打细算用好水资源，把生态优势转化为发展优势、富民优势，让百姓共享黄河保护治理成果。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "解码乡游“蝶变”：“小而美”乡游如何长红",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEHLcE7m9rc7irRDG7ptX2260920.shtml",
-   "summary": "本期节目主要内容：这些年，不少地方都在探索乡村旅游“小而美”的发展路径，怎么立足乡土特色，挖掘乡村独有的资源禀赋，有的地方已经做出了亮眼实践，有的还在探索的路上。这些“小而美”的乡村样本能不能持续走下去，今天我们一起寻找答案。（《振兴路上新观察》 20260920 乡村旅游系列报道 解码乡游“蝶变”…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "中国经济大讲堂｜平陆运河：通江达海开辟西南经济新航道",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEFycXY9H1tzzDimUaoTBB260920.shtml",
-   "summary": "本期节目主要内容： 一河通江海，携手向未来。2026年9月16日，新中国成立以来第一条通江达海的运河——平陆运河正式通航。作为西部陆海新通道的骨干工程，它打通了西南最短出海通道，将改写整个西南地区的出海格局。 （《中国经济大讲堂》 20260920 平陆运河：通江达海开辟西南经济新航道）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "面对面｜《经济新航道》和《凡人英雄》",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEcOLU2VsnzRKz7GJZVa8b260920.shtml",
-   "summary": "本期节目主要内容： 我国第一条通江达海运河工程建成通航，平陆运河总体设计技术负责人吴澎以匠心直面世纪工程的重重考验，在需求预测与工程现实之间达到平衡。动画电影《八仙！》成为今夏暑期档黑马，导演牟正洋立足本土民俗文脉，一次次推倒重来，用动画讲好东方故事。（《面对面》 20260920）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "时代追梦人｜对话陈和生：让大科学装置从“国之重器”走近百姓生活",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDE6ThJSs73XbT7T0VVZKPy260920.shtml",
+   "url": "https://news.cctv.com/2026/09/21/ARTIsOTW7flHbWQAggl97hUZ260921.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "《新花路放——最美的心愿之旅》从山花烟火 驶向草原长风",
+   "title": "中美经贸磋商在美国纽约举行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/20/VIDEYHg4JWcgaYvIwpTRKo0x260920.shtml",
+   "url": "https://news.cctv.com/2026/09/21/ARTI3V3Gnna4HaaSIBAJOB0Q260921.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "教育",
-   "title": "“一部理想信念的生动教材”究竟蕴藏多少惊人力量？",
+   "theme": "医疗",
+   "title": "到2026年底全国省级层面均应开设罕见病门诊",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/government/20260920/5c5bd9020b824c409bdb4d7ddbe7bdac/c.html",
-   "summary": "【文明中国·看山西】“一部理想信念的生动教材”究竟蕴藏多少惊人力量？-当烽火硝烟散去，当枪炮声归于沉寂，这本“教材”里写下的“对党忠诚、无私奉献、敢于斗争”的吕梁精神，在岁月的淬炼中，又蕴藏着多少震撼人心的力量。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "铁路12306持续识别遏制恶意抢票行为",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260920/cb57755ec1dc4c00b65aa5cb500029aa/c.html",
-   "summary": "铁路12306持续识别遏制恶意抢票行为-\"自今年中秋国庆假期运输火车票开售以来，铁路12306已累计将711.7万笔交易放入慢速队列，对102.3万笔交易拒绝出票，共拒绝出票133.1万张票，有力遏制了恶意抢票行为。\"",
+   "url": "https://www.news.cn/government/20260921/1a18f63245fc4a9ba77908cd43d20e35/c.html",
+   "summary": "到2026年底全国省级层面均应开设罕见病门诊-\"根据通知，各有关机构要依托国家科技重大项目、生物医学新技术临床研究和临床转化应用等，推进出生缺陷和罕见病预防、筛查、诊断、治疗等技术科研创新。\"",
    "day": 0
   },
   {
@@ -110,97 +100,17 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-   "summary": "出口民意调查显示，默茨领导的中右翼基民盟在柏林州和梅克伦堡-前波莫瑞州遭受了严重损失。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "市长称，乌克兰发射了数百架无人机，这是对莫斯科最大规模的袭击",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-   "summary": "莫斯科市长表示，隔夜的袭击中有 450 架无人机被击落，造成两人死亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "艾德·希兰 (Ed Sheeran) 在麦克莫尔争议后的首秀中承认“错误”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-   "summary": "在麦克莫尔因在舞台上发表亲巴勒斯坦言论而被取消巡演后，这位歌手谈到了以色列和加沙。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普称凯旋门将成为配备无人机和狙击手的军事综合体",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-   "summary": "特朗普表示，更新的计划是应美国军方的要求并出于国家安全目的。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "希腊82岁男子与76岁男子因日光浴躺椅发生争吵后死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-   "summary": "一名目击者称，现场非常混乱，海滩的另一端都能听到尖叫声。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "巴基斯坦前总理伊姆兰·汗的妹妹被捕",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-   "summary": "阿莉玛·哈努姆被指控在全国范围内的抗议活动之前动员她哥哥的支持者。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "观看：埃德·希兰 (Ed Sheeran) 在演出中就麦克莫尔争议发表讲话时，粉丝们的反应",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
-   "summary": "艾德·希兰告诉观众，麦克勒莫尔因发表亲巴勒斯坦言论而被取消巡回演出后，他犯了错误。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "观看：音乐会观众和亲巴勒斯坦活动人士抵达艾德·希兰音乐会",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
-   "summary": "一些艾德·希兰的歌迷表示，在麦克莫尔因制作而退出巡演后，他们很高兴能享受音乐，而不是为了政治。",
+   "summary": "出口民意调查显示，梅尔茨领导的中右翼基民盟在梅克伦堡-前波莫瑞州和柏林遭受了严重损失。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "墨西哥举行全国地震演习",
+   "title": "布鲁塞尔迎来年度“无车日”活动",
    "source": "人民网",
    "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0920/c1002-40801971.html",
-   "summary": "当日，墨西哥举行2026年第二次全国范围地震演习，以检验应急机制，提升政府部门和社会公众应对地震灾害的能力。墨西哥地处环太平洋地震带，多个板块在此交会，因此地震频发。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "英国拟扩大“豪宅税”征收范围",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0920/c1002-40801946.html",
-   "summary": "新华社北京9月19日电 工党领导的英国政府考虑扩大“豪宅税”征收范围，将起征门槛下调为房产市价150万英镑。专家预计新征税方案每年将带来8亿英镑税收收入，可以更好地平衡财政收支、支持英国首相安迪·",
+   "url": "https://world.people.com.cn/n1/2026/0921/c1002-40802638.html",
+   "summary": "9月20日，比利时布鲁塞尔迎来一年一度的“无车日”活动。当地时间9时30分至19时，布鲁塞尔大区内除公交车、出租车和公共服务等车辆外，其他机动车辆禁止上路。",
    "day": 0
   }
  ]

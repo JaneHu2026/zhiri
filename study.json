@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:58",
+ "fetchedAt": "12:43",
  "fetchedDate": "2026-09-21",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
+    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +139,7 @@
    "updated": "2026-09-10 08:47:23",
    "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
    "points": [
-    "我从没想过我会看到这种情况发生"
+    "我从没想过我会看到这种事发生"
    ],
    "flags": {
     "fav": false,
@@ -153,25 +153,9 @@
    "author": "即兴演奏家",
    "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
    "duration": "2:32",
-   "heat": 1124333,
-   "updated": "2026-09-20T23:58:45.250587",
+   "heat": 1131487,
+   "updated": "2026-09-21T04:43:23.979457",
    "url": "https://www.bilibili.com/video/BV15Be361EbR",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "兰斯的画室LanceStudio",
-   "title": "中式魅魔挑战（你能闯到第几关？）【AI音乐】",
-   "duration": "2:21",
-   "heat": 4555843,
-   "updated": "2026-09-20T23:58:45.250600",
-   "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,9 +169,25 @@
    "author": "No_Tables",
    "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
    "duration": "33:52",
-   "heat": 310605,
-   "updated": "2026-09-20T23:58:45.250602",
+   "heat": 501241,
+   "updated": "2026-09-21T04:43:23.979465",
    "url": "https://www.bilibili.com/video/BV1woez6TECm",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "兰斯的画室LanceStudio",
+   "title": "中式魅魔挑战（你能闯到第几关？）【AI音乐】",
+   "duration": "2:21",
+   "heat": 4587323,
+   "updated": "2026-09-21T04:43:23.979468",
+   "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,25 +201,9 @@
    "author": "泽央zeyang",
    "title": "直到肯定你是真的【AI全民制作人】",
    "duration": "1:19",
-   "heat": 1412632,
-   "updated": "2026-09-20T23:58:45.250604",
+   "heat": 1426604,
+   "updated": "2026-09-21T04:43:23.979470",
    "url": "https://www.bilibili.com/video/BV1Hweg6HEL6",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "韩小魔-筑基期",
-   "title": "听说你最近一段时间一直在找我？【AI全民制作人】",
-   "duration": "2:03",
-   "heat": 2449366,
-   "updated": "2026-09-20T23:58:45.250606",
-   "url": "https://www.bilibili.com/video/BV1Yieu6uEUU",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391043,
-   "updated": "2026-09-20T23:58:45.250607",
+   "heat": 391045,
+   "updated": "2026-09-21T04:43:23.979472",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653428,
-   "updated": "2026-09-20T23:58:45.250609",
+   "updated": "2026-09-21T04:43:23.979474",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -266,9 +250,111 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557495,
-   "updated": "2026-09-20T23:58:45.250611",
+   "updated": "2026-09-21T04:43:23.979476",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155651,
+   "updated": "2026-09-21T04:43:23.979478",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T04:43:23.979480",
+   "url": "https://www.qbitai.com/2026/09/493179.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T04:43:23.979482",
+   "url": "https://www.qbitai.com/2026/09/493175.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T04:43:23.979484",
+   "url": "https://www.qbitai.com/2026/09/493114.html",
+   "points": [
+    "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T04:43:23.979486",
+   "url": "https://www.qbitai.com/2026/09/493109.html",
+   "points": [
+    "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-21T04:43:23.979487",
+   "url": "https://www.qbitai.com/2026/09/493091.html",
+   "points": [
+    "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,94 +368,8 @@
    "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-20T23:58:45.250613",
+   "updated": "2026-09-21T04:43:23.979489",
    "url": "https://www.qbitai.com/2026/09/492973.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-20T23:58:45.250615",
-   "url": "https://www.qbitai.com/2026/09/493068.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-20T23:58:45.250617",
-   "url": "https://www.qbitai.com/2026/09/492946.html",
-   "points": [
-    "AI办公这块蛋糕，中国电信可能要先切走一块了。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-20T23:58:45.250618",
-   "url": "https://www.qbitai.com/2026/09/492939.html",
-   "points": [
-    "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-20T23:58:45.250620",
-   "url": "https://www.qbitai.com/2026/09/492912.html",
-   "points": [
-    "亚马逊云科技给企业安全用Agent打了个样"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-20T23:58:45.250622",
-   "url": "https://www.qbitai.com/2026/09/492873.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -383,7 +383,7 @@
    "author": "Hacker News",
    "title": "Anthropic 正在将 Claude Code 当前的每周限额削减 17%",
    "duration": "—",
-   "heat": 6,
+   "heat": 7,
    "updated": "2026-09-20",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
    "points": [
@@ -419,7 +419,7 @@
    "author": "Hacker News",
    "title": "OpenAI 和微软知道他们正在为网络开启“末日循环”",
    "duration": "—",
-   "heat": 33,
+   "heat": 35,
    "updated": "2026-09-20",
    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
    "points": [
@@ -455,7 +455,7 @@
    "author": "Hacker News",
    "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
    "duration": "—",
-   "heat": 180,
+   "heat": 183,
    "updated": "2026-09-19",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
    "points": [
