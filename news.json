@@ -1,116 +1,86 @@
 {
- "fetchedAt": "00:20",
+ "fetchedAt": "08:39",
  "fetchedDate": "2026-09-22",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "中共中央政治局召开会议 讨论拟提请二十届五中全会审议的文件 中共中央总书记习近平主持会议",
+   "theme": "要闻",
+   "title": "端稳“中国饭碗”底气更足",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTIbGzEtqIIE8cHwii6cFEu260921.shtml",
-   "summary": "新华社北京9月21日电 中共中央政治局9月21日召开会议，研究持之以恒推进全面从严治党重大问题。中共中央总书记习近平主持会议。",
+   "url": "https://news.cctv.com/2026/09/22/ARTI3AKJzwIE9ZXP9x8pkfAW260922.shtml",
+   "summary": "国家粮食和物资储备局局长刘焕鑫介绍，一是从供需两端发力，完善粮食交易平台体系，加强粮食物流通道建设，抓好粮食购销；二是着眼“备得足、储得好、用得上”，完善粮食应急保障体系，抓好粮食储备；三是从延伸粮食产业链、推进粮食产后全链条节约减损、激发产业创新倍增效应等方面发力，抓好粮食产业。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中共中央政治局召开会议，研究持之以恒推进全面从严治党重大问题 |",
+   "title": "透过前8个月发票数据 看新质生产力加快培育",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTIbGzEtqIIE8cHwii6cFEu260921.shtml",
-   "summary": "新华社北京9月21日电 中共中央政治局9月21日召开会议，研究持之以恒推进全面从严治党重大问题。中共中央总书记习近平主持会议。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "会议决定，中国共产党第二十届中央委员会第五次全体会议于10月26日至29日在北京召开",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTIbGzEtqIIE8cHwii6cFEu260921.shtml",
-   "summary": "新华社北京9月21日电 中共中央政治局9月21日召开会议，研究持之以恒推进全面从严治党重大问题。中共中央总书记习近平主持会议。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "铸牢共同体 中华一家亲",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTIftFcIJ2ONgzuyTFHeAFW260921.shtml",
-   "summary": "136d382485e3,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“十五五”开好局起好步｜我国加快建立现代化粮食流通体系",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTI1uBWmD1VZrNfEiRK3V2I260921.shtml",
-   "summary": "dd434f7c3cc9,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "国务院新闻办举行“新征程上的奋斗者”中外记者见面会",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/21/VIDEy71yeSaA9TyzePPFvPOl260921.shtml",
+   "url": "https://tv.cctv.com/2026/09/22/VIDE5HQYJ33hW9qUQaoj5SE3260922.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "纪念中国工农红军长征胜利90周年｜八桂大地开启新时代新征程",
+   "title": "聚焦十大行业、破除数据开发利用难点 国家新举措",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTI6yDkib1t0ne5y2OuKZ0x260921.shtml",
+   "url": "https://news.cctv.com/2026/09/22/ARTIwbopQAYh14IZerlfdMM2260922.shtml",
+   "summary": "记者今天（22日）从国家数据局了解到，国家层面将推出新举措，重点在十大行业，开展数据资源开发利用攻坚行动。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "最高法出台民刑交叉司法解释 畅通民事救济渠道",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/22/VIDEKysY6o3Kx4vJPg3qjsxx260922.shtml",
+   "summary": "最高法出台民刑交叉司法解释：畅通民事救济渠道，并非一律“先刑后民”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "去年全国大中型旅游演艺项目票房收入超174亿元",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/22/ARTIaJl0r3fdKcaDomopsjpw260922.shtml",
+   "summary": "新华社济南9月21日电（记者邢拓、邵琨）中国演出行业协会21日发布的《2025年中国旅游演艺市场年度报告》显示，2025年全国大中型旅游演艺项目演出19.87万场，同比增长4.95%；票房收入174.42亿元，同比增长6.43%；观众人数8798.97万人次，同比增长3.01%。中国旅游演艺行业进入…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "数说世界技能大赛：看见技能的力量",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/22/ARTIlpZBEpT7fnSBIUs8QRiA260922.shtml",
+   "summary": "8588ee11d5c2,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "花钱就能给食品“背书”？揭开“中食办”身份真相",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/22/ARTInWMzDiAqttX2qtyUCUsr260922.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中国汽车进入体系化出海新阶段 多个关键领域形成全球竞争力",
+   "title": "莫冒险！防汛墙成拍照打卡点 小心隐藏的落水风险",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/21/ARTIFX82D6PPs6CBMOd2379z260921.shtml",
+   "url": "https://news.cctv.com/2026/09/22/ARTI4nkviMRZ0biTwRSrhuaE260921.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "医疗",
-   "title": "到2026年底全国省级层面均应开设罕见病门诊",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260921/1a18f63245fc4a9ba77908cd43d20e35/c.html",
-   "summary": "到2026年底全国省级层面均应开设罕见病门诊-\"根据通知，各有关机构要依托国家科技重大项目、生物医学新技术临床研究和临床转化应用等，推进出生缺陷和罕见病预防、筛查、诊断、治疗等技术科研创新。\"",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着胡塞武装和沙特支持的部队升级战争，也门人越过红海逃离",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC 的弗兰克·加德纳 (Frank Gardner) 与一些穿越红海来到吉布提逃离战争的人进行了交谈",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "默茨发誓要为德国的“民主未来”保持联盟",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-   "summary": "在州选举惨败后，财政大臣面临着越来越大的压力，但他表示结果“远远超出了我个人的范围”",
    "day": 0
   },
   {
@@ -120,67 +90,7 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国主要电视网随后暂停了特朗普前往纽约参加联合国峰会的白宫电视报道。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "强台风“杜鹃”袭击日本，数百万人敦促撤离",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-   "summary": "该国气象机构曾警告称，“生命面临迫在眉睫的威胁”，但目前大多数地区的警告级别已被下调。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "俄罗斯选举没有什么意外——但克里姆林宫如何利用选举结果至关重要",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-   "summary": "英国广播公司 (BBC) 报道称，弗拉基米尔·普京 (Vladimir Putin) 可能会利用这一结果来宣称大多数俄罗斯人支持在乌克兰进行的所谓特别军事行动",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "埃塞俄比亚七个叛乱组织组成新联盟",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-   "summary": "这些组织多年来一直活跃在埃塞俄比亚人口最多的地区，现在表示将共同合作。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "扎卡因 Covid-19 证书而接受调查",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-   "summary": "瑞士队长格兰尼特·扎卡 (Granit Xhaka) 因其 Covid-19 疫苗接种证书存在问题而正在接受调查。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "联合国称美国对涉嫌贩毒船的袭击可能构成反人类罪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-   "summary": "一份报告称，至少有 68 起袭击事件并非自卫。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "布鲁塞尔迎来年度“无车日”活动",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0921/c1002-40802638.html",
-   "summary": "9月20日，比利时布鲁塞尔迎来一年一度的“无车日”活动。当地时间9时30分至19时，布鲁塞尔大区内除公交车、出租车和公共服务等车辆外，其他机动车辆禁止上路。",
+   "summary": "美国主要电视网随后暂停了特朗普前往纽约参加联合国峰会期间的白宫电视报道。",
    "day": 0
   }
  ]

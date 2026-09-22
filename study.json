@@ -1,5 +1,5 @@
 {
- "fetchedAt": "00:21",
+ "fetchedAt": "08:39",
  "fetchedDate": "2026-09-22",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
+    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +139,7 @@
    "updated": "2026-09-10 08:47:23",
    "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
    "points": [
-    "我从没想过我会看到这种事发生"
+    "我从没想过我会看到这种情况发生"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "No_Tables",
    "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
    "duration": "33:52",
-   "heat": 1106266,
-   "updated": "2026-09-21T16:21:00.919505",
+   "heat": 1180832,
+   "updated": "2026-09-22T00:39:58.724392",
    "url": "https://www.bilibili.com/video/BV1woez6TECm",
    "points": [],
    "flags": {
@@ -169,25 +169,9 @@
    "author": "Stormz67",
    "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
    "duration": "4:00",
-   "heat": 524692,
-   "updated": "2026-09-21T16:21:00.919515",
+   "heat": 584601,
+   "updated": "2026-09-22T00:39:58.724408",
    "url": "https://www.bilibili.com/video/BV1aSei65EFe",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "兰斯的画室LanceStudio",
-   "title": "中式魅魔挑战（你能闯到第几关？）【AI音乐】",
-   "duration": "2:21",
-   "heat": 5224732,
-   "updated": "2026-09-21T16:21:00.919518",
-   "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +185,8 @@
    "author": "特效小哥studio",
    "title": "80岁的奶奶把\"豆包\"当闺蜜。。。",
    "duration": "7:08",
-   "heat": 1248161,
-   "updated": "2026-09-21T16:21:00.919520",
+   "heat": 1284330,
+   "updated": "2026-09-22T00:39:58.724411",
    "url": "https://www.bilibili.com/video/BV1Jvem6WE5g",
    "points": [],
    "flags": {
@@ -217,8 +201,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391050,
-   "updated": "2026-09-21T16:21:00.919522",
+   "heat": 391055,
+   "updated": "2026-09-22T00:39:58.724412",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +218,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653428,
-   "updated": "2026-09-21T16:21:00.919525",
+   "updated": "2026-09-22T00:39:58.724414",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +234,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557497,
-   "updated": "2026-09-21T16:21:00.919527",
+   "updated": "2026-09-22T00:39:58.724416",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,8 +250,24 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155651,
-   "updated": "2026-09-21T16:21:00.919529",
+   "updated": "2026-09-22T00:39:58.724418",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611475,
+   "updated": "2026-09-22T00:39:58.724420",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "跟与辉同行用AI打开山西",
    "duration": "—",
-   "heat": 7673344,
-   "updated": "2026-09-21T16:21:00.919532",
+   "heat": 7710904,
+   "updated": "2026-09-22T00:39:58.724422",
    "url": "https://www.douyin.com/search/%E8%B7%9F%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E7%94%A8AI%E6%89%93%E5%BC%80%E5%B1%B1%E8%A5%BF?type=general",
    "points": [
     "热门话题「跟与辉同行用AI打开山西」：相关视频 1 条"
@@ -300,7 +300,7 @@
    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T16:21:00.919534",
+   "updated": "2026-09-22T00:39:58.724424",
    "url": "https://www.qbitai.com/2026/09/493241.html",
    "points": [],
    "flags": {
@@ -316,7 +316,7 @@
    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T16:21:00.919536",
+   "updated": "2026-09-22T00:39:58.724425",
    "url": "https://www.qbitai.com/2026/09/493235.html",
    "points": [
     "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
@@ -334,7 +334,7 @@
    "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T16:21:00.919538",
+   "updated": "2026-09-22T00:39:58.724427",
    "url": "https://www.qbitai.com/2026/09/493231.html",
    "points": [
     "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
@@ -352,7 +352,7 @@
    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T16:21:00.919539",
+   "updated": "2026-09-22T00:39:58.724429",
    "url": "https://www.qbitai.com/2026/09/493218.html",
    "points": [
     "在物理世界真正干活的具身智能体"
@@ -370,7 +370,7 @@
    "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T16:21:00.919542",
+   "updated": "2026-09-22T00:39:58.724430",
    "url": "https://www.qbitai.com/2026/09/493179.html",
    "points": [],
    "flags": {
@@ -386,9 +386,81 @@
    "title": "中国Neocloud市场第一！商汤大装置全面领跑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-21T16:21:00.919543",
+   "updated": "2026-09-22T00:39:58.724432",
    "url": "https://www.qbitai.com/2026/09/493175.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "乔纳森·斯威夫特 vs. 人工智能",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-21",
+   "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+   "points": [
+    "乔纳森·斯威夫特 vs. 人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "数学与人工智能咨询小组",
+   "duration": "—",
+   "heat": 74,
+   "updated": "2026-09-21",
+   "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+   "points": [
+    "数学与人工智能咨询小组"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "数学与人工智能顾问小组",
+   "duration": "—",
+   "heat": 68,
+   "updated": "2026-09-21",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+   "points": [
+    "数学与人工智能顾问小组"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "OpenAI 预测到 2030 年现金消耗将达到 278B 美元",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-21",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-projections-point-to-a-massive-usd278-billion-cash-burn-through-2030-that-exceeds-the-national-budgets-of-indonesia-and-norway-usd856-billion-compute-tab-outpaces-tenfold-revenue-surge",
+   "points": [
+    "OpenAI 预测到 2030 年现金消耗将达到 278B 美元"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -419,83 +491,11 @@
    "author": "Hacker News",
    "title": "美国将组建“AI部队”并任命人工智能沙皇",
    "duration": "—",
-   "heat": 2,
+   "heat": 3,
    "updated": "2026-09-21",
    "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
    "points": [
     "美国将组建“AI部队”并任命人工智能沙皇"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "AI 控制的机械臂 97% 的时间都会尝试有害的任务",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-21",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
-   "points": [
-    "AI 控制的机械臂 97% 的时间都会尝试有害的任务"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Anthropic 正在将 Claude Code 当前的每周限额削减 17%",
-   "duration": "—",
-   "heat": 7,
-   "updated": "2026-09-20",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-   "points": [
-    "Anthropic 正在将 Claude Code 当前的每周限额削减 17%"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能监管打击尚未结束",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-20",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-   "points": [
-    "人工智能监管打击尚未结束"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 和微软知道他们正在为网络开启“末日循环”",
-   "duration": "—",
-   "heat": 35,
-   "updated": "2026-09-20",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "points": [
-    "OpenAI 和微软知道他们正在为网络开启“末日循环”"
    ],
    "flags": {
     "fav": false,
