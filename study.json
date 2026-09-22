@@ -1,8 +1,26 @@
 {
- "fetchedAt": "13:57",
+ "fetchedAt": "22:30",
  "fetchedDate": "2026-09-22",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Yes, Jev Is Insane, But There's A Catch",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-22 09:32:13",
+   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+   "points": [
+    "是的，杰夫疯了，但有一个问题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -13,7 +31,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
+    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
    ],
    "flags": {
     "fav": false,
@@ -78,6 +96,42 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek’s Insane New Architecture",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 07:03:46",
+   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+   "points": [
+    "DeepSeek 疯狂的新架构"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-15 10:12:34",
+   "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+   "points": [
+    "克劳德现在在其文本中留下了隐形指纹"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "sentdex",
    "title": "Everything is LLM - Vibe coding a robot task",
    "duration": "—",
@@ -95,66 +149,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "open source AI is winning !",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-08 05:51:29",
-   "url": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
-   "points": [
-    "开源人工智能正在获胜！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "GPT 6 Astra in 11 mins!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-04 00:00:19",
-   "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
-   "points": [
-    "11 分钟内完成 GPT 6 Astra！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Minimax H3 Max feels ILLEGAL and FAST!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-08-29 18:58:48",
-   "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
-   "points": [
-    "Minimax H3 Max 感觉非法且速度很快！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "No_Tables",
    "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
    "duration": "33:52",
-   "heat": 1262459,
-   "updated": "2026-09-22T05:57:04.671943",
+   "heat": 1389061,
+   "updated": "2026-09-22T14:30:31.171971",
    "url": "https://www.bilibili.com/video/BV1woez6TECm",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "Stormz67",
    "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
    "duration": "4:00",
-   "heat": 669043,
-   "updated": "2026-09-22T05:57:04.671953",
+   "heat": 769454,
+   "updated": "2026-09-22T14:30:31.171986",
    "url": "https://www.bilibili.com/video/BV1aSei65EFe",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "最后讲述者",
    "title": "【微电影】星河外卖员：平台战争 【AI全民制作人】",
    "duration": "20:07",
-   "heat": 1599571,
-   "updated": "2026-09-22T05:57:04.671955",
+   "heat": 1625797,
+   "updated": "2026-09-22T14:30:31.171989",
    "url": "https://www.bilibili.com/video/BV1SveU6GExV",
    "points": [],
    "flags": {
@@ -198,12 +198,44 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "特效小哥studio",
-   "title": "80岁的奶奶把\"豆包\"当闺蜜。。。",
-   "duration": "7:08",
-   "heat": 1305695,
-   "updated": "2026-09-22T05:57:04.671957",
-   "url": "https://www.bilibili.com/video/BV1Jvem6WE5g",
+   "author": "制霸美食街",
+   "title": "狼王传奇系列1-11集合集【AI全民制作人】",
+   "duration": "20:56",
+   "heat": 832292,
+   "updated": "2026-09-22T14:30:31.171991",
+   "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Sora_Vex",
+   "title": "「沉浸式第一人称」你20岁高中状元——从今天起，全天下都要叫你一声：状元郎！【AI全民制作人】",
+   "duration": "1:01",
+   "heat": 1192641,
+   "updated": "2026-09-22T14:30:31.171993",
+   "url": "https://www.bilibili.com/video/BV1CRez6BENV",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "提瓦特同人协会",
+   "title": "【原神】「1314」哥伦比娅×桑多涅 印象曲MV 琶舞×明透【HoYoFair × bilibilionly】",
+   "duration": "3:35",
+   "heat": 268821,
+   "updated": "2026-09-22T14:30:31.171995",
+   "url": "https://www.bilibili.com/video/BV18eeq65E1X",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +249,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391059,
-   "updated": "2026-09-22T05:57:04.671959",
+   "heat": 391061,
+   "updated": "2026-09-22T14:30:31.171997",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -233,8 +265,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653428,
-   "updated": "2026-09-22T05:57:04.671961",
+   "heat": 653429,
+   "updated": "2026-09-22T14:30:31.172000",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -245,99 +277,13 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Jack-Cui",
-   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
-   "duration": "2:30",
-   "heat": 557497,
-   "updated": "2026-09-22T05:57:04.671963",
-   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155651,
-   "updated": "2026-09-22T05:57:04.671965",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "跟与辉同行用AI打开山西",
-   "duration": "—",
-   "heat": 7692051,
-   "updated": "2026-09-22T05:57:04.671967",
-   "url": "https://www.douyin.com/search/%E8%B7%9F%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E7%94%A8AI%E6%89%93%E5%BC%80%E5%B1%B1%E8%A5%BF?type=general",
-   "points": [
-    "热门话题「跟与辉同行用AI打开山西」：相关视频 1 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+   "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T05:57:04.671970",
-   "url": "https://www.qbitai.com/2026/09/493629.html",
-   "points": [
-    "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22T05:57:04.671971",
-   "url": "https://www.qbitai.com/2026/09/493625.html",
-   "points": [
-    "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22T05:57:04.671973",
-   "url": "https://www.qbitai.com/2026/09/493510.html",
+   "updated": "2026-09-22T14:30:31.172002",
+   "url": "https://www.qbitai.com/2026/09/494263.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -349,13 +295,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+   "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T05:57:04.671975",
-   "url": "https://www.qbitai.com/2026/09/493502.html",
+   "updated": "2026-09-22T14:30:31.172004",
+   "url": "https://www.qbitai.com/2026/09/493653.html",
    "points": [
-    "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。"
+    "梦想是做能帮妈妈订机票的AI浏览器。"
    ],
    "flags": {
     "fav": false,
@@ -367,13 +313,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+   "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T05:57:04.671977",
-   "url": "https://www.qbitai.com/2026/09/493485.html",
+   "updated": "2026-09-22T14:30:31.172006",
+   "url": "https://www.qbitai.com/2026/09/494120.html",
    "points": [
-    "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。"
+    "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。"
    ],
    "flags": {
     "fav": false,
@@ -385,12 +331,68 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+   "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T05:57:04.671979",
-   "url": "https://www.qbitai.com/2026/09/493241.html",
-   "points": [],
+   "updated": "2026-09-22T14:30:31.172009",
+   "url": "https://www.qbitai.com/2026/09/494043.html",
+   "points": [
+    "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-22T14:30:31.172011",
+   "url": "https://www.qbitai.com/2026/09/493865.html",
+   "points": [
+    "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-22T14:30:31.172012",
+   "url": "https://www.qbitai.com/2026/09/493819.html",
+   "points": [
+    "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "警察拥抱人工智能如此之紧，很快我们都会成为犯罪前的嫌疑人",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-22",
+   "url": "https://responsiblestatecraft.org/pentagon-artificial-intelligence/",
+   "points": [
+    "警察拥抱人工智能如此之紧，很快我们都会成为犯罪前的嫌疑人"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -403,7 +405,7 @@
    "author": "Hacker News",
    "title": "人工智能的崛起警察组织警告说，无人机正在引发威胁",
    "duration": "—",
-   "heat": 4,
+   "heat": 5,
    "updated": "2026-09-22",
    "url": "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html",
    "points": [
@@ -457,7 +459,7 @@
    "author": "Hacker News",
    "title": "数学与人工智能咨询小组",
    "duration": "—",
-   "heat": 116,
+   "heat": 150,
    "updated": "2026-09-21",
    "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
    "points": [
@@ -475,29 +477,11 @@
    "author": "Hacker News",
    "title": "数学与人工智能顾问小组",
    "duration": "—",
-   "heat": 72,
+   "heat": 75,
    "updated": "2026-09-21",
    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
    "points": [
     "数学与人工智能顾问小组"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 预测到 2030 年现金消耗将达到 278B 美元",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-21",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-projections-point-to-a-massive-usd278-billion-cash-burn-through-2030-that-exceeds-the-national-budgets-of-indonesia-and-norway-usd856-billion-compute-tab-outpaces-tenfold-revenue-surge",
-   "points": [
-    "OpenAI 预测到 2030 年现金消耗将达到 278B 美元"
    ],
    "flags": {
     "fav": false,
