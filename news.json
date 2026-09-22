@@ -1,86 +1,106 @@
 {
- "fetchedAt": "08:39",
+ "fetchedAt": "13:56",
  "fetchedDate": "2026-09-22",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "端稳“中国饭碗”底气更足",
+   "title": "写在习近平主席对美国进行国事访问之际",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/22/ARTI3AKJzwIE9ZXP9x8pkfAW260922.shtml",
-   "summary": "国家粮食和物资储备局局长刘焕鑫介绍，一是从供需两端发力，完善粮食交易平台体系，加强粮食物流通道建设，抓好粮食购销；二是着眼“备得足、储得好、用得上”，完善粮食应急保障体系，抓好粮食储备；三是从延伸粮食产业链、推进粮食产后全链条节约减损、激发产业创新倍增效应等方面发力，抓好粮食产业。",
+   "url": "https://news.cctv.com/2026/09/22/ARTIVrxT28JYj9rdjvrt4MqG260922.shtml",
+   "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平将于9月23日至25日对美国进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "透过前8个月发票数据 看新质生产力加快培育",
+   "title": "我国将继续实施新一轮找矿突破战略行动",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/22/VIDE5HQYJ33hW9qUQaoj5SE3260922.shtml",
+   "url": "https://tv.cctv.com/2026/09/22/VIDE8qgQwIElFMrUwkBqmXxm260922.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "发票数据亮眼！工业经济稳步增长 新质生产力加快培育",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/22/ARTIKJLJPK3KqUz77pOjx2K9260922.shtml",
+   "summary": "ed66d5978f41,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "双节出游“老少皆宜” 大湾区邮轮游提前升温",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/22/VIDE0xBpBKpJa6ptipmzAOap260922.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "聚焦十大行业、破除数据开发利用难点 国家新举措",
+   "title": "新疆：多彩秋景铺牧道 百万牲畜逐草迁",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/22/ARTIwbopQAYh14IZerlfdMM2260922.shtml",
-   "summary": "记者今天（22日）从国家数据局了解到，国家层面将推出新举措，重点在十大行业，开展数据资源开发利用攻坚行动。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "最高法出台民刑交叉司法解释 畅通民事救济渠道",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/22/VIDEKysY6o3Kx4vJPg3qjsxx260922.shtml",
-   "summary": "最高法出台民刑交叉司法解释：畅通民事救济渠道，并非一律“先刑后民”。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "去年全国大中型旅游演艺项目票房收入超174亿元",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/22/ARTIaJl0r3fdKcaDomopsjpw260922.shtml",
-   "summary": "新华社济南9月21日电（记者邢拓、邵琨）中国演出行业协会21日发布的《2025年中国旅游演艺市场年度报告》显示，2025年全国大中型旅游演艺项目演出19.87万场，同比增长4.95%；票房收入174.42亿元，同比增长6.43%；观众人数8798.97万人次，同比增长3.01%。中国旅游演艺行业进入…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "数说世界技能大赛：看见技能的力量",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/22/ARTIlpZBEpT7fnSBIUs8QRiA260922.shtml",
-   "summary": "8588ee11d5c2,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "花钱就能给食品“背书”？揭开“中食办”身份真相",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/22/ARTInWMzDiAqttX2qtyUCUsr260922.shtml",
+   "url": "https://tv.cctv.com/2026/09/22/VIDEvV96rHGL7CztKACBa2x2260922.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "莫冒险！防汛墙成拍照打卡点 小心隐藏的落水风险",
+   "theme": "文化",
+   "title": "2026北京文化论坛9月22日至23日在北京举办",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/22/ARTI4nkviMRZ0biTwRSrhuaE260921.shtml",
+   "url": "https://news.cctv.com/2026/09/22/ARTI46KtnpeHFrs3YgBr8kdB260922.shtml",
+   "summary": "2026北京文化论坛9月22日至23日在北京举办，以“传承·创新·互鉴”为永久主题，以“文化遗产与文明互鉴”为年度主题，包括主论坛、5场平行论坛、6场专业沙龙以及北京文化论坛会客厅常态化活动。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "今年中秋节假期日均出入境旅客将达225万人次",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/22/ARTIhlcMB5FmCveeoxDFrAIE260922.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "“2026中国民营企业500强”发布",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/22/ARTIlxhuBinSJwOPck2QLpdo260922.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "立陶宛总理告诉BBC，立陶宛已准备好“反击”，但面对俄罗斯威胁已有撤离计划",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+   "summary": "辛克维丘斯告诉英国广播公司《新闻之夜》，立陶宛人感到“不断受到莫斯科的威胁”，但该国准备在受到攻击时“反击”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "七国集团在联合国大会前表示，伊朗必须停止向也门胡塞武装提供武器",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+   "summary": "七国集团还“以最强烈的措辞”谴责胡塞武装对沙特阿拉伯的袭击，称也门战斗升级危及全球安全。",
    "day": 0
   },
   {
@@ -90,7 +110,27 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国主要电视网随后暂停了特朗普前往纽约参加联合国峰会期间的白宫电视报道。",
+   "summary": "美国主要电视网随后暂停了特朗普前往纽约参加联合国峰会时的白宫电视报道。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：对联合国大会有何期待",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+   "summary": "英国广播公司 (BBC) 的莎拉·史密斯 (Sarah Smith) 概述了特朗普将与哪些世界领导人会面以及议程上预期的关键议题。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "境外客商依托东博会共享中国机遇",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0922/c1002-40803345.html",
+   "summary": "新华社南宁9月21日电（记者张爱林、黄孝邦）第23届中国—东盟博览会21日在广西南宁落下帷幕。为期5天的展期里，70多个国家和地区的3400多家企业线下参展，较上届增长5.3%。从人工智能赋能，到",
    "day": 0
   }
  ]
