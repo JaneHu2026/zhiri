@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:30",
- "fetchedDate": "2026-09-22",
+ "fetchedAt": "13:40",
+ "fetchedDate": "2026-09-23",
  "source": "zhiri-server",
  "items": [
   {
@@ -14,24 +14,6 @@
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "points": [
     "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
    ],
    "flags": {
     "fav": false,
@@ -78,24 +60,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 14:55:26",
-   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
-   "points": [
-    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "Two Minute Papers",
    "title": "DeepSeek’s Insane New Architecture",
    "duration": "—",
@@ -132,14 +96,50 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "Everything is LLM - Vibe coding a robot task",
+   "author": "1littlecoder",
+   "title": "open source AI is winning !",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-14 15:11:08",
-   "url": "https://www.youtube.com/watch?v=OIw6zY_AQOg",
+   "updated": "2026-09-08 05:51:29",
+   "url": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
    "points": [
-    "一切都是法学硕士 - Vibe 编码机器人任务"
+    "开源人工智能正在获胜！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "GPT 6 Astra in 11 mins!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-04 00:00:19",
+   "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+   "points": [
+    "11 分钟内完成 GPT 6 Astra！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "Minimax H3 Max feels ILLEGAL and FAST!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-08-29 18:58:48",
+   "url": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
+   "points": [
+    "Minimax H3 Max 感觉非法且速度很快！"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "No_Tables",
    "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
    "duration": "33:52",
-   "heat": 1389061,
-   "updated": "2026-09-22T14:30:31.171971",
+   "heat": 1493707,
+   "updated": "2026-09-23T05:40:03.318125",
    "url": "https://www.bilibili.com/video/BV1woez6TECm",
    "points": [],
    "flags": {
@@ -169,25 +169,9 @@
    "author": "Stormz67",
    "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
    "duration": "4:00",
-   "heat": 769454,
-   "updated": "2026-09-22T14:30:31.171986",
+   "heat": 865639,
+   "updated": "2026-09-23T05:40:03.318138",
    "url": "https://www.bilibili.com/video/BV1aSei65EFe",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "最后讲述者",
-   "title": "【微电影】星河外卖员：平台战争 【AI全民制作人】",
-   "duration": "20:07",
-   "heat": 1625797,
-   "updated": "2026-09-22T14:30:31.171989",
-   "url": "https://www.bilibili.com/video/BV1SveU6GExV",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,9 +185,25 @@
    "author": "制霸美食街",
    "title": "狼王传奇系列1-11集合集【AI全民制作人】",
    "duration": "20:56",
-   "heat": 832292,
-   "updated": "2026-09-22T14:30:31.171991",
+   "heat": 1530892,
+   "updated": "2026-09-23T05:40:03.318141",
    "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "癫癫零点五",
+   "title": "琵琶曲2/1（真人无AI手搓）",
+   "duration": "0:21",
+   "heat": 1397684,
+   "updated": "2026-09-23T05:40:03.318142",
+   "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "Sora_Vex",
    "title": "「沉浸式第一人称」你20岁高中状元——从今天起，全天下都要叫你一声：状元郎！【AI全民制作人】",
    "duration": "1:01",
-   "heat": 1192641,
-   "updated": "2026-09-22T14:30:31.171993",
+   "heat": 1302376,
+   "updated": "2026-09-23T05:40:03.318144",
    "url": "https://www.bilibili.com/video/BV1CRez6BENV",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "提瓦特同人协会",
    "title": "【原神】「1314」哥伦比娅×桑多涅 印象曲MV 琶舞×明透【HoYoFair × bilibilionly】",
    "duration": "3:35",
-   "heat": 268821,
-   "updated": "2026-09-22T14:30:31.171995",
+   "heat": 285441,
+   "updated": "2026-09-23T05:40:03.318146",
    "url": "https://www.bilibili.com/video/BV18eeq65E1X",
    "points": [],
    "flags": {
@@ -246,12 +246,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "玄离199",
-   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
-   "duration": "6:34",
-   "heat": 391061,
-   "updated": "2026-09-22T14:30:31.171997",
-   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
+   "author": "KieruArt",
+   "title": "愚人众执行官：弑神协议 —— 四执政 vs 愚人众 战斗动画【原神 HoYoFair 2026】【HoYoFair × bilibilionly】",
+   "duration": "6:05",
+   "heat": 340178,
+   "updated": "2026-09-23T05:40:03.318148",
+   "url": "https://www.bilibili.com/video/BV18Bet6SErh",
    "points": [],
    "flags": {
     "fav": false,
@@ -262,12 +262,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "优设AIGC",
-   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
-   "duration": "0:54",
-   "heat": 653429,
-   "updated": "2026-09-22T14:30:31.172000",
-   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "author": "高司令-速凌电竞",
+   "title": "【速凌AI】唤生蝶第一章：当修脚的黑狼遇上认大哥的小蝶蝶.....",
+   "duration": "9:29",
+   "heat": 540694,
+   "updated": "2026-09-23T05:40:03.318149",
+   "url": "https://www.bilibili.com/video/BV1GMew6LEa2",
    "points": [],
    "flags": {
     "fav": false,
@@ -279,11 +279,47 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+   "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T14:30:31.172002",
-   "url": "https://www.qbitai.com/2026/09/494263.html",
+   "updated": "2026-09-23T05:40:03.318151",
+   "url": "https://www.qbitai.com/2026/09/496304.html",
+   "points": [
+    "两万元，买到的是怎样一个机器人"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23T05:40:03.318153",
+   "url": "https://www.qbitai.com/2026/09/496301.html",
+   "points": [
+    "覆盖MaaS、Agent服务、行业AI解决方案"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23T05:40:03.318155",
+   "url": "https://www.qbitai.com/2026/09/496221.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -295,13 +331,29 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+   "title": "刷视频也能教会机器人干活！1200亿tokens人类动作预训练，误差按幂律下降",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T14:30:31.172004",
-   "url": "https://www.qbitai.com/2026/09/493653.html",
+   "updated": "2026-09-23T05:40:03.318157",
+   "url": "https://www.qbitai.com/2026/09/496129.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23T05:40:03.318158",
+   "url": "https://www.qbitai.com/2026/09/496124.html",
    "points": [
-    "梦想是做能帮妈妈订机票的AI浏览器。"
+    "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。"
    ],
    "flags": {
     "fav": false,
@@ -313,13 +365,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+   "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-22T14:30:31.172006",
-   "url": "https://www.qbitai.com/2026/09/494120.html",
+   "updated": "2026-09-23T05:40:03.318160",
+   "url": "https://www.qbitai.com/2026/09/495959.html",
    "points": [
-    "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。"
+    "纯电120kWh大电池，18.1吨压着照样开"
    ],
    "flags": {
     "fav": false,
@@ -329,15 +381,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能研究",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22T14:30:31.172009",
-   "url": "https://www.qbitai.com/2026/09/494043.html",
+   "heat": 2,
+   "updated": "2026-09-22",
+   "url": "https://tmodrzyk.github.io/blog/2026/artificial-intelligence-in-research/",
    "points": [
-    "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。"
+    "人工智能研究"
    ],
    "flags": {
     "fav": false,
@@ -347,15 +399,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Anthropic 推出 Claude Opus 5.5，网络安全保障更严格",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22T14:30:31.172011",
-   "url": "https://www.qbitai.com/2026/09/493865.html",
+   "heat": 2,
+   "updated": "2026-09-22",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
    "points": [
-    "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
+    "Anthropic 推出 Claude Opus 5.5，网络安全保障更严格"
    ],
    "flags": {
     "fav": false,
@@ -365,15 +417,33 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "特朗普称美国正式将人工智能更名为“超级智能”",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22T14:30:31.172012",
-   "url": "https://www.qbitai.com/2026/09/493819.html",
+   "heat": 10,
+   "updated": "2026-09-22",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
    "points": [
-    "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行"
+    "特朗普称美国正式将人工智能更名为“超级智能”"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "AI 控制的机械臂 97% 的时间都会尝试有害的任务",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-22",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
+   "points": [
+    "AI 控制的机械臂 97% 的时间都会尝试有害的任务"
    ],
    "flags": {
     "fav": false,
@@ -410,78 +480,6 @@
    "url": "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html",
    "points": [
     "人工智能的崛起警察组织警告说，无人机正在引发威胁"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能与劳动力市场重新分配 [pdf]",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-22",
-   "url": "https://conference.nber.org/conf_papers/f247923.pdf",
-   "points": [
-    "人工智能与劳动力市场重新分配 [pdf]"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "乔纳森·斯威夫特 vs. 人工智能",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-21",
-   "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
-   "points": [
-    "乔纳森·斯威夫特 vs. 人工智能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "数学与人工智能咨询小组",
-   "duration": "—",
-   "heat": 150,
-   "updated": "2026-09-21",
-   "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-   "points": [
-    "数学与人工智能咨询小组"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "数学与人工智能顾问小组",
-   "duration": "—",
-   "heat": 75,
-   "updated": "2026-09-21",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
-   "points": [
-    "数学与人工智能顾问小组"
    ],
    "flags": {
     "fav": false,
