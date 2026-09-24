@@ -1,226 +1,36 @@
 {
- "fetchedAt": "22:47",
- "fetchedDate": "2026-09-23",
+ "fetchedAt": "08:18",
+ "fetchedDate": "2026-09-24",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平离京对美国进行国事访问",
+   "title": "习近平抵达华盛顿对美国进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTIYMJxYBFo63FlG6BjwD78260923.shtml",
-   "summary": "新华社北京9月23日电 9月23日下午，国家主席习近平乘专机离开北京，应美国总统特朗普邀请，对美国进行国事访问。",
+   "url": "https://news.cctv.com/2026/09/24/ARTIR25z6v2F4o9nHaJ5CZ5p260924.shtml",
+   "summary": "新华社华盛顿9月23日电 当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "9月23日下午，国家主席习近平乘专机离开北京，应美国总统特朗普邀请，对美国进行国事访问 |",
+   "theme": "科技",
+   "title": "我国成功发射卫星互联网低轨26组卫星",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTIYMJxYBFo63FlG6BjwD78260923.shtml",
-   "summary": "新华社北京9月23日电 9月23日下午，国家主席习近平乘专机离开北京，应美国总统特朗普邀请，对美国进行国事访问。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "以正确相处之道推动中美关系行稳致远",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTINnc6XHAqGLT9hV4OI5nt260923.shtml",
-   "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平于9月23日至25日对美国进行国事访问。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "天天学习｜邦尼街2911号的故事",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTINwzPevAfYqOp78P7gNZm260922.shtml",
-   "summary": "这座看似普通的房子，承载着一段跨越太平洋、延续四十余年的深厚情谊。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从人民中找到根基！100秒看习近平谈中美相处之道",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTIUrzsW3sCiWR4LbgAZ5xg260923.shtml",
+   "url": "https://tv.cctv.com/2026/09/24/VIDEaa4bX9ilt6Sd3zoQiDsP260924.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“中国的魅力无以言表！”马斯克力荐到中国看一看",
+   "title": "2026年中国农民丰收节晚会",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTICE8rjnAYqAW4RCgeVsI8260923.shtml",
-   "summary": "3ac9a93782f8,6,1,9:16,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "推动中美关系这艘巨轮 沿着正确航道平稳前行",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/23/ARTIIbWdRtmexAGkBdQTKLGq260923.shtml",
+   "url": "https://tv.cctv.com/2026/09/24/VIDEAefLDoBlLjX5fJml64yT260924.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "国际人士期待习近平主席对美国进行国事访问",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/23/VIDEBbXwnRBJ5MeZrYOXf1OV260923.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "2026国际微生理系统联盟亚太峰会在南京开幕",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/digital/20260923/15c7c25adf84462fb4826946079697e1/c.html",
-   "summary": "2026国际微生理系统联盟亚太峰会在南京开幕-\"9月22日，由东南大学主办的2026国际微生理系统联盟亚太峰会暨第九届类器官与器官芯片学术会议在南京开幕。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "全国建成一刻钟便民生活圈9156个",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260923/33352ab526564ad7959aa59d6e619565/c.html",
-   "summary": "全国建成一刻钟便民生活圈9156个-\"为加力推动城市一刻钟便民生活圈建设，商务部等8部门近日公布第三批30个城市一刻钟便民生活圈全域推进先行区试点名单，将利用2年左右时间，实现便民生活圈对试点城市主城区和有条件的县城社区全覆盖。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "8月全国查处违反中央八项规定精神问题29171起",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260923/d4e44a6851224be4ad309c5a98f91a21/c.html",
-   "summary": "8月全国查处违反中央八项规定精神问题29171起-\"根据通报，今年8月全国共查处形式主义、官僚主义问题15431起，批评教育和处理19689人。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "中国农民丰收节｜到鄠邑，邂逅丰收里的艺术",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/ci/20260923/7549d59ab6794402ad58684dbcb61c95/c.html",
-   "summary": "中国农民丰收节｜到鄠邑，邂逅丰收里的艺术-",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普发出“歼灭”威胁后，美国和伊朗举行自六月以来的首次会谈",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-   "summary": "这是自六月份停火协议破裂以来的首次会谈，双方时断时续地交火。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "联合国机构发现加沙暴力侵害妇女行为的报告激增",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-   "summary": "联合国人口基金还表示，早婚和强迫婚姻的数量“严重增加”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "埃塞俄比亚和提格雷指责各自发动攻势，加剧了对新战争的担忧",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，在最近发生无人机袭击的报道后，地方当局占领了提格雷的机场。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "87岁妇女被大规模驱逐凸显西班牙住房短缺",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-   "summary": "马德里公寓的租户马里卡门 (Maricarmen) 无法支付最近购买该公寓的公司规定的租金。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "多莉帕顿的经理指责她的侄子“威胁和恐吓”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-   "summary": "向全世界宣布帕顿去世的布莱恩·西弗被指控试图勒索她的遗产。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普政府在法庭听证会前指责被禁媒体“撒谎”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国司法部对 CNN、Politico 和 MS NOW 提起的诉讼的回应也以国家安全为由。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "南非住宅发生大规模枪击事件 11人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-   "summary": "警方称，其中一名死者据信是一名孕妇。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "南苏丹总统在该国首次选举前解散政府",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-   "summary": "南苏丹自 2011 年独立以来一直没有举行过选举 - 民意调查已两次被推迟。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "第81届联合国大会一般性辩论开幕",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0923/c1002-40804113.html",
-   "summary": "第81届联合国大会一般性辩论22日在纽约联合国总部开幕。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "中国品牌亮相米兰时装周",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0923/c1002-40804211.html",
-   "summary": "9月22日，2027春夏米兰时装周·深圳福田时尚荟在意大利米兰举行，来自深圳市福田区的时尚品牌Laurèl、IDPAN和YINER联袂呈现以中国元素为主题的女装品牌时装秀。",
    "day": 0
   }
  ]
