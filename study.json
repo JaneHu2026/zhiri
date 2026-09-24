@@ -1,5 +1,5 @@
 {
- "fetchedAt": "08:19",
+ "fetchedAt": "13:56",
  "fetchedDate": "2026-09-24",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "制霸美食街",
    "title": "狼王传奇系列1-11集合集【AI全民制作人】",
    "duration": "20:56",
-   "heat": 2115089,
-   "updated": "2026-09-24T00:19:14.285924",
+   "heat": 2312133,
+   "updated": "2026-09-24T05:56:48.357419",
    "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "No_Tables",
    "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
    "duration": "33:52",
-   "heat": 1586420,
-   "updated": "2026-09-24T00:19:14.285933",
+   "heat": 1622184,
+   "updated": "2026-09-24T05:56:48.357431",
    "url": "https://www.bilibili.com/video/BV1woez6TECm",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "Stormz67",
    "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
    "duration": "4:00",
-   "heat": 965595,
-   "updated": "2026-09-24T00:19:14.285936",
+   "heat": 1015004,
+   "updated": "2026-09-24T05:56:48.357433",
    "url": "https://www.bilibili.com/video/BV1aSei65EFe",
    "points": [],
    "flags": {
@@ -201,25 +201,9 @@
    "author": "癫癫零点五",
    "title": "琵琶曲2/1（真人无AI手搓）",
    "duration": "0:21",
-   "heat": 1774563,
-   "updated": "2026-09-24T00:19:14.285938",
+   "heat": 1820137,
+   "updated": "2026-09-24T05:56:48.357435",
    "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Sora_Vex",
-   "title": "「沉浸式第一人称」你20岁高中状元——从今天起，全天下都要叫你一声：状元郎！【AI全民制作人】",
-   "duration": "1:01",
-   "heat": 1414285,
-   "updated": "2026-09-24T00:19:14.285940",
-   "url": "https://www.bilibili.com/video/BV1CRez6BENV",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,9 +217,25 @@
    "author": "阿游Kidding",
    "title": "带着豆包去买瓜",
    "duration": "5:20",
-   "heat": 1224220,
-   "updated": "2026-09-24T00:19:14.285942",
+   "heat": 1498432,
+   "updated": "2026-09-24T05:56:48.357436",
    "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Sora_Vex",
+   "title": "「沉浸式第一人称」你20岁高中状元——从今天起，全天下都要叫你一声：状元郎！【AI全民制作人】",
+   "duration": "1:01",
+   "heat": 1440231,
+   "updated": "2026-09-24T05:56:48.357438",
+   "url": "https://www.bilibili.com/video/BV1CRez6BENV",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,8 +249,8 @@
    "author": "别闹了豆刨",
    "title": "Don't be silly! Granny!【AI全民制作人】",
    "duration": "14:45",
-   "heat": 2409349,
-   "updated": "2026-09-24T00:19:14.285944",
+   "heat": 2465626,
+   "updated": "2026-09-24T05:56:48.357439",
    "url": "https://www.bilibili.com/video/BV1Lpta6REH7",
    "points": [],
    "flags": {
@@ -262,12 +262,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "KieruArt",
-   "title": "愚人众执行官：弑神协议 —— 四执政 vs 愚人众 战斗动画【原神 HoYoFair 2026】【HoYoFair × bilibilionly】",
-   "duration": "6:05",
-   "heat": 393577,
-   "updated": "2026-09-24T00:19:14.285946",
-   "url": "https://www.bilibili.com/video/BV18Bet6SErh",
+   "author": "玄离199",
+   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
+   "duration": "6:34",
+   "heat": 391066,
+   "updated": "2026-09-24T05:56:48.357441",
+   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
     "fav": false,
@@ -277,105 +277,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能已经解决了数学中最棘手的问题。为什么它不能解决国际象棋问题？",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24T00:19:14.285948",
-   "url": "https://www.qbitai.com/2026/09/496609.html",
+   "heat": 2,
+   "updated": "2026-09-24",
+   "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
    "points": [
-    "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24T00:19:14.285950",
-   "url": "https://www.qbitai.com/2026/09/496578.html",
-   "points": [
-    "商汤大装置异构混推创新实践与技术演进"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24T00:19:14.285952",
-   "url": "https://www.qbitai.com/2026/09/496493.html",
-   "points": [
-    "企业AI服务迎来平台化交付时代"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24T00:19:14.285954",
-   "url": "https://www.qbitai.com/2026/09/496494.html",
-   "points": [
-    "打造算电协同领域“Windows”级操作系统"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24T00:19:14.285956",
-   "url": "https://www.qbitai.com/2026/09/496481.html",
-   "points": [
-    "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24T00:19:14.285958",
-   "url": "https://www.qbitai.com/2026/09/496471.html",
-   "points": [
-    "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B"
+    "人工智能已经解决了数学中最棘手的问题。为什么它不能解决国际象棋问题？"
    ],
    "flags": {
     "fav": false,
@@ -466,24 +376,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
    "points": [
     "OpenAI 在即将发布的公告之前任命了 Patreon 的关键高管"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "如何在人工智能中生存",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-23",
-   "url": "https://illwill.com/how-to-survive-artificial-intelligence",
-   "points": [
-    "如何在人工智能中生存"
    ],
    "flags": {
     "fav": false,

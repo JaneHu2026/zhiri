@@ -1,36 +1,136 @@
 {
- "fetchedAt": "08:18",
+ "fetchedAt": "13:56",
  "fetchedDate": "2026-09-24",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平抵达华盛顿对美国进行国事访问",
+   "title": "独家视频丨习近平抵达华盛顿对美国进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTIR25z6v2F4o9nHaJ5CZ5p260924.shtml",
-   "summary": "新华社华盛顿9月23日电 当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+   "url": "https://news.cctv.com/2026/09/24/ARTInVvl6durSMAC2xojN2uz260924.shtml",
+   "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "我国成功发射卫星互联网低轨26组卫星",
+   "theme": "要闻",
+   "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/24/VIDEaa4bX9ilt6Sd3zoQiDsP260924.shtml",
+   "url": "https://news.cctv.com/2026/09/24/ARTI4S2cEd3lORmZN1RJt23E260924.shtml",
+   "summary": "很高兴应特朗普总统邀请对美利坚合众国进行国事访问。我谨代表中国人民，向美国人民致以诚挚问候和良好祝愿。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平抵达华盛顿对美国进行国事访问",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/24/ARTIuI8AFRqLlLvHqYCSFT2d260924.shtml",
+   "summary": "习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。特朗普表示，很高兴在华盛顿接待习近平主席和彭丽媛女士，这是一次举世瞩目的访问。习近平主席是伟大的领导人，这是一个伟大的时刻。我期待同习近平主席深入交换意见，推动两国关系发展。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/24/ARTIuI8AFRqLlLvHqYCSFT2d260924.shtml",
+   "summary": "习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。特朗普表示，很高兴在华盛顿接待习近平主席和彭丽媛女士，这是一次举世瞩目的访问。习近平主席是伟大的领导人，这是一个伟大的时刻。我期待同习近平主席深入交换意见，推动两国关系发展。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "独家视频｜中美元首华盛顿再次见面",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/24/ARTIKZyOsVtfOq2MmfXE1DYU260924.shtml",
+   "summary": "习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/24/ARTI4S2cEd3lORmZN1RJt23E260924.shtml",
+   "summary": "很高兴应特朗普总统邀请对美利坚合众国进行国事访问。我谨代表中国人民，向美国人民致以诚挚问候和良好祝愿。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "国际社会期待习近平主席访美造福两国、惠及世界",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/24/VIDEL6zSpsZtJ2dkG1PzJRgL260924.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "2026年中国农民丰收节晚会",
+   "title": "从初见到想念：中国有了我牵挂的朋友",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/24/VIDEAefLDoBlLjX5fJml64yT260924.shtml",
+   "url": "https://tv.cctv.com/2026/09/24/VIDEUV7DPbHab5HvLDucEZr2260924.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "总理称 OpenAI 代理“渗透”了澳大利亚政府网站",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+   "summary": "Albanese 表示，在 6 月份的数据泄露事件发生三个月后，当局接到通知后，他向 OpenAI 创始人 Sam Altman 表达了“担忧”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃塞俄比亚和提格雷指责各自发动攻势，加剧了对新战争的担忧",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+   "summary": "据报道，在最近发生无人机袭击的报道后，地方当局占领了提格雷的机场。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "在阿米什国家，护士挨家挨户阻止致命的麻疹传播",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+   "summary": "宾夕法尼亚州有四例与麻疹相关的死亡，卫生官员希望让人们私下接种疫苗。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "他们被贴上“变态眼镜”的标签。无摄像头版本会改变他们的形象吗？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Meta 推出了纯音频智能眼镜，一些人质疑这是否是对隐私问题的回应。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "中非人文交流中秋时尚秀在内罗毕举行",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0924/c1002-40804993.html",
+   "summary": "9月23日，在肯尼亚内罗毕，模特在中非人文交流中秋时尚秀上展示时装。 当日，中非人文交流中秋时尚秀在肯尼亚内罗毕大学孔子学院举行。 新华社记者杨光摄",
    "day": 0
   }
  ]
