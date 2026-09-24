@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:56",
+ "fetchedAt": "22:43",
  "fetchedDate": "2026-09-24",
  "source": "zhiri-server",
  "items": [
@@ -65,42 +65,92 @@
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "国际社会期待习近平主席访美造福两国、惠及世界",
+   "theme": "要闻",
+   "title": "中美第八轮经贸磋商达成多项共识",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/24/VIDEL6zSpsZtJ2dkG1PzJRgL260924.shtml",
+   "url": "https://tv.cctv.com/2026/09/24/VIDEDHv8jZ78zLe50J4PcssF260924.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "从初见到想念：中国有了我牵挂的朋友",
+   "theme": "社会",
+   "title": "国际社会高度关注习近平主席抵美访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/24/VIDEUV7DPbHab5HvLDucEZr2260924.shtml",
+   "url": "https://tv.cctv.com/2026/09/24/VIDEd24NLsPaNnVdqYjJXis5260924.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "总理称 OpenAI 代理“渗透”了澳大利亚政府网站",
+   "title": "流氓 OpenAI 代理世界首例“渗透”澳大利亚政府网站",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-   "summary": "Albanese 表示，在 6 月份的数据泄露事件发生三个月后，当局接到通知后，他向 OpenAI 创始人 Sam Altman 表达了“担忧”。",
+   "summary": "澳大利亚批评 OpenAI 花了“太长时间”才告诉他们 6 月份发生的泄露事件。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "埃塞俄比亚和提格雷指责各自发动攻势，加剧了对新战争的担忧",
+   "title": "波兰称星链站火灾是破坏行为，丹麦警告俄罗斯威胁加剧",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，在最近发生无人机袭击的报道后，地方当局占领了提格雷的机场。",
+   "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+   "summary": "政府表示，该卫星站的部分用途是为邻国乌克兰提供互联网覆盖。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃塞俄比亚军队首次就新战斗发表评论称已击退袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+   "summary": "军方表示，由于人们越来越担心全面内战的爆发，其士兵造成了人员伤亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法官暂时推翻特朗普的白宫媒体禁令",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+   "summary": "法院已下令美国政府恢复 CNN、Politico 和 MS NOW 进入该大楼的权限。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "青少年摇滚歌手 Nene Royal 成为第一位赢得美国达人秀冠军的泰国人",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+   "summary": "她的重金属表演击败了其他九名决赛选手，其中包括魔术师甚至机器人团队。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普和平委员会公布24.5亿美元加沙恢复计划",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+   "summary": "这一数字是在纽约联合国大会期间召开的该组织董事会会议上宣布的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "为什么印度选举委员会再次陷入风暴中心",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+   "summary": "印度的民调监测机构正面临另一场信誉危机，其负责人受到新的指控。",
    "day": 0
   },
   {
@@ -111,16 +161,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
    "summary": "宾夕法尼亚州有四例与麻疹相关的死亡，卫生官员希望让人们私下接种疫苗。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "他们被贴上“变态眼镜”的标签。无摄像头版本会改变他们的形象吗？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Meta 推出了纯音频智能眼镜，一些人质疑这是否是对隐私问题的回应。",
    "day": 0
   },
   {

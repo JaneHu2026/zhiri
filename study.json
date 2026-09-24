@@ -1,8 +1,26 @@
 {
- "fetchedAt": "13:56",
+ "fetchedAt": "22:44",
  "fetchedDate": "2026-09-24",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24 08:40:55",
+   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+   "points": [
+    "Claude Opus 5.5 AI：巨大的飞跃"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -131,63 +149,13 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-15 10:12:34",
-   "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-   "points": [
-    "克劳德现在在其文本中留下了隐形指纹"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "制霸美食街",
    "title": "狼王传奇系列1-11集合集【AI全民制作人】",
    "duration": "20:56",
-   "heat": 2312133,
-   "updated": "2026-09-24T05:56:48.357419",
+   "heat": 2571137,
+   "updated": "2026-09-24T14:44:23.223914",
    "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "No_Tables",
-   "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
-   "duration": "33:52",
-   "heat": 1622184,
-   "updated": "2026-09-24T05:56:48.357431",
-   "url": "https://www.bilibili.com/video/BV1woez6TECm",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Stormz67",
-   "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
-   "duration": "4:00",
-   "heat": 1015004,
-   "updated": "2026-09-24T05:56:48.357433",
-   "url": "https://www.bilibili.com/video/BV1aSei65EFe",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +169,8 @@
    "author": "癫癫零点五",
    "title": "琵琶曲2/1（真人无AI手搓）",
    "duration": "0:21",
-   "heat": 1820137,
-   "updated": "2026-09-24T05:56:48.357435",
+   "heat": 2058227,
+   "updated": "2026-09-24T14:44:23.223926",
    "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
    "points": [],
    "flags": {
@@ -217,9 +185,41 @@
    "author": "阿游Kidding",
    "title": "带着豆包去买瓜",
    "duration": "5:20",
-   "heat": 1498432,
-   "updated": "2026-09-24T05:56:48.357436",
+   "heat": 2001329,
+   "updated": "2026-09-24T14:44:23.223928",
    "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "No_Tables",
+   "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
+   "duration": "33:52",
+   "heat": 1741352,
+   "updated": "2026-09-24T14:44:23.223931",
+   "url": "https://www.bilibili.com/video/BV1woez6TECm",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Stormz67",
+   "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
+   "duration": "4:00",
+   "heat": 1098813,
+   "updated": "2026-09-24T14:44:23.223933",
+   "url": "https://www.bilibili.com/video/BV1aSei65EFe",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,25 +233,9 @@
    "author": "Sora_Vex",
    "title": "「沉浸式第一人称」你20岁高中状元——从今天起，全天下都要叫你一声：状元郎！【AI全民制作人】",
    "duration": "1:01",
-   "heat": 1440231,
-   "updated": "2026-09-24T05:56:48.357438",
+   "heat": 1557146,
+   "updated": "2026-09-24T14:44:23.223935",
    "url": "https://www.bilibili.com/video/BV1CRez6BENV",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "别闹了豆刨",
-   "title": "Don't be silly! Granny!【AI全民制作人】",
-   "duration": "14:45",
-   "heat": 2465626,
-   "updated": "2026-09-24T05:56:48.357439",
-   "url": "https://www.bilibili.com/video/BV1Lpta6REH7",
    "points": [],
    "flags": {
     "fav": false,
@@ -265,9 +249,127 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391066,
-   "updated": "2026-09-24T05:56:48.357441",
+   "heat": 391067,
+   "updated": "2026-09-24T14:44:23.223938",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "优设AIGC",
+   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
+   "duration": "0:54",
+   "heat": 653431,
+   "updated": "2026-09-24T14:44:23.223940",
+   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24T14:44:23.223942",
+   "url": "https://www.qbitai.com/2026/09/496961.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24T14:44:23.223944",
+   "url": "https://www.qbitai.com/2026/09/496925.html",
+   "points": [
+    "1.5台6000D跑赢1台B300！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "时隔十年，AI大牛署名新论文",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24T14:44:23.223947",
+   "url": "https://www.qbitai.com/2026/09/496834.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24T14:44:23.223948",
+   "url": "https://www.qbitai.com/2026/09/496816.html",
+   "points": [
+    "人类演示一次，机器人即可实现跨场景任务复用"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24T14:44:23.223950",
+   "url": "https://www.qbitai.com/2026/09/496779.html",
+   "points": [
+    "Stripe Managed Payments (SMP) 现已全面上线"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-24T14:44:23.223952",
+   "url": "https://www.qbitai.com/2026/09/496778.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,7 +383,7 @@
    "author": "Hacker News",
    "title": "人工智能已经解决了数学中最棘手的问题。为什么它不能解决国际象棋问题？",
    "duration": "—",
-   "heat": 2,
+   "heat": 3,
    "updated": "2026-09-24",
    "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
    "points": [
