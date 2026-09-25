@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:58",
+ "fetchedAt": "23:04",
  "fetchedDate": "2026-09-25",
  "source": "zhiri-server",
  "items": [
@@ -153,41 +153,9 @@
    "author": "制霸美食街",
    "title": "狼王传奇系列1-11集合集【AI全民制作人】",
    "duration": "20:56",
-   "heat": 2963147,
-   "updated": "2026-09-25T05:58:58.838509",
+   "heat": 3338734,
+   "updated": "2026-09-25T15:04:45.633578",
    "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿游Kidding",
-   "title": "带着豆包去买瓜",
-   "duration": "5:20",
-   "heat": 2435031,
-   "updated": "2026-09-25T05:58:58.838523",
-   "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "癫癫零点五",
-   "title": "琵琶曲2/1（真人无AI手搓）",
-   "duration": "0:21",
-   "heat": 2297599,
-   "updated": "2026-09-25T05:58:58.838526",
-   "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,9 +169,41 @@
    "author": "含亮老师",
    "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
    "duration": "3:18",
-   "heat": 838103,
-   "updated": "2026-09-25T05:58:58.838528",
+   "heat": 1724382,
+   "updated": "2026-09-25T15:04:45.633590",
    "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "阿游Kidding",
+   "title": "带着豆包去买瓜",
+   "duration": "5:20",
+   "heat": 2740580,
+   "updated": "2026-09-25T15:04:45.633592",
+   "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "癫癫零点五",
+   "title": "琵琶曲 完整版（真人无AI手搓）",
+   "duration": "1:20",
+   "heat": 1889494,
+   "updated": "2026-09-25T15:04:45.633595",
+   "url": "https://www.bilibili.com/video/BV1MXh466Eif",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391069,
-   "updated": "2026-09-25T05:58:58.838530",
+   "heat": 391071,
+   "updated": "2026-09-25T15:04:45.633597",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653431,
-   "updated": "2026-09-25T05:58:58.838532",
+   "updated": "2026-09-25T15:04:45.633599",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -249,8 +249,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557509,
-   "updated": "2026-09-25T05:58:58.838534",
+   "heat": 557514,
+   "updated": "2026-09-25T15:04:45.633601",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -265,8 +265,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155653,
-   "updated": "2026-09-25T05:58:58.838536",
+   "heat": 155654,
+   "updated": "2026-09-25T15:04:45.633603",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -277,31 +277,13 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "演员王朱悦回应AI换脸风波",
-   "duration": "—",
-   "heat": 7660969,
-   "updated": "2026-09-25T05:58:58.838539",
-   "url": "https://www.douyin.com/search/%E6%BC%94%E5%91%98%E7%8E%8B%E6%9C%B1%E6%82%A6%E5%9B%9E%E5%BA%94AI%E6%8D%A2%E8%84%B8%E9%A3%8E%E6%B3%A2?type=general",
-   "points": [
-    "热门话题「演员王朱悦回应AI换脸风波」：相关视频 8 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+   "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-25T05:58:58.838541",
-   "url": "https://www.qbitai.com/2026/09/496961.html",
+   "updated": "2026-09-25T15:04:45.633606",
+   "url": "https://www.qbitai.com/2026/09/497278.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -313,29 +295,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+   "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-25T05:58:58.838543",
-   "url": "https://www.qbitai.com/2026/09/496925.html",
-   "points": [
-    "1.5台6000D跑赢1台B300！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "时隔十年，AI大牛署名新论文",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25T05:58:58.838545",
-   "url": "https://www.qbitai.com/2026/09/496834.html",
+   "updated": "2026-09-25T15:04:45.633608",
+   "url": "https://www.qbitai.com/2026/09/497177.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -347,13 +311,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+   "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-25T05:58:58.838547",
-   "url": "https://www.qbitai.com/2026/09/496816.html",
+   "updated": "2026-09-25T15:04:45.633610",
+   "url": "https://www.qbitai.com/2026/09/497108.html",
    "points": [
-    "人类演示一次，机器人即可实现跨场景任务复用"
+    "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
    ],
    "flags": {
     "fav": false,
@@ -365,30 +329,62 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+   "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-25T05:58:58.838549",
-   "url": "https://www.qbitai.com/2026/09/496779.html",
-   "points": [
-    "Stripe Managed Payments (SMP) 现已全面上线"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25T05:58:58.838552",
-   "url": "https://www.qbitai.com/2026/09/496778.html",
+   "updated": "2026-09-25T15:04:45.633612",
+   "url": "https://www.qbitai.com/2026/09/497075.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-25T15:04:45.633614",
+   "url": "https://www.qbitai.com/2026/09/497070.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-25T15:04:45.633616",
+   "url": "https://www.qbitai.com/2026/09/497060.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "OpenAI 为创作者聘请 Patreon 高管",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-25",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+   "points": [
+    "OpenAI 为创作者聘请 Patreon 高管"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -401,7 +397,7 @@
    "author": "Hacker News",
    "title": "计划模式已死",
    "duration": "—",
-   "heat": 2,
+   "heat": 7,
    "updated": "2026-09-25",
    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
    "points": [
@@ -419,7 +415,7 @@
    "author": "Hacker News",
    "title": "欧空局和米斯特拉尔加强人工智能合作",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-09-25",
    "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
    "points": [
@@ -437,7 +433,7 @@
    "author": "Hacker News",
    "title": "中国的新旅行规则令科技巨头和人才感到不安",
    "duration": "—",
-   "heat": 16,
+   "heat": 17,
    "updated": "2026-09-24",
    "url": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
    "points": [
@@ -478,24 +474,6 @@
    "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
    "points": [
     "我求求你：永远不要用人工智能写作"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工共生智能",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-24",
-   "url": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
-   "points": [
-    "人工共生智能"
    ],
    "flags": {
     "fav": false,
