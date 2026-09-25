@@ -1,16 +1,16 @@
 {
- "fetchedAt": "08:20",
+ "fetchedAt": "13:58",
  "fetchedDate": "2026-09-25",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平同美国总统特朗普会谈",
+   "title": "视频｜习近平同美国总统特朗普会谈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/25/ARTIpSWNZb9BAL796QIiCdky260925.shtml",
-   "summary": "新华社华盛顿9月24日电（记者李忠发 颜亮）当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。",
+   "url": "https://news.cctv.com/2026/09/25/ARTIw7tXYMIrumUGBKPqhRbv260925.shtml",
+   "summary": "习近平强调，双方经贸团队举行新一轮磋商，达成了一份新的联合安排，对两国产业界、老百姓乃至全球经济都是好消息。合作是双行道，中美经贸关系的稳定既需要拉长合作清单，也需要压缩问题清单。只要秉持平等、尊重、互惠的精神，就能找到解决问题的出路。希望双方相向而行，坚持互利共赢导向，推动中美经贸关系持续稳定向好…",
    "day": 0
   },
   {
@@ -36,6 +36,26 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/25/ARTIkkLsbNiJEEhbF5bNA0mJ260925.shtml",
+   "summary": "当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/25/ARTIkkLsbNiJEEhbF5bNA0mJ260925.shtml",
+   "summary": "当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "习近平同美国总统特朗普小范围交流",
    "source": "央视新闻",
    "time": "今天",
@@ -56,31 +76,51 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平出席特朗普在白宫举行的欢迎仪式",
+   "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/25/ARTIhgjM7NXIGC3zfRTa7ETK260925.shtml",
+   "url": "https://news.cctv.com/2026/09/25/ARTIwpChWwGb9zJZT3WiBlXo260925.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "习近平受到了特朗普红地毯的欢迎，但并没有得到他想要的一切",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/25/ARTIhgjM7NXIGC3zfRTa7ETK260925.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+   "summary": "中国希望在贸易、技术和台湾方面取得进展，但并没有取得预期的成果。",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平出席美国总统特朗普举行的欢迎宴会",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "内塔尼亚胡为以色列的军事行动辩护，代表们在联合国演讲前退场",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/25/ARTInc3jFGkrTOZwY1egnBYQ260925.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位以色列领导人将那些在联合国大会上发表演讲的人称为“道德懦夫”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尽管法官下令，被特朗普禁止的媒体仍拒绝参加白宫晚宴",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+   "summary": "CNN 和 MS NOW 记者表示，在法官裁定应恢复他们的通行证后，他们被禁止报道国宴。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "世界上最有权势的两个人刚刚相遇。进展如何？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+   "summary": "英国广播公司 (BBC) 驻华记者劳拉·比克 (Laura Bicker) 讲述了北京和华盛顿此行的结果。",
    "day": 0
   }
  ]
