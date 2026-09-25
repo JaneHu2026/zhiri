@@ -1,176 +1,86 @@
 {
- "fetchedAt": "22:43",
- "fetchedDate": "2026-09-24",
+ "fetchedAt": "08:20",
+ "fetchedDate": "2026-09-25",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "独家视频丨习近平抵达华盛顿对美国进行国事访问",
+   "title": "习近平同美国总统特朗普会谈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTInVvl6durSMAC2xojN2uz260924.shtml",
-   "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+   "url": "https://news.cctv.com/2026/09/25/ARTIpSWNZb9BAL796QIiCdky260925.shtml",
+   "summary": "新华社华盛顿9月24日电（记者李忠发 颜亮）当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话｜",
+   "title": "习近平：把中美建设性战略稳定关系从愿景转化为行动｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTI4S2cEd3lORmZN1RJt23E260924.shtml",
-   "summary": "很高兴应特朗普总统邀请对美利坚合众国进行国事访问。我谨代表中国人民，向美国人民致以诚挚问候和良好祝愿。",
+   "url": "https://news.cctv.com/2026/09/25/ARTI1G988tHRKFQi0BLXKY5l260925.shtml",
+   "summary": "新华社华盛顿9月24日电 当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平抵达华盛顿对美国进行国事访问",
+   "title": "发表致辞、欢迎仪式、战机致敬……在白宫见证中美关系又一历史性时刻！",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTIuI8AFRqLlLvHqYCSFT2d260924.shtml",
-   "summary": "习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。特朗普表示，很高兴在华盛顿接待习近平主席和彭丽媛女士，这是一次举世瞩目的访问。习近平主席是伟大的领导人，这是一个伟大的时刻。我期待同习近平主席深入交换意见，推动两国关系发展。",
+   "url": "https://news.cctv.com/2026/09/25/ARTIvcHvXHx6CQqrT7Zr0JgR260925.shtml",
+   "summary": "当地时间9月24日，习近平主席同特朗普总统在白宫出席一系列双边活动。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+   "title": "习近平同美国总统特朗普小范围交流",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTIuI8AFRqLlLvHqYCSFT2d260924.shtml",
-   "summary": "习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。特朗普表示，很高兴在华盛顿接待习近平主席和彭丽媛女士，这是一次举世瞩目的访问。习近平主席是伟大的领导人，这是一个伟大的时刻。我期待同习近平主席深入交换意见，推动两国关系发展。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "独家视频｜中美元首华盛顿再次见面",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTIKZyOsVtfOq2MmfXE1DYU260924.shtml",
-   "summary": "习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/24/ARTI4S2cEd3lORmZN1RJt23E260924.shtml",
-   "summary": "很高兴应特朗普总统邀请对美利坚合众国进行国事访问。我谨代表中国人民，向美国人民致以诚挚问候和良好祝愿。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中美第八轮经贸磋商达成多项共识",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/24/VIDEDHv8jZ78zLe50J4PcssF260924.shtml",
+   "url": "https://news.cctv.com/2026/09/25/ARTIXDYZWP7GX5bF0zoMITDK260925.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "社会",
-   "title": "国际社会高度关注习近平主席抵美访问",
+   "theme": "要闻",
+   "title": "当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫椭圆形办公室小范围交流。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/24/VIDEd24NLsPaNnVdqYjJXis5260924.shtml",
+   "url": "https://news.cctv.com/2026/09/25/ARTIXDYZWP7GX5bF0zoMITDK260925.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gj",
-   "theme": "国际",
-   "title": "流氓 OpenAI 代理世界首例“渗透”澳大利亚政府网站",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-   "summary": "澳大利亚批评 OpenAI 花了“太长时间”才告诉他们 6 月份发生的泄露事件。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "波兰称星链站火灾是破坏行为，丹麦警告俄罗斯威胁加剧",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-   "summary": "政府表示，该卫星站的部分用途是为邻国乌克兰提供互联网覆盖。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "埃塞俄比亚军队首次就新战斗发表评论称已击退袭击",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-   "summary": "军方表示，由于人们越来越担心全面内战的爆发，其士兵造成了人员伤亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法官暂时推翻特朗普的白宫媒体禁令",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-   "summary": "法院已下令美国政府恢复 CNN、Politico 和 MS NOW 进入该大楼的权限。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "青少年摇滚歌手 Nene Royal 成为第一位赢得美国达人秀冠军的泰国人",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
-   "summary": "她的重金属表演击败了其他九名决赛选手，其中包括魔术师甚至机器人团队。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普和平委员会公布24.5亿美元加沙恢复计划",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-   "summary": "这一数字是在纽约联合国大会期间召开的该组织董事会会议上宣布的。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "为什么印度选举委员会再次陷入风暴中心",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-   "summary": "印度的民调监测机构正面临另一场信誉危机，其负责人受到新的指控。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "在阿米什国家，护士挨家挨户阻止致命的麻疹传播",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-   "summary": "宾夕法尼亚州有四例与麻疹相关的死亡，卫生官员希望让人们私下接种疫苗。",
-   "day": 0
-  },
-  {
-   "group": "gj",
+   "group": "gn",
    "theme": "要闻",
-   "title": "中非人文交流中秋时尚秀在内罗毕举行",
-   "source": "人民网",
+   "title": "习近平出席特朗普在白宫举行的欢迎仪式",
+   "source": "央视新闻",
    "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/0924/c1002-40804993.html",
-   "summary": "9月23日，在肯尼亚内罗毕，模特在中非人文交流中秋时尚秀上展示时装。 当日，中非人文交流中秋时尚秀在肯尼亚内罗毕大学孔子学院举行。 新华社记者杨光摄",
+   "url": "https://news.cctv.com/2026/09/25/ARTIhgjM7NXIGC3zfRTa7ETK260925.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/25/ARTIhgjM7NXIGC3zfRTa7ETK260925.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/25/ARTInc3jFGkrTOZwY1egnBYQ260925.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   }
  ]

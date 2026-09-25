@@ -1,19 +1,19 @@
 {
- "fetchedAt": "22:44",
- "fetchedDate": "2026-09-24",
+ "fetchedAt": "08:21",
+ "fetchedDate": "2026-09-25",
  "source": "zhiri-server",
  "items": [
   {
    "id": "sv_ext",
    "platform": "youtube",
    "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
    "duration": "—",
    "heat": 0,
    "updated": "2026-09-24 08:40:55",
    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "points": [
-    "Claude Opus 5.5 AI：巨大的飞跃"
+    "Claude Opus 5.5 AI：令人难以置信的飞跃"
    ],
    "flags": {
     "fav": false,
@@ -153,25 +153,9 @@
    "author": "制霸美食街",
    "title": "狼王传奇系列1-11集合集【AI全民制作人】",
    "duration": "20:56",
-   "heat": 2571137,
-   "updated": "2026-09-24T14:44:23.223914",
+   "heat": 2715919,
+   "updated": "2026-09-25T00:21:31.261380",
    "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "癫癫零点五",
-   "title": "琵琶曲2/1（真人无AI手搓）",
-   "duration": "0:21",
-   "heat": 2058227,
-   "updated": "2026-09-24T14:44:23.223926",
-   "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +169,8 @@
    "author": "阿游Kidding",
    "title": "带着豆包去买瓜",
    "duration": "5:20",
-   "heat": 2001329,
-   "updated": "2026-09-24T14:44:23.223928",
+   "heat": 2222164,
+   "updated": "2026-09-25T00:21:31.261392",
    "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
    "points": [],
    "flags": {
@@ -198,12 +182,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "No_Tables",
-   "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
-   "duration": "33:52",
-   "heat": 1741352,
-   "updated": "2026-09-24T14:44:23.223931",
-   "url": "https://www.bilibili.com/video/BV1woez6TECm",
+   "author": "癫癫零点五",
+   "title": "琵琶曲2/1（真人无AI手搓）",
+   "duration": "0:21",
+   "heat": 2170753,
+   "updated": "2026-09-25T00:21:31.261394",
+   "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +201,8 @@
    "author": "Stormz67",
    "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
    "duration": "4:00",
-   "heat": 1098813,
-   "updated": "2026-09-24T14:44:23.223933",
+   "heat": 1133065,
+   "updated": "2026-09-25T00:21:31.261396",
    "url": "https://www.bilibili.com/video/BV1aSei65EFe",
    "points": [],
    "flags": {
@@ -230,12 +214,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "Sora_Vex",
-   "title": "「沉浸式第一人称」你20岁高中状元——从今天起，全天下都要叫你一声：状元郎！【AI全民制作人】",
-   "duration": "1:01",
-   "heat": 1557146,
-   "updated": "2026-09-24T14:44:23.223935",
-   "url": "https://www.bilibili.com/video/BV1CRez6BENV",
+   "author": "No_Tables",
+   "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
+   "duration": "33:52",
+   "heat": 1791869,
+   "updated": "2026-09-25T00:21:31.261398",
+   "url": "https://www.bilibili.com/video/BV1woez6TECm",
    "points": [],
    "flags": {
     "fav": false,
@@ -250,7 +234,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391067,
-   "updated": "2026-09-24T14:44:23.223938",
+   "updated": "2026-09-25T00:21:31.261399",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -266,8 +250,24 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653431,
-   "updated": "2026-09-24T14:44:23.223940",
+   "updated": "2026-09-25T00:21:31.261402",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557509,
+   "updated": "2026-09-25T00:21:31.261403",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +282,7 @@
    "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-24T14:44:23.223942",
+   "updated": "2026-09-25T00:21:31.261405",
    "url": "https://www.qbitai.com/2026/09/496961.html",
    "points": [],
    "flags": {
@@ -298,7 +298,7 @@
    "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-24T14:44:23.223944",
+   "updated": "2026-09-25T00:21:31.261407",
    "url": "https://www.qbitai.com/2026/09/496925.html",
    "points": [
     "1.5台6000D跑赢1台B300！"
@@ -316,7 +316,7 @@
    "title": "时隔十年，AI大牛署名新论文",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-24T14:44:23.223947",
+   "updated": "2026-09-25T00:21:31.261409",
    "url": "https://www.qbitai.com/2026/09/496834.html",
    "points": [],
    "flags": {
@@ -332,7 +332,7 @@
    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-24T14:44:23.223948",
+   "updated": "2026-09-25T00:21:31.261410",
    "url": "https://www.qbitai.com/2026/09/496816.html",
    "points": [
     "人类演示一次，机器人即可实现跨场景任务复用"
@@ -350,7 +350,7 @@
    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-24T14:44:23.223950",
+   "updated": "2026-09-25T00:21:31.261412",
    "url": "https://www.qbitai.com/2026/09/496779.html",
    "points": [
     "Stripe Managed Payments (SMP) 现已全面上线"
@@ -368,9 +368,99 @@
    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-24T14:44:23.223952",
+   "updated": "2026-09-25T00:21:31.261413",
    "url": "https://www.qbitai.com/2026/09/496778.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "中国的新旅行规则令科技巨头和人才感到不安",
+   "duration": "—",
+   "heat": 14,
+   "updated": "2026-09-24",
+   "url": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
+   "points": [
+    "中国的新旅行规则令科技巨头和人才感到不安"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "科技领袖致联合国：为了人类，请控制我们创造的人工智能技术",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-09-24",
+   "url": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
+   "points": [
+    "科技领袖致联合国：为了人类，请控制我们创造的人工智能技术"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "我求求你：永远不要用人工智能写作",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-24",
+   "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
+   "points": [
+    "我求求你：永远不要用人工智能写作"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工共生智能",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-24",
+   "url": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
+   "points": [
+    "人工共生智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "日本二手书店销量激增 5 倍，书籍被大量购买",
+   "duration": "—",
+   "heat": 75,
+   "updated": "2026-09-24",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+   "points": [
+    "日本二手书店销量激增 5 倍，书籍被大量购买"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -388,96 +478,6 @@
    "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
    "points": [
     "人工智能已经解决了数学中最棘手的问题。为什么它不能解决国际象棋问题？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "曾推动员工使用人工智能的 Shopify 首席执行官现在对他所做的事情感到震惊",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-23",
-   "url": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
-   "points": [
-    "曾推动员工使用人工智能的 Shopify 首席执行官现在对他所做的事情感到震惊"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Flock 出现危机迹象，为员工提供买断以辞职",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-23",
-   "url": "https://futurism.com/artificial-intelligence/flock-crisis-employee-buyouts",
-   "points": [
-    "Flock 出现危机迹象，为员工提供买断以辞职"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Qwen Image 2.1 以微小的 7B 参数模型击败 Google Nano Banana 2.0",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-23",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
-   "points": [
-    "Qwen Image 2.1 以微小的 7B 参数模型击败 Google Nano Banana 2.0"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "伯尼·桑德斯提议禁止“超级智能”并将违法者投入监狱",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-23",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-   "points": [
-    "伯尼·桑德斯提议禁止“超级智能”并将违法者投入监狱"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 在即将发布的公告之前任命了 Patreon 的关键高管",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-23",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-   "points": [
-    "OpenAI 在即将发布的公告之前任命了 Patreon 的关键高管"
    ],
    "flags": {
     "fav": false,
