@@ -1,26 +1,8 @@
 {
- "fetchedAt": "08:26",
+ "fetchedAt": "13:58",
  "fetchedDate": "2026-09-26",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
-   "points": [
-    "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -96,42 +78,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "sentdex",
    "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
    "duration": "—",
@@ -149,45 +95,67 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek’s Insane New Architecture",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 07:03:46",
+   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+   "points": [
+    "DeepSeek 疯狂的新架构"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "open source AI is winning !",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-08 05:51:29",
+   "url": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
+   "points": [
+    "开源人工智能正在获胜！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "GPT 6 Astra in 11 mins!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-04 00:00:19",
+   "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+   "points": [
+    "11 分钟内完成 GPT 6 Astra！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "含亮老师",
    "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
    "duration": "3:18",
-   "heat": 1943428,
-   "updated": "2026-09-26T00:26:46.212998",
+   "heat": 2186417,
+   "updated": "2026-09-26T05:58:35.784108",
    "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "制霸美食街",
-   "title": "狼王传奇系列1-11集合集【AI全民制作人】",
-   "duration": "20:56",
-   "heat": 3407458,
-   "updated": "2026-09-26T00:26:46.213011",
-   "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿游Kidding",
-   "title": "带着豆包去买瓜",
-   "duration": "5:20",
-   "heat": 2787958,
-   "updated": "2026-09-26T00:26:46.213013",
-   "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,9 +169,57 @@
    "author": "癫癫零点五",
    "title": "琵琶曲 完整版（真人无AI手搓）",
    "duration": "1:20",
-   "heat": 2032623,
-   "updated": "2026-09-26T00:26:46.213016",
+   "heat": 2202622,
+   "updated": "2026-09-26T05:58:35.784118",
    "url": "https://www.bilibili.com/video/BV1MXh466Eif",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "阿游Kidding",
+   "title": "带着豆包去买瓜",
+   "duration": "5:20",
+   "heat": 2830656,
+   "updated": "2026-09-26T05:58:35.784121",
+   "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "制霸美食街",
+   "title": "狼王传奇系列1-11集合集【AI全民制作人】",
+   "duration": "20:56",
+   "heat": 3475221,
+   "updated": "2026-09-26T05:58:35.784123",
+   "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "陈要得",
+   "title": "鱼：什么打窝仙人！？ 叫榜一大哥！【AI全民制作人】",
+   "duration": "1:57",
+   "heat": 2050868,
+   "updated": "2026-09-26T05:58:35.784125",
+   "url": "https://www.bilibili.com/video/BV13qh86EEGb",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391072,
-   "updated": "2026-09-26T00:26:46.213018",
+   "heat": 391074,
+   "updated": "2026-09-26T05:58:35.784127",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653432,
-   "updated": "2026-09-26T00:26:46.213020",
+   "updated": "2026-09-26T05:58:35.784129",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -249,25 +265,9 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557515,
-   "updated": "2026-09-26T00:26:46.213023",
+   "heat": 557517,
+   "updated": "2026-09-26T05:58:35.784131",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155654,
-   "updated": "2026-09-26T00:26:46.213025",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +282,7 @@
    "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T00:26:46.213027",
+   "updated": "2026-09-26T05:58:35.784133",
    "url": "https://www.qbitai.com/2026/09/497278.html",
    "points": [],
    "flags": {
@@ -298,7 +298,7 @@
    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T00:26:46.213029",
+   "updated": "2026-09-26T05:58:35.784135",
    "url": "https://www.qbitai.com/2026/09/497177.html",
    "points": [],
    "flags": {
@@ -314,7 +314,7 @@
    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T00:26:46.213031",
+   "updated": "2026-09-26T05:58:35.784137",
    "url": "https://www.qbitai.com/2026/09/497108.html",
    "points": [
     "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
@@ -332,7 +332,7 @@
    "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T00:26:46.213033",
+   "updated": "2026-09-26T05:58:35.784139",
    "url": "https://www.qbitai.com/2026/09/497075.html",
    "points": [],
    "flags": {
@@ -348,7 +348,7 @@
    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T00:26:46.213035",
+   "updated": "2026-09-26T05:58:35.784141",
    "url": "https://www.qbitai.com/2026/09/497070.html",
    "points": [],
    "flags": {
@@ -364,9 +364,27 @@
    "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T00:26:46.213053",
+   "updated": "2026-09-26T05:58:35.784143",
    "url": "https://www.qbitai.com/2026/09/497060.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "麦当劳利用人工智能来实现得来速、库存管理和订单准确性",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-26",
+   "url": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
+   "points": [
+    "麦当劳利用人工智能来实现得来速、库存管理和订单准确性"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -397,7 +415,7 @@
    "author": "Hacker News",
    "title": "计划模式已死",
    "duration": "—",
-   "heat": 47,
+   "heat": 212,
    "updated": "2026-09-25",
    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
    "points": [
@@ -456,24 +474,6 @@
    "url": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
    "points": [
     "科技领袖致联合国：为了人类，请控制我们创造的人工智能技术"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "我求求你：永远不要用人工智能写作",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-24",
-   "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
-   "points": [
-    "我求求你：永远不要用人工智能写作"
    ],
    "flags": {
     "fav": false,

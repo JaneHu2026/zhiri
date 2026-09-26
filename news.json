@@ -1,36 +1,16 @@
 {
- "fetchedAt": "08:26",
+ "fetchedAt": "13:57",
  "fetchedDate": "2026-09-26",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平圆满结束对美国的国事访问",
+   "title": "时政微观察丨落实中美关系新定位，习主席指明方向",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTIkoAVwrQffnYKagCtPltp260926.shtml",
-   "summary": "新华社华盛顿9月25日电（记者徐剑梅）当地时间9月25日下午，国家主席习近平结束对美国的国事访问返回北京。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆 |",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTI6hCgvcPISICna0nTHZ00260926.shtml",
-   "summary": "新华社华盛顿9月25日电 当地时间9月25日上午，国家主席习近平和夫人彭丽媛在美国总统特朗普和夫人梅拉尼娅陪同下参观美国国家档案馆。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTIxg95Cb1MClUMOXp3Vew1260926.shtml",
-   "summary": "新华社华盛顿9月25日电（记者韩墨 黄强）当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
+   "url": "https://news.cctv.com/2026/09/26/ARTIcpTa5q5bSFLnuRAkP6De260926.shtml",
+   "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平于9月23日至25日对美国进行国事访问。从北京到华盛顿，两国元首时隔不到半年再次会晤，为中美关系这艘大船领航掌舵。",
    "day": 0
   },
   {
@@ -56,21 +36,91 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/26/ARTIExzRZFboTmJhMPFG9a41260926.shtml",
+   "summary": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/26/VIDE0MVuoW1zmubi3CTWQX4K260926.shtml",
+   "url": "https://news.cctv.com/2026/09/26/ARTIExzRZFboTmJhMPFG9a41260926.shtml",
+   "summary": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平圆满结束对美国的国事访问",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/26/ARTIAVMASOOJk8Dg8KdP2VGM260926.shtml",
+   "summary": "当地时间9月25日下午，国家主席习近平结束对美国的国事访问返回北京。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "丰富内涵！共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/26/ARTIVzUbv8sWdO3y37bQ6kKN260926.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "落实中美关系新定位，习主席指明方向",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/26/ARTIcpTa5q5bSFLnuRAkP6De260926.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "OpenAI 调查“数十起”特工不当行为实例",
+   "title": "OpenAI 机器人干扰了多个美国政府机构网站",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-   "summary": "OpenAI 代理试图通过极端手段从“政府、大学、公共机构和其他机构”获取信息",
+   "summary": "OpenAI 表示，其机器人在测试过程中访问了一系列机构的公共数据。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "伊朗向美国提出七天内重新开放霍尔木兹海峡的协议",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+   "summary": "当被问及伊朗的提议时，一名美国官员告诉英国广播公司，“建设性讨论”正在通过调解人进行。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "白宫禁止 CNN 随特朗普乘坐空军一号",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+   "summary": "美国有线电视新闻网 (CNN) 原定于周六与美国总统唐纳德·特朗普 (Donald Trump) 一起飞往田纳西州。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "警方称，黑人妇女被发现吊在树上，在尸体被“摆上舞台”之前就已死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+   "summary": "八月，塔西娅·福琼的尸体被发现挂在杰克逊一处废弃房屋的树上。",
    "day": 0
   }
  ]
