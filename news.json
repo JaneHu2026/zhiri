@@ -1,16 +1,16 @@
 {
- "fetchedAt": "13:57",
+ "fetchedAt": "22:14",
  "fetchedDate": "2026-09-26",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨落实中美关系新定位，习主席指明方向",
+   "title": "一轮中秋月，照见中美两国的友好交往",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTIcpTa5q5bSFLnuRAkP6De260926.shtml",
-   "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平于9月23日至25日对美国进行国事访问。从北京到华盛顿，两国元首时隔不到半年再次会晤，为中美关系这艘大船领航掌舵。",
+   "url": "https://news.cctv.com/2026/09/26/ARTIYRCqDw5xgnG4PIEBjzdg260926.shtml",
+   "summary": "北京时间9月25日，中国人民正在欢度中秋节。太平洋彼岸的美国华盛顿，习近平主席的访美行程，活动一场接着一场。",
    "day": 0
   },
   {
@@ -56,31 +56,71 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平圆满结束对美国的国事访问",
+   "title": "习近平结束对美国的国事访问回到北京",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTIAVMASOOJk8Dg8KdP2VGM260926.shtml",
-   "summary": "当地时间9月25日下午，国家主席习近平结束对美国的国事访问返回北京。",
+   "url": "https://news.cctv.com/2026/09/26/ARTIkI47wiPuqSd0XlADJGfs260926.shtml",
+   "summary": "9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "丰富内涵！共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+   "title": "中美达成八点成果共识",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTIVzUbv8sWdO3y37bQ6kKN260926.shtml",
+   "url": "https://news.cctv.com/2026/09/26/ARTIWjg4ur83qkNvIOKZMZBf260926.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "落实中美关系新定位，习主席指明方向",
+   "title": "王毅谈习近平主席对美国进行国事访问",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/26/ARTIcpTa5q5bSFLnuRAkP6De260926.shtml",
+   "url": "https://news.cctv.com/2026/09/26/ARTIzZF3PhUqPAreJ3WXrLmz260926.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "大批民众在巴黎迎接教皇举行露天弥撒",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+   "summary": "预计将有超过五十万人参加在法国首都市中心举行的活动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "伊朗向美国提出7天内重新开放霍尔木兹海峡的协议",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+   "summary": "当被问及伊朗的提议时，一名美国官员告诉英国广播公司，“建设性讨论”正在通过调解人进行。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "英国国民在雅典卫城附近的建筑爆炸中丧生，其中六人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，四名美国人和一名希腊国民在疑似瓦斯爆炸中丧生。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "曼谷道路被洪水淹没",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+   "summary": "连日来的大雨导致该市被淹没，泰国首都已宣布进入紧急状态。",
    "day": 0
   },
   {
@@ -96,11 +136,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "伊朗向美国提出七天内重新开放霍尔木兹海峡的协议",
+   "title": "警方称，黑人妇女被发现吊在树上，在尸体被“摆上舞台”之前就已死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-   "summary": "当被问及伊朗的提议时，一名美国官员告诉英国广播公司，“建设性讨论”正在通过调解人进行。",
+   "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+   "summary": "八月，塔西娅·福琼的尸体被发现挂在杰克逊一处废弃房屋的树上。",
    "day": 0
   },
   {
@@ -116,11 +156,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "警方称，黑人妇女被发现吊在树上，在尸体被“摆上舞台”之前就已死亡",
+   "title": "巴西总统卢拉在总统选举前禁止在线赌博",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-   "summary": "八月，塔西娅·福琼的尸体被发现挂在杰克逊一处废弃房屋的树上。",
+   "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+   "summary": "卢拉目前正在与弗拉维奥·博尔索纳罗进行激烈的总统竞选，他表示该行业是他必须“消除”的“癌症”。",
    "day": 0
   }
  ]
