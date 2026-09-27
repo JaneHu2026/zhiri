@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:15",
- "fetchedDate": "2026-09-26",
+ "fetchedAt": "14:25",
+ "fetchedDate": "2026-09-27",
  "source": "zhiri-server",
  "items": [
   {
@@ -14,78 +14,6 @@
    "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
     "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24 08:40:55",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "points": [
-    "Claude Opus 5.5 AI：令人难以置信的飞跃"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Yes, Jev Is Insane, But There's A Catch",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22 09:32:13",
-   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-   "points": [
-    "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -131,30 +59,12 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 14:55:26",
-   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
-   "points": [
-    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "含亮老师",
    "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
    "duration": "3:18",
-   "heat": 2514505,
-   "updated": "2026-09-26T14:15:06.489512",
+   "heat": 2872456,
+   "updated": "2026-09-27T06:25:11.072688",
    "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
    "points": [],
    "flags": {
@@ -169,41 +79,9 @@
    "author": "癫癫零点五",
    "title": "琵琶曲 完整版（真人无AI手搓）",
    "duration": "1:20",
-   "heat": 2454367,
-   "updated": "2026-09-26T14:15:06.489526",
+   "heat": 2718233,
+   "updated": "2026-09-27T06:25:11.072698",
    "url": "https://www.bilibili.com/video/BV1MXh466Eif",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "阿游Kidding",
-   "title": "带着豆包去买瓜",
-   "duration": "5:20",
-   "heat": 2905890,
-   "updated": "2026-09-26T14:15:06.489528",
-   "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "制霸美食街",
-   "title": "狼王传奇系列1-11集合集【AI全民制作人】",
-   "duration": "20:56",
-   "heat": 3571566,
-   "updated": "2026-09-26T14:15:06.489530",
-   "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
    "points": [],
    "flags": {
     "fav": false,
@@ -218,7 +96,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391076,
-   "updated": "2026-09-26T14:15:06.489533",
+   "updated": "2026-09-27T06:25:11.072701",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +112,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653432,
-   "updated": "2026-09-26T14:15:06.489535",
+   "updated": "2026-09-27T06:25:11.072703",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +128,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557522,
-   "updated": "2026-09-26T14:15:06.489537",
+   "updated": "2026-09-27T06:25:11.072705",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -265,9 +143,41 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155657,
-   "updated": "2026-09-26T14:15:06.489539",
+   "heat": 155658,
+   "updated": "2026-09-27T06:25:11.072707",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611495,
+   "updated": "2026-09-27T06:25:11.072709",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659688,
+   "updated": "2026-09-27T06:25:11.072711",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +192,7 @@
    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T14:15:06.489541",
+   "updated": "2026-09-27T06:25:11.072713",
    "url": "https://www.qbitai.com/2026/09/498478.html",
    "points": [
     "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
@@ -300,7 +210,7 @@
    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T14:15:06.489543",
+   "updated": "2026-09-27T06:25:11.072715",
    "url": "https://www.qbitai.com/2026/09/498271.html",
    "points": [
     "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
@@ -318,7 +228,7 @@
    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T14:15:06.489545",
+   "updated": "2026-09-27T06:25:11.072717",
    "url": "https://www.qbitai.com/2026/09/497624.html",
    "points": [
     "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
@@ -336,7 +246,7 @@
    "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T14:15:06.489547",
+   "updated": "2026-09-27T06:25:11.072719",
    "url": "https://www.qbitai.com/2026/09/497425.html",
    "points": [],
    "flags": {
@@ -352,7 +262,7 @@
    "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T14:15:06.489550",
+   "updated": "2026-09-27T06:25:11.072721",
    "url": "https://www.qbitai.com/2026/09/497278.html",
    "points": [],
    "flags": {
@@ -368,9 +278,27 @@
    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-26T14:15:06.489551",
+   "updated": "2026-09-27T06:25:11.072723",
    "url": "https://www.qbitai.com/2026/09/497177.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "OpenAI 暂停对其“最有能力的模型”的训练",
+   "duration": "—",
+   "heat": 20,
+   "updated": "2026-09-26",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "points": [
+    "OpenAI 暂停对其“最有能力的模型”的训练"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -437,7 +365,7 @@
    "author": "Hacker News",
    "title": "计划模式已死",
    "duration": "—",
-   "heat": 393,
+   "heat": 559,
    "updated": "2026-09-25",
    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
    "points": [
@@ -460,24 +388,6 @@
    "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
    "points": [
     "欧空局和米斯特拉尔加强人工智能合作"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "中国的新旅行规则令科技巨头和人才感到不安",
-   "duration": "—",
-   "heat": 17,
-   "updated": "2026-09-24",
-   "url": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
-   "points": [
-    "中国的新旅行规则令科技巨头和人才感到不安"
    ],
    "flags": {
     "fav": false,
