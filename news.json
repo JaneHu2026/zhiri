@@ -1,8 +1,18 @@
 {
- "fetchedAt": "08:24",
+ "fetchedAt": "14:28",
  "fetchedDate": "2026-09-28",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/28/ARTI5xpf3uP00ecbBJLLSp8g260928.shtml",
+   "summary": "观察2026年秋季的这三天两晚，也是从大国的互动去观察“百年未有之大变局”。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -15,8 +25,18 @@
   },
   {
    "group": "gn",
+   "theme": "要闻",
+   "title": "“梦想”号南海试钻成功 钻获深海洋盆玄武岩样品",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/28/VIDEqoUB5E82mTi7uYn5rdDj260928.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "文化",
-   "title": "面对面丨一纸家书载满乡愁 读懂侨批档案的文化密码",
+   "title": "面对面｜一纸家书载满乡愁 读懂侨批档案的文化密码",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/28/ARTI4sHk9p2V6WXrfL8YWINg260928.shtml",
@@ -25,12 +45,32 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "中秋假期消费市场需求旺盛",
+   "theme": "要闻",
+   "title": "第七届全国少数民族文艺会演闭幕式文艺晚会",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIhEMRpVuqbWfIILfwSlBC260928.shtml",
-   "summary": "5182bed5b327,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/09/28/VIDEhhoccg7O33o2ogvT6wkF260928.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "商务部解读第八轮中美经贸磋商成果",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/28/ARTIDqHMEWlr6RO2mZr0EfaE260928.shtml",
+   "summary": "中美双方经贸团队达成共识，中方自美进口煤炭关税将纳入“300亿对300亿”对等降税框架，这将有利于中方在2027年和2028年每年自美进口煤炭。进口美国煤炭既是对中国国内煤炭市场的有益补充，也将为美国煤炭行业带来稳定的经济收入和就业，有利于稳定和拓展中美双边贸易。期待在双方共同努力下，中美煤炭领域合…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "前8月全国规模以上工业企业利润同比增15.7%",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/28/ARTIb04xtJ8xF6yhlrfDTeEd260928.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -40,47 +80,67 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/28/ARTIl62KCkNTppssBDMJw8Oh260928.shtml",
-   "summary": "59fa7795ac6b,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "我国重点领域风险化解有序推进",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTINZGB6WL0P51Fq6MIcIz4260928.shtml",
-   "summary": "安全是发展的前提，发展是安全的保障。做好当前经济工作，要切实筑牢安全屏障，稳定房地产市场，实施好一揽子化债方案，扎实推进地方中小金融机构改革化险、减量提质。在各方共同努力下，我国重点领域风险化解有序推进，粮食、能源资源、重要产业链供应链保障能力持续增强，安全底座不断夯实，为经济稳健运行提供了坚实支撑…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全国秋粮收获近两成 部分区域迎降雨各地抓紧抢收",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTITuF5f3kyLENHqLUAOl26260928.shtml",
-   "summary": "69c6c4a4bd6c,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "在轨4个多月 神二十三乘组完成载荷进出舱等多项工作",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIJsvziEpbbKpYSz8o89RL260928.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "“中国天眼”又有新发现 助力解码恒星与星系演化奥秘",
-   "source": "央视新闻",
+   "theme": "社会",
+   "title": "火车票预约购票试点服务调整预约日期范围",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIzG6WCOP6z1LWfNfmGWpI260928.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20260928/55237c62c1324fe1816363b3e88a9644/c.html",
+   "summary": "火车票预约购票试点服务调整预约日期范围- 记者从中国国家铁路集团有限公司客运中心获悉，9月26日起，铁路部门对京沪高铁、京沪铁路试点的火车票预约购票服务的可预约日期范围从开车前第60天至第17天，逐步调整为开车前第30天至第17天。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中秋假期北京接待游客878.3万人次",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20260928/94eb97660c524839901054b025b58e1e/c.html",
+   "summary": "中秋假期北京接待游客878.3万人次- 新华社北京9月27日电（记者杨淑君）记者27日从北京市文化和旅游局获悉，中秋假期，北京累计接待游客878.3万人次，实现旅游总花费115.4亿元。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：麦当娜和泰勒·斯威夫特在 MTV VMA 上大获全胜",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+   "summary": "泰勒·斯威夫特 (Taylor Swift)、麦当娜 (Madonna) 和丽莎 (LISA) 成为周日晚上在洛杉矶市中心举行的 MTV 音乐录影带大奖 (VMA) 的大赢家。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Taylor Swift 和 Charli XCX 等明星点亮 VMA 红毯",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+   "summary": "在洛杉矶举行的 2026 年 MTV 音乐录影带颁奖典礼之前，名人们在镜头前摆好姿势。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：东北风暴期间楠塔基特岛发现沉船",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
+   "summary": "当地媒体称，所谓的东北风暴已经冲毁了马萨诸塞州一艘可能是 19 世纪的沉船残骸。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "列国鉴丨记者手记：又见简·奥斯汀",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/0928/c1002-40806632.html",
+   "summary": "新华社伦敦9月27日电（记者张枫）美国在线影视平台奈飞公司近期推出基于英国经典小说《傲慢与偏见》的改编新剧，激发年轻观众对小说作者简·奥斯汀的新一轮“考古热”。在那个婚恋关乎女性生存与命运的时代，",
    "day": 0
   }
  ]
