@@ -1,26 +1,46 @@
 {
- "fetchedAt": "14:28",
- "fetchedDate": "2026-09-28",
+ "fetchedAt": "02:00",
+ "fetchedDate": "2026-09-29",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实",
+   "title": "习近平就建设更高水平平安中国作出重要指示",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTI5xpf3uP00ecbBJLLSp8g260928.shtml",
-   "summary": "观察2026年秋季的这三天两晚，也是从大国的互动去观察“百年未有之大变局”。",
+   "url": "https://news.cctv.com/2026/09/28/ARTIcmKzCNoNKjNtddtTKddi260928.shtml",
+   "summary": "新华社北京9月28日电 中共中央总书记、国家主席、中央军委主席习近平近日就建设更高水平平安中国作出重要指示指出，党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "习近平：坚定不移贯彻总体国家安全观 以更高水平平安中国建设保障中国式现代化行稳致远｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/28/ARTIcmKzCNoNKjNtddtTKddi260928.shtml",
+   "summary": "新华社北京9月28日电 中共中央总书记、国家主席、中央军委主席习近平近日就建设更高水平平安中国作出重要指示指出，党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "【央视快评】以更高水平平安中国建设保障中国式现代化行稳致远",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/28/ARTIwA0F4d2BQvxAQWbgJk2l260928.shtml",
+   "summary": "习近平总书记近日就建设更高水平平安中国作出重要指示，充分肯定新时代平安中国建设取得的丰硕成果，对新征程上平安中国建设提出奋进目标。总书记的重要指示，为我国筑牢国家安全屏障、提升社会治理效能、守护万家灯火指明了方向，提供了根本遵循。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "41金11银4铜 中国创参加世界技能大赛最好成绩",
+   "title": "“十五五”开好局起好步｜推动国资央企实现新发展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIZ8fL425Kqr0VDmoTTQjY260928.shtml",
-   "summary": "1e9826e7d10d,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/09/28/ARTI2eo8ijgtAona7F0u3vlt260928.shtml",
+   "summary": "5e68d2aa2f91,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -35,52 +55,42 @@
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "面对面｜一纸家书载满乡愁 读懂侨批档案的文化密码",
+   "theme": "要闻",
+   "title": "多彩中秋“奇妙月”拉长游玩链条、丰富度假业态",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTI4sHk9p2V6WXrfL8YWINg260928.shtml",
-   "summary": "a6a5edcb46ca,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/09/28/ARTIzqQda4rI5fwLUlhEmDKZ260928.shtml",
+   "summary": "86c1a2e85f3f,0,1,16:9,newPlayer973ca1a4d307,0,1,16:9,newPlayer685ed0cd93a1,0,1,16:9,newPlayer57750ce39725,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "第七届全国少数民族文艺会演闭幕式文艺晚会",
+   "theme": "社会",
+   "title": "过去肩上背，现在天上飞！昔日“背橙客”飞出大山服务山地农业",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/28/VIDEhhoccg7O33o2ogvT6wkF260928.shtml",
+   "url": "https://news.cctv.com/2026/09/28/ARTIHmAGx7nw6NSvYOQ78IrP260928.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "经济半小时｜耐心资本锚定未来",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/28/VIDEO8TyZEYduoTMnshLJAGr260928.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "商务部解读第八轮中美经贸磋商成果",
-   "source": "央视新闻",
+   "title": "右手一指是吕梁：好气象来好风光",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIDqHMEWlr6RO2mZr0EfaE260928.shtml",
-   "summary": "中美双方经贸团队达成共识，中方自美进口煤炭关税将纳入“300亿对300亿”对等降税框架，这将有利于中方在2027年和2028年每年自美进口煤炭。进口美国煤炭既是对中国国内煤炭市场的有益补充，也将为美国煤炭行业带来稳定的经济收入和就业，有利于稳定和拓展中美双边贸易。期待在双方共同努力下，中美煤炭领域合…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "前8月全国规模以上工业企业利润同比增15.7%",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIb04xtJ8xF6yhlrfDTeEd260928.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "第48届世界技能大赛：以赛促学 以赛促训 以赛促业",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/28/ARTIl62KCkNTppssBDMJw8Oh260928.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20260928/22d16aaa8d424470ab2d288333461f88/c.html",
+   "summary": "【文明中国·看山西】右手一指是吕梁：好气象来好风光-五个切片，五种“起来”的姿态，共同指向一个更深层的主题：今天的吕梁，正在用“活起来”的红色传承、“益起来”的文明实践、“富起来”的产业振兴、“跑起来”的守护行动、“干起来”的基层治理，证明吕梁精神已经“用在当今时代”。",
    "day": 0
   },
   {
@@ -94,43 +104,83 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中秋假期北京接待游客878.3万人次",
-   "source": "新华网",
+   "group": "gj",
+   "theme": "国际",
+   "title": "首尔就朝鲜战俘纠纷召见乌克兰特使",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://www.news.cn/government/20260928/94eb97660c524839901054b025b58e1e/c.html",
-   "summary": "中秋假期北京接待游客878.3万人次- 新华社北京9月27日电（记者杨淑君）记者27日从北京市文化和旅游局获悉，中秋假期，北京累计接待游客878.3万人次，实现旅游总花费115.4亿元。",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+   "summary": "上周泽连斯基透露，乌克兰已将两名被俘的朝鲜人送往韩国——首尔方面表示，这本来是一个秘密。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "观看：麦当娜和泰勒·斯威夫特在 MTV VMA 上大获全胜",
+   "title": "自 7 月以来，南非部分地区已有 12 名妇女被杀。这是迄今为止我们所知道的",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
-   "summary": "泰勒·斯威夫特 (Taylor Swift)、麦当娜 (Madonna) 和丽莎 (LISA) 成为周日晚上在洛杉矶市中心举行的 MTV 音乐录影带大奖 (VMA) 的大赢家。",
+   "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+   "summary": "南非总统西里尔·拉马福萨表示，这些谋杀案是“我们国家良知上的污点”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Taylor Swift 和 Charli XCX 等明星点亮 VMA 红毯",
+   "title": "伊朗法院维持对未戴头巾表演歌手的鞭刑判决",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
-   "summary": "在洛杉矶举行的 2026 年 MTV 音乐录影带颁奖典礼之前，名人们在镜头前摆好姿势。",
+   "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+   "summary": "帕拉斯托·艾哈迈迪因在一场直播音乐会上穿着无袖连衣裙唱歌而被判“冒犯公共道德”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "观看：东北风暴期间楠塔基特岛发现沉船",
+   "title": "尼日利亚人连续7天不停跳舞，试图打破世界纪录",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
-   "summary": "当地媒体称，所谓的东北风暴已经冲毁了马萨诸塞州一艘可能是 19 世纪的沉船残骸。",
+   "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+   "summary": "人群聚集在拉各斯观看本·丹瑟 (Ben Dancer)，他表示他将继续跳舞直到周二早上。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "喜马拉雅登山队遭遇雪崩后发现四具尸体",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+   "summary": "救援人员仍在寻找 12 名尼泊尔厨师，他们正在为登山者攀登 Himlung Himal 峰做准备。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "备受争议的悉尼数据中心计划遭推迟后被取消",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+   "summary": "火星计划数据中心背后的房地产巨头古德曼集团表示，这一决定是由于“政策和监管环境的变化”",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特习峰会：没有说的可能是最重要的",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+   "summary": "关于华盛顿峰会最能说明问题的事情可能是两位领导人没有说的话——以及我们仍然不知道的事情。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尼日利亚森林中发现数十具疑似绑架受害者遗体",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+   "summary": "警方目前已找到至少 28 具遗体，调查仍在继续，以确定其身份。",
    "day": 0
   },
   {

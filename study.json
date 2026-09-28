@@ -1,8 +1,26 @@
 {
- "fetchedAt": "14:29",
- "fetchedDate": "2026-09-28",
+ "fetchedAt": "02:01",
+ "fetchedDate": "2026-09-29",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The Phone Number puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-25 13:35:02",
+   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
+   "points": [
+    "电话号码之谜"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -14,6 +32,24 @@
    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "points": [
     "Claude Opus 5.5 AI：令人难以置信的飞跃"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23 14:50:17",
+   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+   "points": [
+    "决策模型、DSV4.1 闪存和新基准"
    ],
    "flags": {
     "fav": false,
@@ -42,14 +78,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek’s Insane New Architecture",
+   "author": "sentdex",
+   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18 07:03:46",
-   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+   "updated": "2026-09-19 15:35:20",
+   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "DeepSeek 疯狂的新架构"
+    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -59,14 +95,52 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "含亮老师",
-   "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
-   "duration": "3:18",
-   "heat": 3185238,
-   "updated": "2026-09-28T06:29:10.686371",
-   "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
-   "points": [],
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:14:08",
+   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:12:53",
+   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 14:55:26",
+   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
+   "points": [
+    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -79,8 +153,8 @@
    "author": "立志成为恶兽",
    "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
    "duration": "6:57",
-   "heat": 1542404,
-   "updated": "2026-09-28T06:29:10.686380",
+   "heat": 1726086,
+   "updated": "2026-09-28T18:01:16.510443",
    "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
@@ -95,8 +169,8 @@
    "author": "漫士沉思录",
    "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
    "duration": "41:00",
-   "heat": 780471,
-   "updated": "2026-09-28T06:29:10.686383",
+   "heat": 839903,
+   "updated": "2026-09-28T18:01:16.510451",
    "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
    "points": [],
    "flags": {
@@ -108,12 +182,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "Chenomio",
-   "title": "【官方投稿】啾啾吸干 (CHU-CHU DRAIN) feat.奕夕 / Yi Xi【绝区零】",
-   "duration": "2:09",
-   "heat": 331560,
-   "updated": "2026-09-28T06:29:10.686385",
-   "url": "https://www.bilibili.com/video/BV1T8hy6JE2k",
+   "author": "含亮老师",
+   "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
+   "duration": "3:18",
+   "heat": 3322187,
+   "updated": "2026-09-28T18:01:16.510454",
+   "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
    "points": [],
    "flags": {
     "fav": false,
@@ -124,12 +198,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "玄离199",
-   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
-   "duration": "6:34",
-   "heat": 391082,
-   "updated": "2026-09-28T06:29:10.686387",
-   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
+   "author": "明末召唤师",
+   "title": "【新宿决战】DeepSeek娘VS豆包",
+   "duration": "1:41",
+   "heat": 682379,
+   "updated": "2026-09-28T18:01:16.510456",
+   "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
     "fav": false,
@@ -140,12 +214,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "优设AIGC",
-   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
-   "duration": "0:54",
-   "heat": 653433,
-   "updated": "2026-09-28T06:29:10.686389",
-   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "author": "制霸美食街",
+   "title": "美食街，我在森林很想你【AI全民制作人】",
+   "duration": "2:49",
+   "heat": 1789750,
+   "updated": "2026-09-28T18:01:16.510458",
+   "url": "https://www.bilibili.com/video/BV12AhD6wENZ",
    "points": [],
    "flags": {
     "fav": false,
@@ -156,12 +230,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "Jack-Cui",
-   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
-   "duration": "2:30",
-   "heat": 557524,
-   "updated": "2026-09-28T06:29:10.686391",
-   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "author": "星球研究所",
+   "title": "我们尝试用AI造了一个时空",
+   "duration": "11:00",
+   "heat": 1043842,
+   "updated": "2026-09-28T18:01:16.510460",
+   "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
    "points": [],
    "flags": {
     "fav": false,
@@ -172,12 +246,62 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155658,
-   "updated": "2026-09-28T06:29:10.686393",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "author": "韩历飞羽666",
+   "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
+   "duration": "1:45",
+   "heat": 1118989,
+   "updated": "2026-09-28T18:01:16.510461",
+   "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "许主任啊啊啊啊",
+   "title": "这机器人有点东西",
+   "duration": "2:35",
+   "heat": 936067,
+   "updated": "2026-09-28T18:01:16.510463",
+   "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-28T18:01:16.510466",
+   "url": "https://www.qbitai.com/2026/09/498877.html",
+   "points": [
+    "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "HC归来，华为正重新定义AIDC基础设施",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-28T18:01:16.510467",
+   "url": "https://www.qbitai.com/2026/09/498787.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -192,7 +316,7 @@
    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-28T06:29:10.686395",
+   "updated": "2026-09-28T18:01:16.510469",
    "url": "https://www.qbitai.com/2026/09/498605.html",
    "points": [
     "想让开发者“说句话就能跑量子计算”"
@@ -210,7 +334,7 @@
    "title": "啥题啊能干崩OpenAI最强模型训练…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-28T06:29:10.686397",
+   "updated": "2026-09-28T18:01:16.510471",
    "url": "https://www.qbitai.com/2026/09/498546.html",
    "points": [],
    "flags": {
@@ -226,7 +350,7 @@
    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-28T06:29:10.686399",
+   "updated": "2026-09-28T18:01:16.510472",
    "url": "https://www.qbitai.com/2026/09/498478.html",
    "points": [
     "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
@@ -244,7 +368,7 @@
    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-28T06:29:10.686401",
+   "updated": "2026-09-28T18:01:16.510474",
    "url": "https://www.qbitai.com/2026/09/498271.html",
    "points": [
     "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
@@ -257,15 +381,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "迈向自主医疗人工智能代理",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-28T06:29:10.686403",
-   "url": "https://www.qbitai.com/2026/09/497624.html",
+   "heat": 1,
+   "updated": "2026-09-28",
+   "url": "https://www.nature.com/articles/s41586-026-10675-5...",
    "points": [
-    "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
+    "迈向自主医疗人工智能代理"
    ],
    "flags": {
     "fav": false,
@@ -275,14 +399,52 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "英国政府告诉员工不要再感谢人工智能聊天机器人",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-28T06:29:10.686404",
-   "url": "https://www.qbitai.com/2026/09/497425.html",
-   "points": [],
+   "heat": 2,
+   "updated": "2026-09-28",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
+   "points": [
+    "英国政府告诉员工不要再感谢人工智能聊天机器人"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能的下一个鸿沟是学习和赚钱之间",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-28",
+   "url": "https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/",
+   "points": [
+    "人工智能的下一个鸿沟是学习和赚钱之间"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能带来的灭绝风险 [pdf]",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-28",
+   "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3000/RRA3034-1/RAND_RRA3034-1.pdf",
+   "points": [
+    "人工智能带来的灭绝风险 [pdf]"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -318,78 +480,6 @@
    "url": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
    "points": [
     "智力爆炸是社会性的"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "比尔·盖茨表示，未经检查的人工智能可能“导致数十亿人死亡”，呼吁监管",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-27",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-   "points": [
-    "比尔·盖茨表示，未经检查的人工智能可能“导致数十亿人死亡”，呼吁监管"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Claude Opus 5.5 使用的破折号减少了 95%，但其答案却越来越长",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-09-27",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-   "points": [
-    "Claude Opus 5.5 使用的破折号减少了 95%，但其答案却越来越长"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "职位名称已出炉。现在我们都是“技术人员”。",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-27",
-   "url": "https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html",
-   "points": [
-    "职位名称已出炉。现在我们都是“技术人员”。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 暂停对其“最有能力的模型”的训练",
-   "duration": "—",
-   "heat": 23,
-   "updated": "2026-09-26",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-   "points": [
-    "OpenAI 暂停对其“最有能力的模型”的训练"
    ],
    "flags": {
     "fav": false,
