@@ -1,6 +1,6 @@
 {
- "fetchedAt": "23:03",
- "fetchedDate": "2026-09-27",
+ "fetchedAt": "08:25",
+ "fetchedDate": "2026-09-28",
  "source": "zhiri-server",
  "items": [
   {
@@ -153,25 +153,9 @@
    "author": "含亮老师",
    "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
    "duration": "3:18",
-   "heat": 3058806,
-   "updated": "2026-09-27T15:03:11.636587",
+   "heat": 3127107,
+   "updated": "2026-09-28T00:25:34.108827",
    "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "癫癫零点五",
-   "title": "琵琶曲 完整版（真人无AI手搓）",
-   "duration": "1:20",
-   "heat": 2874817,
-   "updated": "2026-09-27T15:03:11.636597",
-   "url": "https://www.bilibili.com/video/BV1MXh466Eif",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +169,8 @@
    "author": "立志成为恶兽",
    "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
    "duration": "6:57",
-   "heat": 1330590,
-   "updated": "2026-09-27T15:03:11.636600",
+   "heat": 1447184,
+   "updated": "2026-09-28T00:25:34.108840",
    "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
@@ -201,9 +185,25 @@
    "author": "漫士沉思录",
    "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
    "duration": "41:00",
-   "heat": 697813,
-   "updated": "2026-09-27T15:03:11.636602",
+   "heat": 749915,
+   "updated": "2026-09-28T00:25:34.108843",
    "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "癫癫零点五",
+   "title": "琵琶曲 完整版（真人无AI手搓）",
+   "duration": "1:20",
+   "heat": 2927705,
+   "updated": "2026-09-28T00:25:34.108845",
+   "url": "https://www.bilibili.com/video/BV1MXh466Eif",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391080,
-   "updated": "2026-09-27T15:03:11.636604",
+   "heat": 391081,
+   "updated": "2026-09-28T00:25:34.108847",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653432,
-   "updated": "2026-09-27T15:03:11.636606",
+   "updated": "2026-09-28T00:25:34.108849",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557524,
-   "updated": "2026-09-27T15:03:11.636608",
+   "updated": "2026-09-28T00:25:34.108851",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155658,
-   "updated": "2026-09-27T15:03:11.636610",
+   "updated": "2026-09-28T00:25:34.108853",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -282,7 +282,7 @@
    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-27T15:03:11.636612",
+   "updated": "2026-09-28T00:25:34.108855",
    "url": "https://www.qbitai.com/2026/09/498605.html",
    "points": [
     "想让开发者“说句话就能跑量子计算”"
@@ -300,7 +300,7 @@
    "title": "啥题啊能干崩OpenAI最强模型训练…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-27T15:03:11.636614",
+   "updated": "2026-09-28T00:25:34.108857",
    "url": "https://www.qbitai.com/2026/09/498546.html",
    "points": [],
    "flags": {
@@ -316,9 +316,11 @@
    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-27T15:03:11.636617",
+   "updated": "2026-09-28T00:25:34.108859",
    "url": "https://www.qbitai.com/2026/09/498478.html",
-   "points": [],
+   "points": [
+    "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -332,7 +334,7 @@
    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-27T15:03:11.636619",
+   "updated": "2026-09-28T00:25:34.108862",
    "url": "https://www.qbitai.com/2026/09/498271.html",
    "points": [
     "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
@@ -350,7 +352,7 @@
    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-27T15:03:11.636621",
+   "updated": "2026-09-28T00:25:34.108864",
    "url": "https://www.qbitai.com/2026/09/497624.html",
    "points": [
     "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
@@ -368,7 +370,7 @@
    "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-27T15:03:11.636623",
+   "updated": "2026-09-28T00:25:34.108866",
    "url": "https://www.qbitai.com/2026/09/497425.html",
    "points": [],
    "flags": {
@@ -381,9 +383,63 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
+   "title": "人工智能已经解决了数学中最棘手的问题。为什么它不能解决国际象棋问题？",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-27",
+   "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+   "points": [
+    "人工智能已经解决了数学中最棘手的问题。为什么它不能解决国际象棋问题？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "智力爆炸是社会性的",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-27",
+   "url": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
+   "points": [
+    "智力爆炸是社会性的"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "比尔·盖茨表示，未经检查的人工智能可能“导致数十亿人死亡”，呼吁监管",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-27",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+   "points": [
+    "比尔·盖茨表示，未经检查的人工智能可能“导致数十亿人死亡”，呼吁监管"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
    "title": "Claude Opus 5.5 使用的破折号减少了 95%，但其答案却越来越长",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-09-27",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
    "points": [
@@ -401,7 +457,7 @@
    "author": "Hacker News",
    "title": "职位名称已出炉。现在我们都是“技术人员”。",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-09-27",
    "url": "https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html",
    "points": [
@@ -419,65 +475,11 @@
    "author": "Hacker News",
    "title": "OpenAI 暂停对其“最有能力的模型”的训练",
    "duration": "—",
-   "heat": 22,
+   "heat": 23,
    "updated": "2026-09-26",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
    "points": [
     "OpenAI 暂停对其“最有能力的模型”的训练"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "一家公司正处于一波流氓人工智能攻击的中心",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-09-26",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-   "points": [
-    "一家公司正处于一波流氓人工智能攻击的中心"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "麦当劳利用人工智能来实现得来速、库存管理和订单准确性",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-26",
-   "url": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
-   "points": [
-    "麦当劳利用人工智能来实现得来速、库存管理和订单准确性"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 为创作者聘请 Patreon 高管",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-09-25",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-   "points": [
-    "OpenAI 为创作者聘请 Patreon 高管"
    ],
    "flags": {
     "fav": false,
