@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:31",
- "fetchedDate": "2026-09-29",
+ "fetchedAt": "02:30",
+ "fetchedDate": "2026-09-30",
  "source": "zhiri-server",
  "items": [
   {
@@ -150,27 +150,11 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "立志成为恶兽",
-   "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
-   "duration": "6:57",
-   "heat": 1926717,
-   "updated": "2026-09-29T10:31:04.186693",
-   "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "小黄导-烛制作AIGC",
    "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
    "duration": "28:25",
-   "heat": 758779,
-   "updated": "2026-09-29T10:31:04.186703",
+   "heat": 879141,
+   "updated": "2026-09-29T18:30:57.028190",
    "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
    "points": [],
    "flags": {
@@ -185,8 +169,8 @@
    "author": "明末召唤师",
    "title": "【新宿决战】DeepSeek娘VS豆包",
    "duration": "1:41",
-   "heat": 951690,
-   "updated": "2026-09-29T10:31:04.186705",
+   "heat": 1156986,
+   "updated": "2026-09-29T18:30:57.028201",
    "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
@@ -201,8 +185,8 @@
    "author": "韩历飞羽666",
    "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
    "duration": "1:45",
-   "heat": 1598187,
-   "updated": "2026-09-29T10:31:04.186706",
+   "heat": 1860085,
+   "updated": "2026-09-29T18:30:57.028204",
    "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
    "points": [],
    "flags": {
@@ -214,12 +198,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "漫士沉思录",
-   "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
-   "duration": "41:00",
-   "heat": 875460,
-   "updated": "2026-09-29T10:31:04.186708",
-   "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
+   "author": "立志成为恶兽",
+   "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
+   "duration": "6:57",
+   "heat": 2117250,
+   "updated": "2026-09-29T18:30:57.028206",
+   "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,25 +217,9 @@
    "author": "许主任啊啊啊啊",
    "title": "这机器人有点东西",
    "duration": "2:35",
-   "heat": 1167397,
-   "updated": "2026-09-29T10:31:04.186709",
+   "heat": 1436066,
+   "updated": "2026-09-29T18:30:57.028209",
    "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "星球研究所",
-   "title": "我们尝试用AI造了一个时空",
-   "duration": "11:00",
-   "heat": 1084198,
-   "updated": "2026-09-29T10:31:04.186710",
-   "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
    "points": [],
    "flags": {
     "fav": false,
@@ -265,10 +233,78 @@
    "author": "水杨acid",
    "title": "“星河追梦，不问方向”《星河追梦》军乐ai版",
    "duration": "3:29",
-   "heat": 253973,
-   "updated": "2026-09-29T10:31:04.186712",
+   "heat": 290417,
+   "updated": "2026-09-29T18:30:57.028211",
    "url": "https://www.bilibili.com/video/BV1EHhR6vE6e",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "星球研究所",
+   "title": "我们尝试用AI造了一个时空",
+   "duration": "11:00",
+   "heat": 1103713,
+   "updated": "2026-09-29T18:30:57.028213",
+   "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "漫士沉思录",
+   "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
+   "duration": "41:00",
+   "heat": 901218,
+   "updated": "2026-09-29T18:30:57.028215",
+   "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI把知识拍成大片了",
+   "duration": "—",
+   "heat": 9186883,
+   "updated": "2026-09-29T18:30:57.028217",
+   "url": "https://www.douyin.com/search/AI%E6%8A%8A%E7%9F%A5%E8%AF%86%E6%8B%8D%E6%88%90%E5%A4%A7%E7%89%87%E4%BA%86?type=general",
+   "points": [
+    "热门话题「AI把知识拍成大片了」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-29T18:30:57.028219",
+   "url": "https://www.qbitai.com/2026/09/499239.html",
+   "points": [
+    "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +318,7 @@
    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T10:31:04.186713",
+   "updated": "2026-09-29T18:30:57.028221",
    "url": "https://www.qbitai.com/2026/09/499188.html",
    "points": [],
    "flags": {
@@ -298,7 +334,7 @@
    "title": "OpenAI因新模型太强叫停发布",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T10:31:04.186714",
+   "updated": "2026-09-29T18:30:57.028223",
    "url": "https://www.qbitai.com/2026/09/499140.html",
    "points": [],
    "flags": {
@@ -314,7 +350,7 @@
    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T10:31:04.186715",
+   "updated": "2026-09-29T18:30:57.028225",
    "url": "https://www.qbitai.com/2026/09/499135.html",
    "points": [],
    "flags": {
@@ -330,7 +366,7 @@
    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T10:31:04.186717",
+   "updated": "2026-09-29T18:30:57.028227",
    "url": "https://www.qbitai.com/2026/09/499098.html",
    "points": [],
    "flags": {
@@ -346,7 +382,7 @@
    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T10:31:04.186718",
+   "updated": "2026-09-29T18:30:57.028229",
    "url": "https://www.qbitai.com/2026/09/498877.html",
    "points": [
     "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
@@ -359,14 +395,70 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "HC归来，华为正重新定义AIDC基础设施",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "受玻姆启发的特工、安全带和全息流",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-29T10:31:04.186719",
-   "url": "https://www.qbitai.com/2026/09/498787.html",
-   "points": [],
+   "heat": 1,
+   "updated": "2026-09-29",
+   "url": "https://enogrob.github.io/artificial-intelligence/architecture/agentic-ai/philosophy/2026/09/22/intelligence-in-motion-bohm-holoflux-ai-agents.html",
+   "points": [
+    "受玻姆启发的特工、安全带和全息流"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "DHH：放下铅笔。意图向上",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-09-29",
+   "url": "https://enogrob.github.io/ruby/rails/artificial-intelligence/software-engineering/2026/09/29/pencils-down-intent-up.html",
+   "points": [
+    "DHH：放下铅笔。意图向上"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能领域最大的不和",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-09-29",
+   "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
+   "points": [
+    "人工智能领域最大的不和"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Meta 已聘请 MongoDB 首席执行官 Chirantan Desai 负责人工智能推动",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-09-29",
+   "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
+   "points": [
+    "Meta 已聘请 MongoDB 首席执行官 Chirantan Desai 负责人工智能推动"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -379,7 +471,7 @@
    "author": "Hacker News",
    "title": "Sonnet 5.5 在人工智能分析智能指数上的得分仅落后于 Opus 5.5",
    "duration": "—",
-   "heat": 6,
+   "heat": 10,
    "updated": "2026-09-28",
    "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
    "points": [
@@ -397,83 +489,11 @@
    "author": "Hacker News",
    "title": "男子称 Meta 的 Muse AI 将他的家庭地址泄露给了陌生人",
    "duration": "—",
-   "heat": 10,
+   "heat": 13,
    "updated": "2026-09-28",
    "url": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
    "points": [
     "男子称 Meta 的 Muse AI 将他的家庭地址泄露给了陌生人"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能事件数据库",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-28",
-   "url": "https://incidentdatabase.ai/",
-   "points": [
-    "人工智能事件数据库"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "迈向自主医疗人工智能代理",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-28",
-   "url": "https://www.nature.com/articles/s41586-026-10675-5...",
-   "points": [
-    "迈向自主医疗人工智能代理"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "英国政府告诉员工不要再感谢人工智能聊天机器人",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-28",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
-   "points": [
-    "英国政府告诉员工不要再感谢人工智能聊天机器人"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能的下一个鸿沟是学习和赚钱之间",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-09-28",
-   "url": "https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/",
-   "points": [
-    "人工智能的下一个鸿沟是学习和赚钱之间"
    ],
    "flags": {
     "fav": false,
