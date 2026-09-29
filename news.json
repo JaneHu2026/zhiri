@@ -1,86 +1,96 @@
 {
- "fetchedAt": "09:36",
+ "fetchedAt": "18:30",
  "fetchedDate": "2026-09-29",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
+   "theme": "教育",
+   "title": "习近平给四川大学全体师生回信",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/29/ARTIJPP7ALksMaVPqHofpUcg260929.shtml",
+   "summary": "新华社北京9月29日电 近日，中共中央总书记、国家主席、中央军委主席习近平给四川大学全体师生回信，在四川大学建校130周年之际，向全体师生员工、广大校友表示祝贺。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "习近平：希望你们赓续红色血脉，发挥文理工医交叉融合优势，努力在服务新时代国家战略中当先锋作表率｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/29/ARTIJPP7ALksMaVPqHofpUcg260929.shtml",
+   "summary": "新华社北京9月29日电 近日，中共中央总书记、国家主席、中央军委主席习近平给四川大学全体师生回信，在四川大学建校130周年之际，向全体师生员工、广大校友表示祝贺。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "要闻",
-   "title": "新闻1+1丨世界技能大赛，获奖选手都去哪儿了？",
+   "title": "天天学习｜英魂不朽 山河永念",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/29/ARTIRb9wvmoUUKlGzPQDFE9S260918.shtml",
+   "summary": "自烈士纪念日设立以来，每年9月30日，总书记都会出席向人民英雄敬献花篮仪式；每次到革命老区考察调研，他都要去瞻仰革命历史纪念场所；他常常提起那些彪炳史册的英雄名字和他们的事迹……",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "【央视快评】努力在服务新时代国家战略中当先锋作表率",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/29/ARTIux31XtazoAUJTUTpfmMQ260929.shtml",
+   "summary": "百年学府薪火传，初心如炬向新行。在四川大学建校130周年之际，习近平总书记给川大全体师生回信，充分肯定学校胸怀家国、扎根西部、兴学育才的优良传统，希望大家努力在服务新时代国家战略中当先锋作表率。总书记的回信字字千钧、温暖备至，既是对川大百年办学初心的深情嘉许，也为新时代高等教育扎根中国大地、服务国家…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "特色文旅资源让游客沉浸式体验“自然+人文”魅力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/29/ARTIalxHtkgoKjphyZwspVYF260929.shtml",
+   "summary": "462904dfe108,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“十五五”新图景｜工厂来了“钢铁同事” 工人练出“数字技能”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/09/29/VIDEcYPpbYCKl5mdYYdyvcws260929.shtml",
+   "summary": "“十五五”新图景：工厂来了“钢铁同事”，工人练出“数字技能”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "世界技能大赛，获奖选手都去哪儿了？",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/09/29/ARTIuaATZay7v5nkX0mkJmkT260929.shtml",
-   "summary": "97ca53808b95,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "三江之源｜第1集 源头",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/29/VIDE5ord8Xt5wfPkCyhCKucU260929.shtml",
-   "summary": "本集主要内容： 澜沧江源位于青海玉树杂多县结多乡，黄河源位于青海玉树曲麻莱县麻多乡，长江南源位于青海玉树杂多县查旦乡。长江和黄河，中华文化的命脉，澜沧江，东南亚至关重要的水源，三条亚洲著名的江河就发源于此，人们将这里称为“三江源”。 （《三江之源》 第1集 源头）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "北京东长安街立体花坛亮相 展现国家发展重大成就",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/29/VIDERWrN3IHdt9tofLazVybm260929.shtml",
-   "summary": "北京长安街沿线立体花坛亮相：东长安街立体花坛，展现国家发展重大成就。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "重新出发 勇毅从何来",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIQFugaqP6n2EE2ueayqf2260929.shtml",
-   "summary": "今年是红军长征胜利90周年。铭记那场“无与伦比的史诗般远征”，更要“齐心协力走好新的长征路，开创更加光明的未来”。本版今起推出系列评论，走长征路，感今昔变，为弘扬伟大长征精神、奋进新征程凝心聚力。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "14部门出台意见加强殡葬行业跨部门综合监管",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIJFSuLpDPpqVsGwM2NkCk260929.shtml",
-   "summary": "新华社北京9月28日电（记者朱高祥）记者28日从民政部获悉，为加强殡葬行业跨部门综合监管，规范殡葬服务管理秩序，民政部等14部门日前联合印发意见，就殡葬行业跨部门综合监管事项、机制、保障措施等作出要求。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "安全高效有序 中秋假期670.9万人次出入境",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/29/VIDEjfqdXk6m1jUenwJULHuT260929.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国家级科创平台！这个全国重点实验室开工建设",
+   "title": "世界心脏日｜一些“隐形推手”让心脏“偷偷衰老”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIhuGR4gaetiyflsqpwJjX260928.shtml",
+   "url": "https://tv.cctv.com/2026/09/29/VIDEsFTSkGvWNp4Ym0vdhzVV260929.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中央气象台：我国或遭遇下半年来最强冷空气",
-   "source": "央视新闻",
+   "title": "【文明中国·看吉林】青春作答 以选择照亮前路",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/29/VIDEqiS1UZPQJcTeN1kEKmsP260929.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20260929/badfaf435e2a42dea66517497a130e3d/c.html",
+   "summary": "【文明中国·看吉林】青春作答 以选择照亮前路——2026年第三批“中国好人榜”发布仪式侧记-\"青春作答，以选择照亮前路。\"",
    "day": 0
   },
   {
@@ -100,7 +110,47 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-   "summary": "这家人工智能巨头的安全主管表示，该模型“不太符合”该公司的安全标准。",
+   "summary": "该公司还发布了其模型访问澳大利亚政府系统事件的最新信息。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "律师称，被驱逐的西班牙养老金领取者可以搬回家",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+   "summary": "87 岁的马里卡门·阿巴斯卡尔 (Maricarmen Abascal) 被驱逐引发了西班牙各地的大规模抗议活动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "阿根廷威胁就福克兰群岛石油勘探对英国采取法律行动",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+   "summary": "总统哈维尔·米莱 (Javier Milei) 为取消海狮油田项目设定了两周的最后期限。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "警方称《纽约时报》高管被年迈的姻亲枪杀",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+   "summary": "乔纳森·麦肯锡 (Jonathan McKinsey) 的姻亲均已 77 岁，面临多项指控，包括一级谋杀。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "随着贸易战的持续，美国对加拿大酒精和乳制品的禁令生效",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+   "summary": "这是自八月下旬谈判破裂后加美贸易战的最新升级，目前尚无关于何时恢复谈判的消息。",
    "day": 0
   },
   {
@@ -116,11 +166,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "祈祷前签名：新的皈依法正在影响印度州的信徒",
+   "title": "马来西亚开始有争议地将寻求庇护者遣返缅甸",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-   "summary": "马哈拉施特拉邦一项新的反皈依法引发了有关信仰、选择和自由的问题。",
+   "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
+   "summary": "人权组织称，约 5,000 名回返者可能面临暴力、迫害和强迫征兵。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "飓风波罗登陆墨西哥太平洋沿岸",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+   "summary": "风暴在下加利福尼亚半岛登陆，该半岛是一个热门的旅游目的地。",
    "day": 0
   }
  ]

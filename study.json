@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:37",
+ "fetchedAt": "18:31",
  "fetchedDate": "2026-09-29",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "立志成为恶兽",
    "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
    "duration": "6:57",
-   "heat": 1783299,
-   "updated": "2026-09-29T01:37:08.130065",
+   "heat": 1926717,
+   "updated": "2026-09-29T10:31:04.186693",
    "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
@@ -166,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "漫士沉思录",
-   "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
-   "duration": "41:00",
-   "heat": 852135,
-   "updated": "2026-09-29T01:37:08.130075",
-   "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
+   "author": "小黄导-烛制作AIGC",
+   "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
+   "duration": "28:25",
+   "heat": 758779,
+   "updated": "2026-09-29T10:31:04.186703",
+   "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,28 +185,10 @@
    "author": "明末召唤师",
    "title": "【新宿决战】DeepSeek娘VS豆包",
    "duration": "1:41",
-   "heat": 732938,
-   "updated": "2026-09-29T01:37:08.130078",
+   "heat": 951690,
+   "updated": "2026-09-29T10:31:04.186705",
    "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "含亮老师",
-   "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
-   "duration": "3:18",
-   "heat": 3350086,
-   "updated": "2026-09-29T01:37:08.130080",
-   "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
-   "points": [
-    "制作不易，跪谢点赞投币的大侠呀！"
-   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -219,8 +201,8 @@
    "author": "韩历飞羽666",
    "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
    "duration": "1:45",
-   "heat": 1274249,
-   "updated": "2026-09-29T01:37:08.130082",
+   "heat": 1598187,
+   "updated": "2026-09-29T10:31:04.186706",
    "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
    "points": [],
    "flags": {
@@ -232,28 +214,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "制霸美食街",
-   "title": "美食街，我在森林很想你【AI全民制作人】",
-   "duration": "2:49",
-   "heat": 1806806,
-   "updated": "2026-09-29T01:37:08.130085",
-   "url": "https://www.bilibili.com/video/BV12AhD6wENZ",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "星球研究所",
-   "title": "我们尝试用AI造了一个时空",
-   "duration": "11:00",
-   "heat": 1056433,
-   "updated": "2026-09-29T01:37:08.130086",
-   "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
+   "author": "漫士沉思录",
+   "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
+   "duration": "41:00",
+   "heat": 875460,
+   "updated": "2026-09-29T10:31:04.186708",
+   "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
    "points": [],
    "flags": {
     "fav": false,
@@ -267,9 +233,89 @@
    "author": "许主任啊啊啊啊",
    "title": "这机器人有点东西",
    "duration": "2:35",
-   "heat": 978670,
-   "updated": "2026-09-29T01:37:08.130088",
+   "heat": 1167397,
+   "updated": "2026-09-29T10:31:04.186709",
    "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "星球研究所",
+   "title": "我们尝试用AI造了一个时空",
+   "duration": "11:00",
+   "heat": 1084198,
+   "updated": "2026-09-29T10:31:04.186710",
+   "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "水杨acid",
+   "title": "“星河追梦，不问方向”《星河追梦》军乐ai版",
+   "duration": "3:29",
+   "heat": 253973,
+   "updated": "2026-09-29T10:31:04.186712",
+   "url": "https://www.bilibili.com/video/BV1EHhR6vE6e",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-29T10:31:04.186713",
+   "url": "https://www.qbitai.com/2026/09/499188.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "OpenAI因新模型太强叫停发布",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-29T10:31:04.186714",
+   "url": "https://www.qbitai.com/2026/09/499140.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-29T10:31:04.186715",
+   "url": "https://www.qbitai.com/2026/09/499135.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -284,7 +330,7 @@
    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T01:37:08.130091",
+   "updated": "2026-09-29T10:31:04.186717",
    "url": "https://www.qbitai.com/2026/09/499098.html",
    "points": [],
    "flags": {
@@ -300,7 +346,7 @@
    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T01:37:08.130092",
+   "updated": "2026-09-29T10:31:04.186718",
    "url": "https://www.qbitai.com/2026/09/498877.html",
    "points": [
     "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
@@ -318,61 +364,9 @@
    "title": "HC归来，华为正重新定义AIDC基础设施",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-29T01:37:08.130094",
+   "updated": "2026-09-29T10:31:04.186719",
    "url": "https://www.qbitai.com/2026/09/498787.html",
    "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-29T01:37:08.130096",
-   "url": "https://www.qbitai.com/2026/09/498605.html",
-   "points": [
-    "想让开发者“说句话就能跑量子计算”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "啥题啊能干崩OpenAI最强模型训练…",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-29T01:37:08.130098",
-   "url": "https://www.qbitai.com/2026/09/498546.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-29T01:37:08.130099",
-   "url": "https://www.qbitai.com/2026/09/498478.html",
-   "points": [
-    "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
-   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -385,7 +379,7 @@
    "author": "Hacker News",
    "title": "Sonnet 5.5 在人工智能分析智能指数上的得分仅落后于 Opus 5.5",
    "duration": "—",
-   "heat": 2,
+   "heat": 6,
    "updated": "2026-09-28",
    "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
    "points": [
