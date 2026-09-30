@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:10",
+ "fetchedAt": "18:22",
  "fetchedDate": "2026-09-30",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "小黄导-烛制作AIGC",
    "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
    "duration": "28:25",
-   "heat": 932275,
-   "updated": "2026-09-30T01:10:14.682558",
+   "heat": 1100595,
+   "updated": "2026-09-30T10:22:36.019005",
    "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "明末召唤师",
    "title": "【新宿决战】DeepSeek娘VS豆包",
    "duration": "1:41",
-   "heat": 1187801,
-   "updated": "2026-09-30T01:10:14.682570",
+   "heat": 1348543,
+   "updated": "2026-09-30T10:22:36.019017",
    "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
@@ -185,25 +185,9 @@
    "author": "韩历飞羽666",
    "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
    "duration": "1:45",
-   "heat": 1926877,
-   "updated": "2026-09-30T01:10:14.682572",
+   "heat": 2116997,
+   "updated": "2026-09-30T10:22:36.019019",
    "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "立志成为恶兽",
-   "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
-   "duration": "6:57",
-   "heat": 2175406,
-   "updated": "2026-09-30T01:10:14.682575",
-   "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +201,8 @@
    "author": "许主任啊啊啊啊",
    "title": "这机器人有点东西",
    "duration": "2:35",
-   "heat": 1467895,
-   "updated": "2026-09-30T01:10:14.682577",
+   "heat": 1692170,
+   "updated": "2026-09-30T10:22:36.019021",
    "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
    "points": [],
    "flags": {
@@ -233,8 +217,8 @@
    "author": "水杨acid",
    "title": "“星河追梦，不问方向”《星河追梦》军乐ai版",
    "duration": "3:29",
-   "heat": 295869,
-   "updated": "2026-09-30T01:10:14.682579",
+   "heat": 327092,
+   "updated": "2026-09-30T10:22:36.019023",
    "url": "https://www.bilibili.com/video/BV1EHhR6vE6e",
    "points": [],
    "flags": {
@@ -246,12 +230,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "星球研究所",
-   "title": "我们尝试用AI造了一个时空",
-   "duration": "11:00",
-   "heat": 1108044,
-   "updated": "2026-09-30T01:10:14.682581",
-   "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
+   "author": "立志成为恶兽",
+   "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
+   "duration": "6:57",
+   "heat": 2256580,
+   "updated": "2026-09-30T10:22:36.019024",
+   "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
     "fav": false,
@@ -262,12 +246,28 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "大象新闻",
-   "title": "AI演化出自己的“方言”，且人类看不懂，AI治理的全球行动迫在眉睫（编辑：赵一）",
-   "duration": "0:16",
-   "heat": 2326051,
-   "updated": "2026-09-30T01:10:14.682584",
-   "url": "https://www.bilibili.com/video/BV1q8hR6FET5",
+   "author": "玄离199",
+   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
+   "duration": "6:34",
+   "heat": 391099,
+   "updated": "2026-09-30T10:22:36.019026",
+   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "优设AIGC",
+   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
+   "duration": "0:54",
+   "heat": 653434,
+   "updated": "2026-09-30T10:22:36.019027",
+   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
     "fav": false,
@@ -279,13 +279,29 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+   "title": "Anthropic，你是来给智谱打广告的吧！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T01:10:14.682592",
-   "url": "https://www.qbitai.com/2026/09/499239.html",
+   "updated": "2026-09-30T10:22:36.019028",
+   "url": "https://www.qbitai.com/2026/09/499597.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-30T10:22:36.019030",
+   "url": "https://www.qbitai.com/2026/09/499592.html",
    "points": [
-    "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
+    "给Agent配上手机号，再拉个群"
    ],
    "flags": {
     "fav": false,
@@ -297,77 +313,79 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+   "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T01:10:14.682595",
-   "url": "https://www.qbitai.com/2026/09/499188.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "OpenAI因新模型太强叫停发布",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-30T01:10:14.682599",
-   "url": "https://www.qbitai.com/2026/09/499140.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-30T01:10:14.682602",
-   "url": "https://www.qbitai.com/2026/09/499135.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-30T01:10:14.682605",
-   "url": "https://www.qbitai.com/2026/09/499098.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-30T01:10:14.682609",
-   "url": "https://www.qbitai.com/2026/09/498877.html",
+   "updated": "2026-09-30T10:22:36.019032",
+   "url": "https://www.qbitai.com/2026/09/499493.html",
    "points": [
-    "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
+    "让GPT把机器人技能当工具调用"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-30T10:22:36.019033",
+   "url": "https://www.qbitai.com/2026/09/499308.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-30T10:22:36.019034",
+   "url": "https://www.qbitai.com/2026/09/499280.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-30T10:22:36.019036",
+   "url": "https://www.qbitai.com/2026/09/499263.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "为什么萨姆·奥特曼是一个自由人？",
+   "duration": "—",
+   "heat": 100,
+   "updated": "2026-09-30",
+   "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+   "points": [
+    "为什么萨姆·奥特曼是一个自由人？"
    ],
    "flags": {
     "fav": false,
@@ -458,24 +476,6 @@
    "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
    "points": [
     "Meta 已聘请 MongoDB 首席执行官 Chirantan Desai 负责人工智能推动"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Sonnet 5.5 在人工智能分析智能指数上的得分仅落后于 Opus 5.5",
-   "duration": "—",
-   "heat": 11,
-   "updated": "2026-09-28",
-   "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
-   "points": [
-    "Sonnet 5.5 在人工智能分析智能指数上的得分仅落后于 Opus 5.5"
    ],
    "flags": {
     "fav": false,
