@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:22",
- "fetchedDate": "2026-09-30",
+ "fetchedAt": "02:20",
+ "fetchedDate": "2026-10-01",
  "source": "zhiri-server",
  "items": [
   {
@@ -150,12 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "小黄导-烛制作AIGC",
-   "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
-   "duration": "28:25",
-   "heat": 1100595,
-   "updated": "2026-09-30T10:22:36.019005",
-   "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
+   "author": "明末召唤师",
+   "title": "【新宿决战】DeepSeek娘VS豆包",
+   "duration": "1:41",
+   "heat": 1557205,
+   "updated": "2026-09-30T18:20:08.574989",
+   "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
     "fav": false,
@@ -166,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "明末召唤师",
-   "title": "【新宿决战】DeepSeek娘VS豆包",
-   "duration": "1:41",
-   "heat": 1348543,
-   "updated": "2026-09-30T10:22:36.019017",
-   "url": "https://www.bilibili.com/video/BV1dsai6CErz",
+   "author": "小黄导-烛制作AIGC",
+   "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
+   "duration": "28:25",
+   "heat": 1310094,
+   "updated": "2026-09-30T18:20:08.574999",
+   "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +185,8 @@
    "author": "韩历飞羽666",
    "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
    "duration": "1:45",
-   "heat": 2116997,
-   "updated": "2026-09-30T10:22:36.019019",
+   "heat": 2285145,
+   "updated": "2026-09-30T18:20:08.575001",
    "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "许主任啊啊啊啊",
    "title": "这机器人有点东西",
    "duration": "2:35",
-   "heat": 1692170,
-   "updated": "2026-09-30T10:22:36.019021",
+   "heat": 2149373,
+   "updated": "2026-09-30T18:20:08.575003",
    "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
    "points": [],
    "flags": {
@@ -217,25 +217,9 @@
    "author": "水杨acid",
    "title": "“星河追梦，不问方向”《星河追梦》军乐ai版",
    "duration": "3:29",
-   "heat": 327092,
-   "updated": "2026-09-30T10:22:36.019023",
+   "heat": 389982,
+   "updated": "2026-09-30T18:20:08.575005",
    "url": "https://www.bilibili.com/video/BV1EHhR6vE6e",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "立志成为恶兽",
-   "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
-   "duration": "6:57",
-   "heat": 2256580,
-   "updated": "2026-09-30T10:22:36.019024",
-   "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391099,
-   "updated": "2026-09-30T10:22:36.019026",
+   "heat": 391100,
+   "updated": "2026-09-30T18:20:08.575007",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -266,8 +250,76 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653434,
-   "updated": "2026-09-30T10:22:36.019027",
+   "updated": "2026-09-30T18:20:08.575009",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557534,
+   "updated": "2026-09-30T18:20:08.575010",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "GAI长沙演唱会",
+   "duration": "—",
+   "heat": 7777126,
+   "updated": "2026-09-30T18:20:08.575012",
+   "url": "https://www.douyin.com/search/GAI%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+   "points": [
+    "热门话题「GAI长沙演唱会」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-30T18:20:08.575015",
+   "url": "https://www.qbitai.com/2026/09/499654.html",
+   "points": [
+    "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "直播回顾：工业AI的下一个机会在哪？",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-30T18:20:08.575016",
+   "url": "https://www.qbitai.com/2026/09/499605.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +334,7 @@
    "title": "Anthropic，你是来给智谱打广告的吧！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T10:22:36.019028",
+   "updated": "2026-09-30T18:20:08.575018",
    "url": "https://www.qbitai.com/2026/09/499597.html",
    "points": [],
    "flags": {
@@ -298,7 +350,7 @@
    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T10:22:36.019030",
+   "updated": "2026-09-30T18:20:08.575019",
    "url": "https://www.qbitai.com/2026/09/499592.html",
    "points": [
     "给Agent配上手机号，再拉个群"
@@ -316,7 +368,7 @@
    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T10:22:36.019032",
+   "updated": "2026-09-30T18:20:08.575021",
    "url": "https://www.qbitai.com/2026/09/499493.html",
    "points": [
     "让GPT把机器人技能当工具调用"
@@ -334,9 +386,11 @@
    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T10:22:36.019033",
+   "updated": "2026-09-30T18:20:08.575022",
    "url": "https://www.qbitai.com/2026/09/499308.html",
-   "points": [],
+   "points": [
+    "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -345,30 +399,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能价格的下跌速度快于摩尔定律的速度",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-30T10:22:36.019034",
-   "url": "https://www.qbitai.com/2026/09/499280.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-30T10:22:36.019036",
-   "url": "https://www.qbitai.com/2026/09/499263.html",
-   "points": [],
+   "heat": 2,
+   "updated": "2026-09-30",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
+   "points": [
+    "人工智能价格的下跌速度快于摩尔定律的速度"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -381,7 +421,7 @@
    "author": "Hacker News",
    "title": "为什么萨姆·奥特曼是一个自由人？",
    "duration": "—",
-   "heat": 100,
+   "heat": 217,
    "updated": "2026-09-30",
    "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
    "points": [
@@ -458,24 +498,6 @@
    "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
    "points": [
     "人工智能领域最大的不和"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Meta 已聘请 MongoDB 首席执行官 Chirantan Desai 负责人工智能推动",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-29",
-   "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
-   "points": [
-    "Meta 已聘请 MongoDB 首席执行官 Chirantan Desai 负责人工智能推动"
    ],
    "flags": {
     "fav": false,
