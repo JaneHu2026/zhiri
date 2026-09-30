@@ -1,186 +1,86 @@
 {
- "fetchedAt": "02:30",
+ "fetchedAt": "09:09",
  "fetchedDate": "2026-09-30",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中美关系新定位内涵进一步拓展",
+   "title": "祝福祖国 北京长安街沿线10组立体花坛亮相",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTINutN0zTUqRDHfrssZxSw260929.shtml",
-   "summary": "9月23日至25日，国家主席习近平对美国进行国事访问。访问期间，习近平主席同美国总统特朗普同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "天天学习｜英魂不朽 山河永念",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIRb9wvmoUUKlGzPQDFE9S260918.shtml",
-   "summary": "自烈士纪念日设立以来，每年9月30日，总书记都会出席向人民英雄敬献花篮仪式；每次到革命老区考察调研，他都要去瞻仰革命历史纪念场所；他常常提起那些彪炳史册的英雄名字和他们的事迹……",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "【央视快评】努力在服务新时代国家战略中当先锋作表率",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIux31XtazoAUJTUTpfmMQ260929.shtml",
-   "summary": "百年学府薪火传，初心如炬向新行。在四川大学建校130周年之际，习近平总书记给川大全体师生回信，充分肯定学校胸怀家国、扎根西部、兴学育才的优良传统，希望大家努力在服务新时代国家战略中当先锋作表率。总书记的回信字字千钧、温暖备至，既是对川大百年办学初心的深情嘉许，也为新时代高等教育扎根中国大地、服务国家…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国共产党历史展览馆纪念长征胜利90周年主题展览开幕",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIVb9DtO5U7pVubQK5UXtc260929.shtml",
-   "summary": "91121b6eb3f6,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/09/30/ARTIZ4DgsbCU928ECN9lonKW260929.shtml",
+   "summary": "d08b183f4e29,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "“十五五”开好局起好步｜推动科技强国建设不断迈上新台阶",
+   "title": "我国生成式人工智能用户规模突破7亿",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIvuHoaTIR8qNYnvhfKYEM260929.shtml",
-   "summary": "53e9fe1b5650,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/09/30/ARTI15mXCrWwIxEnJ1SexgtG260929.shtml",
+   "summary": "bae14b5ffae0,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "国庆假期将至 交通部门多措并举服务国庆假期出行",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/30/ARTImFUVWWNHFzJ8J7dKa8vr260929.shtml",
+   "summary": "cb7af755be40,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“十五五”新图景｜工厂来了“钢铁同事” 工人练出“数字技能”",
+   "title": "租车、民宿、花卉订单齐涨 国庆假日消费提前升温",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/29/VIDEcYPpbYCKl5mdYYdyvcws260929.shtml",
-   "summary": "“十五五”新图景：工厂来了“钢铁同事”，工人练出“数字技能”。",
+   "url": "https://news.cctv.com/2026/09/30/ARTIElQuHrmnVdr7aREOWucC260930.shtml",
+   "summary": "国庆假期临近，出游和节庆消费需求加快释放。从租车自驾、山林度假，到景区布展、家庭装点，多地市场提前进入假日节奏。租车订单快速增长，特色民宿预订紧俏，寓意喜庆的节庆花卉也迎来销售旺季，假日消费热度逐步升温。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "《平安中国2026》",
+   "title": "向烈士致敬！山河永念 我们从未忘记",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/09/29/VIDEb4x2YYBAaAmEXr3HWV6C260929.shtml",
+   "url": "https://news.cctv.com/2026/09/30/ARTIF31S6CsDfKfTA8JR5iSD260930.shtml",
+   "summary": "今年是中国共产党成立105周年、红军长征胜利90周年。在争取民族独立、人民解放和实现国家富强、人民幸福的征程上，无数志士仁人抛头颅、洒热血，用生命点亮了今日的万家灯火。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "聚焦“四极”方向 科学前沿极限突破计划启动实施",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/30/ARTITVu7SYTqzPMaE3JLXFHz260930.shtml",
+   "summary": "9月29日，中国科学院科学前沿极限突破计划启动实施，围绕“极宏观、极微观、极端条件和极综合交叉”方向，部署了一批前沿领域的突破项目。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "近期降温+霜冻双连击，这股冷空气到底有多猛？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/09/30/ARTIYo92sTfNblljbsW95VMV260929.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "各地装扮一新喜迎国庆",
+   "title": "别只顾方便！充电器长期不拔已引发多起火灾",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/09/29/ARTIVZMSBUEkGKFd4dmNEEZM260929.shtml",
+   "url": "https://news.cctv.com/2026/09/30/ARTIJnw54zfUZIlY3QrdOUDe260929.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "【文明中国·看吉林】青春作答 以选择照亮前路",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260929/badfaf435e2a42dea66517497a130e3d/c.html",
-   "summary": "【文明中国·看吉林】青春作答 以选择照亮前路——2026年第三批“中国好人榜”发布仪式侧记-\"青春作答，以选择照亮前路。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "14部门出台意见加强殡葬行业跨部门综合监管",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20260929/c8a1eb8024af4c47afaf2be4b507b392/c.html",
-   "summary": "14部门出台意见加强殡葬行业跨部门综合监管-\"新华社北京9月28日电（记者朱高祥）记者28日从民政部获悉，为加强殡葬行业跨部门综合监管，规范殡葬服务管理秩序，民政部等14部门日前联合印发意见，就殡葬行业跨部门综合监管事项、机制、保障措施等作出要求。\"",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "87岁老妇被强行赶出公寓引发抗议，西班牙宣布禁止驱逐",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-   "summary": "该禁令是多项提案的一部分，必须在 30 天内获得议会批准。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“我被诱入陷阱”：埃文·格什科维奇谈导致入狱 16 个月的时刻",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位美国记者表示，当他没有受到联邦安全局特工的审讯或酷刑时，他意识到自己只是“一场更大游戏中的棋子”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "以色列定居者袭击西岸村庄并阻止巴勒斯坦家庭返回家园",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-   "summary": "图巴西家族的两所房屋被纵火，以色列安全部队也成为定居者的攻击目标。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "荷兰警方逮捕了声称联邦调查局黑客攻击的组织的嫌疑成员",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-   "summary": "24 岁的嫌疑人在涉嫌网络攻击发生前被捕。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "摩洛哥当选首位女总理",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-   "summary": "她被国王任命为阿拉伯世界第二位领导政府的女性。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "埃菲尔铁塔负责人因宗教访问期间女性工作人员被男性取代而辞职",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
-   "summary": "运营埃菲尔铁塔的公司表示，本月早些时候参观期间解雇女性员工是“不可接受的”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "尼日利亚人连续7天不停跳舞 申办世界纪录",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-   "summary": "人群为本·丹瑟完成挑战欢呼，他现已去医院接受检查",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "爱沙尼亚指责俄罗斯纵火向乌克兰供货的国防公司",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-   "summary": "俄罗斯被指控对一些一直在帮助乌克兰的欧洲北约国家发动破坏袭击。",
    "day": 0
   }
  ]
