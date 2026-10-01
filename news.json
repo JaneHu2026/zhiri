@@ -1,96 +1,136 @@
 {
- "fetchedAt": "09:08",
+ "fetchedAt": "18:48",
  "fetchedDate": "2026-10-01",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“双龙”凯旋 中国第16次北冰洋考察取得多项重要进展",
+   "title": "跟着习近平总书记，一起唱响《歌唱祖国》",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTItb5dRTA9tKSfIe9hk9iP260930.shtml",
-   "summary": "a764402ba1a1,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "大兴安岭搜索热度暴涨 跟着攻略去“追秋”靠谱吗？记者实地探访",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIu6Fp1nZW1iiCo2iJXJ6B260930.shtml",
-   "summary": "67c5cc1f5c88,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "国办印发《关于发展体育赛事激发消费活力的意见》",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIj2H4tgfVblRdn4mWlWCn261001.shtml",
-   "summary": "新华社北京9月30日电 国务院办公厅日前印发《关于发展体育赛事激发消费活力的意见》（以下简称《意见》），对推动体育赛事发展，激发消费活力，培育经济增长新动能作出部署。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "商务部：延长对美国相关做法措施贸易壁垒调查期限",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIH7xTk1g6gTOA8kkV7Be9260930.shtml",
-   "summary": "记者30日从商务部获悉，商务部近日发布两则公告，分别公布延长对美国破坏全球产供链、美国阻碍绿色产品贸易相关做法和措施贸易壁垒调查期限决定。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "喜迎国庆 各地文旅市场逐步升温",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTId0DYbDF8qWs5XfD42eEJ260930.shtml",
-   "summary": "8f6008df11b9,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "假期新去处 北海公园琉璃阁院落正式面向公众开放",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIB4UfnmiRb7opKgNk05SI260930.shtml",
-   "summary": "9月29日，历经腾退移交、保护性维护与服务提升，有着近300年历史的北京北海公园琉璃阁院落正式面向公众开放。这座尘封七十多年的珍贵古建院落重新揭开神秘面纱，北海公园“西天梵境”建筑群格局首次完整呈现。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "“微笑”卫星完成“试用期” 发布首批观测图像和数据",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTI6xJLZpx4wRTGO80FZand260930.shtml",
+   "url": "https://news.cctv.com/2026/10/01/ARTIryM1mzltzlUY48VMTeLU261001.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“人造太阳”建设有新进展！",
+   "title": "一抹抹“中国红”铺满街头 处处洋溢喜庆祥和节日氛围｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIlWjO7Q382MTi6rDhneJK261001.shtml",
+   "url": "https://news.cctv.com/2026/10/01/ARTIFkakI0BJjJK3DpT9FSGT261001.shtml",
+   "summary": "b25f58ee1aed,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "港澳各界喜迎国庆 共祝祖国繁荣昌盛",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/01/VIDEe3ZLt87NcLax1fdImxf0261001.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "满城“中国红”！大街小巷“披”上节日盛装",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/01/VIDEqx0QbjcPfwAnnr34S6W4261001.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“十五五”新图景｜平陆运河改变了什么",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/01/VIDEbEsG8QJv9SOkKEqbuftl261001.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "长假观察：21.3亿人次跨区域流动 假期首日迎客流峰值",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/01/VIDEzRZGFMAQE8RDDFZJhzYo261001.shtml",
+   "summary": "《国庆长假观察》：21.3亿人次跨区域流动，10月1日迎客流峰值。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "卫星瞰丰收：稻谷黄高粱红 寻味中国“香”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/01/VIDEZpEoOpY0fUp6IKHmtudB261001.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "家国同庆！《中国梦·家国情——2026国庆特别节目》今晚播出",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/01/ARTIf3LWkpuHx0SZgkJj2umh261001.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "点击参与！2026“向国旗敬礼”网络文明传播活动",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261001/41e24eb6736b4b6e8b0a579e402d37b1/c.html",
+   "summary": "点击参与！2026“向国旗敬礼”网络文明传播活动-盛世华诞，致敬祖国。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国最高法院允许继续执行克里斯塔·派克",
+   "title": "美国死囚两次注射死刑后幸免于难",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-   "summary": "注射死刑原定于周三早些时候进行，随后下级法院暂停执行死刑。",
+   "summary": "凶手克里斯塔·派克的律师表示，在注射了两支戊巴比妥后，她正在医院接受“救生措施”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "以色列总理表示，判断伊朗是否参与迪拜-特拉维夫航班袭击还为时过早",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+   "summary": "本杰明·内塔尼亚胡说，一名在飞往以色列的飞机上刺伤另一名飞行员的飞行员正在沙特阿拉伯接受调查。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "关于迪拜航空飞往以色列的航班上发生持刀伤人事件，我们了解多少",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，另一名飞行员被刺伤后，一名飞行员已被捕并正在接受讯问。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "日本将永久居留费提高20倍",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+   "summary": "此次加息是日本为管理不断增长的外国人口而引入的移民政策变化的一部分。",
    "day": 0
   },
   {
@@ -101,6 +141,26 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
    "summary": "科学家表示，考虑到气候变化的速度，如此迅速的融化不再令人惊讶。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "韩国流行歌星因违反兵役法被判有罪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
+   "summary": "韩国流行乐队 Winner 的成员因多次缺席国民服役工作而被判处缓刑。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "津巴布韦大亨威克内尔·奇瓦约和妻子在直升机失事中丧生",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+   "summary": "奇瓦约以其奢华的生活方式、与非洲总统的密切关系以及利润丰厚的政府合同而闻名。",
    "day": 0
   },
   {
