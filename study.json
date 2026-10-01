@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:20",
+ "fetchedAt": "09:09",
  "fetchedDate": "2026-10-01",
  "source": "zhiri-server",
  "items": [
@@ -150,11 +150,27 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "小黄导-烛制作AIGC",
+   "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
+   "duration": "28:25",
+   "heat": 1379887,
+   "updated": "2026-10-01T01:09:36.646412",
+   "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "明末召唤师",
    "title": "【新宿决战】DeepSeek娘VS豆包",
    "duration": "1:41",
-   "heat": 1557205,
-   "updated": "2026-09-30T18:20:08.574989",
+   "heat": 1591582,
+   "updated": "2026-10-01T01:09:36.646425",
    "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
@@ -166,12 +182,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "小黄导-烛制作AIGC",
-   "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
-   "duration": "28:25",
-   "heat": 1310094,
-   "updated": "2026-09-30T18:20:08.574999",
-   "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
+   "author": "漫游会议室",
+   "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间 【AI MV大赛】",
+   "duration": "4:16",
+   "heat": 1102905,
+   "updated": "2026-10-01T01:09:36.646427",
+   "url": "https://www.bilibili.com/video/BV1JGhU67Ezy",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +201,8 @@
    "author": "韩历飞羽666",
    "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
    "duration": "1:45",
-   "heat": 2285145,
-   "updated": "2026-09-30T18:20:08.575001",
+   "heat": 2337605,
+   "updated": "2026-10-01T01:09:36.646429",
    "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
    "points": [],
    "flags": {
@@ -201,25 +217,9 @@
    "author": "许主任啊啊啊啊",
    "title": "这机器人有点东西",
    "duration": "2:35",
-   "heat": 2149373,
-   "updated": "2026-09-30T18:20:08.575003",
+   "heat": 2225617,
+   "updated": "2026-10-01T01:09:36.646431",
    "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "水杨acid",
-   "title": "“星河追梦，不问方向”《星河追梦》军乐ai版",
-   "duration": "3:29",
-   "heat": 389982,
-   "updated": "2026-09-30T18:20:08.575005",
-   "url": "https://www.bilibili.com/video/BV1EHhR6vE6e",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391100,
-   "updated": "2026-09-30T18:20:08.575007",
+   "heat": 391101,
+   "updated": "2026-10-01T01:09:36.646433",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653434,
-   "updated": "2026-09-30T18:20:08.575009",
+   "updated": "2026-10-01T01:09:36.646435",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -265,8 +265,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557534,
-   "updated": "2026-09-30T18:20:08.575010",
+   "heat": 557535,
+   "updated": "2026-10-01T01:09:36.646436",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "GAI长沙演唱会",
    "duration": "—",
-   "heat": 7777126,
-   "updated": "2026-09-30T18:20:08.575012",
+   "heat": 7740969,
+   "updated": "2026-10-01T01:09:36.646438",
    "url": "https://www.douyin.com/search/GAI%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
    "points": [
     "热门话题「GAI长沙演唱会」：相关视频 3 条"
@@ -300,7 +300,7 @@
    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T18:20:08.575015",
+   "updated": "2026-10-01T01:09:36.646440",
    "url": "https://www.qbitai.com/2026/09/499654.html",
    "points": [
     "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
@@ -318,9 +318,11 @@
    "title": "直播回顾：工业AI的下一个机会在哪？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T18:20:08.575016",
+   "updated": "2026-10-01T01:09:36.646443",
    "url": "https://www.qbitai.com/2026/09/499605.html",
-   "points": [],
+   "points": [
+    "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -334,7 +336,7 @@
    "title": "Anthropic，你是来给智谱打广告的吧！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T18:20:08.575018",
+   "updated": "2026-10-01T01:09:36.646444",
    "url": "https://www.qbitai.com/2026/09/499597.html",
    "points": [],
    "flags": {
@@ -350,7 +352,7 @@
    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T18:20:08.575019",
+   "updated": "2026-10-01T01:09:36.646446",
    "url": "https://www.qbitai.com/2026/09/499592.html",
    "points": [
     "给Agent配上手机号，再拉个群"
@@ -368,7 +370,7 @@
    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T18:20:08.575021",
+   "updated": "2026-10-01T01:09:36.646448",
    "url": "https://www.qbitai.com/2026/09/499493.html",
    "points": [
     "让GPT把机器人技能当工具调用"
@@ -386,7 +388,7 @@
    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-30T18:20:08.575022",
+   "updated": "2026-10-01T01:09:36.646450",
    "url": "https://www.qbitai.com/2026/09/499308.html",
    "points": [
     "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
@@ -403,7 +405,7 @@
    "author": "Hacker News",
    "title": "人工智能价格的下跌速度快于摩尔定律的速度",
    "duration": "—",
-   "heat": 2,
+   "heat": 3,
    "updated": "2026-09-30",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
    "points": [
@@ -421,7 +423,7 @@
    "author": "Hacker News",
    "title": "为什么萨姆·奥特曼是一个自由人？",
    "duration": "—",
-   "heat": 217,
+   "heat": 246,
    "updated": "2026-09-30",
    "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
    "points": [
