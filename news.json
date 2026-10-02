@@ -1,16 +1,36 @@
 {
- "fetchedAt": "18:22",
- "fetchedDate": "2026-10-02",
+ "fetchedAt": "02:16",
+ "fetchedDate": "2026-10-03",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "实干为笔，书写时代答卷｜",
+   "title": "时政微观察丨实干为笔，书写时代答卷",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/02/ARTIpupOcphOnFeeL77x1rPx261002.shtml",
    "summary": "向北，我国纬度最高的高速铁路哈伊高铁正式通车，将哈尔滨到伊春的行程压缩至2小时左右；向南，西部陆海新通道骨干工程平陆运河通航，西南地区货物出海缩短内河航程560公里以上……一个个跃动的坐标，标注着强国建设的铿锵步伐，汇聚起民族复兴的磅礴力量。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "凝心聚力把强国建设、民族复兴的宏伟蓝图变成美好现实｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/02/ARTIg5zpNGB2PXGoc9g5vO5Z261002.shtml",
+   "summary": "习近平总书记在讲话中深情回顾新中国成立77年来，党团结带领人民不懈奋斗取得的辉煌成就，充分肯定今年以来党和国家各项事业取得的新进展新成效，着眼新时代新征程面临的机遇与挑战，提出明确要求，作出重要指引。总书记的重要讲话鼓舞人心，凝聚起朝着全面建成社会主义现代化强国目标奋勇前进的磅礴力量。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "多彩活动欢度国庆 璀璨灯光迎客来｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/02/VIDEMWjDigfe1t6SSZfdEDDY261002.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -26,21 +46,11 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "盛装迎国庆 满城皆是“中国红”",
+   "title": "欢度国庆假期 感受活力中国",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/02/VIDEu1yGoDTuQ0MeNoUfwepH261002.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "赓续长征精神 奋进复兴征程｜金沙江畔果蔬飘香 虎头山下返乡创业",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/02/VIDEEvAopNX40Cp4pBKuFNpM261002.shtml",
-   "summary": "赓续长征精神，奋进复兴征程·云南：金沙江畔果蔬飘香，虎头山下返乡创业。",
+   "url": "https://news.cctv.com/2026/10/02/ARTIR9jjppNA2Dp3EupyP8cp261002.shtml",
+   "summary": "ad5decb9ebde,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -74,13 +84,23 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "财经",
-   "title": "一江水联动两岸绿色经济带 生态“蝶变”让古老瓯江焕新生",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国教育抗议活动激烈，防暴警察与学生发生冲突",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/02/ARTIgWvNyyWZWtAWqcbrFKEd261002.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+   "summary": "由于针对标准和师资短缺的抗议活动仍在继续，600 多所学校面临中断。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "纽约州州长表示，康奈尔大学强奸案调查中心的一名妇女被官员“失败”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+   "summary": "这名女子名叫简·多伊 (Jane Doe)，她声称 2024 年，她在该大学的兄弟会所被七名学生强奸。",
    "day": 0
   },
   {
@@ -96,11 +116,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "“乌云”和“沮丧”的情绪：康奈尔大学校园现在的感觉如何",
+   "title": "市长警告说，俄罗斯加强的袭击正在使基辅四分五裂",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-   "summary": "学生们告诉 BBC，自从 2024 年的指控重新浮出水面以来，校园里的紧张气氛变得显而易见。",
+   "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+   "summary": "维塔利·克里琴科表示，随着俄罗斯袭击关键基础设施，乌克兰首都正处于“非常戏剧性的局势”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "西班牙首相桑切斯在驱逐 87 岁妇女后失去了关键的住房危机投票",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+   "summary": "在一系列影响其政党和盟友的丑闻之后，这次失败给桑切斯带来了提前举行选举的压力。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "我见过近 500 起处决事件，但从来没有像克里斯塔·派克那样被处决",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+   "summary": "得克萨斯州记者迈克尔·格拉奇克（Michael Graczyk）在他那个时代曾目睹过拙劣的处决，但没有一次有囚犯幸存。",
    "day": 0
   },
   {
@@ -121,46 +161,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
    "summary": "川田翔子的产假在日本这个努力提高出生率的国家引起了不同的反应。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "OpenAI 因“敏感信息处理不当”而解雇员工",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-   "summary": "这些前员工因与外部人工智能评估小组共享数据而受到调查。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着北部冲突升级，埃塞俄比亚和厄立特里亚断绝外交关系",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-   "summary": "外交影响发生之际，埃塞俄比亚军队正在其北部地区与叛军作战。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "澳大利亚称 Steam 和 Roblox 等平台存在“重大”儿童安全漏洞",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-   "summary": "在线安全监管机构还要求《堡垒之夜》和《我的世界》“提升游戏水平”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "克里斯塔·派克被处决失败发生了什么——接下来会发生什么？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-   "summary": "这名被定罪的凶手在两次注射死刑后幸存下来，目前正在田纳西州的一家医院接受治疗，这一案件引发了许多问题。",
    "day": 0
   },
   {
