@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:25",
+ "fetchedAt": "18:23",
  "fetchedDate": "2026-10-02",
  "source": "zhiri-server",
  "items": [
@@ -42,6 +42,24 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "sentdex",
+   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23 14:50:17",
+   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+   "points": [
+    "决策模型、DSV4.1 闪存和新基准"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "Two Minute Papers",
    "title": "Yes, Jev Is Insane, But There's A Catch",
    "duration": "—",
@@ -50,6 +68,24 @@
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "points": [
     "是的，杰夫疯了，但有一个问题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-19 15:35:20",
+   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+   "points": [
+    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
    ],
    "flags": {
     "fav": false,
@@ -96,14 +132,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek’s Insane New Architecture",
+   "author": "sentdex",
+   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18 07:03:46",
-   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+   "updated": "2026-09-18 14:55:26",
+   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
    "points": [
-    "DeepSeek 疯狂的新架构"
+    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
    ],
    "flags": {
     "fav": false,
@@ -113,34 +149,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "How I use LLMs",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-27 22:29:56",
-   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-   "points": [
-    "我如何使用法学硕士"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Deep Dive into LLMs like ChatGPT",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-05 18:23:47",
-   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-   "points": [
-    "深入研究 ChatGPT 等法学硕士"
-   ],
+   "platform": "bilibili",
+   "author": "锡德JorisSid",
+   "title": "我让AI建造了最安全的基地！但它居然囚禁了我…",
+   "duration": "36:02",
+   "heat": 1835221,
+   "updated": "2026-10-02T10:23:13.971934",
+   "url": "https://www.bilibili.com/video/BV1ZKYw6QEhg",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -153,41 +169,9 @@
    "author": "小黄导-烛制作AIGC",
    "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
    "duration": "28:25",
-   "heat": 1700703,
-   "updated": "2026-10-02T01:25:39.955745",
+   "heat": 1775197,
+   "updated": "2026-10-02T10:23:13.971943",
    "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "漫游会议室",
-   "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间 【AI MV大赛】",
-   "duration": "4:16",
-   "heat": 1331248,
-   "updated": "2026-10-02T01:25:39.955752",
-   "url": "https://www.bilibili.com/video/BV1JGhU67Ezy",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "明末召唤师",
-   "title": "【新宿决战】DeepSeek娘VS豆包",
-   "duration": "1:41",
-   "heat": 1835981,
-   "updated": "2026-10-02T01:25:39.955753",
-   "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391109,
-   "updated": "2026-10-02T01:25:39.955755",
+   "heat": 391113,
+   "updated": "2026-10-02T10:23:13.971945",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -218,7 +202,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653434,
-   "updated": "2026-10-02T01:25:39.955756",
+   "updated": "2026-10-02T10:23:13.971947",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +218,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557540,
-   "updated": "2026-10-02T01:25:39.955757",
+   "updated": "2026-10-02T10:23:13.971949",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -249,8 +233,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155659,
-   "updated": "2026-10-02T01:25:39.955758",
+   "heat": 155662,
+   "updated": "2026-10-02T10:23:13.971952",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -265,9 +249,41 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611518,
-   "updated": "2026-10-02T01:25:39.955760",
+   "heat": 611519,
+   "updated": "2026-10-02T10:23:13.971954",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659780,
+   "updated": "2026-10-02T10:23:13.971956",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "丘成桐新论文致谢了GPT和Claude",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-02T10:23:13.971958",
+   "url": "https://www.qbitai.com/2026/10/499991.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +298,7 @@
    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T01:25:39.955761",
+   "updated": "2026-10-02T10:23:13.971960",
    "url": "https://www.qbitai.com/2026/10/499812.html",
    "points": [
     "用ImageNet训练encoder"
@@ -300,7 +316,7 @@
    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T01:25:39.955762",
+   "updated": "2026-10-02T10:23:13.971962",
    "url": "https://www.qbitai.com/2026/10/499663.html",
    "points": [],
    "flags": {
@@ -316,7 +332,7 @@
    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T01:25:39.955763",
+   "updated": "2026-10-02T10:23:13.971964",
    "url": "https://www.qbitai.com/2026/09/499654.html",
    "points": [
     "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
@@ -334,7 +350,7 @@
    "title": "直播回顾：工业AI的下一个机会在哪？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T01:25:39.955764",
+   "updated": "2026-10-02T10:23:13.971966",
    "url": "https://www.qbitai.com/2026/09/499605.html",
    "points": [
     "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
@@ -352,7 +368,7 @@
    "title": "Anthropic，你是来给智谱打广告的吧！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T01:25:39.955765",
+   "updated": "2026-10-02T10:23:13.971968",
    "url": "https://www.qbitai.com/2026/09/499597.html",
    "points": [],
    "flags": {
@@ -363,15 +379,51 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "意图如下：代理软件工程的语义基础设施",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-02T01:25:39.955766",
-   "url": "https://www.qbitai.com/2026/09/499592.html",
+   "heat": 2,
+   "updated": "2026-10-02",
+   "url": "https://enogrob.github.io/artificial-intelligence/software-engineering/architecture/ruby/2026/10/02/below-intent-semantic-infrastructure.html",
    "points": [
-    "给Agent配上手机号，再拉个群"
+    "意图如下：代理软件工程的语义基础设施"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "AI数据中心电子垃圾问题巨大",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-02",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+   "points": [
+    "AI数据中心电子垃圾问题巨大"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "从进化的角度来看人工智能[视频]",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-02",
+   "url": "https://www.youtube.com/watch?v=ws_9ettrtSg",
+   "points": [
+    "从进化的角度来看人工智能[视频]"
    ],
    "flags": {
     "fav": false,
@@ -426,60 +478,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
    "points": [
     "Anthropic 的生物实验室发现了一项可与 CRISPR 进行比较的发现"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "公司租用四台 Nvidia H200 来测试 DeepSeek 声称的“便宜 80 倍”",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-01",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
-   "points": [
-    "公司租用四台 Nvidia H200 来测试 DeepSeek 声称的“便宜 80 倍”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能时代的 Ruby",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-01",
-   "url": "https://enogrob.github.io/ruby/artificial-intelligence/software-engineering/architecture/2026/10/01/ruby-in-the-age-of-ai.html",
-   "points": [
-    "人工智能时代的 Ruby"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能领域最大的不和：达里奥·阿莫代和山姆·奥尔特曼",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-10-01",
-   "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
-   "points": [
-    "人工智能领域最大的不和：达里奥·阿莫代和山姆·奥尔特曼"
    ],
    "flags": {
     "fav": false,
