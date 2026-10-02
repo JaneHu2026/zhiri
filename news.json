@@ -1,176 +1,86 @@
 {
- "fetchedAt": "02:44",
+ "fetchedAt": "09:24",
  "fetchedDate": "2026-10-02",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政新闻眼丨国庆前夕两场活动，习近平总书记指引我们鉴往知来",
+   "title": "活力中国调研行｜不沿边不靠海 宁夏如何破局内陆之困",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTI3A0Lz72k4IfOL6CiIjGM261001.shtml",
-   "summary": "9月30日，国庆前一天，习近平总书记先后出席两场重要活动。上午，出席烈士纪念日向人民英雄敬献花篮仪式。晚上，出席庆祝中华人民共和国成立77周年招待会并发表重要讲话。回望历史、昭示未来，两场活动贯穿着一条清晰的主线。《时政新闻眼》为你解读。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "朝着全面建成社会主义现代化强国目标奋勇前进",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIgevpHUnaGqAENccFSCKM261001.shtml",
-   "summary": "习近平总书记指出，77年来，我们党团结带领人民不懈奋斗，创造了经济快速发展和社会长期稳定两大奇迹，实现了全面建成小康社会的第一个百年奋斗目标，正朝着全面建成社会主义现代化强国的第二个百年奋斗目标奋勇前进。10月1日是国庆节，神州大地花团锦簇，广大干部群众为新中国取得的举世瞩目成就无比自豪，对中国式现…",
+   "url": "https://tv.cctv.com/2026/10/02/VIDE2TdKbom3wojCrcS5me4G261002.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "同升一面旗 共祝祖国好",
+   "title": "说说你眼中的中国范儿 山河万里皆风雅 一方风华一方人",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIDwPJQiuaAe7giMqch1KA261001.shtml",
-   "summary": "ed637284256b,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/10/02/VIDEBB9zE4VOsDs9YHhlDdpq261002.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“十五五”新图景｜平陆运河改变了什么",
+   "title": "海拔5318米 “生命禁区”的一抹“中国红”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/01/VIDEbEsG8QJv9SOkKEqbuftl261001.shtml",
+   "url": "https://tv.cctv.com/2026/10/02/VIDEgWRJWax2MwSLtjuWwhtw261002.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "民生",
-   "title": "国庆假期迎出行高峰 交通部门全力保障",
+   "title": "假期首日迎出行高峰 交通部门全力保障",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIFTQWPma8oI56dIPpnzCG261001.shtml",
-   "summary": "36cd8a80dd3d,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“越玩越远”“家庭游”“消费活力” 解码国庆假期消费新图景",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/01/ARTIzlT9QtLjJaHQmw40JAbM261001.shtml",
-   "summary": "4ce93a134fe8,0,1,16:9,newPlayerf8e0f7a73013,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/02/ARTIbcyMkcqU8h7uBBqthgxy261002.shtml",
+   "summary": "6bfb8516049c,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "卫星瞰丰收：稻谷黄高粱红 寻味中国“香”",
+   "title": "“全”释硬科技｜从深海到火星 五星红旗闪耀天地极限",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/01/VIDEZpEoOpY0fUp6IKHmtudB261001.shtml",
+   "url": "https://tv.cctv.com/2026/10/02/VIDEx1fekkL7CHHbeFuESu5H261002.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "@高校毕业生 从10月起89场各类就业服务活动将推出",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/02/ARTI3Qm20Ly6lva4jv9a6XiR261002.shtml",
+   "summary": "32748c7945dc,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "12306提醒广大旅客：购票无网传“捷径”和“妙招”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/02/ARTINnIVmEuHHnJKJYdzbaOG261002.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "金柿满枝头 “晒秋”正当时",
+   "title": "香港举办2026年国庆烟花汇演",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/01/VIDEyH0nPef8fYytgOCkZRNF261001.shtml",
+   "url": "https://news.cctv.com/2026/10/02/ARTIaD1sNnP5og2jTtPHQ8JU261002.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "点击参与！2026“向国旗敬礼”网络文明传播活动",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20261001/41e24eb6736b4b6e8b0a579e402d37b1/c.html",
-   "summary": "点击参与！2026“向国旗敬礼”网络文明传播活动-盛世华诞，致敬祖国。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "克里斯塔·派克（Christa Pike）在两次注射死刑中幸存后，田纳西州停止执行死刑",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-   "summary": "自 1996 年因谋杀科琳·斯莱默 (Colleen Slemmer) 被定罪以来，派克一直被关在死囚牢房。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "克里斯塔·派克被处决失败发生了什么——接下来会发生什么？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-   "summary": "这名被定罪的凶手在两次注射死刑后幸存下来，目前正在田纳西州的一家医院接受治疗，这一案件引发了许多问题。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "内塔尼亚胡称迪拜航空袭击者受到“伊斯兰激进主义灌输”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列总理表示，试图接管迪拜航空飞机的飞行员显然意图“击落飞机”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "普京警告西方，俄罗斯准备使用一切武器保护加里宁格勒",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-   "summary": "弗拉基米尔·普京坚称莫斯科“没有威胁任何人”，只是对西方领导人的​​声明做出回应。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "特朗普的人工智能品牌重塑导致对斯洛文尼亚网站名称的“前所未有”的需求",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-   "summary": "总统希望人工智能被称为超级智能（SI），与斯洛文尼亚域名使用的缩写相同。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "俄罗斯持不同政见者加里·卡斯帕罗夫表示，美国警告他，他的生命面临危险",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-   "summary": "这位前国际象棋世界冠军表示：“只要普京掌权，我和我的家人就不会真正安全。”",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "蕾妮·古德：被 ICE 特工杀害的美国妇女的家人起诉特朗普官员",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-   "summary": "古德律师事务所的家人表示，美国官员在明尼阿波利斯创造了“前所未有的国家支持暴力环境”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "日本将永久居留费提高20倍",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-   "summary": "此次加息是日本为管理不断增长的外国人口而引入的移民政策变化的一部分。",
    "day": 0
   }
  ]

@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:45",
+ "fetchedAt": "09:25",
  "fetchedDate": "2026-10-02",
  "source": "zhiri-server",
  "items": [
@@ -42,24 +42,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "Two Minute Papers",
    "title": "Yes, Jev Is Insane, But There's A Catch",
    "duration": "—",
@@ -68,24 +50,6 @@
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "points": [
     "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -132,14 +96,50 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek’s Insane New Architecture",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18 14:55:26",
-   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
+   "updated": "2026-09-18 07:03:46",
+   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
    "points": [
-    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
+    "DeepSeek 疯狂的新架构"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "小黄导-烛制作AIGC",
    "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
    "duration": "28:25",
-   "heat": 1672855,
-   "updated": "2026-10-01T18:45:01.393260",
+   "heat": 1700703,
+   "updated": "2026-10-02T01:25:39.955745",
    "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "漫游会议室",
    "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间 【AI MV大赛】",
    "duration": "4:16",
-   "heat": 1304869,
-   "updated": "2026-10-01T18:45:01.393273",
+   "heat": 1331248,
+   "updated": "2026-10-02T01:25:39.955752",
    "url": "https://www.bilibili.com/video/BV1JGhU67Ezy",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "明末召唤师",
    "title": "【新宿决战】DeepSeek娘VS豆包",
    "duration": "1:41",
-   "heat": 1817810,
-   "updated": "2026-10-01T18:45:01.393276",
+   "heat": 1835981,
+   "updated": "2026-10-02T01:25:39.955753",
    "url": "https://www.bilibili.com/video/BV1dsai6CErz",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391107,
-   "updated": "2026-10-01T18:45:01.393278",
+   "heat": 391109,
+   "updated": "2026-10-02T01:25:39.955755",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -218,7 +218,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653434,
-   "updated": "2026-10-01T18:45:01.393279",
+   "updated": "2026-10-02T01:25:39.955756",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557540,
-   "updated": "2026-10-01T18:45:01.393281",
+   "updated": "2026-10-02T01:25:39.955757",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155659,
-   "updated": "2026-10-01T18:45:01.393283",
+   "updated": "2026-10-02T01:25:39.955758",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -265,8 +265,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611516,
-   "updated": "2026-10-01T18:45:01.393285",
+   "heat": 611518,
+   "updated": "2026-10-02T01:25:39.955760",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -282,7 +282,7 @@
    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-01T18:45:01.393287",
+   "updated": "2026-10-02T01:25:39.955761",
    "url": "https://www.qbitai.com/2026/10/499812.html",
    "points": [
     "用ImageNet训练encoder"
@@ -300,7 +300,7 @@
    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-01T18:45:01.393289",
+   "updated": "2026-10-02T01:25:39.955762",
    "url": "https://www.qbitai.com/2026/10/499663.html",
    "points": [],
    "flags": {
@@ -316,7 +316,7 @@
    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-01T18:45:01.393291",
+   "updated": "2026-10-02T01:25:39.955763",
    "url": "https://www.qbitai.com/2026/09/499654.html",
    "points": [
     "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
@@ -334,7 +334,7 @@
    "title": "直播回顾：工业AI的下一个机会在哪？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-01T18:45:01.393292",
+   "updated": "2026-10-02T01:25:39.955764",
    "url": "https://www.qbitai.com/2026/09/499605.html",
    "points": [
     "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
@@ -352,7 +352,7 @@
    "title": "Anthropic，你是来给智谱打广告的吧！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-01T18:45:01.393294",
+   "updated": "2026-10-02T01:25:39.955765",
    "url": "https://www.qbitai.com/2026/09/499597.html",
    "points": [],
    "flags": {
@@ -368,7 +368,7 @@
    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-01T18:45:01.393295",
+   "updated": "2026-10-02T01:25:39.955766",
    "url": "https://www.qbitai.com/2026/09/499592.html",
    "points": [
     "给Agent配上手机号，再拉个群"
@@ -383,9 +383,45 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Anthropic 的生物实验室发现了一项可与 CRISPR 进行比较的发现",
+   "title": "Nvidia推出开放代理安全平台以抑制流氓人工智能代理",
    "duration": "—",
    "heat": 1,
+   "updated": "2026-10-01",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+   "points": [
+    "Nvidia推出开放代理安全平台以抑制流氓人工智能代理"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "喝自己小便的人痴迷于人工智能",
+   "duration": "—",
+   "heat": 7,
+   "updated": "2026-10-01",
+   "url": "https://futurism.com/artificial-intelligence/urine-therapy-ai",
+   "points": [
+    "喝自己小便的人痴迷于人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Anthropic 的生物实验室发现了一项可与 CRISPR 进行比较的发现",
+   "duration": "—",
+   "heat": 2,
    "updated": "2026-10-01",
    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
    "points": [
@@ -444,42 +480,6 @@
    "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
    "points": [
     "人工智能领域最大的不和：达里奥·阿莫代和山姆·奥尔特曼"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能价格的下跌速度快于摩尔定律的速度",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-09-30",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
-   "points": [
-    "人工智能价格的下跌速度快于摩尔定律的速度"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "为什么萨姆·奥特曼是一个自由人？",
-   "duration": "—",
-   "heat": 264,
-   "updated": "2026-09-30",
-   "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
-   "points": [
-    "为什么萨姆·奥特曼是一个自由人？"
    ],
    "flags": {
     "fav": false,
