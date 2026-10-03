@@ -1,176 +1,116 @@
 {
- "fetchedAt": "02:16",
+ "fetchedAt": "14:22",
  "fetchedDate": "2026-10-03",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨实干为笔，书写时代答卷",
+   "title": "全军各部队官兵坚守战位加强战备值班 |",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/02/ARTIpupOcphOnFeeL77x1rPx261002.shtml",
-   "summary": "向北，我国纬度最高的高速铁路哈伊高铁正式通车，将哈尔滨到伊春的行程压缩至2小时左右；向南，西部陆海新通道骨干工程平陆运河通航，西南地区货物出海缩短内河航程560公里以上……一个个跃动的坐标，标注着强国建设的铿锵步伐，汇聚起民族复兴的磅礴力量。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "凝心聚力把强国建设、民族复兴的宏伟蓝图变成美好现实｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/02/ARTIg5zpNGB2PXGoc9g5vO5Z261002.shtml",
-   "summary": "习近平总书记在讲话中深情回顾新中国成立77年来，党团结带领人民不懈奋斗取得的辉煌成就，充分肯定今年以来党和国家各项事业取得的新进展新成效，着眼新时代新征程面临的机遇与挑战，提出明确要求，作出重要指引。总书记的重要讲话鼓舞人心，凝聚起朝着全面建成社会主义现代化强国目标奋勇前进的磅礴力量。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "多彩活动欢度国庆 璀璨灯光迎客来｜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/02/VIDEMWjDigfe1t6SSZfdEDDY261002.shtml",
+   "url": "https://tv.cctv.com/2026/10/03/VIDEMpfIsI4Mbbltu3U2LuDT261003.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "人民领袖｜总书记赞誉的爱国者",
+   "title": "“21世纪海上丝绸之路”建设取得积极进展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/02/ARTITTB3GTYfUKrOYyjb9NET260924.shtml",
-   "summary": "在南开大学校史展览馆里，柔和的灯光洒落在展板上，光影与文字交织，勾勒出百年南开“允公允能，日新月异”的奋进历程。",
+   "url": "https://tv.cctv.com/2026/10/03/VIDEwpu5BihAU8giWoF3bYyE261003.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "商业航天产业发展的海南样本：从一座发射场到一片“产业雨林”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/03/VIDEBQFsBstlLtRUco9FzWAo261003.shtml",
+   "summary": "看见中国·高度——商业航天产业发展的海南样本：从一座发射场到一片“产业雨林”。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "欢度国庆假期 感受活力中国",
+   "title": "国庆海采｜说说你眼中的中国范儿",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/02/ARTIR9jjppNA2Dp3EupyP8cp261002.shtml",
-   "summary": "ad5decb9ebde,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/10/03/VIDE5RFcrVRy5rwbqBYzCd0Q261003.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "星火成炬｜中国人才懂的浪漫",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/03/ARTIVMjteCkKCarGbdmBo5ug261003.shtml",
+   "summary": "将赤诚心事托付山河，与家与国约定岁岁年年，烟火相守，薪火同望，不是我们不懂浪漫，而是这份浪漫只有我们才懂。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "吉林：长白山秋色入佳境 路网联动催热全域游",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/03/VIDEfQoMLiqtAbuhkvdZQ0gR261003.shtml",
+   "summary": "黄金周，中国游·吉林：长白山秋色入佳境，路网联动催热全域游。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "民生",
-   "title": "“十五五”新图景｜有一种生活叫云南",
+   "title": "火热数据勾勒假期出行“热力图”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/02/VIDEt1JcsWPEPxUxmOjvGGaO261002.shtml",
+   "url": "https://news.cctv.com/2026/10/03/ARTIId42aTMi17teqK0ZNRC9261003.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "多元出行需求集中释放 文旅消费“热”力全开",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/02/VIDEY9kwOKzHtq7eaud1RUhi261002.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "Chinamaxxing！“中式生活”圈粉全球",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/02/VIDERPxGlFimINW9mD11vMkS261002.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法国教育抗议活动激烈，防暴警察与学生发生冲突",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-   "summary": "由于针对标准和师资短缺的抗议活动仍在继续，600 多所学校面临中断。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "纽约州州长表示，康奈尔大学强奸案调查中心的一名妇女被官员“失败”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-   "summary": "这名女子名叫简·多伊 (Jane Doe)，她声称 2024 年，她在该大学的兄弟会所被七名学生强奸。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“我不会让其他人死去”——迪拜航空航班飞行员描述副驾驶对驾驶舱的攻击",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-   "summary": "斯密特·马赫恰尔上尉告诉印度总理纳伦德拉·莫迪，他在袭击期间打开了驾驶舱门，让其他人进入。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "市长警告说，俄罗斯加强的袭击正在使基辅四分五裂",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-   "summary": "维塔利·克里琴科表示，随着俄罗斯袭击关键基础设施，乌克兰首都正处于“非常戏剧性的局势”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "西班牙首相桑切斯在驱逐 87 岁妇女后失去了关键的住房危机投票",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-   "summary": "在一系列影响其政党和盟友的丑闻之后，这次失败给桑切斯带来了提前举行选举的压力。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "我见过近 500 起处决事件，但从来没有像克里斯塔·派克那样被处决",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-   "summary": "得克萨斯州记者迈克尔·格拉奇克（Michael Graczyk）在他那个时代曾目睹过拙劣的处决，但没有一次有囚犯幸存。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "首尔警告称，如果乌克兰不就战俘纠纷道歉，首尔将“采取进一步行动”",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-   "summary": "总统李在明还指责基辅“试图挑起朝鲜半岛战争”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "日本首位休产假市长登上《TIME100 Next》榜单",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-   "summary": "川田翔子的产假在日本这个努力提高出生率的国家引起了不同的反应。",
-   "day": 0
-  },
-  {
-   "group": "gj",
    "theme": "要闻",
-   "title": "布鲁塞尔：“小尿童”换唐装庆祝中国国庆",
-   "source": "人民网",
+   "title": "“大伙儿日子有奔头”",
+   "source": "央视新闻",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1002/c1002-40808838.html",
-   "summary": "10月1日，比利时布鲁塞尔著名雕像“小尿童”换上了一身唐装，庆祝中华人民共和国成立77周年。",
+   "url": "https://news.cctv.com/2026/10/03/ARTIsYLhbJagpVXYFqJitpZ9261003.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "基辅市长称俄罗斯袭击了基辅第二座大桥",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "summary": "北桥袭击事件发生在最近几天另一座主要桥梁多次遭受袭击之后。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普威胁后七国集团将释放数百万桶石油和柴油",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+   "summary": "此次协调发布的目的是阻止价格进一步上涨并避免美国柴油出口禁令。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "律师称，康奈尔兄弟会强奸案指控者在网上“遭到围攻”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+   "summary": "无名氏的律师表示，在试图揭露她身份的过程中，她“表现不佳”。",
    "day": 0
   }
  ]

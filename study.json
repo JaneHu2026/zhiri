@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:17",
+ "fetchedAt": "14:23",
  "fetchedDate": "2026-10-03",
  "source": "zhiri-server",
  "items": [
@@ -14,78 +14,6 @@
    "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
     "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24 08:40:55",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "points": [
-    "Claude Opus 5.5 AI：令人难以置信的飞跃"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Yes, Jev Is Insane, But There's A Catch",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22 09:32:13",
-   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-   "points": [
-    "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -131,47 +59,13 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 14:55:26",
-   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
-   "points": [
-    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
    "author": "极客湾Geekerwan",
    "title": "逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？",
    "duration": "16:59",
-   "heat": 1128302,
-   "updated": "2026-10-02T18:17:13.050111",
+   "heat": 1635384,
+   "updated": "2026-10-03T06:23:41.940606",
    "url": "https://www.bilibili.com/video/BV1heam6TExz",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "锡德JorisSid",
-   "title": "我让AI建造了最安全的基地！但它居然囚禁了我…",
-   "duration": "36:02",
-   "heat": 2289924,
-   "updated": "2026-10-02T18:17:13.050121",
-   "url": "https://www.bilibili.com/video/BV1ZKYw6QEhg",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +79,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391116,
-   "updated": "2026-10-02T18:17:13.050124",
+   "heat": 391119,
+   "updated": "2026-10-03T06:23:41.940615",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -202,7 +96,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653434,
-   "updated": "2026-10-02T18:17:13.050126",
+   "updated": "2026-10-03T06:23:41.940618",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -218,7 +112,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557541,
-   "updated": "2026-10-02T18:17:13.050129",
+   "updated": "2026-10-03T06:23:41.940620",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -233,8 +127,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155662,
-   "updated": "2026-10-02T18:17:13.050131",
+   "heat": 155663,
+   "updated": "2026-10-03T06:23:41.940622",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -249,8 +143,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611524,
-   "updated": "2026-10-02T18:17:13.050133",
+   "heat": 611530,
+   "updated": "2026-10-03T06:23:41.940624",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -265,9 +159,57 @@
    "author": "闪电飞船",
    "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
    "duration": "2:55",
-   "heat": 2659787,
-   "updated": "2026-10-02T18:17:13.050135",
+   "heat": 2659793,
+   "updated": "2026-10-03T06:23:41.940626",
    "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "CG迷李辰",
+   "title": "GPT4o!全方位评测！人人都是设计师的时代来临，对比comfyui",
+   "duration": "21:11",
+   "heat": 58694,
+   "updated": "2026-10-03T06:23:41.940628",
+   "url": "https://www.bilibili.com/video/BV1hsZCYZEMh",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-03T06:23:41.940630",
+   "url": "https://www.qbitai.com/2026/10/501368.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-03T06:23:41.940632",
+   "url": "https://www.qbitai.com/2026/10/500148.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +224,7 @@
    "title": "丘成桐新论文致谢了GPT和Claude",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T18:17:13.050137",
+   "updated": "2026-10-03T06:23:41.940634",
    "url": "https://www.qbitai.com/2026/10/499991.html",
    "points": [],
    "flags": {
@@ -298,7 +240,7 @@
    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T18:17:13.050140",
+   "updated": "2026-10-03T06:23:41.940636",
    "url": "https://www.qbitai.com/2026/10/499812.html",
    "points": [
     "用ImageNet训练encoder"
@@ -316,7 +258,7 @@
    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T18:17:13.050142",
+   "updated": "2026-10-03T06:23:41.940637",
    "url": "https://www.qbitai.com/2026/10/499663.html",
    "points": [],
    "flags": {
@@ -332,45 +274,11 @@
    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-02T18:17:13.050144",
+   "updated": "2026-10-03T06:23:41.940639",
    "url": "https://www.qbitai.com/2026/09/499654.html",
    "points": [
     "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
    ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "直播回顾：工业AI的下一个机会在哪？",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-02T18:17:13.050146",
-   "url": "https://www.qbitai.com/2026/09/499605.html",
-   "points": [
-    "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Anthropic，你是来给智谱打广告的吧！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-02T18:17:13.050147",
-   "url": "https://www.qbitai.com/2026/09/499597.html",
-   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
