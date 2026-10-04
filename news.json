@@ -1,8 +1,98 @@
 {
- "fetchedAt": "08:23",
+ "fetchedAt": "14:40",
  "fetchedDate": "2026-10-04",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "爱国，是人世间最深层、最持久的情感",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/04/ARTInqRVVLIziKDKuSYMRbpZ261004.shtml",
+   "summary": "“只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国！”在庆祝中华人民共和国成立77周年招待会上，习近平总书记发表重要讲话，礼赞新中国77载取得的巨大成就，满怀豪情展望未来，凝聚起接续奋斗的磅礴力量。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "走近长征英雄部队｜“大渡河连”：冲锋在“新长征”路上",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/04/VIDEAsY9zHRJoh6oz7B5lQzt261004.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "神二十三乘组太空过双节 科学实验、健康管理等工作正推进",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/04/ARTIvNou6KVtOcPazuC9M9Jo261004.shtml",
+   "summary": "国庆假期，太空出差三人组——神二十三乘组航天员朱杨柱、张志远、黎家盈仍在中国空间站值守。三名航天员在轨驻留已四月有余，中秋国庆期间，他们将站内环境布置得温馨喜庆，同时，空间科学实（试）验、空间站组合体平台照料、健康管理等各项工作有序推进。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "中国文化生活新风尚 从看客到“戏中人” 体验“电影+”新活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/04/VIDERPFUJvYgLVDndwCCR9tT261004.shtml",
+   "summary": "曹岩说说观察团：中国文化生活新风尚，从看客到“戏中人”，体验“电影+”新活力。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "大国重器 实业答卷｜解码核工业背后的重器力量",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/04/VIDE28C0AyBUEoTvZsg610xb261004.shtml",
+   "summary": "本期节目主要内容： 核工业一头扛起了国家安全、能源安全的重任，一头守护万家灯火、百姓的健康，近十年，全球能源转型提速，核技术的国际竞争越来越激烈，自主创新是唯一的出路。 （《大国重器 实业答卷》 20261003 解码核工业背后的重器力量）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "《诗行万里长征路》天欲堕 赖以拄其间",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/04/VIDEeXHB0kHEix0JLh5VsTGR261004.shtml",
+   "summary": "本集主要内容： 本集从湘江边出发，走进广西全州、兴安等地，回望湘江战役的烽火，循着散文《老山界》重走长征路。于《十六字令三首》中感受“离天三尺三”的惊心动魄和“天欲堕，赖以拄其间”的信仰力量。 （《诗行万里长征路》 第3集 天欲堕 赖以拄其间）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "各地打造特色文旅活动欢度国庆",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/04/VIDEpp6LdO3uGHfOzCDAFmys261004.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "商务部就二十国集团贸易部长会议及相关情况答问",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/04/ARTIQW3sRlEuLUTvDta6o6xW261004.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "澳大利亚正在调查迪拜航空副驾驶与该国的联系",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+   "summary": "国家警察和国家安全机构正在调查副驾驶，他试图控制一架飞往迪拜的飞机。",
+   "day": 0
+  },
   {
    "group": "gj",
    "theme": "国际",
@@ -11,6 +101,66 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
    "summary": "迈克尔·科特里科夫 (Michael Kotlikoff) 称，一名女子声称自己被下药并被轮奸，这一指控“令人深感不安”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“街头的愤怒”：西班牙数万人抗议住房危机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "summary": "由于政府未能让议会通过紧急立法，周六发生了 50 多场抗议活动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "从美国海岸失踪的飞机中找到残骸",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+   "summary": "根据飞行数据，飞机在高度大幅下降后与飞行控制器失去了联系。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "罕见的龙卷风席卷澳大利亚小镇",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+   "summary": "新南威尔士州阿勒达拉的龙卷风被摄像机拍到，造成财产损失和树木倒塌。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "巴西总统选举为何引发国际关注",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809400.html",
+   "summary": "新华社里约热内卢10月3日电新闻分析｜巴西总统选举为何引发国际关注新华社记者赵焱周永穗陆君钰巴西总统选举4日将迎来首轮投票，国际舆论对此高度关注。分析人士认为，当前巴西国内外局势的特殊背景是此次选举受",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "阿根廷推出“投资换国籍”计划",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809403.html",
+   "summary": "新华社北京10月3日电阿根廷政府2日推出一项“投资换国籍”计划，申请人出资数十万美元就有可能成为这个南美洲国家公民。阿根廷经济部长路易斯·卡普托和内阁首席部长迭戈·圣蒂利当天在法国巴黎举办的“阿根廷周",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "拉脱维亚举行第15届议会选举",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1004/c1002-40809405.html",
+   "summary": "新华社里加10月3日电（记者陈玉芬孟凡宇）拉脱维亚第15届议会选举3日迎来正式投票日。共有14个政党及政党联盟参加选举，1428名候选人角逐议会100个议席。拉脱维亚全国各地投票站于当地时间3日8时开",
    "day": 0
   }
  ]

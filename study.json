@@ -1,162 +1,20 @@
 {
- "fetchedAt": "08:24",
+ "fetchedAt": "14:41",
  "fetchedDate": "2026-10-04",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
-   "points": [
-    "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24 08:40:55",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "points": [
-    "Claude Opus 5.5 AI：令人难以置信的飞跃"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Yes, Jev Is Insane, But There's A Catch",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22 09:32:13",
-   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-   "points": [
-    "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 14:55:26",
-   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
-   "points": [
-    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "bilibili",
    "author": "极客湾Geekerwan",
    "title": "逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？",
    "duration": "16:59",
-   "heat": 1983628,
-   "updated": "2026-10-04T00:24:41.500115",
+   "heat": 2070339,
+   "updated": "2026-10-04T06:41:15.957515",
    "url": "https://www.bilibili.com/video/BV1heam6TExz",
-   "points": [],
+   "points": [
+    "逻辑折叠到底是如何工作的？真实的内部结构究竟长啥样？难道你就不好奇嘛？为了深入探究逻辑折叠的秘密，我们这次切掉了一颗麒麟9050 Pro芯片，用电子显微镜好好观察了一下内部结构，做成视频给你呈现！还要好好测一测Mate "
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -169,25 +27,9 @@
    "author": "嘿秀文化",
    "title": "我的东京留学生活不可能那么二次元！【AI全民制作人】",
    "duration": "7:54",
-   "heat": 906240,
-   "updated": "2026-10-04T00:24:41.500128",
+   "heat": 967708,
+   "updated": "2026-10-04T06:41:15.957530",
    "url": "https://www.bilibili.com/video/BV1mrao6WEKK",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "锡德JorisSid",
-   "title": "我让AI建造了最安全的基地！但它居然囚禁了我…",
-   "duration": "36:02",
-   "heat": 4390435,
-   "updated": "2026-10-04T00:24:41.500131",
-   "url": "https://www.bilibili.com/video/BV1ZKYw6QEhg",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,10 +43,12 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391125,
-   "updated": "2026-10-04T00:24:41.500133",
+   "heat": 391126,
+   "updated": "2026-10-04T06:41:15.957533",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
+   "points": [
+    "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -218,7 +62,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-04T00:24:41.500134",
+   "updated": "2026-10-04T06:41:15.957535",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +78,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557544,
-   "updated": "2026-10-04T00:24:41.500136",
+   "updated": "2026-10-04T06:41:15.957537",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -250,7 +94,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155664,
-   "updated": "2026-10-04T00:24:41.500138",
+   "updated": "2026-10-04T06:41:15.957539",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -266,8 +110,76 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611535,
-   "updated": "2026-10-04T00:24:41.500140",
+   "updated": "2026-10-04T06:41:15.957544",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2659822,
+   "updated": "2026-10-04T06:41:15.957547",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AI算力硬合作，马斯克还是更相信中国制造",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-04T06:41:15.957550",
+   "url": "https://www.qbitai.com/2026/10/501605.html",
+   "points": [
+    "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "最火AI岗位FDE：月薪5万，都干这些…",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-04T06:41:15.957554",
+   "url": "https://www.qbitai.com/2026/10/501506.html",
+   "points": [
+    "什么是FDE？它会一直存在吗？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-04T06:41:15.957556",
+   "url": "https://www.qbitai.com/2026/10/501451.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +194,7 @@
    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-04T00:24:41.500142",
+   "updated": "2026-10-04T06:41:15.957559",
    "url": "https://www.qbitai.com/2026/10/501381.html",
    "points": [],
    "flags": {
@@ -298,7 +210,7 @@
    "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-04T00:24:41.500143",
+   "updated": "2026-10-04T06:41:15.957560",
    "url": "https://www.qbitai.com/2026/10/501368.html",
    "points": [],
    "flags": {
@@ -314,58 +226,8 @@
    "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-04T00:24:41.500145",
+   "updated": "2026-10-04T06:41:15.957562",
    "url": "https://www.qbitai.com/2026/10/500148.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "丘成桐新论文致谢了GPT和Claude",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-04T00:24:41.500146",
-   "url": "https://www.qbitai.com/2026/10/499991.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-04T00:24:41.500148",
-   "url": "https://www.qbitai.com/2026/10/499812.html",
-   "points": [
-    "用ImageNet训练encoder"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-04T00:24:41.500149",
-   "url": "https://www.qbitai.com/2026/10/499663.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -377,13 +239,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "没有人工智能的写作 [pdf]",
+   "title": "无需人工智能即可写作 [pdf]",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-03",
    "url": "https://provost.uchicago.edu/sites/default/files/2026-09/WritingWithoutAIPrinciplesandRecommendations.pdf",
    "points": [
-    "没有人工智能的写作 [pdf]"
+    "无需人工智能即可写作 [pdf]"
    ],
    "flags": {
     "fav": false,
@@ -413,13 +275,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "GPT-6 Astra 盲玩魔兽世界，40 分钟清空起始区",
+   "title": "GPT-6 Astra 盲玩魔兽世界，40 分钟内清空起始区",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-03",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
    "points": [
-    "GPT-6 Astra 盲玩魔兽世界，40 分钟清空起始区"
+    "GPT-6 Astra 盲玩魔兽世界，40 分钟内清空起始区"
    ],
    "flags": {
     "fav": false,
