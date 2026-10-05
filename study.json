@@ -1,160 +1,16 @@
 {
- "fetchedAt": "08:34",
+ "fetchedAt": "14:40",
  "fetchedDate": "2026-10-05",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
-   "points": [
-    "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24 08:40:55",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "points": [
-    "Claude Opus 5.5 AI：令人难以置信的飞跃"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Yes, Jev Is Insane, But There's A Catch",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22 09:32:13",
-   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-   "points": [
-    "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 14:55:26",
-   "url": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
-   "points": [
-    "GLM 5.3 Flash 执行所有高级机器人控制 - 一切都是 LLM P.2"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "bilibili",
    "author": "极客湾Geekerwan",
    "title": "逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？",
    "duration": "16:59",
-   "heat": 2207757,
-   "updated": "2026-10-05T00:34:12.348477",
+   "heat": 2251610,
+   "updated": "2026-10-05T06:40:08.452904",
    "url": "https://www.bilibili.com/video/BV1heam6TExz",
    "points": [],
    "flags": {
@@ -169,8 +25,8 @@
    "author": "早睡起大王",
    "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
    "duration": "6:30",
-   "heat": 3144389,
-   "updated": "2026-10-05T00:34:12.348488",
+   "heat": 3703131,
+   "updated": "2026-10-05T06:40:08.452915",
    "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
    "points": [],
    "flags": {
@@ -185,8 +41,8 @@
    "author": "嘿秀文化",
    "title": "我的东京留学生活不可能那么二次元！【AI全民制作人】",
    "duration": "7:54",
-   "heat": 1062310,
-   "updated": "2026-10-05T00:34:12.348491",
+   "heat": 1096934,
+   "updated": "2026-10-05T06:40:08.452918",
    "url": "https://www.bilibili.com/video/BV1mrao6WEKK",
    "points": [],
    "flags": {
@@ -201,8 +57,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391129,
-   "updated": "2026-10-05T00:34:12.348492",
+   "heat": 391130,
+   "updated": "2026-10-05T06:40:08.452920",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -218,7 +74,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-05T00:34:12.348494",
+   "updated": "2026-10-05T06:40:08.452922",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +90,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557546,
-   "updated": "2026-10-05T00:34:12.348495",
+   "updated": "2026-10-05T06:40:08.452925",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -249,8 +105,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155664,
-   "updated": "2026-10-05T00:34:12.348497",
+   "heat": 155665,
+   "updated": "2026-10-05T06:40:08.452927",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -266,9 +122,27 @@
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
    "heat": 611543,
-   "updated": "2026-10-05T00:34:12.348498",
+   "updated": "2026-10-05T06:40:08.452929",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-05T06:40:08.452931",
+   "url": "https://www.qbitai.com/2026/10/501700.html",
+   "points": [
+    "有改进就体验，没改进就重置，横竖不亏。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -282,7 +156,7 @@
    "title": "AI算力硬合作，马斯克还是更相信中国制造",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T00:34:12.348500",
+   "updated": "2026-10-05T06:40:08.452934",
    "url": "https://www.qbitai.com/2026/10/501605.html",
    "points": [
     "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
@@ -300,7 +174,7 @@
    "title": "最火AI岗位FDE：月薪5万，都干这些…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T00:34:12.348501",
+   "updated": "2026-10-05T06:40:08.452936",
    "url": "https://www.qbitai.com/2026/10/501506.html",
    "points": [
     "什么是FDE？它会一直存在吗？"
@@ -318,7 +192,7 @@
    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T00:34:12.348502",
+   "updated": "2026-10-05T06:40:08.452938",
    "url": "https://www.qbitai.com/2026/10/501451.html",
    "points": [],
    "flags": {
@@ -334,7 +208,7 @@
    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T00:34:12.348504",
+   "updated": "2026-10-05T06:40:08.452940",
    "url": "https://www.qbitai.com/2026/10/501381.html",
    "points": [],
    "flags": {
@@ -350,7 +224,7 @@
    "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T00:34:12.348505",
+   "updated": "2026-10-05T06:40:08.452942",
    "url": "https://www.qbitai.com/2026/10/501368.html",
    "points": [],
    "flags": {
@@ -361,14 +235,34 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "将人工智能称为“其他智能”更好地描述了新生命形式的出现",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-05T00:34:12.348506",
-   "url": "https://www.qbitai.com/2026/10/500148.html",
-   "points": [],
+   "heat": 2,
+   "updated": "2026-10-05",
+   "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
+   "points": [
+    "将人工智能称为“其他智能”更好地描述了新生命形式的出现"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "对抗性人工智能",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-05",
+   "url": "https://www.rand.org/pubs/research_reports/RRA4734-2.html",
+   "points": [
+    "对抗性人工智能"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -381,7 +275,7 @@
    "author": "Hacker News",
    "title": "人工智能无法在星际争霸中击败人类，所以它决定作弊",
    "duration": "—",
-   "heat": 6,
+   "heat": 7,
    "updated": "2026-10-04",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
    "points": [
@@ -399,7 +293,7 @@
    "author": "Hacker News",
    "title": "由于大量无效人工智能漏洞，谷歌冻结了开源漏洞赏金计划",
    "duration": "—",
-   "heat": 9,
+   "heat": 10,
    "updated": "2026-10-04",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
    "points": [
@@ -440,42 +334,6 @@
    "url": "https://news.ycombinator.com/item?id=49955528",
    "points": [
     "人工智能和朱利叶斯·T·杜（Julius T. Tou）？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "特朗普任命国家情报总监杰伊·克莱顿领导新的人工智能特别工作组",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-10-04",
-   "url": "https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901",
-   "points": [
-    "特朗普任命国家情报总监杰伊·克莱顿领导新的人工智能特别工作组"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Anthropic 要求 Claude 用户共享语音数据以进行 AI 模型训练",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-10-04",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-   "points": [
-    "Anthropic 要求 Claude 用户共享语音数据以进行 AI 模型训练"
    ],
    "flags": {
     "fav": false,

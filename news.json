@@ -1,8 +1,18 @@
 {
- "fetchedAt": "08:33",
+ "fetchedAt": "14:39",
  "fetchedDate": "2026-10-05",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“国庆时刻”，感悟新时代治国理政之道",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/05/ARTISlPAmefAAJQxiWu8ku32261005.shtml",
+   "summary": "“此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”9月30日，庆祝中华人民共和国成立77周年招待会上，习近平总书记的话语铿锵有力。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -11,6 +21,56 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/05/ARTIVyXjUelDoxyjq0THtIRi261005.shtml",
    "summary": "99d5287ee1f1,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "国庆假期前四天全国消费市场平稳有序",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/05/VIDEKiFZZIxaBiMliYkxcXB1261005.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "高铁新线开通 催生“快”进“慢”游热潮",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/05/VIDEnlvKEGRrqYDaU3j1Qpgq261005.shtml",
+   "summary": "边走边看，大国工程·黑龙江：高铁新线开通，催生“快”进“慢”游热潮。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "重磅纪录片《缅北电诈覆灭纪实》，今晚开播！",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/05/ARTIEqseQj9If8793m0usQwB261005.shtml",
+   "summary": "50309295196f,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "国庆假期遇见亚运会｜赛场拼搏捷报频传 自信昂扬中国青年",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/05/VIDEbaT8OzhEOuPW8NGZZWkf261005.shtml",
+   "summary": "边走边看，国庆假期遇见亚运会：赛场拼搏捷报频传，自信昂扬中国青年。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "赏峡谷奇观 感受古蜀道之美",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/05/VIDEmRFu74yvIY33K9dsC998261005.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -24,63 +84,13 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "社会",
-   "title": "假期第四天 预计全社会跨区域人员流动量超3亿人次",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国空军从英国皇家空军费尔福德军事基地撤走所有轰炸机",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEfDI3KrYoTvItoOahCo7a261005.shtml",
-   "summary": "国庆假期第四天，全国客流持续高位运行：预计全社会跨区域人员流动量超3亿人次。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "广东广州：“以旧换新”叠加消费券 激活节日市场",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEtA4WGgkQ7TJqMnPa9E7e261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "河北雄安：亲近自然 互动打卡 郊野公园游受欢迎",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEOW3EXaQc4mFZSnypRuLA261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "我国科学家赴尼泊尔开展联合科考",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEMQiKZ5WrVDX2NJ2UV5JE261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "遭遇霸王条款和消费陷阱",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEHoOBrswtOeF9VldLhwt5261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "出游提示：打卡拍照切勿冒险 安全远比“出片”重要",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEsRxalOy5Ff8Ug8zEtzh2261005.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+   "summary": "没有给出撤回的原因，但这是在上周发生的一起重大事件之后发生的，当时警方接到警报，发现附近有“可疑车辆”。",
    "day": 0
   },
   {
@@ -91,6 +101,66 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
    "summary": "由于两位候选人都没有获得超过 50% 的选票，选举将于 10 月 25 日进入决选。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：巴西戏剧性的选举如何展开",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+   "summary": "周日，数百万巴西人参加了该国第一轮总统选举的投票。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普推出“超级情报部队”来监督人工智能政策",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+   "summary": "随着人们对人工智能的担忧日益加剧，总统任命国家情报总监为特别工作组的负责人。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国周一因学生抗议关闭多达 500 所学校",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+   "summary": "法国教育机构称，防暴警察与学生抗议者发生冲突后，一些高中将“全部或部分停课”",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "飞机在美国海岸失踪后，推测所有六名乘客均已死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+   "summary": "根据飞行数据，飞机在高度大幅下降后与飞行控制器失去了联系。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "被监禁的前总理伊姆兰·汗的支持者游行到巴基斯坦首都",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+   "summary": "当局与汗政党之间的谈判陷入僵局后，数千人走上街头。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃塞俄比亚叛军从提格雷地区首府撤出",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+   "summary": "默克莱的两名居民告诉 BBC，亲政府部队已经控制了这座城市。",
    "day": 0
   }
  ]
