@@ -1,16 +1,26 @@
 {
- "fetchedAt": "19:06",
- "fetchedDate": "2026-10-06",
+ "fetchedAt": "02:50",
+ "fetchedDate": "2026-10-07",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "“党的政策对老百姓好，才是真正的好”",
+   "theme": "要闻",
+   "title": "【新思想引领新征程】大食物观里的中国味道",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTI3XZlUddM7ILe8GF83Kuj261006.shtml",
-   "summary": "村民谭登周在外出务工时受了重伤，卧床4个多月，靠医保等兜底政策渡过难关。",
+   "url": "https://news.cctv.com/2026/10/06/ARTIAIBGY12Pd7r3ARoWe3WW261006.shtml",
+   "summary": "眼下，我国正加快构建多元化食物供给体系。从“吃得饱”到“吃得好”，再到“吃得多样”，餐桌上的味道在变，中国人端牢自己饭碗的底气更足。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "欢度假期 乐享幸福生活",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/06/VIDEI2kfjpihdz4COM3rDX8n261006.shtml",
+   "summary": "这个国庆假期，秋高气爽，人们走进大自然，感受美好生活。在青海乌兰，10月的茶卡盐湖，水天一色，风景如画。自然风光搭配多彩文旅活动，让游客流连忘返。假期前五天，景区已经接待游客近15万人次。",
    "day": 0
   },
   {
@@ -25,22 +35,12 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "奔赴小城烟火悄然走红 多视角感受假日鲜活图景",
+   "theme": "财经",
+   "title": "经济半小时｜消费新主场：老空间里的新场景",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTIEHtwhOJCSFswUfKb5v7V261006.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "国庆长假观察：入境游从“观光中国”迈向“体验中国”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDERgCWgo4h4xmqfr6QQvQC261006.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://tv.cctv.com/2026/10/06/VIDECUgcmy9ByzCTm1eaWSM5261006.shtml",
+   "summary": "本期节目主要内容： 国庆假期，逛逛街、探探店，可能是很多人休闲度假的选择。可最近，越来越多吸引我们停下脚步的不再是琳琅满目的商品，更多的可能是新鲜的玩法和沉浸式的体验。越来越多的商圈，也都在不断解锁消费新场景，随着消费结构的不断升级，消费的活力也在不断被激发。 （《经济半小时》 20261006 消…",
    "day": 0
   },
   {
@@ -56,30 +56,30 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "在“家门口”连通世界！智慧码头硬核作业 来货应接不暇",
+   "title": "《缅北电诈覆灭纪实》 第2集 犁庭扫穴",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTILLd765sADz5J5PlUyuap261006.shtml",
-   "summary": "c63ad9d023cf,0,1,16:9,newPlayer3c484b071e48,0,1,16:9,newPlayer",
+   "url": "https://tv.cctv.com/2026/10/06/VIDEkCSLhP7l6VJEa4rPzcQH261006.shtml",
+   "summary": "本集主要内容： 本集重点聚焦缅北“四大家族”犯罪集团，真实揭示缅北电诈黑色产业链，以及犯罪分子盘踞境外、为祸一方的违法犯罪事实。司法机关通过精准定罪量刑、依法从严惩处，以案释法、以刑正心，充分彰显中国捍卫人民群众合法权益的坚定决心。 （《缅北电诈覆灭纪实》 第2集 犁庭扫穴）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "二宜楼晒秋绘丰景 引游客打卡品乡韵",
+   "title": "在“家门口”连通世界！智慧码头硬核作业 来货应接不暇",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDE89W1mvYiT1G7DF70TZn7261006.shtml",
+   "url": "https://news.cctv.com/2026/10/06/ARTILLd765sADz5J5PlUyuap261006.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "外资品牌逆势“加码” 深耕中国投资未来",
+   "theme": "文化",
+   "title": "北纬三十度｜ 第3集 艺术的凝视",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTIyMxiybbx0iQBkrcF9NMc261006.shtml",
+   "url": "https://tv.cctv.com/2026/10/06/VIDEstiTWz519OCpRCJ05kjj261006.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,21 +96,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普称“威胁”导致美国从英国皇家空军费尔福德撤回轰炸机",
+   "title": "黑海无人机袭击后船只沉没，船员失踪",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-   "summary": "五角大楼周日证实，已将 B1 轰炸机从英国基地运回美国基地。",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+   "summary": "目前尚不清楚谁是这些袭击的幕后黑手。作为对乌克兰战争的一部分，俄罗斯加强了在黑海的袭击。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "胡德堡枪手将被行刑队处决——这是二战以来美军首次处决",
+   "title": "白宫为特朗普让伊朗“占领”洛杉矶和圣地亚哥的言论辩护",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-   "summary": "尼达尔·马利克·哈桑 (Nidal Malik Hasan) 在针对美国军事基地的有史以来最致命的非战斗袭击中造成 13 名手无寸铁的士兵死亡，另有 32 人受伤。",
+   "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "summary": "加文·纽瑟姆称这些言论“精神错乱”，但白宫表示，特朗普是在警告伊朗拥有核武器的风险。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "康奈尔七人之一的律师因之前的言论呼吁撤职特别检察官",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+   "summary": "纽约总检察长利蒂蒂亚·詹姆斯正在调查强奸指控，但律师表示，她对此案发表的评论不应引起争议。",
    "day": 0
   },
   {
@@ -126,41 +136,31 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "保加利亚称黑海船只遭遇新袭击后船员失踪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-   "summary": "目前尚不清楚谁是这些袭击的幕后黑手。作为对乌克兰战争的一部分，俄罗斯加强了在黑海的袭击。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "印度反对派议员因抗议选举主席而被拘留",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-   "summary": "反对派领导人指控 CEC Gyanesh Kumar 在选举期间操纵选民名册以支持总理纳伦德拉·莫迪的政党",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "也门军方表示已“保护”红海航道",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "summary": "沙特支持的部队对于他们是否还占领了曼德海峡附近的港口城市莫卡给出了相互矛盾的报告。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
    "title": "随着疫情蔓延，肯尼亚确认首例埃博拉死亡病例",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
    "summary": "该患者曾居住在刚果民主共和国，该国今年已有 4000 多人死于该病。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "胡德堡枪手将被行刑队处决——这是二战以来美军首次处决",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+   "summary": "尼达尔·马利克·哈桑 (Nidal Malik Hasan) 在针对美国军事基地的有史以来最致命的非战斗袭击中造成 13 名手无寸铁的士兵死亡，另有 32 人受伤。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "德国选择党候选人首次当选德国地区议会议长",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+   "summary": "尽管托比亚斯·劳施的角色在很大程度上是象征性的，但反对者将这一结果描述为一个分水岭时刻。",
    "day": 0
   },
   {
