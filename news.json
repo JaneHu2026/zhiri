@@ -1,166 +1,96 @@
 {
- "fetchedAt": "03:08",
+ "fetchedAt": "10:07",
  "fetchedDate": "2026-10-06",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "【新思想引领新征程】以实干开创美好未来",
+   "theme": "民生",
+   "title": "“六张网”包括哪些网？跟我们的生活又有哪些关系？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEXlY27SHw5Mmn2f42Mb8M261005.shtml",
-   "summary": "这个国庆假期，各行各业无数劳动者坚守岗位、攻坚克难，在平凡的岗位上作出不平凡的贡献，以实干开创更加美好的未来。",
+   "url": "https://news.cctv.com/2026/10/06/ARTI23XlGwptLEsVcXt4WTVQ261005.shtml",
+   "summary": "d717c32c7310,0,1,16:9,newPlayerb213141ed6e7,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "全国交通出行迎来返程客流",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/06/ARTIkcEs3iS9ItWineJQTm4Z261006.shtml",
+   "summary": "8c6a48950c00,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "百日千万招聘专项行动推出四个线上招聘专场",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/06/ARTIKvCqQUVrfe0axvjgdb77261006.shtml",
+   "summary": "38e5e5bd2f62,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "返程路上 交警提醒广大驾驶员：莫把“智驾”当“代驾”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/06/ARTIpyzKLnrAAWFptdChYAvc261006.shtml",
+   "summary": "f305c491ef3f,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "目前西北太平洋三台风共存 对我国海域暂无影响",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/06/VIDEkQpCkRigXeFr10ZXXO1j261006.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "我国海水淡化日处理能力突破300万吨",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/06/ARTI7aGzWQATGSb20Q6ifEHo261006.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "假日消费市场新意足人气旺",
+   "title": "国庆假期澳门旅游市场持续升温 各类文旅活动举行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDE2yT0FD8PPUflMi2XHX3N261005.shtml",
-   "summary": "今年国庆假期，因地制宜打造的消费新场景格外受青睐。在湖北武汉江夏区这片金色稻田里，大人带着孩子割稻、脱粒，再亲自动手熬成一碗锅巴粥，满眼秋色成了可触可感的温馨记忆。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从“治水”到“智水” 看“智慧之网”如何守护一湖碧水",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEVejnV0vkRggRt1F5TQqT261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "文化",
-   "title": "坐着看、走着看、逛着看、玩着看……电影消费逻辑正悄然改变",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEgH1R5sKjOpzhU0AvvvAp261005.shtml",
-   "summary": "本期节目主要内容： 国庆假期历来是电影的黄金档期，以往走进电影院，我们通常的消费习惯是买一张电影票、一杯饮料、一份爆米花，电影看完了，消费也就画上了句号。而现在电影的消费逻辑已经悄悄发生改变，我们进入电影院，不仅可以坐着看电影，甚至可以走着看、逛着看、玩着看。 （《经济半小时》 20261005 消…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "纪录片《缅北电诈覆灭纪实》",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEfuAtcG3hNeODNZcrCTZK261005.shtml",
+   "url": "https://tv.cctv.com/2026/10/06/VIDEp7I4uXDl34xhyywqPiTq261006.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国庆假期临近尾声 全国交通陆续迎返程客流",
+   "title": "安全运行48年 宁夏原油外输管网累计输油突破2亿吨",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEqAoiTEil5jwdKDZvZh6c261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "《平凡匠心》珠线绘山河",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/05/VIDEY46eZUJ8zgd0Tk4Aw5d1261005.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "时政微周刊｜总书记的一周（9月28日—10月4日）",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/05/ARTI1osZFgnSxSJF0IwYWNCy261005.shtml",
+   "url": "https://news.cctv.com/2026/10/06/ARTI6VPvlzQxhRgH4bYuu5pe261006.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "No10坚称英国皇家空军费尔福德军事基地在美国撤回轰炸机后是安全的",
+   "title": "也门军方表示已“保护”红海航道",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-   "summary": "美国媒体报道称，继上周基地附近发生事件后，周日，新的威胁导致轰炸机被撤走。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "据报道，迪拜航空副驾驶计划将飞机撞向特拉维夫机场或建筑物",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，这名阿曼国民是一名“独狼”极端分子。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "法国学校抗议者与警察对峙 青少年手被炸断",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-   "summary": "加来海峡省省长表示，在这起“非常严重”的事件之后，这名 15 岁的男子“没有生命危险”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "泽伦斯基谴责俄罗斯对黑海运载玉米的船只进行的“可怕”袭击",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰领导人表示，这艘土耳其拥有的船只遭到袭击后，船长被杀，11 名船员获救。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "西班牙首相桑切斯在住房抗议后呼吁提前大选",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-   "summary": "桑切斯表示，西班牙在解决该国住房危机的措施近期遭遇失败后，将于 11 月 29 日举行大选。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "诺贝尔奖因揭示大脑内部运作而获得",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国精神病学家和神经学家 Karl Deisseroth 及其德国同事 Peter Hegemann 和 Georg Nagel 因其工作而获奖。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "BBC 称，五角大楼在将公司列入黑名单后停止使用 Anthropic 人工智能工具",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-   "summary": "二月份，在 Anthropic 拒绝拆除其工具上的安全护栏后，该公司将其标记为“供应链风险”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "“不再”：美国海军陆战队因谋杀被捕再次引发日本冲绳抗议",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-   "summary": "对于岛上的许多当地人来说，这次逮捕让数十年来的挫败感重新浮现出来。",
+   "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+   "summary": "沙特支持的部队对于他们是否还占领了曼德海峡附近的港口城市莫卡给出了相互矛盾的报告。",
    "day": 0
   }
  ]

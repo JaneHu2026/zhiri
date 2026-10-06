@@ -1,5 +1,5 @@
 {
- "fetchedAt": "03:09",
+ "fetchedAt": "10:08",
  "fetchedDate": "2026-10-06",
  "source": "zhiri-server",
  "items": [
@@ -150,11 +150,27 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "早睡起大王",
+   "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
+   "duration": "6:30",
+   "heat": 5024049,
+   "updated": "2026-10-06T02:08:06.102891",
+   "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "极客湾Geekerwan",
    "title": "逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？",
    "duration": "16:59",
-   "heat": 2337744,
-   "updated": "2026-10-05T19:09:04.646861",
+   "heat": 2355206,
+   "updated": "2026-10-06T02:08:06.102902",
    "url": "https://www.bilibili.com/video/BV1heam6TExz",
    "points": [],
    "flags": {
@@ -166,12 +182,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "早睡起大王",
-   "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
-   "duration": "6:30",
-   "heat": 4912046,
-   "updated": "2026-10-05T19:09:04.646875",
-   "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
+   "author": "69岁牢二次元",
+   "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
+   "duration": "3:48",
+   "heat": 910481,
+   "updated": "2026-10-06T02:08:06.102905",
+   "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,25 +201,9 @@
    "author": "Will游戏堂",
    "title": "通过AI逆向拆解 我的世界可入侵任何游戏底层",
    "duration": "0:58",
-   "heat": 1545403,
-   "updated": "2026-10-05T19:09:04.646878",
+   "heat": 1566489,
+   "updated": "2026-10-06T02:08:06.102908",
    "url": "https://www.bilibili.com/video/BV1eCHv6jEjo",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "嘿秀文化",
-   "title": "我的东京留学生活不可能那么二次元！【AI全民制作人】",
-   "duration": "7:54",
-   "heat": 1165500,
-   "updated": "2026-10-05T19:09:04.646880",
-   "url": "https://www.bilibili.com/video/BV1mrao6WEKK",
    "points": [],
    "flags": {
     "fav": false,
@@ -218,7 +218,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391131,
-   "updated": "2026-10-05T19:09:04.646882",
+   "updated": "2026-10-06T02:08:06.102910",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-05T19:09:04.646885",
+   "updated": "2026-10-06T02:08:06.102912",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557546,
-   "updated": "2026-10-05T19:09:04.646887",
+   "updated": "2026-10-06T02:08:06.102914",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155666,
-   "updated": "2026-10-05T19:09:04.646889",
+   "updated": "2026-10-06T02:08:06.102916",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -282,7 +282,7 @@
    "title": "刚刚，诺贝尔奖颁给光遗传学！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T19:09:04.646891",
+   "updated": "2026-10-06T02:08:06.102919",
    "url": "https://www.qbitai.com/2026/10/501720.html",
    "points": [
     "从绿藻里的光开关，到控制神经元"
@@ -300,7 +300,7 @@
    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T19:09:04.646894",
+   "updated": "2026-10-06T02:08:06.102921",
    "url": "https://www.qbitai.com/2026/10/501700.html",
    "points": [
     "有改进就体验，没改进就重置，横竖不亏。"
@@ -318,7 +318,7 @@
    "title": "AI算力硬合作，马斯克还是更相信中国制造",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T19:09:04.646896",
+   "updated": "2026-10-06T02:08:06.102923",
    "url": "https://www.qbitai.com/2026/10/501605.html",
    "points": [
     "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
@@ -336,7 +336,7 @@
    "title": "最火AI岗位FDE：月薪5万，都干这些…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T19:09:04.646898",
+   "updated": "2026-10-06T02:08:06.102925",
    "url": "https://www.qbitai.com/2026/10/501506.html",
    "points": [
     "什么是FDE？它会一直存在吗？"
@@ -354,7 +354,7 @@
    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T19:09:04.646900",
+   "updated": "2026-10-06T02:08:06.102927",
    "url": "https://www.qbitai.com/2026/10/501451.html",
    "points": [],
    "flags": {
@@ -370,7 +370,7 @@
    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-05T19:09:04.646902",
+   "updated": "2026-10-06T02:08:06.102929",
    "url": "https://www.qbitai.com/2026/10/501381.html",
    "points": [],
    "flags": {
@@ -383,9 +383,45 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "GPT-6 Astra 在 6 小时内破解了 217 年的拿破仑密码",
+   "title": "自八月以来，Anthropic 向警方报告了与克劳德的第三次对话",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-10-06",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august",
+   "points": [
+    "自八月以来，Anthropic 向警方报告了与克劳德的第三次对话"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "开源工具可让您在 macOS 上删除 12GB Apple Intelligence 数据",
    "duration": "—",
    "heat": 13,
+   "updated": "2026-10-05",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+   "points": [
+    "开源工具可让您在 macOS 上删除 12GB Apple Intelligence 数据"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "GPT-6 Astra 在 6 小时内破解了 217 年的拿破仑密码",
+   "duration": "—",
+   "heat": 22,
    "updated": "2026-10-05",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
    "points": [
@@ -403,7 +439,7 @@
    "author": "Hacker News",
    "title": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕",
    "duration": "—",
-   "heat": 47,
+   "heat": 49,
    "updated": "2026-10-05",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
    "points": [
@@ -421,7 +457,7 @@
    "author": "Hacker News",
    "title": "当您生成图像时，OpenAI 将在 ChatGPT 中显示视觉广告",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-10-05",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
    "points": [
@@ -444,42 +480,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
    "points": [
     "谷歌冻结开源漏洞赏金计划"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "将人工智能称为“其他智能”更好地描述了新生命形式的出现",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-05",
-   "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
-   "points": [
-    "将人工智能称为“其他智能”更好地描述了新生命形式的出现"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "对抗性人工智能",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-05",
-   "url": "https://www.rand.org/pubs/research_reports/RRA4734-2.html",
-   "points": [
-    "对抗性人工智能"
    ],
    "flags": {
     "fav": false,
