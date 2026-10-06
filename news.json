@@ -1,86 +1,146 @@
 {
- "fetchedAt": "10:07",
+ "fetchedAt": "19:06",
  "fetchedDate": "2026-10-06",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "“六张网”包括哪些网？跟我们的生活又有哪些关系？",
+   "theme": "政策",
+   "title": "“党的政策对老百姓好，才是真正的好”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTI23XlGwptLEsVcXt4WTVQ261005.shtml",
-   "summary": "d717c32c7310,0,1,16:9,newPlayerb213141ed6e7,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "全国交通出行迎来返程客流",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTIkcEs3iS9ItWineJQTm4Z261006.shtml",
-   "summary": "8c6a48950c00,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "百日千万招聘专项行动推出四个线上招聘专场",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTIKvCqQUVrfe0axvjgdb77261006.shtml",
-   "summary": "38e5e5bd2f62,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "返程路上 交警提醒广大驾驶员：莫把“智驾”当“代驾”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTIpyzKLnrAAWFptdChYAvc261006.shtml",
-   "summary": "f305c491ef3f,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/06/ARTI3XZlUddM7ILe8GF83Kuj261006.shtml",
+   "summary": "村民谭登周在外出务工时受了重伤，卧床4个多月，靠医保等兜底政策渡过难关。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "环境",
-   "title": "目前西北太平洋三台风共存 对我国海域暂无影响",
+   "title": "“十五五”新图景｜陆海并进 加快构建清洁能源体系",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDEkQpCkRigXeFr10ZXXO1j261006.shtml",
+   "url": "https://tv.cctv.com/2026/10/06/VIDENZJg6hUnNc0BONMolqAw261006.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国海水淡化日处理能力突破300万吨",
+   "title": "奔赴小城烟火悄然走红 多视角感受假日鲜活图景",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTI7aGzWQATGSb20Q6ifEHo261006.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "国庆假期澳门旅游市场持续升温 各类文旅活动举行",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDEp7I4uXDl34xhyywqPiTq261006.shtml",
+   "url": "https://news.cctv.com/2026/10/06/ARTIEHtwhOJCSFswUfKb5v7V261006.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "安全运行48年 宁夏原油外输管网累计输油突破2亿吨",
+   "title": "国庆长假观察：入境游从“观光中国”迈向“体验中国”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTI6VPvlzQxhRgH4bYuu5pe261006.shtml",
+   "url": "https://tv.cctv.com/2026/10/06/VIDERgCWgo4h4xmqfr6QQvQC261006.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "全国迎来返程高峰 交通部门多举措保畅通",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/06/VIDE22Fhr4vSZF8m2zMQ3BNN261006.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "在“家门口”连通世界！智慧码头硬核作业 来货应接不暇",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/06/ARTILLd765sADz5J5PlUyuap261006.shtml",
+   "summary": "c63ad9d023cf,0,1,16:9,newPlayer3c484b071e48,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "二宜楼晒秋绘丰景 引游客打卡品乡韵",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/06/VIDE89W1mvYiT1G7DF70TZn7261006.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "外资品牌逆势“加码” 深耕中国投资未来",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/06/ARTIyMxiybbx0iQBkrcF9NMc261006.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "德国前间谍头子因间谍和叛国罪被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+   "summary": "奥古斯特·汉宁被指控为外国势力获取机密信息。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普称“威胁”导致美国从英国皇家空军费尔福德撤回轰炸机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+   "summary": "五角大楼周日证实，已将 B1 轰炸机从英国基地运回美国基地。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "胡德堡枪手将被行刑队处决——这是二战以来美军首次处决",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+   "summary": "尼达尔·马利克·哈桑 (Nidal Malik Hasan) 在针对美国军事基地的有史以来最致命的非战斗袭击中造成 13 名手无寸铁的士兵死亡，另有 32 人受伤。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "太空望远镜的“幽灵粒子”荣获诺贝尔物理学奖",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+   "summary": "比利时物理学家弗朗西斯·哈尔岑教授因其在探测太空粒子的天文台方面的开创性工作而获奖。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "保加利亚称黑海船只遭遇新袭击后船员失踪",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+   "summary": "目前尚不清楚谁是这些袭击的幕后黑手。作为对乌克兰战争的一部分，俄罗斯加强了在黑海的袭击。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度反对派议员因抗议选举主席而被拘留",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "summary": "反对派领导人指控 CEC Gyanesh Kumar 在选举期间操纵选民名册以支持总理纳伦德拉·莫迪的政党",
    "day": 0
   },
   {
@@ -91,6 +151,36 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
    "summary": "沙特支持的部队对于他们是否还占领了曼德海峡附近的港口城市莫卡给出了相互矛盾的报告。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "随着疫情蔓延，肯尼亚确认首例埃博拉死亡病例",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+   "summary": "该患者曾居住在刚果民主共和国，该国今年已有 4000 多人死于该病。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "教育",
+   "title": "世界教师日：走进非洲的孔子学院",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809901.html",
+   "summary": "10月5日是世界教师日。多年来，非洲孔子学院积极开展中文教学和文化交流活动，为推动中国和非洲国家交流互鉴、增进中国与非洲人民友谊发挥了重要作用。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "科技",
+   "title": "挪威拟临时禁止在特定场所使用AI眼镜",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809882.html",
+   "summary": "新华社北京10月5日电 挪威政府5日宣布，拟临时禁止在特定场所使用配备摄像头的人工智能(AI)眼镜，以保护民众隐私、避免他们在不知情的情况下被拍摄。 根据挪威数字化与公共治理部在官网发布的声明，",
    "day": 0
   }
  ]
