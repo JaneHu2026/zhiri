@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:50",
+ "fetchedAt": "09:16",
  "fetchedDate": "2026-10-07",
  "source": "zhiri-server",
  "items": [
@@ -60,24 +60,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "Two Minute Papers",
    "title": "Yes, Jev Is Insane, But There's A Catch",
    "duration": "—",
@@ -86,24 +68,6 @@
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "points": [
     "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
    ],
    "flags": {
     "fav": false,
@@ -149,12 +113,48 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "早睡起大王",
    "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
    "duration": "6:30",
-   "heat": 5818962,
-   "updated": "2026-10-06T18:50:51.885733",
+   "heat": 5855355,
+   "updated": "2026-10-07T01:16:46.578263",
    "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "69岁牢二次元",
    "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
    "duration": "3:48",
-   "heat": 1307033,
-   "updated": "2026-10-06T18:50:51.885743",
+   "heat": 1343965,
+   "updated": "2026-10-07T01:16:46.578274",
    "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "王与也行",
    "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
    "duration": "1:26",
-   "heat": 2068163,
-   "updated": "2026-10-06T18:50:51.885746",
+   "heat": 2180362,
+   "updated": "2026-10-07T01:16:46.578277",
    "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "Will游戏堂",
    "title": "通过AI逆向拆解 我的世界可入侵任何游戏底层",
    "duration": "0:58",
-   "heat": 1642362,
-   "updated": "2026-10-06T18:50:51.885748",
+   "heat": 1647107,
+   "updated": "2026-10-07T01:16:46.578279",
    "url": "https://www.bilibili.com/video/BV1eCHv6jEjo",
    "points": [],
    "flags": {
@@ -218,7 +218,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391133,
-   "updated": "2026-10-06T18:50:51.885750",
+   "updated": "2026-10-07T01:16:46.578282",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-06T18:50:51.885752",
+   "updated": "2026-10-07T01:16:46.578284",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557548,
-   "updated": "2026-10-06T18:50:51.885754",
+   "updated": "2026-10-07T01:16:46.578286",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,11 +266,9 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155666,
-   "updated": "2026-10-06T18:50:51.885756",
+   "updated": "2026-10-07T01:16:46.578288",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [
-    "双开门式镜头盖、人工风力发电、语音助手Shiri…… 影石XvX上线，不买后悔一整年。"
-   ],
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -284,7 +282,7 @@
    "title": "刚刚，诺贝尔物理奖一人独揽！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-06T18:50:51.885758",
+   "updated": "2026-10-07T01:16:46.578290",
    "url": "https://www.qbitai.com/2026/10/501746.html",
    "points": [
     "南极洲甚至有一座高地以他名字命名"
@@ -302,7 +300,7 @@
    "title": "不er，咋陶哲轩也成AI减速派了？？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-06T18:50:51.885761",
+   "updated": "2026-10-07T01:16:46.578292",
    "url": "https://www.qbitai.com/2026/10/501736.html",
    "points": [],
    "flags": {
@@ -318,7 +316,7 @@
    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-06T18:50:51.885762",
+   "updated": "2026-10-07T01:16:46.578320",
    "url": "https://www.qbitai.com/2026/10/501726.html",
    "points": [],
    "flags": {
@@ -334,7 +332,7 @@
    "title": "刚刚，诺贝尔奖颁给光遗传学！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-06T18:50:51.885764",
+   "updated": "2026-10-07T01:16:46.578324",
    "url": "https://www.qbitai.com/2026/10/501720.html",
    "points": [
     "从绿藻里的光开关，到控制神经元"
@@ -352,7 +350,7 @@
    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-06T18:50:51.885766",
+   "updated": "2026-10-07T01:16:46.578328",
    "url": "https://www.qbitai.com/2026/10/501700.html",
    "points": [
     "有改进就体验，没改进就重置，横竖不亏。"
@@ -370,7 +368,7 @@
    "title": "AI算力硬合作，马斯克还是更相信中国制造",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-06T18:50:51.885768",
+   "updated": "2026-10-07T01:16:46.578332",
    "url": "https://www.qbitai.com/2026/10/501605.html",
    "points": [
     "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
@@ -387,7 +385,7 @@
    "author": "Hacker News",
    "title": "OpenAI 正在 ChatGPT 和 Codex 中添加文本水印",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-06",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
    "points": [
@@ -405,7 +403,7 @@
    "author": "Hacker News",
    "title": "我们的大脑不具备处理人工智能的能力",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-06",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
    "points": [

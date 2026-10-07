@@ -1,186 +1,96 @@
 {
- "fetchedAt": "02:50",
+ "fetchedAt": "09:16",
  "fetchedDate": "2026-10-07",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "【新思想引领新征程】大食物观里的中国味道",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTIAIBGY12Pd7r3ARoWe3WW261006.shtml",
-   "summary": "眼下，我国正加快构建多元化食物供给体系。从“吃得饱”到“吃得好”，再到“吃得多样”，餐桌上的味道在变，中国人端牢自己饭碗的底气更足。",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "民生",
-   "title": "欢度假期 乐享幸福生活",
+   "title": "为人民群众幸福生活拼搏奉献服务",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDEI2kfjpihdz4COM3rDX8n261006.shtml",
-   "summary": "这个国庆假期，秋高气爽，人们走进大自然，感受美好生活。在青海乌兰，10月的茶卡盐湖，水天一色，风景如画。自然风光搭配多彩文旅活动，让游客流连忘返。假期前五天，景区已经接待游客近15万人次。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "“十五五”新图景｜陆海并进 加快构建清洁能源体系",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDENZJg6hUnNc0BONMolqAw261006.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "经济半小时｜消费新主场：老空间里的新场景",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDECUgcmy9ByzCTm1eaWSM5261006.shtml",
-   "summary": "本期节目主要内容： 国庆假期，逛逛街、探探店，可能是很多人休闲度假的选择。可最近，越来越多吸引我们停下脚步的不再是琳琅满目的商品，更多的可能是新鲜的玩法和沉浸式的体验。越来越多的商圈，也都在不断解锁消费新场景，随着消费结构的不断升级，消费的活力也在不断被激发。 （《经济半小时》 20261006 消…",
+   "url": "https://news.cctv.com/2026/10/07/ARTIZmSVsPYa9M36okp6SKcr261007.shtml",
+   "summary": "2022年1月26日，山西霍州冯南垣村飘起了雪花。正在这里考察的习近平总书记，走进村民师红兵家，看到一家人正在做年馍，他洗洗手也加入进来，三两下就捏出一个枣花。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "全国迎来返程高峰 交通部门多举措保畅通",
+   "title": "薪火相传向未来 治蜀兴川谱新篇",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDE22Fhr4vSZF8m2zMQ3BNN261006.shtml",
+   "url": "https://tv.cctv.com/2026/10/07/VIDE3VQACZIdzaM3PuoEUBDw261007.shtml",
+   "summary": "赓续长征精神，奋进复兴征程·四川：薪火相传向未来，治蜀兴川谱新篇。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "从种土豆到“种”Token 这里的年轻人都发生了哪些变化？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTIWFt7Q3BzF7kwNcivcusq261007.shtml",
+   "summary": "32341ddb3440,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "零点故事｜薛群基：问天探海造良材",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/07/VIDEANZjbdDxc9MKHBHviiTq261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "《缅北电诈覆灭纪实》 第2集 犁庭扫穴",
+   "title": "时政微观察丨向新图强，创新潮涌神州大地",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDEkCSLhP7l6VJEa4rPzcQH261006.shtml",
-   "summary": "本集主要内容： 本集重点聚焦缅北“四大家族”犯罪集团，真实揭示缅北电诈黑色产业链，以及犯罪分子盘踞境外、为祸一方的违法犯罪事实。司法机关通过精准定罪量刑、依法从严惩处，以案释法、以刑正心，充分彰显中国捍卫人民群众合法权益的坚定决心。 （《缅北电诈覆灭纪实》 第2集 犁庭扫穴）",
+   "url": "https://news.cctv.com/2026/10/07/ARTIyB0bZ5TRTXSGtw3vBjqQ261007.shtml",
+   "summary": "“今年以来，全党全国上下锐意进取、奋力拼搏，编制实施‘十五五’规划，扎实推进各方面工作，有效应对各种风险挑战，我国经济顶压前行、向新向优、展现出强大韧性和活力，党和国家事业取得新进展新成效。”",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "在“家门口”连通世界！智慧码头硬核作业 来货应接不暇",
+   "title": "县域商业提质上新 激活乡村消费活力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/06/ARTILLd765sADz5J5PlUyuap261006.shtml",
+   "url": "https://news.cctv.com/2026/10/07/ARTIdP3HFx6pbKGNnu7NuBuv261007.shtml",
+   "summary": "0f0e35b59b7b,0,1,16:9,newPlayer92e3f0b91654,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "三株“草”长成一片原",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTIO7VXzRwtqRx3SQNXPZNp261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "北纬三十度｜ 第3集 艺术的凝视",
+   "theme": "社会",
+   "title": "假期接近尾声 6日全社会跨区域人员流动量超3亿人次",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/06/VIDEstiTWz519OCpRCJ05kjj261006.shtml",
+   "url": "https://news.cctv.com/2026/10/07/ARTImALBZlSllmn7zmLNV2Np261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "德国前间谍头子因间谍和叛国罪被捕",
+   "title": "律师称，美国死囚克里斯塔·派克在执行失败后醒来并说话",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-   "summary": "奥古斯特·汉宁被指控为外国势力获取机密信息。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "黑海无人机袭击后船只沉没，船员失踪",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-   "summary": "目前尚不清楚谁是这些袭击的幕后黑手。作为对乌克兰战争的一部分，俄罗斯加强了在黑海的袭击。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "白宫为特朗普让伊朗“占领”洛杉矶和圣地亚哥的言论辩护",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-   "summary": "加文·纽瑟姆称这些言论“精神错乱”，但白宫表示，特朗普是在警告伊朗拥有核武器的风险。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "康奈尔七人之一的律师因之前的言论呼吁撤职特别检察官",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-   "summary": "纽约总检察长利蒂蒂亚·詹姆斯正在调查强奸指控，但律师表示，她对此案发表的评论不应引起争议。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "太空望远镜的“幽灵粒子”荣获诺贝尔物理学奖",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-   "summary": "比利时物理学家弗朗西斯·哈尔岑教授因其在探测太空粒子的天文台方面的开创性工作而获奖。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着疫情蔓延，肯尼亚确认首例埃博拉死亡病例",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-   "summary": "该患者曾居住在刚果民主共和国，该国今年已有 4000 多人死于该病。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "胡德堡枪手将被行刑队处决——这是二战以来美军首次处决",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-   "summary": "尼达尔·马利克·哈桑 (Nidal Malik Hasan) 在针对美国军事基地的有史以来最致命的非战斗袭击中造成 13 名手无寸铁的士兵死亡，另有 32 人受伤。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "德国选择党候选人首次当选德国地区议会议长",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-   "summary": "尽管托比亚斯·劳施的角色在很大程度上是象征性的，但反对者将这一结果描述为一个分水岭时刻。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "教育",
-   "title": "世界教师日：走进非洲的孔子学院",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809901.html",
-   "summary": "10月5日是世界教师日。多年来，非洲孔子学院积极开展中文教学和文化交流活动，为推动中国和非洲国家交流互鉴、增进中国与非洲人民友谊发挥了重要作用。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "科技",
-   "title": "挪威拟临时禁止在特定场所使用AI眼镜",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809882.html",
-   "summary": "新华社北京10月5日电 挪威政府5日宣布，拟临时禁止在特定场所使用配备摄像头的人工智能(AI)眼镜，以保护民众隐私、避免他们在不知情的情况下被拍摄。 根据挪威数字化与公共治理部在官网发布的声明，",
+   "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+   "summary": "专家和律师称她的明显康复是史无前例的，并指出她被认为是唯一已知的在致命注射中幸存的人",
    "day": 0
   }
  ]
