@@ -1,16 +1,26 @@
 {
- "fetchedAt": "18:55",
- "fetchedDate": "2026-10-07",
+ "fetchedAt": "03:15",
+ "fetchedDate": "2026-10-08",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "在外交场合，习主席这样讲述中华优秀传统文化故事",
+   "theme": "要闻",
+   "title": "时政微观察丨向新图强，创新潮涌神州大地",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIacyUmYomwtR8JgYkXmkH261007.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/10/07/ARTIyB0bZ5TRTXSGtw3vBjqQ261007.shtml",
+   "summary": "“今年以来，全党全国上下锐意进取、奋力拼搏，编制实施‘十五五’规划，扎实推进各方面工作，有效应对各种风险挑战，我国经济顶压前行、向新向优、展现出强大韧性和活力，党和国家事业取得新进展新成效。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "新思想引领新征程｜以习近平文化思想为指引 铸就中华文化新辉煌",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/07/VIDEZYqJwWLZWXtFIQVSH2qV261007.shtml",
+   "summary": "【新思想引领新征程】以习近平文化思想为指引，铸就中华文化新辉煌。",
    "day": 0
   },
   {
@@ -36,11 +46,21 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "长线游成主流 沉浸式体验点亮假日新图景",
+   "title": "在希望的田野上｜各地秋粮加紧收获",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIq2Jp14cuwqhlRiD2znXS261007.shtml",
-   "summary": "今年国庆假期，全国文旅市场供给丰富，出游热情充分释放；多城游与目的地深度游同步升温，长线旅游成为不少人的选择。",
+   "url": "https://tv.cctv.com/2026/10/07/VIDEz1vaieKk4iuZ0f2jIQO0261007.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "《缅北电诈覆灭纪实》 第3集 共筑天网",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/07/VIDEnPBj7KKfly0nLmmCytHf261007.shtml",
+   "summary": "本集主要内容： 本集聚焦跨境反诈纵深治理新格局。从中缅木姐联合行动，到中缅泰三国联动清剿妙瓦底窝点，跨境打击持续升级。中国以大国担当联动全球执法力量，织密反诈天网，从根源上铲除跨境电诈滋生土壤。 （《缅北电诈覆灭纪实》 第3集 共筑天网）",
    "day": 0
   },
   {
@@ -50,36 +70,16 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/07/ARTIoOZuzNQGyCzfqYUN4pMP261007.shtml",
-   "summary": "84ba9fca2506,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "华北油田实现储量高峰增长 能源保障再添“硬核”实力支撑",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTI38YzuQoewEtg0fSEPxSi261007.shtml",
-   "summary": "5b1c6ec4187b,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "假期文化生活掀起新风尚 “转角遇见美”体验无界文化新空间",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIe1fdxpCk0lMsTKGQF2mV261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "记者调查｜海南：红树林保护区竟成赶海“乐园”",
+   "title": "入境游持续升温 外国游客深度体验多彩中国",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/07/VIDEjWbYbiQvlCEkj8czibyz261007.shtml",
+   "url": "https://news.cctv.com/2026/10/07/ARTINyBWx5oSklWYu6lZGvU9261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,21 +96,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "律师称，美国死囚克里斯塔·派克在执行失败后醒来并说话",
+   "title": "以色列要求对袭击三年后 10 月 7 日的失败负责",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-   "summary": "一位为她的法律团队提供咨询的医学专家表示，科琳·斯莱默的凶手正在以“基本方式”进行交流。",
+   "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+   "summary": "总理本杰明·内塔尼亚胡拒绝对所发生的事情承担任何个人责任，也拒绝下令进行国家调查。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "10 月 7 日哈马斯领导的袭击中被毁的基布兹居民正在努力解决如何重建问题",
+   "title": "加拿大暂停将安乐死扩大到精神疾病患者的计划",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-   "summary": "尼尔奥兹袭击事件造成 47 人死亡、76 人被扣为人质，三年后，一些幸存者返回那里居住。",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+   "summary": "2027 年 3 月，加拿大仅患有精神疾病的人就有资格接受安乐死，但现在已无限期暂停。",
    "day": 0
   },
   {
@@ -121,6 +121,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
    "summary": "由于担心死亡可能是由肺鼠疫引起，人们呼吁俄罗斯提高透明度。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "俄罗斯导弹在公寓楼炸死19人，儿童在睡觉时被杀",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰北部一场罢工摧毁了30套公寓，当时人们正在睡觉，其中有五名儿童遇难。",
    "day": 0
   },
   {
@@ -146,21 +156,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "日本啤酒巨头因涉嫌价格垄断而遭到突击搜查",
+   "title": "随着筛查问题的加剧，与肯尼亚首例埃博拉病例有关的十人被隔离",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-   "summary": "朝日和麒麟证实日本竞争主管机构搜查了他们的经营场所。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "奥斯卡影后艾娃·玛丽·森特去世，享年 102 岁",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
-   "summary": "她在《海滨》中与马龙·白兰度演对手戏，随后在希区柯克的《西北偏北》中与加里·格兰特搭档。",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+   "summary": "患者途径刚果民主共和国多个城市，驱车前往乌干达，最终飞往肯尼亚。",
    "day": 0
   }
  ]

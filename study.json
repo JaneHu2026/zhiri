@@ -1,8 +1,26 @@
 {
- "fetchedAt": "18:56",
- "fetchedDate": "2026-10-07",
+ "fetchedAt": "03:16",
+ "fetchedDate": "2026-10-08",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepMind's New AI Just Cracked The Code Of Life",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-07 13:29:33",
+   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+   "points": [
+    "DeepMind 的新人工智能刚刚破解了生命密码"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -78,24 +96,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Yes, Jev Is Insane, But There's A Catch",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-22 09:32:13",
-   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-   "points": [
-    "是的，杰夫疯了，但有一个问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "sentdex",
    "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
    "duration": "—",
@@ -103,7 +103,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
+    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -150,12 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "69岁牢二次元",
-   "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
-   "duration": "3:48",
-   "heat": 1498595,
-   "updated": "2026-10-07T10:56:12.259548",
-   "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
+   "author": "伊介书生",
+   "title": "烧 心 大 赛 ！【AI全民制作人】",
+   "duration": "1:33",
+   "heat": 3222269,
+   "updated": "2026-10-07T19:16:15.121394",
+   "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
    "points": [],
    "flags": {
     "fav": false,
@@ -169,8 +169,8 @@
    "author": "王与也行",
    "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
    "duration": "1:26",
-   "heat": 2621802,
-   "updated": "2026-10-07T10:56:12.259558",
+   "heat": 2908275,
+   "updated": "2026-10-07T19:16:15.121404",
    "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
    "points": [],
    "flags": {
@@ -182,28 +182,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "伊介书生",
-   "title": "烧 心 大 赛 ！【AI全民制作人】",
-   "duration": "1:33",
-   "heat": 2753847,
-   "updated": "2026-10-07T10:56:12.259561",
-   "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "早睡起大王",
-   "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
-   "duration": "6:30",
-   "heat": 6148569,
-   "updated": "2026-10-07T10:56:12.259563",
-   "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
+   "author": "69岁牢二次元",
+   "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
+   "duration": "3:48",
+   "heat": 1604177,
+   "updated": "2026-10-07T19:16:15.121406",
+   "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +201,8 @@
    "author": "Raymondsese",
    "title": "四分钟看完华强买瓜【AI MV大赛】",
    "duration": "4:17",
-   "heat": 1175306,
-   "updated": "2026-10-07T10:56:12.259570",
+   "heat": 1251758,
+   "updated": "2026-10-07T19:16:15.121408",
    "url": "https://www.bilibili.com/video/BV1D1HH6qEwt",
    "points": [],
    "flags": {
@@ -233,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391137,
-   "updated": "2026-10-07T10:56:12.259572",
+   "heat": 391138,
+   "updated": "2026-10-07T19:16:15.121411",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-07T10:56:12.259574",
+   "updated": "2026-10-07T19:16:15.121413",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -265,9 +249,57 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557548,
-   "updated": "2026-10-07T10:56:12.259576",
+   "heat": 557549,
+   "updated": "2026-10-07T19:16:15.121415",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155666,
+   "updated": "2026-10-07T19:16:15.121417",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-07T19:16:15.121419",
+   "url": "https://www.qbitai.com/2026/10/501825.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-07T19:16:15.121421",
+   "url": "https://www.qbitai.com/2026/10/501803.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +314,7 @@
    "title": "晕…这年头还有说人话的AI不",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T10:56:12.259578",
+   "updated": "2026-10-07T19:16:15.121423",
    "url": "https://www.qbitai.com/2026/10/501796.html",
    "points": [],
    "flags": {
@@ -298,7 +330,7 @@
    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T10:56:12.259580",
+   "updated": "2026-10-07T19:16:15.121425",
    "url": "https://www.qbitai.com/2026/10/501791.html",
    "points": [
     "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
@@ -316,7 +348,7 @@
    "title": "刚刚，诺贝尔物理奖一人独揽！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T10:56:12.259582",
+   "updated": "2026-10-07T19:16:15.121427",
    "url": "https://www.qbitai.com/2026/10/501746.html",
    "points": [
     "南极洲甚至有一座高地以他名字命名"
@@ -334,7 +366,7 @@
    "title": "不er，咋陶哲轩也成AI减速派了？？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T10:56:12.259584",
+   "updated": "2026-10-07T19:16:15.121429",
    "url": "https://www.qbitai.com/2026/10/501736.html",
    "points": [],
    "flags": {
@@ -345,14 +377,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "加拿大成立国家委员会就人工智能提供建议",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07T10:56:12.259586",
-   "url": "https://www.qbitai.com/2026/10/501726.html",
-   "points": [],
+   "heat": 2,
+   "updated": "2026-10-07",
+   "url": "https://nationalpost.com/news/canada/mark-carney-artificial-intelligence-council",
+   "points": [
+    "加拿大成立国家委员会就人工智能提供建议"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -361,15 +395,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "刚刚，诺贝尔奖颁给光遗传学！",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "纽约人工智能报告；设计、媒体和写作领域的职位发布 40%",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07T10:56:12.259588",
-   "url": "https://www.qbitai.com/2026/10/501720.html",
+   "heat": 1,
+   "updated": "2026-10-07",
+   "url": "https://pfnyc.org/research/artificial-intelligence-is-already-reshaping-new-york-city",
    "points": [
-    "从绿藻里的光开关，到控制神经元"
+    "纽约人工智能报告；设计、媒体和写作领域的职位发布 40%"
    ],
    "flags": {
     "fav": false,
@@ -442,42 +476,6 @@
    "url": "https://notthebee.com/article/chick-fil-a-will-not-use-artificial-intelligence-to-replace-human-workers-in-the-drive-thru",
    "points": [
     "Chick-fil-A 不会使用人工智能来取代人类工人"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "在 Strix Halo 上使用 AMD Quark 进行本地量化和多后端部署",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-06",
-   "url": "https://rocm.blogs.amd.com/artificial-intelligence/quark-strix-halo/README.html",
-   "points": [
-    "在 Strix Halo 上使用 AMD Quark 进行本地量化和多后端部署"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "渲染 IA：渲染 de arquitectura con inteligencia 人工",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-06",
-   "url": "https://renderia.com",
-   "points": [
-    "渲染 IA：渲染 de arquitectura con inteligencia 人工"
    ],
    "flags": {
     "fav": false,
