@@ -1,86 +1,96 @@
 {
- "fetchedAt": "09:16",
+ "fetchedAt": "18:55",
  "fetchedDate": "2026-10-07",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
+   "theme": "文化",
+   "title": "在外交场合，习主席这样讲述中华优秀传统文化故事",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTIacyUmYomwtR8JgYkXmkH261007.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "新的长征之路｜一块木牌 一张登记表 两份以命相托的守护",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTI9ZWsOa8jUh6XkiRysYe8261007.shtml",
+   "summary": "48ed33f63adc,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "各地迎来假期返程客流高峰 交管部门“多点发力”疏堵保畅",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTIohHuay4x3oZ0ncf0V3aQ261007.shtml",
+   "summary": "b0a418ad74fe,0,1,16:9,newPlayer5e0fb7837b78,0,1,16:9,newPlayer0f4faea694a8,0,1,16:9,newPlayere721d5386468,0,1,16:9,newPlayer9f9ac08c6f70,0,1,16:9,newP…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "长线游成主流 沉浸式体验点亮假日新图景",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTIq2Jp14cuwqhlRiD2znXS261007.shtml",
+   "summary": "今年国庆假期，全国文旅市场供给丰富，出游热情充分释放；多城游与目的地深度游同步升温，长线旅游成为不少人的选择。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "黄河新画卷｜守护源头扮“靓”生态底色 书写生态富民高原故事",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTIoOZuzNQGyCzfqYUN4pMP261007.shtml",
+   "summary": "84ba9fca2506,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "华北油田实现储量高峰增长 能源保障再添“硬核”实力支撑",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/07/ARTI38YzuQoewEtg0fSEPxSi261007.shtml",
+   "summary": "5b1c6ec4187b,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "民生",
-   "title": "为人民群众幸福生活拼搏奉献服务",
+   "title": "假期文化生活掀起新风尚 “转角遇见美”体验无界文化新空间",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIZmSVsPYa9M36okp6SKcr261007.shtml",
-   "summary": "2022年1月26日，山西霍州冯南垣村飘起了雪花。正在这里考察的习近平总书记，走进村民师红兵家，看到一家人正在做年馍，他洗洗手也加入进来，三两下就捏出一个枣花。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "薪火相传向未来 治蜀兴川谱新篇",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/07/VIDE3VQACZIdzaM3PuoEUBDw261007.shtml",
-   "summary": "赓续长征精神，奋进复兴征程·四川：薪火相传向未来，治蜀兴川谱新篇。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从种土豆到“种”Token 这里的年轻人都发生了哪些变化？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIWFt7Q3BzF7kwNcivcusq261007.shtml",
-   "summary": "32341ddb3440,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "零点故事｜薛群基：问天探海造良材",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/07/VIDEANZjbdDxc9MKHBHviiTq261007.shtml",
+   "url": "https://news.cctv.com/2026/10/07/ARTIe1fdxpCk0lMsTKGQF2mV261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨向新图强，创新潮涌神州大地",
+   "title": "记者调查｜海南：红树林保护区竟成赶海“乐园”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIyB0bZ5TRTXSGtw3vBjqQ261007.shtml",
-   "summary": "“今年以来，全党全国上下锐意进取、奋力拼搏，编制实施‘十五五’规划，扎实推进各方面工作，有效应对各种风险挑战，我国经济顶压前行、向新向优、展现出强大韧性和活力，党和国家事业取得新进展新成效。”",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "县域商业提质上新 激活乡村消费活力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIdP3HFx6pbKGNnu7NuBuv261007.shtml",
-   "summary": "0f0e35b59b7b,0,1,16:9,newPlayer92e3f0b91654,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "三株“草”长成一片原",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTIO7VXzRwtqRx3SQNXPZNp261007.shtml",
+   "url": "https://tv.cctv.com/2026/10/07/VIDEjWbYbiQvlCEkj8czibyz261007.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "社会",
-   "title": "假期接近尾声 6日全社会跨区域人员流动量超3亿人次",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "学生抗议中男孩手被炸断 法国停止使用眩晕手榴弹",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/07/ARTImALBZlSllmn7zmLNV2Np261007.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+   "summary": "在此之前，一些团体抱怨警察对青少年使用过度武力。",
    "day": 0
   },
   {
@@ -90,7 +100,67 @@
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-   "summary": "专家和律师称她的明显康复是史无前例的，并指出她被认为是唯一已知的在致命注射中幸存的人",
+   "summary": "一位为她的法律团队提供咨询的医学专家表示，科琳·斯莱默的凶手正在以“基本方式”进行交流。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "10 月 7 日哈马斯领导的袭击中被毁的基布兹居民正在努力解决如何重建问题",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+   "summary": "尼尔奥兹袭击事件造成 47 人死亡、76 人被扣为人质，三年后，一些幸存者返回那里居住。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "特朗普将与普京谈论鼠疫实验室工作人员在俄罗斯的死亡事件",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+   "summary": "由于担心死亡可能是由肺鼠疫引起，人们呼吁俄罗斯提高透明度。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "斯里兰卡前第一夫人因涉嫌滥用儿童医院捐款被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+   "summary": "这位 73 岁的女士因涉嫌与滥用捐款有关的一家慈善机构而被捕。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "诺贝尔化学奖因解决生命不对称之谜而获奖",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+   "summary": "该奖项颁发给法国和日本科学家，以表彰他们解决了生命不对称之谜。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "日本啤酒巨头因涉嫌价格垄断而遭到突击搜查",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+   "summary": "朝日和麒麟证实日本竞争主管机构搜查了他们的经营场所。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "奥斯卡影后艾娃·玛丽·森特去世，享年 102 岁",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+   "summary": "她在《海滨》中与马龙·白兰度演对手戏，随后在希区柯克的《西北偏北》中与加里·格兰特搭档。",
    "day": 0
   }
  ]
