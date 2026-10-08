@@ -1,5 +1,5 @@
 {
- "fetchedAt": "03:16",
+ "fetchedAt": "09:38",
  "fetchedDate": "2026-10-08",
  "source": "zhiri-server",
  "items": [
@@ -103,7 +103,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
+    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "伊介书生",
    "title": "烧 心 大 赛 ！【AI全民制作人】",
    "duration": "1:33",
-   "heat": 3222269,
-   "updated": "2026-10-07T19:16:15.121394",
+   "heat": 3335568,
+   "updated": "2026-10-08T01:38:00.969738",
    "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "王与也行",
    "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
    "duration": "1:26",
-   "heat": 2908275,
-   "updated": "2026-10-07T19:16:15.121404",
+   "heat": 2993458,
+   "updated": "2026-10-08T01:38:00.969749",
    "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "69岁牢二次元",
    "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
    "duration": "3:48",
-   "heat": 1604177,
-   "updated": "2026-10-07T19:16:15.121406",
+   "heat": 1627883,
+   "updated": "2026-10-08T01:38:00.969752",
    "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
    "points": [],
    "flags": {
@@ -201,9 +201,25 @@
    "author": "Raymondsese",
    "title": "四分钟看完华强买瓜【AI MV大赛】",
    "duration": "4:17",
-   "heat": 1251758,
-   "updated": "2026-10-07T19:16:15.121408",
+   "heat": 1281048,
+   "updated": "2026-10-08T01:38:00.969754",
    "url": "https://www.bilibili.com/video/BV1D1HH6qEwt",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "siqi__",
+   "title": "星と僕らと| 司凤版【AI音乐】",
+   "duration": "3:28",
+   "heat": 485801,
+   "updated": "2026-10-08T01:38:00.969756",
+   "url": "https://www.bilibili.com/video/BV1KBHp6wEXZ",
    "points": [],
    "flags": {
     "fav": false,
@@ -218,7 +234,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391138,
-   "updated": "2026-10-07T19:16:15.121411",
+   "updated": "2026-10-08T01:38:00.969758",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-07T19:16:15.121413",
+   "updated": "2026-10-08T01:38:00.969760",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +266,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557549,
-   "updated": "2026-10-07T19:16:15.121415",
+   "updated": "2026-10-08T01:38:00.969763",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -261,13 +277,29 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155666,
-   "updated": "2026-10-07T19:16:15.121417",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "GPT-6今起免费用！拒答变少，话变多了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T01:38:00.969765",
+   "url": "https://www.qbitai.com/2026/10/501834.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T01:38:00.969767",
+   "url": "https://www.qbitai.com/2026/10/501832.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +314,7 @@
    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T19:16:15.121419",
+   "updated": "2026-10-08T01:38:00.969768",
    "url": "https://www.qbitai.com/2026/10/501825.html",
    "points": [],
    "flags": {
@@ -298,7 +330,7 @@
    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T19:16:15.121421",
+   "updated": "2026-10-08T01:38:00.969770",
    "url": "https://www.qbitai.com/2026/10/501803.html",
    "points": [],
    "flags": {
@@ -314,7 +346,7 @@
    "title": "晕…这年头还有说人话的AI不",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T19:16:15.121423",
+   "updated": "2026-10-08T01:38:00.969772",
    "url": "https://www.qbitai.com/2026/10/501796.html",
    "points": [],
    "flags": {
@@ -330,45 +362,11 @@
    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-07T19:16:15.121425",
+   "updated": "2026-10-08T01:38:00.969774",
    "url": "https://www.qbitai.com/2026/10/501791.html",
    "points": [
     "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
    ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "刚刚，诺贝尔物理奖一人独揽！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07T19:16:15.121427",
-   "url": "https://www.qbitai.com/2026/10/501746.html",
-   "points": [
-    "南极洲甚至有一座高地以他名字命名"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "不er，咋陶哲轩也成AI减速派了？？",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07T19:16:15.121429",
-   "url": "https://www.qbitai.com/2026/10/501736.html",
-   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
