@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:38",
+ "fetchedAt": "19:13",
  "fetchedDate": "2026-10-08",
  "source": "zhiri-server",
  "items": [
@@ -103,7 +103,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
+    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "伊介书生",
    "title": "烧 心 大 赛 ！【AI全民制作人】",
    "duration": "1:33",
-   "heat": 3335568,
-   "updated": "2026-10-08T01:38:00.969738",
+   "heat": 3739573,
+   "updated": "2026-10-08T11:13:45.788711",
    "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "王与也行",
    "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
    "duration": "1:26",
-   "heat": 2993458,
-   "updated": "2026-10-08T01:38:00.969749",
+   "heat": 3424994,
+   "updated": "2026-10-08T11:13:45.788725",
    "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "69岁牢二次元",
    "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
    "duration": "3:48",
-   "heat": 1627883,
-   "updated": "2026-10-08T01:38:00.969752",
+   "heat": 1695358,
+   "updated": "2026-10-08T11:13:45.788727",
    "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "Raymondsese",
    "title": "四分钟看完华强买瓜【AI MV大赛】",
    "duration": "4:17",
-   "heat": 1281048,
-   "updated": "2026-10-08T01:38:00.969754",
+   "heat": 1357725,
+   "updated": "2026-10-08T11:13:45.788728",
    "url": "https://www.bilibili.com/video/BV1D1HH6qEwt",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "siqi__",
    "title": "星と僕らと| 司凤版【AI音乐】",
    "duration": "3:28",
-   "heat": 485801,
-   "updated": "2026-10-08T01:38:00.969756",
+   "heat": 521385,
+   "updated": "2026-10-08T11:13:45.788730",
    "url": "https://www.bilibili.com/video/BV1KBHp6wEXZ",
    "points": [],
    "flags": {
@@ -233,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391138,
-   "updated": "2026-10-08T01:38:00.969758",
+   "heat": 391141,
+   "updated": "2026-10-08T11:13:45.788732",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-08T01:38:00.969760",
+   "updated": "2026-10-08T11:13:45.788734",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -266,8 +266,94 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557549,
-   "updated": "2026-10-08T01:38:00.969763",
+   "updated": "2026-10-08T11:13:45.788735",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T11:13:45.788736",
+   "url": "https://www.qbitai.com/2026/10/502020.html",
+   "points": [
+    "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "浪子回头！Manus重启北京办公室大举招聘",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T11:13:45.788738",
+   "url": "https://www.qbitai.com/2026/10/502009.html",
+   "points": [
+    "开始和国产Agent抢人，还拿到5亿美元新融资"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T11:13:45.788740",
+   "url": "https://www.qbitai.com/2026/10/501956.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T11:13:45.788741",
+   "url": "https://www.qbitai.com/2026/10/501930.html",
+   "points": [
+    "管理岗砍掉四成，顶级车型涨价20%卖"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08T11:13:45.788743",
+   "url": "https://www.qbitai.com/2026/10/501915.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +368,7 @@
    "title": "GPT-6今起免费用！拒答变少，话变多了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-08T01:38:00.969765",
+   "updated": "2026-10-08T11:13:45.788745",
    "url": "https://www.qbitai.com/2026/10/501834.html",
    "points": [],
    "flags": {
@@ -293,79 +379,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "AI 代理在 12 小时内根据 219 字规格表设计出完整的 RISC-V CPU",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08T01:38:00.969767",
-   "url": "https://www.qbitai.com/2026/10/501832.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08T01:38:00.969768",
-   "url": "https://www.qbitai.com/2026/10/501825.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08T01:38:00.969770",
-   "url": "https://www.qbitai.com/2026/10/501803.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "晕…这年头还有说人话的AI不",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08T01:38:00.969772",
-   "url": "https://www.qbitai.com/2026/10/501796.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08T01:38:00.969774",
-   "url": "https://www.qbitai.com/2026/10/501791.html",
+   "heat": 5,
+   "updated": "2026-10-08",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
    "points": [
-    "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
+    "AI 代理在 12 小时内根据 219 字规格表设计出完整的 RISC-V CPU"
    ],
    "flags": {
     "fav": false,
@@ -456,24 +478,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
    "points": [
     "我们的大脑不具备处理人工智能的能力"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Chick-fil-A 不会使用人工智能来取代人类工人",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-06",
-   "url": "https://notthebee.com/article/chick-fil-a-will-not-use-artificial-intelligence-to-replace-human-workers-in-the-drive-thru",
-   "points": [
-    "Chick-fil-A 不会使用人工智能来取代人类工人"
    ],
    "flags": {
     "fav": false,
