@@ -1,26 +1,46 @@
 {
- "fetchedAt": "19:12",
- "fetchedDate": "2026-10-08",
+ "fetchedAt": "03:11",
+ "fetchedDate": "2026-10-09",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "文化",
-   "title": "“有文化自信的民族，才能立得住、站得稳、行得远”",
+   "title": "以文化滋养精神家园——习近平文化思想引领文化强国建设迈出新步伐",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/08/ARTIUFdvOWBobv0Kqa0yE1GW261008.shtml",
-   "summary": "岷江汤汤，穿山奔涌而来，在四川盆地边缘与拥有2000多年历史的都江堰相遇，湍急江水化作汩汩清流，润泽成都平原，孕育“天府粮仓”。",
+   "url": "https://news.cctv.com/2026/10/08/ARTItcWlkg1zWQc5zm8InYJ1261008.shtml",
+   "summary": "“文化兴国运兴，文化强民族强。”“建设文化强国，事关中国式现代化建设全局，事关中华民族复兴大业，事关提升国际竞争力。”习近平总书记深刻指出。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "习近平文化思想引领文化强国建设迈出坚实步伐｜",
+   "theme": "要闻",
+   "title": "循着总书记足迹探寻中华文脉｜",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/08/ARTI5xLqIO8DknYSzHUjdAMG261008.shtml",
-   "summary": "2023年10月，习近平文化思想在全国宣传思想文化工作会议上正式提出。",
+   "url": "https://news.cctv.com/2026/10/08/ARTIPRfz6dJeEwZqHMGTeBH0261008.shtml",
+   "summary": "从河南洛阳龙门石窟到湖南常德河街，从山西阳泉百团大战纪念馆到四川成都都江堰……近年来，习近平总书记走遍大江南北，在万里山河间倾听文明的回响，在市井烟火里感受时代的脉搏，留下一处处文化足迹，嵌入文明长河，标记思想刻度。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "【新思想引领新征程】以人的需求为原点 激活消费大市场",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/08/VIDEuGzVMZR0SX78U4z83Wch261008.shtml",
+   "summary": "刚刚过去的国庆假期，全国消费市场需求持续释放。最新公布的商务部商务大数据显示，10月1日—6日，全国重点监测的78个步行街（商圈）客流量、营业额同比分别增长2.5%、4.7%，消费品以旧换新惠及639.2万人次，带动销售额334.8亿元，智能、绿色、健康商品需求旺盛。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "广西：桂北大地传薪火 向海图强启新程",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/08/ARTI3kReOTv09XkxithteC72261008.shtml",
+   "summary": "051b71664e12,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -31,16 +51,6 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/10/08/VIDEgWzjaj6V080aJ6Wu3X7q261008.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "中国航天事业创建70周年 从无到有 从弱到强",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/08/ARTIpEIbW61UA39rV1mRpimu261008.shtml",
-   "summary": "今天是中国航天事业创建70周年纪念日。70年前的今天，国防部第五研究院成立，中国航天事业由此起步。",
    "day": 0
   },
   {
@@ -60,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/08/ARTIVJ9hYA8ujAerfWInN9bD261008.shtml",
-   "summary": "94b700dd9fd1,0,1,16:9,newPlayerc88b13c995ce,0,1,16:9,newPlayer",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -70,16 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/08/ARTI6OzTDyuofobyGmPFwrP4261008.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "“以旧换新+地方补贴”点燃消费热情 智能、绿色、健康商品需求旺",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/08/ARTIZNDSqbBQOcrWqYAuM87A261008.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,31 +106,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "官员称，俄罗斯对公共汽车的袭击造成33人死亡，乌克兰的致命袭击激增",
+   "title": "官员称，俄罗斯对公共汽车的袭击造成至少30人死亡，乌克兰的致命袭击激增",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰指责俄罗斯针对前线城市拥挤的公交车，杀害尽可能多的平民。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "英国广播公司发现，美国和黎巴嫩正在保护被通缉的叙利亚将军",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-   "summary": "巴萨姆·哈桑受到庇护，以换取信息——包括有关被绑架的美国记者奥斯汀·泰斯的信息。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "以色列表示，大多数英国外交官将离开东耶路撒冷领事馆，米利班德表示“重要服务”将继续保留",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列9月表示，将采取行动回应英国对约旦河西岸非法以色列定居点的制裁。",
+   "summary": "乌克兰指责俄罗斯在前线城市克拉马托尔斯克瞄准两辆拥挤的车辆，以杀害尽可能多的平民。",
    "day": 0
   },
   {
@@ -146,41 +126,61 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "海事机构称，卡塔尔附近海湾的油轮被多枚炮弹击中",
+   "title": "委内瑞拉前领导人尼古拉斯·马杜罗被控阴谋实施酷刑",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，这艘船有人员伤亡，海事情报公司确认这艘船是油轮和化学品船“Acers”。",
+   "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+   "summary": "新指控涉及马杜罗执政期间美国公民在委内瑞拉遭受酷刑的指控。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "被驱逐引发全国抗议的西班牙养老金领取者去世",
+   "title": "智利中部洪水后居民被空运至安全地带",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-   "summary": "9 月，87 岁的马里卡门·阿巴斯卡 (Maricarmen Abascal) 被担架强行从她居住了 70 多年的公寓中带走。",
+   "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+   "summary": "最近几天异常大量的降雨导致马波乔河决堤。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "韩国因战俘纠纷召回乌克兰特使",
+   "title": "意大利批准选举改革，反对派指责梅洛尼“诈骗”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-   "summary": "这是基辅披露两名朝鲜囚犯被转移到首尔后发生的最新一次外交争端。",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+   "summary": "总理乔治亚·梅洛尼表示，此举将使政府更加稳定，但反对党表示，她的目标是继续掌权。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国学校抗议：愤怒背后隐藏着什么",
+   "title": "人权组织称，美国向非洲国家驱逐是非法的，是在利用苦难",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-   "summary": "学生的封锁和游行源于真正的不满 — — 也源于法国在街头解决政策的习惯。",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+   "summary": "人权观察援引美国数据称，已有 500 多名移民被从美国驱逐到非洲国家。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "英国广播公司(BBC)调查后，性虐待学生的老师回到印度尼西亚监狱",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mochamad Subchi Azal Tsani 服刑还不到一半，于 2025 年被秘密假释。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "赞比亚在数据共享争议后签署美国卫生协议",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+   "summary": "根据特朗普削减美国国际开发署资金后谈判达成的协议，美国将提供 15 亿美元（11 亿英镑）。",
    "day": 0
   }
  ]
