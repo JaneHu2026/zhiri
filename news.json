@@ -1,16 +1,16 @@
 {
- "fetchedAt": "19:11",
- "fetchedDate": "2026-10-09",
+ "fetchedAt": "02:42",
+ "fetchedDate": "2026-10-10",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "科技",
-   "title": "习近平总书记重要论述引领加快建设航天强国",
+   "title": "总书记的人民情怀｜“探索浩瀚宇宙，建设航天强国”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIauTGRyUNtgzFfkAo8yg5261009.shtml",
-   "summary": "“探索浩瀚宇宙，发展航天事业，建设航天强国，是我们不懈追求的航天梦。”",
+   "url": "https://news.cctv.com/2026/10/09/ARTIBpSZFV9tAqcBtAEE2LFB261009.shtml",
+   "summary": "“探索浩瀚宇宙，建设航天强国，是我们不懈追求的航天梦。”2024年9月，习近平总书记在接见探月工程嫦娥六号任务参研参试人员代表时强调。",
    "day": 0
   },
   {
@@ -21,6 +21,26 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/09/ARTI1Yev8YMrFEA6ZjJAEERy261009.shtml",
    "summary": "在位于湖南省汝城县文明瑶族乡沙洲瑶族村的“半条被子的温暖”专题陈列馆里，半条被子、一张借据，见证着红军与百姓生死与共的历史，凝结着深厚的军民鱼水情。《跟着习爷爷学在纪念馆》第二集，带领青少年来到这里，读懂“共产党就是自己有一条被子，也要剪下半条给老百姓的人”这句话里，那份始终把人民放在心上的初心，感…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "【新思想引领新征程】因地制宜 推动县域经济高质量发展",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/09/VIDE668JigATVzAJox3SIRsn261009.shtml",
+   "summary": "贵州黔东南州雷山县，生态环境优越，文化丰富多彩。今年，来这里游玩的人们有了更多新体验。白天，大家登上新修的廊道，全景俯瞰千户苗寨，到了晚上，看一场大型实景演出，住进苗家民宿，沉浸式感受特色文化魅力。今年以来，雷山县接待游客超1200万人次，同比增长超11%，文旅产业正加快成为当地富民强县的支柱产业。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【赓续长征精神 奋进复兴征程】巴渝大地传薪火 奋楫笃行谱新篇",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/09/VIDEajYIYV5K4ix7iQTxX8rg261009.shtml",
+   "summary": "【赓续长征精神，奋进复兴征程】巴渝大地传薪火，奋楫笃行谱新篇。",
    "day": 0
   },
   {
@@ -36,11 +56,11 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“三北”工程集中攻坚 确保2027年完成70%建设任务",
+   "title": "时空观察｜机关大院门敞开能否成为门常开？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEw9iX8W8iKVQpjVNz6Rkk261009.shtml",
-   "summary": "“三北”工程三大片区两年集中攻坚行动稳步推进，确保2027年完成70%建设任务。",
+   "url": "https://tv.cctv.com/2026/10/09/VIDE1glwOf3mXmedwvDSrFRh261009.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -50,17 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/09/ARTIrifmzVjbb961cgES5bBd261009.shtml",
-   "summary": "c7ba709676cd,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "走近长征英雄部队 武警全州中队传承湘江战役精神",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEnOqwQsVQFzrNz7172AQT261009.shtml",
-   "summary": "走近长征英雄部队·武警全州中队：传承湘江战役精神，锻造新时代铁血尖兵。",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -76,21 +86,11 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "从“无人问津”到“游人如织” 浙江小众古镇如何逆袭？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIIIeFY7yepcQqLqzfpaxM261009.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
    "title": "共探机遇、共享发展、共创繁荣——首届“华人发展论坛”在香港举行",
    "source": "新华网",
    "time": "今天",
    "url": "https://www.news.cn/digital/20261009/0f7eb4f361024f37b36af164a9ab9adc/c.html",
-   "summary": "何超琼：以港澳“双引擎”链接华商 让中华商道落地生根-何超琼认为，将澳门文旅平台与香港金融网络相结合，背靠内地庞大市场，联动全球华商的本地化经验，就是强大的“双擎合力”。她表示……",
+   "summary": "共探机遇、共享发展、共创繁荣——首届“华人发展论坛”在香港举行-何超琼认为，将澳门文旅平台与香港金融网络相结合，背靠内地庞大市场，联动全球华商的本地化经验，就是强大的“双擎合力”。她表示……",
    "day": 0
   },
   {
@@ -126,81 +126,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Firing squad execution to be livestreamed, Pentagon says",
+   "title": "美国宣布对国际刑事法院实施制裁 法院谴责“对法治的攻击”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+   "summary": "包括英国在内的国际法庭的几个成员国表示，他们“强烈不同意”制裁。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+   "title": "联合国前人权事务高级专员纳维·皮莱荣获诺贝尔和平奖",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+   "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+   "summary": "挪威诺贝尔委员会表示，皮莱因其“促进和平和国际法的努力”而受到认可。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+   "title": "JD万斯对行刑队的执行表示怀疑，并表示他不会观看",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+   "summary": "行刑队计划对尼达尔·哈桑执行死刑，这将是 60 多年来的首次军事处决。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "乌克兰数据中心遭到袭击后，俄罗斯搜索引擎 Yandex 陷入困境",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+   "summary": "这家经常被称为“俄罗斯谷歌”的科技公司承认，客户可能会因攻击而遇到数字服务中断的情况。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "据报道，窃贼在意大利偷走了 30,000 瓶价值 500 万欧元的葡萄酒",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-   "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+   "summary": "这家位于佛罗伦萨的酒庄发生的盗窃案被认为是意大利同类盗窃案中规模最大的一起。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "ICE agent shoots man in New York City",
+   "title": "希特勒墨索里尼当选秘鲁市长",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"crim",
+   "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+   "summary": "出口民意调查显示，这位左翼候选人在秘鲁安第斯山脉的一个偏远地区以微弱优势获胜。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Crazy Rich Asians TV show to reunite Constance Wu and Henry Golding",
+   "title": "埃塞俄比亚警告厄立特里亚，部队越境后将自卫",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-   "summary": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+   "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+   "summary": "有人看到满载厄立特里亚士兵的卡车驶入埃塞俄比亚，据报道埃塞俄比亚已用无人机袭击予以回应。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+   "title": "美国移民官员为 ICE 特工辩护，后者在同一辆车内枪杀了一名儿童",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-   "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-   "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal in",
+   "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+   "summary": "官员称，28 岁的奥斯卡·贝尔加尔 (Oscar Belgal) 在枪击事件中幸存，目前被关押在纽约郊外的一处拘留所。",
    "day": 0
   },
   {
