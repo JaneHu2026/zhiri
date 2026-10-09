@@ -1,8 +1,18 @@
 {
- "fetchedAt": "09:50",
+ "fetchedAt": "19:11",
  "fetchedDate": "2026-10-09",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "习近平总书记重要论述引领加快建设航天强国",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/09/ARTIauTGRyUNtgzFfkAo8yg5261009.shtml",
+   "summary": "“探索浩瀚宇宙，发展航天事业，建设航天强国，是我们不懈追求的航天梦。”",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -15,72 +25,72 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "万木鎏金染林海 内蒙古根河解锁限定秋色",
+   "theme": "社会",
+   "title": "“十五五”时期我国将建设改造地下管网约77万公里",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIDdjMnW6qm6ANNvb0263q261009.shtml",
-   "summary": "774de63bf476,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "央行重磅表态 人民币汇率到底怎么看",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEBEwMPmBZo90Xb3ddPOpl261009.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "2026年第三季度见义勇为勇士榜发布 79位勇士上榜",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIpmHt42B6NYDifOvhOBXo261009.shtml",
-   "summary": "10月9日，中央政法委在京发布2026年第三季度见义勇为勇士榜。根据见义勇为典型事迹突出程度、网络关注度、各地依法确认和申报意见，进行综合评审评议，共有79位见义勇为勇士获通报表扬和奖励慰问，其中有13位因见义勇为不幸牺牲。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "多个领域建设取得进展 一批重大工程刷新“进度条”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIHM4Zu4xoeW5vi3SAZLTE261009.shtml",
-   "summary": "国庆假期，神州大地喜庆祥和，重大工程建设一线热潮涌动。从高原戈壁到滨海之地，从能源基地到交通干线，多项“首个”“首次”成果接连上新。这些新进展新突破，持续刷新着重大工程的“进度条”。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "教育",
-   "title": "“三区”人才支持计划 教师专项计划启动",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEzMvEctwH3pbO56lwPpso261009.shtml",
-   "summary": "2026年“三区”人才支持计划：教师专项计划启动，选派11356名教师。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "市场监管总局：调整灯具等产品CCC认证实施要求",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDElriLgb1n8MXwkN5sV66e261009.shtml",
+   "url": "https://tv.cctv.com/2026/10/09/VIDEJ9TKmZz5s0x1XUuAN5jJ261009.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "长三角铁路中秋国庆假期累计发送旅客近5600万人次",
+   "title": "“三北”工程集中攻坚 确保2027年完成70%建设任务",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIIJk1nulzo7QBr4eZCqbM261009.shtml",
+   "url": "https://tv.cctv.com/2026/10/09/VIDEw9iX8W8iKVQpjVNz6Rkk261009.shtml",
+   "summary": "“三北”工程三大片区两年集中攻坚行动稳步推进，确保2027年完成70%建设任务。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "透过出行新动向、消费新图景 “数”看假日中国澎湃活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/09/ARTIrifmzVjbb961cgES5bBd261009.shtml",
+   "summary": "c7ba709676cd,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "走近长征英雄部队 武警全州中队传承湘江战役精神",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/09/VIDEnOqwQsVQFzrNz7172AQT261009.shtml",
+   "summary": "走近长征英雄部队·武警全州中队：传承湘江战役精神，锻造新时代铁血尖兵。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“稻米造血”20年：一款创新药的诞生之路",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/09/VIDEhiu4ylIHYHzB2p5ZGHWN261009.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "从“无人问津”到“游人如织” 浙江小众古镇如何逆袭？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/09/ARTIIIeFY7yepcQqLqzfpaxM261009.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "共探机遇、共享发展、共创繁荣——首届“华人发展论坛”在香港举行",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20261009/0f7eb4f361024f37b36af164a9ab9adc/c.html",
+   "summary": "何超琼：以港澳“双引擎”链接华商 让中华商道落地生根-何超琼认为，将澳门文旅平台与香港金融网络相结合，背靠内地庞大市场，联动全球华商的本地化经验，就是强大的“双擎合力”。她表示……",
    "day": 0
   },
   {
@@ -94,13 +104,123 @@
    "day": 0
   },
   {
+   "group": "gn",
+   "theme": "政策",
+   "title": "中央政法委发布2026年第三季度见义勇为勇士榜",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261009/6a36818f8bb3491fae6a01b624c31364/c.html",
+   "summary": "中央政法委发布2026年第三季度见义勇为勇士榜-\"见义勇为勇士榜发布活动由中央政法委主办，中华见义勇为基金会承办，2022年9月以来，已发布15次见义勇为勇士季度榜，共有886位见义勇为勇士获得通报表扬和奖励。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "奔县游丨不止兵马俑，来临潼赴一场有历史有山野的微度假",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/ci/20261009/56c93a9d3309414287d361a5e7074551/c.html",
+   "summary": "奔县游丨不止兵马俑，来临潼赴一场有历史有山野的微度假-",
+   "day": 0
+  },
+  {
    "group": "gj",
    "theme": "国际",
-   "title": "五角大楼表示，行刑队将现场直播胡德堡袭击者的处决",
+   "title": "Firing squad execution to be livestreamed, Pentagon says",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "summary": "美国国防部长表示处决将公开，但一位法律专家表示，这一“史无前例”的决定是基于“不确定的法律依据”",
+   "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+   "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "ICE agent shoots man in New York City",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"crim",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Crazy Rich Asians TV show to reunite Constance Wu and Henry Golding",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+   "summary": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+   "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+   "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal in",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "巴黎摄影与视频展开幕",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1009/c1002-40811303.html",
+   "summary": "这是10月8日在法国巴黎拍摄的巴黎摄影与视频展现场。 当日，巴黎摄影与视频展开幕，将持续至11日，设有器材展示、摄影作品展览、相机发展史专题展、讲座和体验活动等。 新华社记者邬惠我摄",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "英国驻耶路撒冷领事馆关闭 20名英外交官将离开",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1009/c1002-40811307.html",
+   "summary": "这是10月8日拍摄的英国驻耶路撒冷领事馆。 以色列外交部长萨尔10月8日在社交媒体发文说，英国驻耶路撒冷领事馆当天停止运作，包括总领事在内的20名英国外交官将结束任期并离开。英国外交大臣米利班德",
    "day": 0
   }
  ]

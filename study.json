@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:51",
+ "fetchedAt": "19:13",
  "fetchedDate": "2026-10-09",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-10-08 16:04:24",
    "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
    "points": [
-    "机器人 chonk 清洁地板"
+    "机器人Chonk清洁地板"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +31,7 @@
    "updated": "2026-10-07 13:29:33",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "points": [
-    "DeepMind 的新人工智能刚刚破解了生命密码"
+    "DeepMind的新人工智能刚刚破解了生命密码"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +67,7 @@
    "updated": "2026-09-25 13:35:02",
    "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
-    "电话号码之谜"
+    "电话号码拼图"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2026-09-24 08:40:55",
    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "points": [
-    "Claude Opus 5.5 AI：令人难以置信的飞跃"
+    "Claude Opus 5.5 AI ：令人难以置信的飞跃"
    ],
    "flags": {
     "fav": false,
@@ -103,7 +103,7 @@
    "updated": "2026-09-23 14:50:17",
    "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
    "points": [
-    "决策模型、DSV4.1 闪存和新基准"
+    "决策模型、DSV4.1 Flash和新基准"
    ],
    "flags": {
     "fav": false,
@@ -121,7 +121,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
+    "Jev、Yang和递归自我提升-人工智能中的事件"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +139,7 @@
    "updated": "2026-09-18 17:14:08",
    "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
    "points": [
-    "最后一个 IMO 问题人工智能无法解决"
+    "最后一个IMO问题AI无法解决"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "伊介书生",
    "title": "烧 心 大 赛 ！【AI全民制作人】",
    "duration": "1:33",
-   "heat": 4062489,
-   "updated": "2026-10-09T01:51:05.190498",
+   "heat": 4299489,
+   "updated": "2026-10-09T11:13:13.784107",
    "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
    "points": [],
    "flags": {
@@ -166,12 +166,44 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "我就是一颗豆",
+   "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
+   "duration": "9:50",
+   "heat": 903764,
+   "updated": "2026-10-09T11:13:13.784118",
+   "url": "https://www.bilibili.com/video/BV1eWHm6mEH9",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "王与也行",
-   "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
-   "duration": "1:26",
-   "heat": 3775169,
-   "updated": "2026-10-09T01:51:05.190510",
-   "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
+   "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
+   "duration": "1:27",
+   "heat": 2370666,
+   "updated": "2026-10-09T11:13:13.784120",
+   "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "剑客范十三",
+   "title": "带邓超当一天剑客！有些体验注定不会被AI取代！",
+   "duration": "2:30",
+   "heat": 795772,
+   "updated": "2026-10-09T11:13:13.784123",
+   "url": "https://www.bilibili.com/video/BV1A9pc6vEEX",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391143,
-   "updated": "2026-10-09T01:51:05.190513",
+   "heat": 391146,
+   "updated": "2026-10-09T11:13:13.784125",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -202,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653435,
-   "updated": "2026-10-09T01:51:05.190515",
+   "updated": "2026-10-09T11:13:13.784127",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -217,8 +249,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557550,
-   "updated": "2026-10-09T01:51:05.190518",
+   "heat": 557551,
+   "updated": "2026-10-09T11:13:13.784129",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -234,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155667,
-   "updated": "2026-10-09T01:51:05.190520",
+   "updated": "2026-10-09T11:13:13.784132",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -245,47 +277,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611557,
-   "updated": "2026-10-09T01:51:05.190522",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2659984,
-   "updated": "2026-10-09T01:51:05.190524",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "OpenAI发布722篇数学手稿",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
    "duration": "—",
-   "heat": 8868950,
-   "updated": "2026-10-09T01:51:05.190526",
-   "url": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83722%E7%AF%87%E6%95%B0%E5%AD%A6%E6%89%8B%E7%A8%BF?type=general",
+   "heat": 0,
+   "updated": "2026-10-09T11:13:13.784134",
+   "url": "https://www.qbitai.com/2026/10/502422.html",
    "points": [
-    "热门话题「OpenAI发布722篇数学手稿」：相关视频 4 条"
+    "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
    ],
    "flags": {
     "fav": false,
@@ -297,29 +297,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+   "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T01:51:05.190529",
-   "url": "https://www.qbitai.com/2026/10/502089.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-09T01:51:05.190531",
-   "url": "https://www.qbitai.com/2026/10/502083.html",
+   "updated": "2026-10-09T11:13:13.784137",
+   "url": "https://www.qbitai.com/2026/10/502411.html",
    "points": [
-    "新的“缝合怪”已经出现，怎么能够停滞不前"
+    "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
    ],
    "flags": {
     "fav": false,
@@ -331,13 +315,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+   "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T01:51:05.190533",
-   "url": "https://www.qbitai.com/2026/10/502035.html",
+   "updated": "2026-10-09T11:13:13.784139",
+   "url": "https://www.qbitai.com/2026/10/502359.html",
    "points": [
-    "打造便利店“人机协作”运营新模式"
+    "Google 研究成果首次登上《柳叶刀》主刊"
    ],
    "flags": {
     "fav": false,
@@ -349,13 +333,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+   "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T01:51:05.190535",
-   "url": "https://www.qbitai.com/2026/10/502020.html",
+   "updated": "2026-10-09T11:13:13.784141",
+   "url": "https://www.qbitai.com/2026/10/502330.html",
    "points": [
-    "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。"
+    "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
    ],
    "flags": {
     "fav": false,
@@ -367,13 +351,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "浪子回头！Manus重启北京办公室大举招聘",
+   "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T01:51:05.190537",
-   "url": "https://www.qbitai.com/2026/10/502009.html",
+   "updated": "2026-10-09T11:13:13.784143",
+   "url": "https://www.qbitai.com/2026/10/502125.html",
    "points": [
-    "开始和国产Agent抢人，还拿到5亿美元新融资"
+    "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
    ],
    "flags": {
     "fav": false,
@@ -385,11 +369,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+   "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T01:51:05.190539",
-   "url": "https://www.qbitai.com/2026/10/501956.html",
+   "updated": "2026-10-09T11:13:13.784145",
+   "url": "https://www.qbitai.com/2026/10/502114.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -401,13 +385,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "一个机器人进入了丹佛的一家喜剧俱乐部。 （这不是玩笑。）",
+   "title": "Show HN ：将超级智能重命名为人工智能",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-10-09",
+   "url": "https://chromewebstore.google.com/detail/si-→-ai/cfpagmhjlhnbjabgaoeobkciklolaekn",
+   "points": [
+    "Show HN ：将超级智能重命名为人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "一个机器人进入了丹佛的一家喜剧俱乐部。（这不是开玩笑。）",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-08",
    "url": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
    "points": [
-    "一个机器人进入了丹佛的一家喜剧俱乐部。 （这不是玩笑。）"
+    "一个机器人进入了丹佛的一家喜剧俱乐部。（这不是开玩笑。）"
    ],
    "flags": {
     "fav": false,
@@ -419,13 +421,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能。可能会颠覆食品配送",
+   "title": "人工智能可能会颠覆送餐服务",
    "duration": "—",
    "heat": 3,
    "updated": "2026-10-08",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
    "points": [
-    "人工智能。可能会颠覆食品配送"
+    "人工智能可能会颠覆送餐服务"
    ],
    "flags": {
     "fav": false,
@@ -437,13 +439,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "总统称那些使用“人工智能”一词的人是“敌人”",
+   "title": "总统表示，使用“人工智能”一词的人是“敌人”",
    "duration": "—",
-   "heat": 9,
+   "heat": 10,
    "updated": "2026-10-08",
    "url": "https://www.businessinsider.com/trump-super-intelligence-rebrand-enemy-white-house-2026-10",
    "points": [
-    "总统称那些使用“人工智能”一词的人是“敌人”"
+    "总统表示，使用“人工智能”一词的人是“敌人”"
    ],
    "flags": {
     "fav": false,
@@ -475,29 +477,11 @@
    "author": "Hacker News",
    "title": "人类禁止对克劳德的“虐待或残忍行为”",
    "duration": "—",
-   "heat": 65,
+   "heat": 71,
    "updated": "2026-10-08",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
    "points": [
     "人类禁止对克劳德的“虐待或残忍行为”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "特朗普称任何使用“人工智能”一词的人都是“敌人”",
-   "duration": "—",
-   "heat": 43,
-   "updated": "2026-10-08",
-   "url": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230",
-   "points": [
-    "特朗普称任何使用“人工智能”一词的人都是“敌人”"
    ],
    "flags": {
     "fav": false,
