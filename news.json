@@ -1,12 +1,22 @@
 {
- "fetchedAt": "09:34",
+ "fetchedAt": "18:29",
  "fetchedDate": "2026-10-10",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
+   "theme": "财经",
+   "title": "习近平经济思想引领中国加快发展新质生产力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIPqpF9zEEb2IYSzSHaili261010.shtml",
+   "summary": "10月9日，《中共中央 国务院关于发展新质生产力的意见》公开发布。意见阐明了中国发展新质生产力的总体要求和重点任务，对加强组织实施作出安排。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "要闻",
-   "title": "我国出台19项举措推进新质生产力发展",
+   "title": "我国出台19项举措推进新质生产力发展｜",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/10/ARTI0B9W0eyCuNWunpVbYiLu261009.shtml",
@@ -15,31 +25,11 @@
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "财政部：将实施更加积极的财政政策 加力扩大内需",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIbs0MplDSVFSWKiSnblg3261010.shtml",
-   "summary": "报告认为，上半年，我国财政运行平稳向好。我国经济坚韧前行、稳中有进，为财政平稳运行奠定基础。各级财政部门加强财政资源统筹，支出总体保持靠前发力，重点领域得到较好保障。围绕持续释放内需潜力、支持加紧培育壮大新动能、加大保障和改善民生力度、推动绿色低碳转型等方面，财政政策更加积极、精准发力，并加强与其他…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "夯实技术基础 我国低空经济领域国际标准化建设提速",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIBPuQdhacHMOhTEPrnENW261009.shtml",
-   "summary": "记者10月9日了解到，我国深度参与国际标准化组织（ISO）、国际电工委员会（IEC）低空经济标准化工作，推动国际标准立项、研制与发布。其中，",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "要闻",
-   "title": "红色旅游持续火热！一组数据感受国庆假期文旅活力",
+   "title": "走近长征英雄部队｜武警遵义支队：转折之城勇担时代重任",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIIAnbIjAHpFUFnsKKaF6J261010.shtml",
+   "url": "https://tv.cctv.com/2026/10/10/VIDEFl7gBlKQIovZ3GJHxTga261010.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -49,37 +39,47 @@
    "title": "我国成功发射卫星互联网低轨27组卫星",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIdqXgr9bMwhmRGQThPh07261010.shtml",
-   "summary": "1c69f7f47ad6,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "服务惠民 消费增效 机关大院开放解锁了哪些新服务？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIiLODGiNSGex5qovEdFYt261009.shtml",
-   "summary": "这个国庆假期，多地政府主动打开机关大院，敞开食堂、停车场，让游客和市民免费歇脚、吃上热乎饭。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "在斑斓秋色中共赏秋韵 节后文旅消费市场持续火热",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIokTTvThGEFh6J1i1wLcz261009.shtml",
+   "url": "https://tv.cctv.com/2026/10/10/VIDENTuy9hc0FfNXtJuSzX5W261010.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国产大型邮轮“爱达·花城号”将以香港作为母港营运",
+   "title": "军情时间到｜多域砺剑 捍卫统一",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/10/ARTIv7WXamV1qUFzrO8nSRdj261010.shtml",
+   "url": "https://tv.cctv.com/2026/10/10/VIDEspRK149qpMFgntNIWGl4261010.shtml",
+   "summary": "本期节目主要内容： 近日，海军075型两栖攻击舰安徽舰上举行了一场跨昼夜立体投送训练，直升机升空，气垫登陆艇出坞，立体投送海军陆战力量。而这只是近期解放军演练的其中一幕，陆军空中突击旅实弹实训、火箭军夜间战备拉动，多方向多军种的演训任务持续展开，每一次任务都是一次战斗力的提升。（《军情时间到》 20…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "万里边疆行｜天津生态修复绘就滨海美丽新画卷",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/10/VIDENZqZaYaMnwJh4eDzIXa9261010.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "品秋味、赏秋景……沉浸式解锁“秋日限定” 文旅消费持续火热",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTI3eAouxSFWYFOGJomTtxh261010.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "激活引黄灌溉动能 宁夏筑牢塞上生态屏障",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/10/VIDE6vaUAdwpOzTHFY1xNjED261010.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,7 +96,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "特朗普宣布与俄罗斯柴油达成协议，泽连斯基称这是送给普京的礼物",
+   "title": "特朗普宣布与俄罗斯柴油达成协议，泽伦斯基称这是送给普京的礼物",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -106,21 +106,91 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国移民官员为 ICE 特工辩护，后者在同一辆车内枪杀了一名儿童",
+   "title": "阿联酋称，迪拜航空袭击者开始在澳大利亚“走向极端主义和恐怖主义”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-   "summary": "官员称，28 岁的奥斯卡·贝尔加尔 (Oscar Belgal) 在枪击事件中幸存，目前被关押在纽约郊外的一处拘留所。",
+   "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+   "summary": "阿拉伯联合酋长国总检察长还声称副驾驶试图将飞机撞向特拉维夫机场。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "埃博拉患者穿越三个国家却未被发现仍存在疑问",
+   "title": "飓风伊萨亚斯在佛罗里达州登陆后降级",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-   "summary": "新的细节揭示了这位 40 岁的商人如何在重病期间飞行并跨越地区边界。",
+   "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+   "summary": "随着伊萨亚斯继续穿越美国东南部，佛罗里达州和阿拉巴马州有数十万户家庭断电。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+   "summary": "费城警方表示，该提示被“标记为垃圾邮件”，但批评该科技公司花了两个多月的时间才发现并报告",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“国家的污点”：特朗普批评挪威诺贝尔和平奖",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+   "summary": "美国总统在集会上表示，他“从未听说过”获胜者、前国际刑事法院法官纳维·皮莱。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国乡村音乐明星埃拉·兰利因“安全威胁”取消演出",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+   "summary": "警方表示，他们检查了俄克拉荷马州塔尔萨的音乐会场地，但“没有发现任何威胁”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "北溪审判：德国警方如何追踪证据 - 前往乌克兰",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+   "summary": "四年后，一名乌克兰男子将在汉堡受审，罪名是破坏北溪管道。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国的公开处决在近一个世纪前就停止了——为什么现在又恢复了？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+   "summary": "五角大楼表示，胡德堡枪手尼达尔·哈桑的处决将进行现场直播，但专家建议官员们正在阅读全国情况",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "巴拿马中部地震灾区灾情",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1010/c1002-40811808.html",
+   "summary": "10月9日，在巴拿马中部科克莱省地震灾区佩诺诺梅，房屋在地震中倒塌。 巴拿马上皮塔洛萨地区附近当地时间9日12时56分（北京时间10日1时56分）发生强烈地震，巴拿马首都巴拿马城震感明显。 新",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "瑞典首都斯德哥尔摩掠影",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1010/c1002-40811824.html",
+   "summary": "这是10月7日拍摄的瑞典斯德哥尔摩城市景观。新华社记者吕优摄",
    "day": 0
   }
  ]

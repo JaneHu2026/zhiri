@@ -1,8 +1,26 @@
 {
- "fetchedAt": "09:35",
+ "fetchedAt": "18:30",
  "fetchedDate": "2026-10-10",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Robot Chonk Cleans the Floor",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08 16:04:24",
+   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+   "points": [
+    "机器人 chonk 清洁地板"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -78,6 +96,42 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
+   "author": "sentdex",
+   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23 14:50:17",
+   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+   "points": [
+    "决策模型、DSV4.1 闪存和新基准"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-19 15:35:20",
+   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+   "points": [
+    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
    "author": "3Blue1Brown",
    "title": "The last IMO problem AI could not solve",
    "duration": "—",
@@ -95,67 +149,13 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "How I use LLMs",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-27 22:29:56",
-   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-   "points": [
-    "我如何使用法学硕士"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Deep Dive into LLMs like ChatGPT",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-05 18:23:47",
-   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-   "points": [
-    "深入研究 ChatGPT 等法学硕士"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "bilibili",
-   "author": "伊介书生",
-   "title": "烧 心 大 赛 ！【AI全民制作人】",
-   "duration": "1:33",
-   "heat": 4523319,
-   "updated": "2026-10-10T01:35:16.884324",
-   "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
+   "author": "星落落_oi",
+   "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+   "duration": "2:14",
+   "heat": 482982,
+   "updated": "2026-10-10T10:30:15.316174",
+   "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
    "points": [],
    "flags": {
     "fav": false,
@@ -169,9 +169,25 @@
    "author": "我就是一颗豆",
    "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
    "duration": "9:50",
-   "heat": 1088912,
-   "updated": "2026-10-10T01:35:16.884335",
+   "heat": 1251852,
+   "updated": "2026-10-10T10:30:15.316182",
    "url": "https://www.bilibili.com/video/BV1eWHm6mEH9",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "大象新闻",
+   "title": "“豆包问诊改问千问”是恶搞“请AI当判官”是日常，医患之间信任的沟壑不是AI挖的 AI也填不平（评论员：王珍珍 编辑：刘嘉欣）",
+   "duration": "1:58",
+   "heat": 1741852,
+   "updated": "2026-10-10T10:30:15.316184",
+   "url": "https://www.bilibili.com/video/BV13FHQ6DEV4",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,25 +201,9 @@
    "author": "王与也行",
    "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
    "duration": "1:27",
-   "heat": 2631440,
-   "updated": "2026-10-10T01:35:16.884337",
+   "heat": 2808647,
+   "updated": "2026-10-10T10:30:15.316185",
    "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "星落落_oi",
-   "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-   "duration": "2:14",
-   "heat": 284099,
-   "updated": "2026-10-10T01:35:16.884339",
-   "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391149,
-   "updated": "2026-10-10T01:35:16.884341",
+   "heat": 391150,
+   "updated": "2026-10-10T10:30:15.316187",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653436,
-   "updated": "2026-10-10T01:35:16.884343",
+   "updated": "2026-10-10T10:30:15.316189",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557552,
-   "updated": "2026-10-10T01:35:16.884345",
+   "updated": "2026-10-10T10:30:15.316190",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,8 +266,92 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155668,
-   "updated": "2026-10-10T01:35:16.884346",
+   "updated": "2026-10-10T10:30:15.316192",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI生成内容也有版权风险",
+   "duration": "—",
+   "heat": 9202510,
+   "updated": "2026-10-10T10:30:15.316194",
+   "url": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B9%9F%E6%9C%89%E7%89%88%E6%9D%83%E9%A3%8E%E9%99%A9?type=general",
+   "points": [
+    "热门话题「AI生成内容也有版权风险」：相关视频 1 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-10T10:30:15.316195",
+   "url": "https://www.qbitai.com/2026/10/502496.html",
+   "points": [
+    "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-10T10:30:15.316197",
+   "url": "https://www.qbitai.com/2026/10/502492.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-10T10:30:15.316198",
+   "url": "https://www.qbitai.com/2026/10/502484.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "特斯拉FSD，在欧洲被打回原形",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-10T10:30:15.316199",
+   "url": "https://www.qbitai.com/2026/10/502467.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -282,7 +366,7 @@
    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T01:35:16.884348",
+   "updated": "2026-10-10T10:30:15.316201",
    "url": "https://www.qbitai.com/2026/10/502422.html",
    "points": [
     "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
@@ -300,7 +384,7 @@
    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T01:35:16.884350",
+   "updated": "2026-10-10T10:30:15.316202",
    "url": "https://www.qbitai.com/2026/10/502411.html",
    "points": [
     "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
@@ -313,81 +397,11 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-10T01:35:16.884352",
-   "url": "https://www.qbitai.com/2026/10/502359.html",
-   "points": [
-    "Google 研究成果首次登上《柳叶刀》主刊"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-10T01:35:16.884353",
-   "url": "https://www.qbitai.com/2026/10/502330.html",
-   "points": [
-    "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-10T01:35:16.884355",
-   "url": "https://www.qbitai.com/2026/10/502125.html",
-   "points": [
-    "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-10T01:35:16.884357",
-   "url": "https://www.qbitai.com/2026/10/502114.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
    "title": "Anthropic 的人工智能向费城警方提供了有关未侦破凶杀案的虚假提示",
    "duration": "—",
-   "heat": 13,
+   "heat": 16,
    "updated": "2026-10-10",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
    "points": [
