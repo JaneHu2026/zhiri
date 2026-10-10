@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:30",
- "fetchedDate": "2026-10-10",
+ "fetchedAt": "01:42",
+ "fetchedDate": "2026-10-11",
  "source": "zhiri-server",
  "items": [
   {
@@ -24,42 +24,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07 13:29:33",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "points": [
-    "DeepMind 的新人工智能刚刚破解了生命密码"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "The Billion Dollar AI Advantage Is Disappearing",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-05 09:53:12",
-   "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-   "points": [
-    "数十亿美元的人工智能优势正在消失"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "3Blue1Brown",
    "title": "The Phone Number puzzle",
    "duration": "—",
@@ -68,24 +32,6 @@
    "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
     "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24 08:40:55",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "points": [
-    "Claude Opus 5.5 AI：令人难以置信的飞跃"
    ],
    "flags": {
     "fav": false,
@@ -149,12 +95,66 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:12:53",
+   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "星落落_oi",
    "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
    "duration": "2:14",
-   "heat": 482982,
-   "updated": "2026-10-10T10:30:15.316174",
+   "heat": 770812,
+   "updated": "2026-10-10T17:42:52.145941",
    "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
    "points": [],
    "flags": {
@@ -169,9 +169,25 @@
    "author": "我就是一颗豆",
    "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
    "duration": "9:50",
-   "heat": 1251852,
-   "updated": "2026-10-10T10:30:15.316182",
+   "heat": 1339579,
+   "updated": "2026-10-10T17:42:52.145954",
    "url": "https://www.bilibili.com/video/BV1eWHm6mEH9",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "邵艾伦Alan",
+   "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
+   "duration": "257:07",
+   "heat": 566136,
+   "updated": "2026-10-10T17:42:52.145957",
+   "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,25 +201,9 @@
    "author": "大象新闻",
    "title": "“豆包问诊改问千问”是恶搞“请AI当判官”是日常，医患之间信任的沟壑不是AI挖的 AI也填不平（评论员：王珍珍 编辑：刘嘉欣）",
    "duration": "1:58",
-   "heat": 1741852,
-   "updated": "2026-10-10T10:30:15.316184",
+   "heat": 2092214,
+   "updated": "2026-10-10T17:42:52.145958",
    "url": "https://www.bilibili.com/video/BV13FHQ6DEV4",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "王与也行",
-   "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
-   "duration": "1:27",
-   "heat": 2808647,
-   "updated": "2026-10-10T10:30:15.316185",
-   "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391150,
-   "updated": "2026-10-10T10:30:15.316187",
+   "heat": 391153,
+   "updated": "2026-10-10T17:42:52.145960",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653436,
-   "updated": "2026-10-10T10:30:15.316189",
+   "updated": "2026-10-10T17:42:52.145962",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -249,8 +249,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557552,
-   "updated": "2026-10-10T10:30:15.316190",
+   "heat": 557553,
+   "updated": "2026-10-10T17:42:52.145964",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155668,
-   "updated": "2026-10-10T10:30:15.316192",
+   "updated": "2026-10-10T17:42:52.145966",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -279,13 +279,31 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "AI生成内容也有版权风险",
+   "title": "挑战用AI进入生化危机爆发夜",
    "duration": "—",
-   "heat": 9202510,
-   "updated": "2026-10-10T10:30:15.316194",
-   "url": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B9%9F%E6%9C%89%E7%89%88%E6%9D%83%E9%A3%8E%E9%99%A9?type=general",
+   "heat": 7714574,
+   "updated": "2026-10-10T17:42:52.145968",
+   "url": "https://www.douyin.com/search/%E6%8C%91%E6%88%98%E7%94%A8AI%E8%BF%9B%E5%85%A5%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C?type=general",
    "points": [
-    "热门话题「AI生成内容也有版权风险」：相关视频 1 条"
+    "热门话题「挑战用AI进入生化危机爆发夜」：相关视频 3 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-10T17:42:52.145970",
+   "url": "https://www.qbitai.com/2026/10/502541.html",
+   "points": [
+    "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
    ],
    "flags": {
     "fav": false,
@@ -300,7 +318,7 @@
    "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T10:30:15.316195",
+   "updated": "2026-10-10T17:42:52.145972",
    "url": "https://www.qbitai.com/2026/10/502496.html",
    "points": [
     "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
@@ -318,7 +336,7 @@
    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T10:30:15.316197",
+   "updated": "2026-10-10T17:42:52.145973",
    "url": "https://www.qbitai.com/2026/10/502492.html",
    "points": [],
    "flags": {
@@ -334,7 +352,7 @@
    "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T10:30:15.316198",
+   "updated": "2026-10-10T17:42:52.145975",
    "url": "https://www.qbitai.com/2026/10/502484.html",
    "points": [],
    "flags": {
@@ -350,7 +368,7 @@
    "title": "特斯拉FSD，在欧洲被打回原形",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T10:30:15.316199",
+   "updated": "2026-10-10T17:42:52.145976",
    "url": "https://www.qbitai.com/2026/10/502467.html",
    "points": [],
    "flags": {
@@ -366,28 +384,10 @@
    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-10T10:30:15.316201",
+   "updated": "2026-10-10T17:42:52.145978",
    "url": "https://www.qbitai.com/2026/10/502422.html",
    "points": [
     "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-10T10:30:15.316202",
-   "url": "https://www.qbitai.com/2026/10/502411.html",
-   "points": [
-    "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
    ],
    "flags": {
     "fav": false,
@@ -419,7 +419,7 @@
    "author": "Hacker News",
    "title": "公司中的人工智能：软件生产的瓶颈 [pdf]",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-09",
    "url": "https://fion.ac/jellyfish.pdf",
    "points": [
