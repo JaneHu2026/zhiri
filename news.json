@@ -1,196 +1,106 @@
 {
- "fetchedAt": "02:42",
+ "fetchedAt": "09:34",
  "fetchedDate": "2026-10-10",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "总书记的人民情怀｜“探索浩瀚宇宙，建设航天强国”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIBpSZFV9tAqcBtAEE2LFB261009.shtml",
-   "summary": "“探索浩瀚宇宙，建设航天强国，是我们不懈追求的航天梦。”2024年9月，习近平总书记在接见探月工程嫦娥六号任务参研参试人员代表时强调。",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "要闻",
-   "title": "跟着习爷爷学在纪念馆｜第二集 什么是共产党？",
+   "title": "我国出台19项举措推进新质生产力发展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTI1Yev8YMrFEA6ZjJAEERy261009.shtml",
-   "summary": "在位于湖南省汝城县文明瑶族乡沙洲瑶族村的“半条被子的温暖”专题陈列馆里，半条被子、一张借据，见证着红军与百姓生死与共的历史，凝结着深厚的军民鱼水情。《跟着习爷爷学在纪念馆》第二集，带领青少年来到这里，读懂“共产党就是自己有一条被子，也要剪下半条给老百姓的人”这句话里，那份始终把人民放在心上的初心，感…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "【新思想引领新征程】因地制宜 推动县域经济高质量发展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDE668JigATVzAJox3SIRsn261009.shtml",
-   "summary": "贵州黔东南州雷山县，生态环境优越，文化丰富多彩。今年，来这里游玩的人们有了更多新体验。白天，大家登上新修的廊道，全景俯瞰千户苗寨，到了晚上，看一场大型实景演出，住进苗家民宿，沉浸式感受特色文化魅力。今年以来，雷山县接待游客超1200万人次，同比增长超11%，文旅产业正加快成为当地富民强县的支柱产业。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "【赓续长征精神 奋进复兴征程】巴渝大地传薪火 奋楫笃行谱新篇",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEajYIYV5K4ix7iQTxX8rg261009.shtml",
-   "summary": "【赓续长征精神，奋进复兴征程】巴渝大地传薪火，奋楫笃行谱新篇。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "“十五五”时期我国将建设改造地下管网约77万公里",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEJ9TKmZz5s0x1XUuAN5jJ261009.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "时空观察｜机关大院门敞开能否成为门常开？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDE1glwOf3mXmedwvDSrFRh261009.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "透过出行新动向、消费新图景 “数”看假日中国澎湃活力",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/09/ARTIrifmzVjbb961cgES5bBd261009.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“稻米造血”20年：一款创新药的诞生之路",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/09/VIDEhiu4ylIHYHzB2p5ZGHWN261009.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "共探机遇、共享发展、共创繁荣——首届“华人发展论坛”在香港举行",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/digital/20261009/0f7eb4f361024f37b36af164a9ab9adc/c.html",
-   "summary": "共探机遇、共享发展、共创繁荣——首届“华人发展论坛”在香港举行-何超琼认为，将澳门文旅平台与香港金融网络相结合，背靠内地庞大市场，联动全球华商的本地化经验，就是强大的“双擎合力”。她表示……",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“十五五”北京中心城区将年增停车设施超2万个",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20261009/67413fe3daa445caa9d1537560fb4187/c.html",
-   "summary": "“十五五”北京中心城区将年增停车设施超2万个-\"8日发布的《北京市“十五五”时期现代化基础设施发展规划》提出，北京将加强停车需求保障。\"",
+   "url": "https://news.cctv.com/2026/10/10/ARTI0B9W0eyCuNWunpVbYiLu261009.shtml",
+   "summary": "f9385d86d863,0,1,16:9,newPlayerf78366d43df8,0,1,16:9,newPlayerec5b3032d3e4,0,1,16:9,newPlayer2a732d0f0c6f,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "政策",
-   "title": "中央政法委发布2026年第三季度见义勇为勇士榜",
-   "source": "新华网",
+   "title": "财政部：将实施更加积极的财政政策 加力扩大内需",
+   "source": "央视新闻",
    "time": "今天",
-   "url": "https://www.news.cn/government/20261009/6a36818f8bb3491fae6a01b624c31364/c.html",
-   "summary": "中央政法委发布2026年第三季度见义勇为勇士榜-\"见义勇为勇士榜发布活动由中央政法委主办，中华见义勇为基金会承办，2022年9月以来，已发布15次见义勇为勇士季度榜，共有886位见义勇为勇士获得通报表扬和奖励。\"",
+   "url": "https://news.cctv.com/2026/10/10/ARTIbs0MplDSVFSWKiSnblg3261010.shtml",
+   "summary": "报告认为，上半年，我国财政运行平稳向好。我国经济坚韧前行、稳中有进，为财政平稳运行奠定基础。各级财政部门加强财政资源统筹，支出总体保持靠前发力，重点领域得到较好保障。围绕持续释放内需潜力、支持加紧培育壮大新动能、加大保障和改善民生力度、推动绿色低碳转型等方面，财政政策更加积极、精准发力，并加强与其他…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "夯实技术基础 我国低空经济领域国际标准化建设提速",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIBPuQdhacHMOhTEPrnENW261009.shtml",
+   "summary": "记者10月9日了解到，我国深度参与国际标准化组织（ISO）、国际电工委员会（IEC）低空经济标准化工作，推动国际标准立项、研制与发布。其中，",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "奔县游丨不止兵马俑，来临潼赴一场有历史有山野的微度假",
+   "title": "红色旅游持续火热！一组数据感受国庆假期文旅活力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIIAnbIjAHpFUFnsKKaF6J261010.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "我国成功发射卫星互联网低轨27组卫星",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIdqXgr9bMwhmRGQThPh07261010.shtml",
+   "summary": "1c69f7f47ad6,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "服务惠民 消费增效 机关大院开放解锁了哪些新服务？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIiLODGiNSGex5qovEdFYt261009.shtml",
+   "summary": "这个国庆假期，多地政府主动打开机关大院，敞开食堂、停车场，让游客和市民免费歇脚、吃上热乎饭。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "在斑斓秋色中共赏秋韵 节后文旅消费市场持续火热",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIokTTvThGEFh6J1i1wLcz261009.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "国产大型邮轮“爱达·花城号”将以香港作为母港营运",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/10/ARTIv7WXamV1qUFzrO8nSRdj261010.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "两部门组织开展全国受灾群众冬春救助工作",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/ci/20261009/56c93a9d3309414287d361a5e7074551/c.html",
-   "summary": "奔县游丨不止兵马俑，来临潼赴一场有历史有山野的微度假-",
+   "url": "https://www.news.cn/government/20261010/bbbaf907f40b4f8ca40c3587cfd1f439/c.html",
+   "summary": "两部门组织开展全国受灾群众冬春救助工作-\"通知强调，各地要提前部署开展摸排，细化工作方案和措施，广泛动员宣传，深入细致摸排受灾群众救助需求，全面掌握底数。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国宣布对国际刑事法院实施制裁 法院谴责“对法治的攻击”",
+   "title": "特朗普宣布与俄罗斯柴油达成协议，泽连斯基称这是送给普京的礼物",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-   "summary": "包括英国在内的国际法庭的几个成员国表示，他们“强烈不同意”制裁。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "联合国前人权事务高级专员纳维·皮莱荣获诺贝尔和平奖",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-   "summary": "挪威诺贝尔委员会表示，皮莱因其“促进和平和国际法的努力”而受到认可。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "JD万斯对行刑队的执行表示怀疑，并表示他不会观看",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-   "summary": "行刑队计划对尼达尔·哈桑执行死刑，这将是 60 多年来的首次军事处决。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "乌克兰数据中心遭到袭击后，俄罗斯搜索引擎 Yandex 陷入困境",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-   "summary": "这家经常被称为“俄罗斯谷歌”的科技公司承认，客户可能会因攻击而遇到数字服务中断的情况。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "据报道，窃贼在意大利偷走了 30,000 瓶价值 500 万欧元的葡萄酒",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-   "summary": "这家位于佛罗伦萨的酒庄发生的盗窃案被认为是意大利同类盗窃案中规模最大的一起。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "希特勒墨索里尼当选秘鲁市长",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-   "summary": "出口民意调查显示，这位左翼候选人在秘鲁安第斯山脉的一个偏远地区以微弱优势获胜。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "埃塞俄比亚警告厄立特里亚，部队越境后将自卫",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-   "summary": "有人看到满载厄立特里亚士兵的卡车驶入埃塞俄比亚，据报道埃塞俄比亚已用无人机袭击予以回应。",
+   "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰总统严厉批评此举，称其为“必须结束而不是延长的战争投资”。",
    "day": 0
   },
   {
@@ -205,22 +115,12 @@
   },
   {
    "group": "gj",
-   "theme": "要闻",
-   "title": "巴黎摄影与视频展开幕",
-   "source": "人民网",
+   "theme": "国际",
+   "title": "埃博拉患者穿越三个国家却未被发现仍存在疑问",
+   "source": "BBC",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1009/c1002-40811303.html",
-   "summary": "这是10月8日在法国巴黎拍摄的巴黎摄影与视频展现场。 当日，巴黎摄影与视频展开幕，将持续至11日，设有器材展示、摄影作品展览、相机发展史专题展、讲座和体验活动等。 新华社记者邬惠我摄",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "英国驻耶路撒冷领事馆关闭 20名英外交官将离开",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1009/c1002-40811307.html",
-   "summary": "这是10月8日拍摄的英国驻耶路撒冷领事馆。 以色列外交部长萨尔10月8日在社交媒体发文说，英国驻耶路撒冷领事馆当天停止运作，包括总领事在内的20名英国外交官将结束任期并离开。英国外交大臣米利班德",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+   "summary": "新的细节揭示了这位 40 岁的商人如何在重病期间飞行并跨越地区边界。",
    "day": 0
   }
  ]

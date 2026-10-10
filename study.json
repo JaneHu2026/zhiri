@@ -1,26 +1,8 @@
 {
- "fetchedAt": "02:43",
+ "fetchedAt": "09:35",
  "fetchedDate": "2026-10-10",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Robot Chonk Cleans the Floor",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08 16:04:24",
-   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-   "points": [
-    "机器人 chonk 清洁地板"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -96,42 +78,6 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能的发展"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
    "author": "3Blue1Brown",
    "title": "The last IMO problem AI could not solve",
    "duration": "—",
@@ -149,12 +95,66 @@
   },
   {
    "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:12:53",
+   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "深入研究 ChatGPT 等法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
    "platform": "bilibili",
    "author": "伊介书生",
    "title": "烧 心 大 赛 ！【AI全民制作人】",
    "duration": "1:33",
-   "heat": 4482298,
-   "updated": "2026-10-09T18:43:09.984161",
+   "heat": 4523319,
+   "updated": "2026-10-10T01:35:16.884324",
    "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "我就是一颗豆",
    "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
    "duration": "9:50",
-   "heat": 1030083,
-   "updated": "2026-10-09T18:43:09.984170",
+   "heat": 1088912,
+   "updated": "2026-10-10T01:35:16.884335",
    "url": "https://www.bilibili.com/video/BV1eWHm6mEH9",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "王与也行",
    "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
    "duration": "1:27",
-   "heat": 2583142,
-   "updated": "2026-10-09T18:43:09.984173",
+   "heat": 2631440,
+   "updated": "2026-10-10T01:35:16.884337",
    "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
    "points": [],
    "flags": {
@@ -198,12 +198,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "剑客范十三",
-   "title": "带邓超当一天剑客！有些体验注定不会被AI取代！",
-   "duration": "2:30",
-   "heat": 844359,
-   "updated": "2026-10-09T18:43:09.984175",
-   "url": "https://www.bilibili.com/video/BV1A9pc6vEEX",
+   "author": "星落落_oi",
+   "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+   "duration": "2:14",
+   "heat": 284099,
+   "updated": "2026-10-10T01:35:16.884339",
+   "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391148,
-   "updated": "2026-10-09T18:43:09.984177",
+   "heat": 391149,
+   "updated": "2026-10-10T01:35:16.884341",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653436,
-   "updated": "2026-10-09T18:43:09.984180",
+   "updated": "2026-10-10T01:35:16.884343",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557552,
-   "updated": "2026-10-09T18:43:09.984182",
+   "updated": "2026-10-10T01:35:16.884345",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155668,
-   "updated": "2026-10-09T18:43:09.984184",
+   "updated": "2026-10-10T01:35:16.884346",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -282,7 +282,7 @@
    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T18:43:09.984186",
+   "updated": "2026-10-10T01:35:16.884348",
    "url": "https://www.qbitai.com/2026/10/502422.html",
    "points": [
     "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
@@ -300,7 +300,7 @@
    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T18:43:09.984188",
+   "updated": "2026-10-10T01:35:16.884350",
    "url": "https://www.qbitai.com/2026/10/502411.html",
    "points": [
     "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
@@ -318,7 +318,7 @@
    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T18:43:09.984190",
+   "updated": "2026-10-10T01:35:16.884352",
    "url": "https://www.qbitai.com/2026/10/502359.html",
    "points": [
     "Google 研究成果首次登上《柳叶刀》主刊"
@@ -336,7 +336,7 @@
    "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T18:43:09.984192",
+   "updated": "2026-10-10T01:35:16.884353",
    "url": "https://www.qbitai.com/2026/10/502330.html",
    "points": [
     "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
@@ -354,7 +354,7 @@
    "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T18:43:09.984194",
+   "updated": "2026-10-10T01:35:16.884355",
    "url": "https://www.qbitai.com/2026/10/502125.html",
    "points": [
     "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
@@ -372,9 +372,27 @@
    "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-09T18:43:09.984196",
+   "updated": "2026-10-10T01:35:16.884357",
    "url": "https://www.qbitai.com/2026/10/502114.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Anthropic 的人工智能向费城警方提供了有关未侦破凶杀案的虚假提示",
+   "duration": "—",
+   "heat": 13,
+   "updated": "2026-10-10",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "points": [
+    "Anthropic 的人工智能向费城警方提供了有关未侦破凶杀案的虚假提示"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -464,24 +482,6 @@
    "url": "https://www.businessinsider.com/trump-super-intelligence-rebrand-enemy-white-house-2026-10",
    "points": [
     "总统称那些使用“人工智能”一词的人是“敌人”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "超级智能和/或人工智能",
-   "duration": "—",
-   "heat": 8,
-   "updated": "2026-10-08",
-   "url": "https://news.ycombinator.com/item?id=50009918",
-   "points": [
-    "超级智能和/或人工智能"
    ],
    "flags": {
     "fav": false,
