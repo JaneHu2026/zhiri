@@ -1,177 +1,17 @@
 {
- "fetchedAt": "08:45",
+ "fetchedAt": "14:56",
  "fetchedDate": "2026-10-11",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07 13:29:33",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "points": [
-    "DeepMind的新人工智能刚刚破解了生命密码"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "The Billion Dollar AI Advantage Is Disappearing",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-05 09:53:12",
-   "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-   "points": [
-    "数十亿美元的人工智能优势正在消失"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
-   "points": [
-    "电话号码拼图"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-24 08:40:55",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "points": [
-    "Claude Opus 5.5 AI ：令人难以置信的飞跃"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
-   "points": [
-    "最后一个IMO问题AI无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个IMO问题AI无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "How I use LLMs",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-27 22:29:56",
-   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-   "points": [
-    "我如何使用LLM"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Deep Dive into LLMs like ChatGPT",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-05 18:23:47",
-   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-   "points": [
-    "像ChatGPT一样深入了解LLM"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "bilibili",
    "author": "星落落_oi",
    "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
    "duration": "2:14",
-   "heat": 839484,
-   "updated": "2026-10-11T00:45:42.759750",
+   "heat": 1001229,
+   "updated": "2026-10-11T06:56:03.906564",
    "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "我就是一颗豆",
-   "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
-   "duration": "9:50",
-   "heat": 1367209,
-   "updated": "2026-10-11T00:45:42.759760",
-   "url": "https://www.bilibili.com/video/BV1eWHm6mEH9",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,9 +25,25 @@
    "author": "邵艾伦Alan",
    "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
    "duration": "257:07",
-   "heat": 642981,
-   "updated": "2026-10-11T00:45:42.759763",
+   "heat": 816826,
+   "updated": "2026-10-11T06:56:03.906576",
    "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "我就是一颗豆",
+   "title": "《和樱花妹互换身体の日常》第五集【AI全民制作人】",
+   "duration": "9:50",
+   "heat": 1425045,
+   "updated": "2026-10-11T06:56:03.906579",
+   "url": "https://www.bilibili.com/video/BV1eWHm6mEH9",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,9 +57,25 @@
    "author": "大象新闻",
    "title": "“豆包问诊改问千问”是恶搞“请AI当判官”是日常，医患之间信任的沟壑不是AI挖的 AI也填不平（评论员：王珍珍 编辑：刘嘉欣）",
    "duration": "1:58",
-   "heat": 2188388,
-   "updated": "2026-10-11T00:45:42.759765",
+   "heat": 2396386,
+   "updated": "2026-10-11T06:56:03.906581",
    "url": "https://www.bilibili.com/video/BV13FHQ6DEV4",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "ByeByeBlueBerry",
+   "title": "《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】",
+   "duration": "4:16",
+   "heat": 842492,
+   "updated": "2026-10-11T06:56:03.906584",
+   "url": "https://www.bilibili.com/video/BV1CrpM6dEdE",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,8 +89,8 @@
    "author": "林子迹",
    "title": "【颠覆】我用AI魔改周星驰电影宇宙  【AI全民制作人】",
    "duration": "8:05",
-   "heat": 889476,
-   "updated": "2026-10-11T00:45:42.759767",
+   "heat": 1010273,
+   "updated": "2026-10-11T06:56:03.906586",
    "url": "https://www.bilibili.com/video/BV1akH96fEaW",
    "points": [],
    "flags": {
@@ -234,7 +106,7 @@
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
    "heat": 391154,
-   "updated": "2026-10-11T00:45:42.759770",
+   "updated": "2026-10-11T06:56:03.906589",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +122,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653436,
-   "updated": "2026-10-11T00:45:42.759772",
+   "updated": "2026-10-11T06:56:03.906591",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -261,14 +133,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Jack-Cui",
-   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
-   "duration": "2:30",
-   "heat": 557553,
-   "updated": "2026-10-11T00:45:42.759774",
-   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
-   "points": [],
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "首届AI潮玩人气大赛",
+   "duration": "—",
+   "heat": 7769005,
+   "updated": "2026-10-11T06:56:03.906594",
+   "url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8AAI%E6%BD%AE%E7%8E%A9%E4%BA%BA%E6%B0%94%E5%A4%A7%E8%B5%9B?type=general",
+   "points": [
+    "热门话题「首届AI潮玩人气大赛」：相关视频 1 条"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -281,8 +155,8 @@
    "author": "抖音热榜",
    "title": "挑战用AI进入生化危机爆发夜",
    "duration": "—",
-   "heat": 7701567,
-   "updated": "2026-10-11T00:45:42.759777",
+   "heat": 7674136,
+   "updated": "2026-10-11T06:56:03.906596",
    "url": "https://www.douyin.com/search/%E6%8C%91%E6%88%98%E7%94%A8AI%E8%BF%9B%E5%85%A5%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C?type=general",
    "points": [
     "热门话题「挑战用AI进入生化危机爆发夜」：相关视频 3 条"
@@ -297,10 +171,62 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "王的猜想，刚刚扩展到四维",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-11T06:56:03.906599",
+   "url": "https://www.qbitai.com/2026/10/502584.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "硅谷AI现状：谁有算力谁是爹",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-11T06:56:03.906600",
+   "url": "https://www.qbitai.com/2026/10/502585.html",
+   "points": [
+    "马斯克连横A社，硅谷VC开始囤GPU"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-11T06:56:03.906602",
+   "url": "https://www.qbitai.com/2026/10/502544.html",
+   "points": [
+    "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-11T00:45:42.759779",
+   "updated": "2026-10-11T06:56:03.906604",
    "url": "https://www.qbitai.com/2026/10/502541.html",
    "points": [
     "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
@@ -318,7 +244,7 @@
    "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-11T00:45:42.759781",
+   "updated": "2026-10-11T06:56:03.906606",
    "url": "https://www.qbitai.com/2026/10/502496.html",
    "points": [
     "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
@@ -336,7 +262,7 @@
    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-11T00:45:42.759783",
+   "updated": "2026-10-11T06:56:03.906608",
    "url": "https://www.qbitai.com/2026/10/502492.html",
    "points": [],
    "flags": {
@@ -347,46 +273,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-11T00:45:42.759785",
-   "url": "https://www.qbitai.com/2026/10/502484.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "特斯拉FSD，在欧洲被打回原形",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-11T00:45:42.759787",
-   "url": "https://www.qbitai.com/2026/10/502467.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-11T00:45:42.759789",
-   "url": "https://www.qbitai.com/2026/10/502422.html",
-   "points": [],
+   "heat": 35,
+   "updated": "2026-10-11",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "points": [
+    "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -399,7 +295,7 @@
    "author": "Hacker News",
    "title": "人工智能能学会手术的艺术吗？",
    "duration": "—",
-   "heat": 3,
+   "heat": 4,
    "updated": "2026-10-10",
    "url": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
    "points": [
@@ -476,24 +372,6 @@
    "url": "https://chromewebstore.google.com/detail/si-→-ai/cfpagmhjlhnbjabgaoeobkciklolaekn",
    "points": [
     "Show HN ：将超级智能重命名为人工智能"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "一个机器人进入了丹佛的一家喜剧俱乐部。（这不是开玩笑。）",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-08",
-   "url": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
-   "points": [
-    "一个机器人进入了丹佛的一家喜剧俱乐部。（这不是开玩笑。）"
    ],
    "flags": {
     "fav": false,
