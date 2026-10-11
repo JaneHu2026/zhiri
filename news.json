@@ -1,16 +1,46 @@
 {
- "fetchedAt": "14:55",
- "fetchedDate": "2026-10-11",
+ "fetchedAt": "00:11",
+ "fetchedDate": "2026-10-12",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "医疗",
-   "title": "习近平总书记同卫生健康工作者的故事",
+   "theme": "要闻",
+   "title": "“必须把因地制宜发展新质生产力摆在更加突出的战略位置”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/11/ARTIc1BvkVWiXxbLWRNl4dta261011.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/10/11/ARTIRbfyigiMABQlWRxURUXH261011.shtml",
+   "summary": "“‘十五五’时期，必须把因地制宜发展新质生产力摆在更加突出的战略位置”，习近平总书记强调。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【新思想引领新征程】守护绿水青山 共绘美丽中国新画卷",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/11/ARTItpCqHmCOXj2mj8ziq6ER261011.shtml",
+   "summary": "秋日的云南大理洱海碧波荡漾，成片的海菜花在水面绽放。曾经的洱海由于过度开发利用，水质持续退化、蓝藻频发，对水质极为敏感的海菜花几近消失。2015年，习近平总书记来到洱海边。他强调，经济要发展，但不能以破坏生态环境为代价。生态环境保护是一个长期任务，要久久为功。2020年，总书记再次来到云南考察时提出…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "人民领袖｜小岛上的健康牵挂",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/11/ARTILlN2dF4wOC9h7WuMUnGc261010.shtml",
+   "summary": "长江东流，在江苏镇江段孕育出一座江心小岛，镇江市丹徒区世业镇，便坐落于此。岛上5个村、1万多常住人口，过去长期被一道难题困扰——“既怕病要命，也怕交通要命。”",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "【文化中国行】无声的见证 不朽的信仰",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/11/ARTI33IMNlXp6PX1wfmELf8j261011.shtml",
+   "summary": "3abb9ec20e0b,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -21,36 +51,6 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/11/ARTISReCbs0xHtS8Vv5sIlv9261011.shtml",
    "summary": "b561002e62c9,0,1,16:9,newPlayer8aa27e25f152,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "我国加快构建人工智能安全治理体系 为技术创新系上“安全带”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/11/VIDEuFy09XAhFVhZxL7BMbck261011.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从“会种地”到“慧种地” “硬核”智能农机绘就希望的田野好“丰”光",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/11/ARTIRYlB3fp1GbOtmQiRCy2s261011.shtml",
-   "summary": "0bbcc834d9be,0,1,16:9,newPlayer59c4b6b95ce1,0,1,16:9,newPlayer8542b78447c4,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "通道提速、布局优化 我国国际航空货运网络加快织密",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/11/ARTITGEr73fLJ6K5yL7fTRQx261011.shtml",
-   "summary": "103fda6b5f79,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -66,10 +66,10 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "合作查验、一次放行 口岸焕新见证大湾区深度融合再提速",
+   "title": "【一线调研】一条老街的“精打细算”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/11/ARTI3uZRxds43zANhtojI87c261011.shtml",
+   "url": "https://news.cctv.com/2026/10/11/ARTIJI9IqfOGVwXb9JtA8nLO261011.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -86,21 +86,51 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+   "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+   "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+   "title": "Pope Leo to have surgery after lump found on lung",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-   "summary": "The leaders, including CJP founder Abhijeet Dipke, had been detained when they arrived in Delhi on Saturday.",
+   "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+   "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Homes and bridges swept away as fresh floods hit Nepal",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+   "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+   "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
    "day": 0
   },
   {
@@ -111,6 +141,26 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
    "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+   "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for s",
    "day": 0
   }
  ]
