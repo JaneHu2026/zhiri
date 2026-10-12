@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:05",
+ "fetchedAt": "19:46",
  "fetchedDate": "2026-10-12",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,25 @@
    "updated": "2026-10-11 16:53:17",
    "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
    "points": [
-    "DeepSeek 解决了人工智能的内存问题"
+    "DeepSeek解决了AI的记忆问题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Robot Chonk Cleans the Floor",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08 16:04:24",
+   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+   "points": [
+    "机器人Chonk清洁地板"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +49,7 @@
    "updated": "2026-10-07 13:29:33",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "points": [
-    "DeepMind 的新人工智能刚刚破解了生命密码"
+    "DeepMind的新人工智能刚刚破解了生命密码"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +85,43 @@
    "updated": "2026-09-25 13:35:02",
    "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
-    "电话号码之谜"
+    "电话号码拼图"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-23 14:50:17",
+   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+   "points": [
+    "决策模型、DSV4.1 Flash和新基准"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-19 15:35:20",
+   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+   "points": [
+    "Jev、Yang和递归自我提升-人工智能中的事件"
    ],
    "flags": {
     "fav": false,
@@ -85,61 +139,7 @@
    "updated": "2026-09-18 17:14:08",
    "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
    "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "How I use LLMs",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-27 22:29:56",
-   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-   "points": [
-    "我如何使用法学硕士"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Deep Dive into LLMs like ChatGPT",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2025-02-05 18:23:47",
-   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-   "points": [
-    "深入研究 ChatGPT 等法学硕士"
+    "最后一个IMO问题AI无法解决"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "星落落_oi",
    "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
    "duration": "2:14",
-   "heat": 1291875,
-   "updated": "2026-10-12T01:05:52.705779",
+   "heat": 1362076,
+   "updated": "2026-10-12T11:46:50.934844",
    "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
    "points": [],
    "flags": {
@@ -169,8 +169,8 @@
    "author": "陈要得",
    "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
    "duration": "2:08",
-   "heat": 2914521,
-   "updated": "2026-10-12T01:05:52.705791",
+   "heat": 3441498,
+   "updated": "2026-10-12T11:46:50.934855",
    "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
    "points": [],
    "flags": {
@@ -185,8 +185,8 @@
    "author": "邵艾伦Alan",
    "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
    "duration": "262:30",
-   "heat": 1044222,
-   "updated": "2026-10-12T01:05:52.705793",
+   "heat": 1189599,
+   "updated": "2026-10-12T11:46:50.934858",
    "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "ByeByeBlueBerry",
    "title": "《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】",
    "duration": "4:16",
-   "heat": 1078303,
-   "updated": "2026-10-12T01:05:52.705795",
+   "heat": 1194093,
+   "updated": "2026-10-12T11:46:50.934860",
    "url": "https://www.bilibili.com/video/BV1CrpM6dEdE",
    "points": [],
    "flags": {
@@ -214,12 +214,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "林子迹",
-   "title": "【颠覆】我用AI魔改周星驰电影宇宙  【AI全民制作人】",
-   "duration": "8:05",
-   "heat": 1249604,
-   "updated": "2026-10-12T01:05:52.705797",
-   "url": "https://www.bilibili.com/video/BV1akH96fEaW",
+   "author": "抽乐个大象",
+   "title": "⚡️老詹 退役巡演⚡️【AI MV大赛】",
+   "duration": "2:49",
+   "heat": 926866,
+   "updated": "2026-10-12T11:46:50.934863",
+   "url": "https://www.bilibili.com/video/BV1oNpe6jEi2",
    "points": [],
    "flags": {
     "fav": false,
@@ -230,12 +230,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "大象新闻",
-   "title": "“豆包问诊改问千问”是恶搞“请AI当判官”是日常，医患之间信任的沟壑不是AI挖的 AI也填不平（评论员：王珍珍 编辑：刘嘉欣）",
-   "duration": "1:58",
-   "heat": 2481212,
-   "updated": "2026-10-12T01:05:52.705799",
-   "url": "https://www.bilibili.com/video/BV13FHQ6DEV4",
+   "author": "星辰趣味屋",
+   "title": "50年修船厂，懂王问政AI，F35寄快递，美军最近真是“蒸蒸日上”！",
+   "duration": "20:41",
+   "heat": 637688,
+   "updated": "2026-10-12T11:46:50.934865",
+   "url": "https://www.bilibili.com/video/BV1Rxpg6yE16",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,8 +249,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391157,
-   "updated": "2026-10-12T01:05:52.705801",
+   "heat": 391159,
+   "updated": "2026-10-12T11:46:50.934867",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653436,
-   "updated": "2026-10-12T01:05:52.705802",
+   "updated": "2026-10-12T11:46:50.934869",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -279,10 +279,28 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
+   "title": "AI万里绘征途",
+   "duration": "—",
+   "heat": 11102171,
+   "updated": "2026-10-12T11:46:50.934872",
+   "url": "https://www.douyin.com/search/AI%E4%B8%87%E9%87%8C%E7%BB%98%E5%BE%81%E9%80%94?type=general",
+   "points": [
+    "热门话题「AI万里绘征途」：相关视频 8 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
    "title": "用ai还原抖音寻人真实故事",
    "duration": "—",
-   "heat": 7729668,
-   "updated": "2026-10-12T01:05:52.705804",
+   "heat": 7737746,
+   "updated": "2026-10-12T11:46:50.934874",
    "url": "https://www.douyin.com/search/%E7%94%A8ai%E8%BF%98%E5%8E%9F%E6%8A%96%E9%9F%B3%E5%AF%BB%E4%BA%BA%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B?type=general",
    "points": [
     "热门话题「用ai还原抖音寻人真实故事」：相关视频 3 条"
@@ -297,47 +315,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+   "title": "2026没过完，已有480亿美元投进了物理AI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T01:05:52.705806",
-   "url": "https://www.qbitai.com/2026/10/502644.html",
-   "points": [
-    "一套生成论文初稿的多智能体工作流"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "何恺明团队发布多模态Harness框架",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-12T01:05:52.705808",
-   "url": "https://www.qbitai.com/2026/10/502628.html",
-   "points": [
-    "多模态模型的视觉原生Harness，来了！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "陶哲轩：数学2.0时代已至！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-12T01:05:52.705810",
-   "url": "https://www.qbitai.com/2026/10/502594.html",
+   "updated": "2026-10-12T11:46:50.934876",
+   "url": "https://www.qbitai.com/2026/10/502741.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -349,29 +331,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "王的猜想，刚刚扩展到四维",
+   "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T01:05:52.705812",
-   "url": "https://www.qbitai.com/2026/10/502584.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "硅谷AI现状：谁有算力谁是爹",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-12T01:05:52.705813",
-   "url": "https://www.qbitai.com/2026/10/502585.html",
+   "updated": "2026-10-12T11:46:50.934906",
+   "url": "https://www.qbitai.com/2026/10/502683.html",
    "points": [
-    "马斯克连横A社，硅谷VC开始囤GPU"
+    "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。"
    ],
    "flags": {
     "fav": false,
@@ -383,13 +349,83 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+   "title": "AI从「造图」卷到「造世界」，这次真有点科幻了。。。",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T01:05:52.705815",
-   "url": "https://www.qbitai.com/2026/10/502544.html",
+   "updated": "2026-10-12T11:46:50.934910",
+   "url": "https://www.qbitai.com/2026/10/502701.html",
    "points": [
-    "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
+    "从画出一个世界，到让整个世界「活」过来"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-12T11:46:50.934914",
+   "url": "https://www.qbitai.com/2026/10/502667.html",
+   "points": [
+    "GPT-6 Astra扫荡数学证明ing"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-12T11:46:50.934918",
+   "url": "https://www.qbitai.com/2026/10/502654.html",
+   "points": [
+    "游戏打到21:0，AI甚至不用再调用大模型了"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "智谱新模型，490 tokens/s！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-12T11:46:50.934920",
+   "url": "https://www.qbitai.com/2026/10/502649.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "硅谷正在与特朗普、SpaceXAI和AIForce重新命名",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-12",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "points": [
+    "硅谷正在与特朗普、SpaceXAI和AIForce重新命名"
    ],
    "flags": {
     "fav": false,
@@ -401,13 +437,49 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "OpenAI 因人工智能风险争议解雇 3 名安全研究人员",
+   "title": "公司中的人工智能：软件生产中的瓶颈[pdf]",
    "duration": "—",
-   "heat": 13,
+   "heat": 2,
+   "updated": "2026-10-12",
+   "url": "https://fion.ac/jellyfish.pdf",
+   "points": [
+    "公司中的人工智能：软件生产中的瓶颈[pdf]"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "网站使用人工智能生成北方土著新闻“记者”",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-10-12",
+   "url": "https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554",
+   "points": [
+    "网站使用人工智能生成北方土著新闻“记者”"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "OpenAI在AI风险争议中解雇了3名安全研究人员",
+   "duration": "—",
+   "heat": 15,
    "updated": "2026-10-11",
    "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
    "points": [
-    "OpenAI 因人工智能风险争议解雇 3 名安全研究人员"
+    "OpenAI在AI风险争议中解雇了3名安全研究人员"
    ],
    "flags": {
     "fav": false,
@@ -419,13 +491,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Anthropic 的克劳德就费城悬而未决的凶杀案提交了虚假线索",
+   "title": "Anthropic的Claude就费城未解决的凶杀案提交虚假小费",
    "duration": "—",
    "heat": 8,
    "updated": "2026-10-11",
    "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
    "points": [
-    "Anthropic 的克劳德就费城悬而未决的凶杀案提交了虚假线索"
+    "Anthropic的Claude就费城未解决的凶杀案提交虚假小费"
    ],
    "flags": {
     "fav": false,
@@ -437,67 +509,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "“纯粹的疯狂”：数学家对 OpenAI 数学成绩下降的反应",
+   "title": "“纯粹的疯狂” ：数学家对OpenAI的数学结果下降做出反应",
    "duration": "—",
    "heat": 6,
    "updated": "2026-10-11",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
    "points": [
-    "“纯粹的疯狂”：数学家对 OpenAI 数学成绩下降的反应"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害”",
-   "duration": "—",
-   "heat": 42,
-   "updated": "2026-10-11",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-   "points": [
-    "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能可以学习外科手术吗？",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-10-10",
-   "url": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
-   "points": [
-    "人工智能可以学习外科手术吗？"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能作为编排系统",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-10",
-   "url": "https://medium.com/@smoking2man/artificial-intelligence-as-an-orchestration-system-the-contradiction-between-functional-b517f47dae27",
-   "points": [
-    "人工智能作为编排系统"
+    "“纯粹的疯狂” ：数学家对OpenAI的数学结果下降做出反应"
    ],
    "flags": {
     "fav": false,
