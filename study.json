@@ -1,6 +1,6 @@
 {
- "fetchedAt": "19:46",
- "fetchedDate": "2026-10-12",
+ "fetchedAt": "05:39",
+ "fetchedDate": "2026-10-13",
  "source": "zhiri-server",
  "items": [
   {
@@ -13,7 +13,7 @@
    "updated": "2026-10-11 16:53:17",
    "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
    "points": [
-    "DeepSeek解决了AI的记忆问题"
+    "DeepSeek 解决了人工智能的内存问题"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +31,7 @@
    "updated": "2026-10-08 16:04:24",
    "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
    "points": [
-    "机器人Chonk清洁地板"
+    "机器人 chonk 清洁地板"
    ],
    "flags": {
     "fav": false,
@@ -49,7 +49,7 @@
    "updated": "2026-10-07 13:29:33",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "points": [
-    "DeepMind的新人工智能刚刚破解了生命密码"
+    "DeepMind 的新人工智能刚刚破解了生命密码"
    ],
    "flags": {
     "fav": false,
@@ -85,7 +85,7 @@
    "updated": "2026-09-25 13:35:02",
    "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
-    "电话号码拼图"
+    "电话号码之谜"
    ],
    "flags": {
     "fav": false,
@@ -103,7 +103,7 @@
    "updated": "2026-09-23 14:50:17",
    "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
    "points": [
-    "决策模型、DSV4.1 Flash和新基准"
+    "决策模型、DSV4.1 闪存和新基准"
    ],
    "flags": {
     "fav": false,
@@ -121,7 +121,7 @@
    "updated": "2026-09-19 15:35:20",
    "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
    "points": [
-    "Jev、Yang和递归自我提升-人工智能中的事件"
+    "Jev、Yang 和递归自我改进 - 人工智能的发展"
    ],
    "flags": {
     "fav": false,
@@ -139,24 +139,8 @@
    "updated": "2026-09-18 17:14:08",
    "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
    "points": [
-    "最后一个IMO问题AI无法解决"
+    "最后一个 IMO 问题人工智能无法解决"
    ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "星落落_oi",
-   "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-   "duration": "2:14",
-   "heat": 1362076,
-   "updated": "2026-10-12T11:46:50.934844",
-   "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
-   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -169,9 +153,25 @@
    "author": "陈要得",
    "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
    "duration": "2:08",
-   "heat": 3441498,
-   "updated": "2026-10-12T11:46:50.934855",
+   "heat": 3627672,
+   "updated": "2026-10-12T21:39:21.754713",
    "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "星落落_oi",
+   "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+   "duration": "2:14",
+   "heat": 1422639,
+   "updated": "2026-10-12T21:39:21.754722",
+   "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,25 +185,9 @@
    "author": "邵艾伦Alan",
    "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
    "duration": "262:30",
-   "heat": 1189599,
-   "updated": "2026-10-12T11:46:50.934858",
+   "heat": 1269508,
+   "updated": "2026-10-12T21:39:21.754725",
    "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "ByeByeBlueBerry",
-   "title": "《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】",
-   "duration": "4:16",
-   "heat": 1194093,
-   "updated": "2026-10-12T11:46:50.934860",
-   "url": "https://www.bilibili.com/video/BV1CrpM6dEdE",
    "points": [],
    "flags": {
     "fav": false,
@@ -217,9 +201,25 @@
    "author": "抽乐个大象",
    "title": "⚡️老詹 退役巡演⚡️【AI MV大赛】",
    "duration": "2:49",
-   "heat": 926866,
-   "updated": "2026-10-12T11:46:50.934863",
+   "heat": 972621,
+   "updated": "2026-10-12T21:39:21.754727",
    "url": "https://www.bilibili.com/video/BV1oNpe6jEi2",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "ByeByeBlueBerry",
+   "title": "《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】",
+   "duration": "4:16",
+   "heat": 1303642,
+   "updated": "2026-10-12T21:39:21.754729",
+   "url": "https://www.bilibili.com/video/BV1CrpM6dEdE",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +233,8 @@
    "author": "星辰趣味屋",
    "title": "50年修船厂，懂王问政AI，F35寄快递，美军最近真是“蒸蒸日上”！",
    "duration": "20:41",
-   "heat": 637688,
-   "updated": "2026-10-12T11:46:50.934865",
+   "heat": 674763,
+   "updated": "2026-10-12T21:39:21.754731",
    "url": "https://www.bilibili.com/video/BV1Rxpg6yE16",
    "points": [],
    "flags": {
@@ -249,8 +249,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391159,
-   "updated": "2026-10-12T11:46:50.934867",
+   "heat": 391161,
+   "updated": "2026-10-12T21:39:21.754733",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653436,
-   "updated": "2026-10-12T11:46:50.934869",
+   "updated": "2026-10-12T21:39:21.754735",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -277,34 +277,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "AI万里绘征途",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "hacked by trenggalek6etar",
    "duration": "—",
-   "heat": 11102171,
-   "updated": "2026-10-12T11:46:50.934872",
-   "url": "https://www.douyin.com/search/AI%E4%B8%87%E9%87%8C%E7%BB%98%E5%BE%81%E9%80%94?type=general",
-   "points": [
-    "热门话题「AI万里绘征途」：相关视频 8 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "用ai还原抖音寻人真实故事",
-   "duration": "—",
-   "heat": 7737746,
-   "updated": "2026-10-12T11:46:50.934874",
-   "url": "https://www.douyin.com/search/%E7%94%A8ai%E8%BF%98%E5%8E%9F%E6%8A%96%E9%9F%B3%E5%AF%BB%E4%BA%BA%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B?type=general",
-   "points": [
-    "热门话题「用ai还原抖音寻人真实故事」：相关视频 3 条"
-   ],
+   "heat": 0,
+   "updated": "2026-10-12T21:39:21.754737",
+   "url": "https://www.qbitai.com/2026/10/502764.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -318,7 +298,7 @@
    "title": "2026没过完，已有480亿美元投进了物理AI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T11:46:50.934876",
+   "updated": "2026-10-12T21:39:21.754739",
    "url": "https://www.qbitai.com/2026/10/502741.html",
    "points": [],
    "flags": {
@@ -334,7 +314,7 @@
    "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T11:46:50.934906",
+   "updated": "2026-10-12T21:39:21.754741",
    "url": "https://www.qbitai.com/2026/10/502683.html",
    "points": [
     "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。"
@@ -352,7 +332,7 @@
    "title": "AI从「造图」卷到「造世界」，这次真有点科幻了。。。",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T11:46:50.934910",
+   "updated": "2026-10-12T21:39:21.754743",
    "url": "https://www.qbitai.com/2026/10/502701.html",
    "points": [
     "从画出一个世界，到让整个世界「活」过来"
@@ -370,7 +350,7 @@
    "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T11:46:50.934914",
+   "updated": "2026-10-12T21:39:21.754745",
    "url": "https://www.qbitai.com/2026/10/502667.html",
    "points": [
     "GPT-6 Astra扫荡数学证明ing"
@@ -388,7 +368,7 @@
    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-12T11:46:50.934918",
+   "updated": "2026-10-12T21:39:21.754747",
    "url": "https://www.qbitai.com/2026/10/502654.html",
    "points": [
     "游戏打到21:0，AI甚至不用再调用大模型了"
@@ -401,31 +381,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "智谱新模型，490 tokens/s！",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-12T11:46:50.934920",
-   "url": "https://www.qbitai.com/2026/10/502649.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "硅谷正在与特朗普、SpaceXAI和AIForce重新命名",
+   "title": "英伟达被指控试图与安娜档案馆达成协议",
    "duration": "—",
-   "heat": 1,
+   "heat": 13,
    "updated": "2026-10-12",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms",
    "points": [
-    "硅谷正在与特朗普、SpaceXAI和AIForce重新命名"
+    "英伟达被指控试图与安娜档案馆达成协议"
    ],
    "flags": {
     "fav": false,
@@ -437,13 +401,67 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "公司中的人工智能：软件生产中的瓶颈[pdf]",
+   "title": "指定 Google 客户端供人工智能 (AI) 代理使用",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-12",
+   "url": "https://support.google.com/cloud/answer/15549257?hl=en",
+   "points": [
+    "指定 Google 客户端供人工智能 (AI) 代理使用"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Dev 使用 AI 代理重建了《现代战争 2》的源代码； 83% 匹配",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-12",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
+   "points": [
+    "Dev 使用 AI 代理重建了《现代战争 2》的源代码； 83% 匹配"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "硅谷与特朗普保持一致，SpaceXAI和AIForce将更名",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-12",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "points": [
+    "硅谷与特朗普保持一致，SpaceXAI和AIForce将更名"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "公司中的人工智能：软件生产的瓶颈 [pdf]",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-12",
    "url": "https://fion.ac/jellyfish.pdf",
    "points": [
-    "公司中的人工智能：软件生产中的瓶颈[pdf]"
+    "公司中的人工智能：软件生产的瓶颈 [pdf]"
    ],
    "flags": {
     "fav": false,
@@ -455,67 +473,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "网站使用人工智能生成北方土著新闻“记者”",
+   "title": "网站使用人工智能生成北方原住民新闻“通讯员”",
    "duration": "—",
    "heat": 5,
    "updated": "2026-10-12",
    "url": "https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554",
    "points": [
-    "网站使用人工智能生成北方土著新闻“记者”"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI在AI风险争议中解雇了3名安全研究人员",
-   "duration": "—",
-   "heat": 15,
-   "updated": "2026-10-11",
-   "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
-   "points": [
-    "OpenAI在AI风险争议中解雇了3名安全研究人员"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Anthropic的Claude就费城未解决的凶杀案提交虚假小费",
-   "duration": "—",
-   "heat": 8,
-   "updated": "2026-10-11",
-   "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
-   "points": [
-    "Anthropic的Claude就费城未解决的凶杀案提交虚假小费"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "“纯粹的疯狂” ：数学家对OpenAI的数学结果下降做出反应",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-10-11",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "points": [
-    "“纯粹的疯狂” ：数学家对OpenAI的数学结果下降做出反应"
+    "网站使用人工智能生成北方原住民新闻“通讯员”"
    ],
    "flags": {
     "fav": false,
