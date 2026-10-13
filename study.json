@@ -1,5 +1,5 @@
 {
- "fetchedAt": "10:55",
+ "fetchedAt": "19:33",
  "fetchedDate": "2026-10-13",
  "source": "zhiri-server",
  "items": [
@@ -153,8 +153,8 @@
    "author": "陈要得",
    "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
    "duration": "2:08",
-   "heat": 3677719,
-   "updated": "2026-10-13T02:55:21.817706",
+   "heat": 3889832,
+   "updated": "2026-10-13T11:33:16.519311",
    "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
    "points": [],
    "flags": {
@@ -167,11 +167,11 @@
    "id": "sv_ext",
    "platform": "bilibili",
    "author": "星落落_oi",
-   "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-   "duration": "2:14",
-   "heat": 1438154,
-   "updated": "2026-10-13T02:55:21.817716",
-   "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
+   "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+   "duration": "2:15",
+   "heat": 774779,
+   "updated": "2026-10-13T11:33:16.519319",
+   "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,57 +185,9 @@
    "author": "邵艾伦Alan",
    "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
    "duration": "262:30",
-   "heat": 1293606,
-   "updated": "2026-10-13T02:55:21.817719",
+   "heat": 1363610,
+   "updated": "2026-10-13T11:33:16.519322",
    "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "抽乐个大象",
-   "title": "⚡️老詹 退役巡演⚡️【AI MV大赛】",
-   "duration": "2:49",
-   "heat": 984219,
-   "updated": "2026-10-13T02:55:21.817721",
-   "url": "https://www.bilibili.com/video/BV1oNpe6jEi2",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "星辰趣味屋",
-   "title": "50年修船厂，懂王问政AI，F35寄快递，美军最近真是“蒸蒸日上”！",
-   "duration": "20:41",
-   "heat": 688067,
-   "updated": "2026-10-13T02:55:21.817723",
-   "url": "https://www.bilibili.com/video/BV1Rxpg6yE16",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "ByeByeBlueBerry",
-   "title": "《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】",
-   "duration": "4:16",
-   "heat": 1343780,
-   "updated": "2026-10-13T02:55:21.817725",
-   "url": "https://www.bilibili.com/video/BV1CrpM6dEdE",
    "points": [],
    "flags": {
     "fav": false,
@@ -249,9 +201,41 @@
    "author": "蚊子-学做美食",
    "title": "跟着AI教学能否实现薯条自由？",
    "duration": "3:14",
-   "heat": 599013,
-   "updated": "2026-10-13T02:55:21.817727",
+   "heat": 739283,
+   "updated": "2026-10-13T11:33:16.519323",
    "url": "https://www.bilibili.com/video/BV17EpY6UEdL",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "星辰趣味屋",
+   "title": "50年修船厂，懂王问政AI，F35寄快递，美军最近真是“蒸蒸日上”！",
+   "duration": "20:41",
+   "heat": 721520,
+   "updated": "2026-10-13T11:33:16.519325",
+   "url": "https://www.bilibili.com/video/BV1Rxpg6yE16",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "抽乐个大象",
+   "title": "⚡️老詹 退役巡演⚡️【AI MV大赛】",
+   "duration": "2:49",
+   "heat": 1029295,
+   "updated": "2026-10-13T11:33:16.519326",
+   "url": "https://www.bilibili.com/video/BV1oNpe6jEi2",
    "points": [],
    "flags": {
     "fav": false,
@@ -265,9 +249,25 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391162,
-   "updated": "2026-10-13T02:55:21.817729",
+   "heat": 391164,
+   "updated": "2026-10-13T11:33:16.519328",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "优设AIGC",
+   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
+   "duration": "0:54",
+   "heat": 653437,
+   "updated": "2026-10-13T11:33:16.519329",
+   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "宋雨琦Training Season好飒",
    "duration": "—",
-   "heat": 7667889,
-   "updated": "2026-10-13T02:55:21.817732",
+   "heat": 7626095,
+   "updated": "2026-10-13T11:33:16.519330",
    "url": "https://www.douyin.com/search/%E5%AE%8B%E9%9B%A8%E7%90%A6Training%20Season%E5%A5%BD%E9%A3%92?type=general",
    "points": [
     "热门话题「宋雨琦Training Season好飒」：相关视频 3 条"
@@ -297,13 +297,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+   "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T02:55:21.817734",
-   "url": "https://www.qbitai.com/2026/10/502770.html",
+   "updated": "2026-10-13T11:33:16.519332",
+   "url": "https://www.qbitai.com/2026/10/503107.html",
    "points": [
-    "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名"
+    "让VLA从“演示可用”逼近“产线可用”"
    ],
    "flags": {
     "fav": false,
@@ -315,11 +315,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "hacked by trenggalek6etar",
+   "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T02:55:21.817736",
-   "url": "https://www.qbitai.com/2026/10/502764.html",
+   "updated": "2026-10-13T11:33:16.519333",
+   "url": "https://www.qbitai.com/2026/10/502992.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -331,11 +331,29 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "2026没过完，已有480亿美元投进了物理AI",
+   "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T02:55:21.817738",
-   "url": "https://www.qbitai.com/2026/10/502741.html",
+   "updated": "2026-10-13T11:33:16.519335",
+   "url": "https://www.qbitai.com/2026/10/502954.html",
+   "points": [
+    "让材料感知压力，造出超薄高密度电子皮肤"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-13T11:33:16.519336",
+   "url": "https://www.qbitai.com/2026/10/502920.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -347,13 +365,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
+   "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T02:55:21.817740",
-   "url": "https://www.qbitai.com/2026/10/502683.html",
+   "updated": "2026-10-13T11:33:16.519337",
+   "url": "https://www.qbitai.com/2026/10/502907.html",
    "points": [
-    "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。"
+    "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
    ],
    "flags": {
     "fav": false,
@@ -365,13 +383,29 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "AI从「造图」卷到「造世界」，这次真有点科幻了。。。",
+   "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T02:55:21.817742",
-   "url": "https://www.qbitai.com/2026/10/502701.html",
+   "updated": "2026-10-13T11:33:16.519339",
+   "url": "https://www.qbitai.com/2026/10/502784.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Character.ai 申请破产",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-10-13",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
    "points": [
-    "从画出一个世界，到让整个世界「活」过来"
+    "Character.ai 申请破产"
    ],
    "flags": {
     "fav": false,
@@ -381,15 +415,33 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "构建有利于工人的人工智能",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-13T02:55:21.817744",
-   "url": "https://www.qbitai.com/2026/10/502667.html",
+   "heat": 2,
+   "updated": "2026-10-13",
+   "url": "https://www.nber.org/papers/w34854",
    "points": [
-    "GPT-6 Astra扫荡数学证明ing"
+    "构建有利于工人的人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "英特尔加速面向代理人工智能时代的开放基础设施",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-13",
+   "url": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html",
+   "points": [
+    "英特尔加速面向代理人工智能时代的开放基础设施"
    ],
    "flags": {
     "fav": false,
@@ -403,7 +455,7 @@
    "author": "Hacker News",
    "title": "公司中的人工智能：软件生产的瓶颈 [pdf]",
    "duration": "—",
-   "heat": 2,
+   "heat": 3,
    "updated": "2026-10-12",
    "url": "https://fion.ac/jellyfish.pdf",
    "points": [
@@ -421,7 +473,7 @@
    "author": "Hacker News",
    "title": "英伟达被指控试图与安娜档案馆达成协议",
    "duration": "—",
-   "heat": 16,
+   "heat": 19,
    "updated": "2026-10-12",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms",
    "points": [
@@ -444,60 +496,6 @@
    "url": "https://support.google.com/cloud/answer/15549257?hl=en",
    "points": [
     "指定 Google 客户端供人工智能 (AI) 代理使用"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Dev 使用 AI 代理重建了《现代战争 2》的源代码； 83% 匹配",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-12",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
-   "points": [
-    "Dev 使用 AI 代理重建了《现代战争 2》的源代码； 83% 匹配"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "硅谷与特朗普保持一致，SpaceXAI和AIForce将更名",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-12",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "points": [
-    "硅谷与特朗普保持一致，SpaceXAI和AIForce将更名"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "公司中的人工智能：软件生产的瓶颈 [pdf]",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-12",
-   "url": "https://fion.ac/jellyfish.pdf",
-   "points": [
-    "公司中的人工智能：软件生产的瓶颈 [pdf]"
    ],
    "flags": {
     "fav": false,
