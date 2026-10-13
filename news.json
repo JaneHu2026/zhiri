@@ -1,6 +1,6 @@
 {
- "fetchedAt": "19:32",
- "fetchedDate": "2026-10-13",
+ "fetchedAt": "03:47",
+ "fetchedDate": "2026-10-14",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,8 +9,28 @@
    "title": "习近平出席全国卫生与健康大会并发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/13/ARTIstZ4h1fI0Q9S8jonVL6W261013.shtml",
-   "summary": "李强作总结讲话。赵乐际、王沪宁、蔡奇、丁薛祥、李希出席会议。",
+   "url": "https://news.cctv.com/2026/10/13/ARTI2KuI4fIsTdJoNetx1vm8261013.shtml",
+   "summary": "全国卫生与健康大会12日至13日在北京召开。中共中央总书记、国家主席、中央军委主席习近平出席会议并发表重要讲话。他强调，“十五五”时期是实现到2035年建成健康中国目标的关键时期，要坚定不移走中国特色卫生与健康发展道路，贯彻新时代卫生与健康工作方针，扬优势、固基础、补短板、强弱项，推动卫生与健康事业…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平同博茨瓦纳总统博科会谈",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/13/ARTI9BiiW7CexpHQ39t1KOHB261013.shtml",
+   "summary": "10月13日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的博茨瓦纳总统博科举行会谈。两国元首宣布将双边关系提升为全面战略合作伙伴关系。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平会见多哥部长会议主席",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/13/ARTIsEmhs8IoFobRD2POpGqk261013.shtml",
+   "summary": "10月13日下午，国家主席习近平在北京人民大会堂会见来华进行正式访问的多哥部长会议主席福雷。两国领导人宣布将双边关系定位提升为新时代中多命运共同体。",
    "day": 0
   },
   {
@@ -60,26 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/13/ARTIbGdae27h7iMHgXpIfUbT261013.shtml",
-   "summary": "e6c5f743c4ff,0,1,16:9,newPlayer30975d93df2c,0,1,16:9,newPlayer514ef8e1d8bf,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "开拓新场景、游玩重体验 秋日文旅体验“新”意满满",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/13/ARTIxBgsaMo49ceHbuROFrZC261013.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "牧场是假的、牛也是假的 起底“云养牛”骗局",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/13/VIDEnRrrdPCYf71qf3iltRYU261013.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -106,6 +106,66 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "军情五处负责人警告英国面临来自俄罗斯、伊朗和人工智能的威胁",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+   "summary": "肯·麦卡勒姆爵士表示，应对恐怖主义和国家威胁的行动现在大致具有“同等规模”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "前黑帮老大因策划谋杀图帕克·沙库尔而被判 40 年徒刑",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+   "summary": "这一判决标志着图帕克悬案之谜的结束，该悬案吸引了嘻哈迷近 30 年。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "沙特联军袭击也门首都附近的燃料库",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+   "summary": "胡塞武装警告沙特阿拉伯，他们将针对沙特城市利雅得和达曼进行报复。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "惊恐的目击者讲述了六旗游乐园致命的过山车事件",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+   "summary": "警方表示，初步信息显示，在佐治亚州游乐园死亡的男子是从游乐设施上摔下来的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "康奈尔大学因帮派性侵犯指控而禁止所有兄弟会聚会",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+   "summary": "该校因如何处理一位名叫无名氏的女子提出的性侵指控而引发轩然大波。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "因腐败指控，特朗普罢免美国驻希腊大使金伯利·吉尔福伊尔 (Kimberly Guilfoyle)",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+   "summary": "吉尔福伊尔称，有关不当行为的指控是“虚假的”，担任大使是“一生的荣幸”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "基辅前高级将领告诉BBC，俄罗斯的进攻能力已被打破",
    "source": "BBC",
    "time": "今天",
@@ -116,71 +176,11 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "《绝命毒师》演员 RJ Mitte 去世，享年 34 岁",
+   "title": "阿根廷针对英国对福克兰群岛石油勘探提出法律索赔",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-   "summary": "患有脑瘫的米特在这部荣获艾美奖的剧集中饰演小沃尔特·怀特。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "六旗游乐园发生过山车事故，造成一人死亡、多人受伤",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-   "summary": "事件发生后，公园内的航拍画面显示，过山车卡住了，乘客被搀扶下车。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "美国紧急呼叫记录显示克里斯塔·派克处决失败后混乱",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
-   "summary": "科琳·斯莱默的凶手在两次注射死刑后没有杀死她，最终被送往医院。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "保加利亚在黑海无人机袭击中沉没船只后召见俄罗斯大使",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-   "summary": "当地官员称，一艘商船夜间沉没，导致 11 名船员失踪。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "前总统任命新刚果民主共和国反叛联盟领导人",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-   "summary": "约瑟夫·卡比拉此前否认与控制刚果民主共和国东部大部分地区的“M23”叛军有联系。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "印度“蟑螂”领导人进入抗议现场后被拘留",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-   "summary": "抗议者翻过德里市中心的路障，要求选举负责人因修改选民名单而辞职。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "观看：美国男子在第五次比赛获胜后关注南瓜世界纪录",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-   "summary": "园艺老师 Travis Gienger 将他的南瓜从明尼苏达州拖到加利福尼亚州半月湾，在那里他赢得了年度赛事。",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+   "summary": "向国际海事法庭提起的诉讼是福克兰群岛争端不断升级的最新进展。",
    "day": 0
   },
   {
