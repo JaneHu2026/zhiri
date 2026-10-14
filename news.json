@@ -1,12 +1,22 @@
 {
- "fetchedAt": "08:58",
+ "fetchedAt": "14:01",
  "fetchedDate": "2026-10-14",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "医疗",
-   "title": "全国卫生与健康大会 释放哪些新信号？",
+   "title": "时政新闻眼丨全国卫生与健康大会时隔十年再次召开，习近平强调这些重点",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/14/ARTIpL8h8PjnPtRFX0zXzXPZ261014.shtml",
+   "summary": "10月12日至13日，全国卫生与健康大会在北京召开。这是全国卫生与健康领域最高规格的大会时隔10年再次召开。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "全国卫生与健康大会释放哪些新信号？",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/14/ARTIl6kBi2hIU7PhZJygZpMD261014.shtml",
@@ -15,72 +25,82 @@
   },
   {
    "group": "gn",
-   "theme": "财经",
-   "title": "市场监管总局：平台不能只收佣金 要落实食品安全",
+   "theme": "要闻",
+   "title": "走近长征英雄部队｜从长征铁律到胜战新风",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/14/ARTIAcSEXWE8qpiGZSZCXrpN261014.shtml",
-   "summary": "10月13日，2026网络食品安全社会共治交流研讨会在北京启幕。本次研讨会由中国消费者报社主办，市场监管总局、执法稽查局、网监司、食品协调司、食品生产经营司、餐饮食品司指导举办。",
+   "url": "https://tv.cctv.com/2026/10/14/VIDEBb9i41UbZgvnOXymDROz261014.shtml",
+   "summary": "走近长征英雄部队·星耀征途——军纪如尺量征途：从长征铁律到胜战新风。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "国考今起报名 首提严打“公考围岗”、招录向基层倾斜",
+   "title": "星火成炬｜一代人有一代人的长征",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/14/ARTICsMla35rcSS7FDXraNDk261014.shtml",
-   "summary": "2027国考今起报名，计划招录3.57万人。考生可于10月14日8时至24日18时登录“中央机关及其直属机构2027年度考试录用公务员专题网站”进行网上报名。公共科目笔试将于11月29日在全国各直辖市、省会城市、自治区首府和部分城市同时举行。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "台风何处登陆最多 监测预报难度几何？气象专家解读",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/14/ARTIa28bAObGDg84uybPRquh261014.shtml",
-   "summary": "10月13日是第37个国际减灾日，主题是“建设安全韧性家园”。国家气象中心统计显示，截至目前，今年共有7个台风登陆我国，其中台风“巴威”“白海豚”“沙德尔”相继在浙江省玉环市坎门街道登陆。新中国成立以来，台风在哪里登陆最多？台风监测和预报有哪些亮点和难点？记者13日对此采访了相关气象专家。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "盘活党政机关资产 江苏向社会开放停车位18.8万个",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/14/ARTI0K941Uj61DLO39ujrMEH261014.shtml",
-   "summary": "近日，《中国机关后勤》杂志2026年第9期刊登了江苏省机关事务管理局的文章《全域统筹 多元盘活 开放共享 积极探索党政机关国有资产管理改革实践路径》，就江苏省机关事务管理局（简称管理局）积极探索具有江苏特色的党政机关国有资产全域盘活与开放共享实践路径做了介绍。",
+   "url": "https://news.cctv.com/2026/10/14/ARTIkGjR61orOixLm74CI9zX261014.shtml",
+   "summary": "前路或许有风雨，脚下必定有方向。永葆“从头越”的勇气，传承不畏艰难、艰苦奋斗的意志，把个人理想融入时代洪流，在属于我们的长征路上，跑出新时代青年最好的模样。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "第十六届中国航展12月7日至13日举行",
+   "title": "法治在线｜“官方背书”“实地考察” 揭秘1.6亿元马术骗局",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/14/VIDEitoSZjU8LfLb0IEya4V8261014.shtml",
+   "url": "https://tv.cctv.com/2026/10/14/VIDEEfYiIrdupBRFSB0v5JEg261014.shtml",
+   "summary": "如果有人告诉您有一家马术俱乐部承接的都是大型体育赛事项目，投资年化收益20%以上，您会动心吗？在北京，有500多人，其中90%是老年人，参与了项目投资，投资金额超过1.6亿元。然而，这竟是一场精心设计的骗局。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "大江南北秋意渐浓 绚丽秋色迎客来",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/14/VIDE9JUYIkzZHKtkMCJuv77V261014.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "医疗",
+   "title": "时政微观察丨夯实全民健康根基，总书记强调这个关键词",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/14/ARTI9N2VAux2usVW6u0ZUqZs261014.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "超长蛋挞爆火又降温 有商家一天从200多个跌到十几个",
+   "title": "2026年9月份CPI、PPI同比涨幅均扩大",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/14/ARTI1yHQIxPMQiDCI6sPZkhN261014.shtml",
+   "url": "https://news.cctv.com/2026/10/14/ARTILYEdy7Vuc1Ui5EJmRQrw261014.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "缅北魏家犯罪集团覆灭始末",
-   "source": "央视新闻",
+   "title": "【文明中国·看北京】怀柔：老乡土育出新文明",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/14/VIDEIMW4F55RiU7mqELanSue261014.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20261014/e29ecff12721485ababe656837ba76b2/c.html",
+   "summary": "【文明中国·看北京】旧村落长出新生活 老乡土育出新文明-\"新华网安然 摄从传统农村的淳朴风俗习惯，转变为如今向善向上、开放包容、共建共享的文明风尚，京郊新乡村的松弛生活、文明新风、精神富足，正是新时代文明中国建设扎根基层、浸润人心的生动缩影。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "未来五年，看病就医会有哪些新变化？",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261014/058ef4cb57a94f54b6fe7ec2d0e897e8/c.html",
+   "summary": "未来五年，看病就医会有哪些新变化？- 原标题：我们的“十五五”｜未来五年，看病就医会有哪些新变化。",
    "day": 0
   },
   {
@@ -91,6 +111,86 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
    "summary": "梵蒂冈表示，教皇利奥成功进行了右肺下叶切除手术。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "沙特联军袭击也门油库后在利雅得附近拦截导弹",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+   "summary": "沙特领导的联军在也门的战斗袭击了胡塞武装控制的首都萨那附近的一个燃料库。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国银行因洗钱失败被罚款 12 亿美元",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+   "summary": "美国财政部表示，该银行没有充分标记与潜在的中国洗钱网络有关的交易。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "泽伦斯基表示，俄罗斯袭击了基辅的主要发电厂",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰总统表示，弹道导弹袭击“我们的合作伙伴没有发出预警”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "莉娜·杜纳姆 (Lena Dunham) 的《女孩们》将回归 HBO 限量放映",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+   "summary": "HBO 称，该剧大结局十年后，“女孩们”再次聚在一起探索“四十岁的里程碑”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "俄罗斯以涉嫌间谍罪逮捕日本记者",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位北海道新闻记者被指控为东京收集有关莫斯科防御能力的信息。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "我们对从六旗过山车坠落身亡的男子了解多少",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+   "summary": "周一，哈桑·吉哈德·伊本·卡里姆 (Hassan Jihad Ibn Kariem) 因警方称他在佐治亚州六旗游乐园的游乐设施中被弹出而死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "受暴力事件影响 毛里求斯宣布多地实施宵禁",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1014/c1002-40814438.html",
+   "summary": "10月12日晚，执法人员在毛里求斯首都路易港郊区的圣克鲁瓦的街头执勤应对暴力事件。 毛里求斯总理拉姆古兰13日晚在全国电视讲话中宣布，该国多地定于当地时间13日20时30分至14日6时实施宵禁。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "环境",
+   "title": "空气污染严重 东盟国家拟探讨跨境烟霾治理",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1014/c1002-40814310.html",
+   "summary": "新华社北京10月13日电 东盟轮值主席国菲律宾13日确认，东南亚国家将在下月东盟峰会前夕举行的外长预备会议上探讨跨境烟霾治理。印度尼西亚多地近期林火和烟霾持续，一些地区空气质量达到“危险”级别。烟",
    "day": 0
   }
  ]

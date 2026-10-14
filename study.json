@@ -1,62 +1,8 @@
 {
- "fetchedAt": "08:58",
+ "fetchedAt": "14:02",
  "fetchedDate": "2026-10-14",
  "source": "zhiri-server",
  "items": [
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-13 08:56:12",
-   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-   "points": [
-    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek Solved AI’s Memory Problem",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-11 16:53:17",
-   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-   "points": [
-    "DeepSeek 解决了人工智能的内存问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07 13:29:33",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "points": [
-    "DeepMind 的新人工智能刚刚破解了生命密码"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -114,14 +60,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "open source AI is winning !",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-08 05:51:29",
-   "url": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
    "points": [
-    "开源人工智能正在获胜！"
+    "我如何使用法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -132,14 +78,32 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "GPT 6 Astra in 11 mins!",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-04 00:00:19",
-   "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
    "points": [
-    "11 分钟内完成 GPT 6 Astra！"
+    "深入研究 ChatGPT 等法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Let's reproduce GPT-2 (124M)",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2024-06-09 23:31:35",
+   "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+   "points": [
+    "我们来重现GPT-2（124M）"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +117,8 @@
    "author": "星落落_oi",
    "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
    "duration": "2:15",
-   "heat": 931252,
-   "updated": "2026-10-14T00:58:57.986484",
+   "heat": 989742,
+   "updated": "2026-10-14T06:02:23.321402",
    "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
    "points": [],
    "flags": {
@@ -169,8 +133,8 @@
    "author": "陈要得",
    "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
    "duration": "2:08",
-   "heat": 4080580,
-   "updated": "2026-10-14T00:58:57.986497",
+   "heat": 4149718,
+   "updated": "2026-10-14T06:02:23.321414",
    "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
    "points": [],
    "flags": {
@@ -185,8 +149,8 @@
    "author": "蚊子-学做美食",
    "title": "跟着AI教学能否实现薯条自由？",
    "duration": "3:14",
-   "heat": 839505,
-   "updated": "2026-10-14T00:58:57.986499",
+   "heat": 862827,
+   "updated": "2026-10-14T06:02:23.321417",
    "url": "https://www.bilibili.com/video/BV17EpY6UEdL",
    "points": [],
    "flags": {
@@ -201,8 +165,8 @@
    "author": "邵艾伦Alan",
    "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
    "duration": "262:30",
-   "heat": 1425098,
-   "updated": "2026-10-14T00:58:57.986501",
+   "heat": 1456342,
+   "updated": "2026-10-14T06:02:23.321419",
    "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
    "points": [],
    "flags": {
@@ -217,8 +181,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391167,
-   "updated": "2026-10-14T00:58:57.986502",
+   "heat": 391168,
+   "updated": "2026-10-14T06:02:23.321421",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +198,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653437,
-   "updated": "2026-10-14T00:58:57.986504",
+   "updated": "2026-10-14T06:02:23.321423",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +214,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557562,
-   "updated": "2026-10-14T00:58:57.986506",
+   "updated": "2026-10-14T06:02:23.321426",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,7 +230,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155671,
-   "updated": "2026-10-14T00:58:57.986508",
+   "updated": "2026-10-14T06:02:23.321428",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -277,16 +241,64 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "用AI粒子消散告别曾经的自己",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
    "duration": "—",
-   "heat": 7659294,
-   "updated": "2026-10-14T00:58:57.986509",
-   "url": "https://www.douyin.com/search/%E7%94%A8AI%E7%B2%92%E5%AD%90%E6%B6%88%E6%95%A3%E5%91%8A%E5%88%AB%E6%9B%BE%E7%BB%8F%E7%9A%84%E8%87%AA%E5%B7%B1?type=general",
+   "heat": 0,
+   "updated": "2026-10-14T06:02:23.321430",
+   "url": "https://www.qbitai.com/2026/10/503172.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-14T06:02:23.321432",
+   "url": "https://www.qbitai.com/2026/10/503173.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-14T06:02:23.321434",
+   "url": "https://www.qbitai.com/2026/10/503165.html",
    "points": [
-    "热门话题「用AI粒子消散告别曾经的自己」：相关视频 10 条"
+    "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
    ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-14T06:02:23.321436",
+   "url": "https://www.qbitai.com/2026/10/503157.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -300,7 +312,7 @@
    "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-14T00:58:57.986511",
+   "updated": "2026-10-14T06:02:23.321438",
    "url": "https://www.qbitai.com/2026/10/503107.html",
    "points": [
     "让VLA从“演示可用”逼近“产线可用”"
@@ -318,76 +330,8 @@
    "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-14T00:58:57.986513",
+   "updated": "2026-10-14T06:02:23.321440",
    "url": "https://www.qbitai.com/2026/10/502992.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T00:58:57.986514",
-   "url": "https://www.qbitai.com/2026/10/502954.html",
-   "points": [
-    "让材料感知压力，造出超薄高密度电子皮肤"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T00:58:57.986515",
-   "url": "https://www.qbitai.com/2026/10/502920.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T00:58:57.986517",
-   "url": "https://www.qbitai.com/2026/10/502907.html",
-   "points": [
-    "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T00:58:57.986519",
-   "url": "https://www.qbitai.com/2026/10/502784.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -401,7 +345,7 @@
    "author": "Hacker News",
    "title": "OpenAI 员工因涉嫌在会议室植入窃听器而被捕",
    "duration": "—",
-   "heat": 2,
+   "heat": 5,
    "updated": "2026-10-14",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
    "points": [
@@ -419,7 +363,7 @@
    "author": "Hacker News",
    "title": "道之道",
    "duration": "—",
-   "heat": 8,
+   "heat": 10,
    "updated": "2026-10-13",
    "url": "https://newsroom.ucla.edu/magazine/terence-tao-math-artificial-intelligence-alpha-research",
    "points": [
@@ -437,7 +381,7 @@
    "author": "Hacker News",
    "title": "OpenAI 分享 722 份手稿和证明后，AI 引发数学界轩然大波",
    "duration": "—",
-   "heat": 4,
+   "heat": 5,
    "updated": "2026-10-13",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
    "points": [
@@ -491,7 +435,7 @@
    "author": "Hacker News",
    "title": "Character.ai 已启动自愿破产法第 11 章破产程序",
    "duration": "—",
-   "heat": 284,
+   "heat": 315,
    "updated": "2026-10-13",
    "url": "https://blog.character.ai/an-update-on-character-ai/",
    "points": [
