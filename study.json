@@ -1,5 +1,5 @@
 {
- "fetchedAt": "03:48",
+ "fetchedAt": "08:58",
  "fetchedDate": "2026-10-14",
  "source": "zhiri-server",
  "items": [
@@ -7,13 +7,13 @@
    "id": "sv_ext",
    "platform": "youtube",
    "author": "Two Minute Papers",
-   "title": "OpenAI Just Changed What It Means To Do Math",
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
    "duration": "—",
    "heat": 0,
    "updated": "2026-10-13 08:56:12",
    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "points": [
-    "OpenAI 刚刚改变了数学的意义"
+    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
    ],
    "flags": {
     "fav": false,
@@ -150,12 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "陈要得",
-   "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
-   "duration": "2:08",
-   "heat": 4053878,
-   "updated": "2026-10-13T19:48:08.668259",
-   "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
+   "author": "星落落_oi",
+   "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+   "duration": "2:15",
+   "heat": 931252,
+   "updated": "2026-10-14T00:58:57.986484",
+   "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
    "points": [],
    "flags": {
     "fav": false,
@@ -166,12 +166,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "星落落_oi",
-   "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-   "duration": "2:15",
-   "heat": 905294,
-   "updated": "2026-10-13T19:48:08.668276",
-   "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+   "author": "陈要得",
+   "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
+   "duration": "2:08",
+   "heat": 4080580,
+   "updated": "2026-10-14T00:58:57.986497",
+   "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +185,8 @@
    "author": "蚊子-学做美食",
    "title": "跟着AI教学能否实现薯条自由？",
    "duration": "3:14",
-   "heat": 828938,
-   "updated": "2026-10-13T19:48:08.668281",
+   "heat": 839505,
+   "updated": "2026-10-14T00:58:57.986499",
    "url": "https://www.bilibili.com/video/BV17EpY6UEdL",
    "points": [],
    "flags": {
@@ -201,8 +201,8 @@
    "author": "邵艾伦Alan",
    "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
    "duration": "262:30",
-   "heat": 1415009,
-   "updated": "2026-10-13T19:48:08.668285",
+   "heat": 1425098,
+   "updated": "2026-10-14T00:58:57.986501",
    "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
    "points": [],
    "flags": {
@@ -217,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391166,
-   "updated": "2026-10-13T19:48:08.668288",
+   "heat": 391167,
+   "updated": "2026-10-14T00:58:57.986502",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -234,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653437,
-   "updated": "2026-10-13T19:48:08.668291",
+   "updated": "2026-10-14T00:58:57.986504",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -250,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557562,
-   "updated": "2026-10-13T19:48:08.668293",
+   "updated": "2026-10-14T00:58:57.986506",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -266,7 +266,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155671,
-   "updated": "2026-10-13T19:48:08.668296",
+   "updated": "2026-10-14T00:58:57.986508",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "用AI粒子消散告别曾经的自己",
    "duration": "—",
-   "heat": 7681308,
-   "updated": "2026-10-13T19:48:08.668298",
+   "heat": 7659294,
+   "updated": "2026-10-14T00:58:57.986509",
    "url": "https://www.douyin.com/search/%E7%94%A8AI%E7%B2%92%E5%AD%90%E6%B6%88%E6%95%A3%E5%91%8A%E5%88%AB%E6%9B%BE%E7%BB%8F%E7%9A%84%E8%87%AA%E5%B7%B1?type=general",
    "points": [
     "热门话题「用AI粒子消散告别曾经的自己」：相关视频 10 条"
@@ -300,7 +300,7 @@
    "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T19:48:08.668301",
+   "updated": "2026-10-14T00:58:57.986511",
    "url": "https://www.qbitai.com/2026/10/503107.html",
    "points": [
     "让VLA从“演示可用”逼近“产线可用”"
@@ -318,7 +318,7 @@
    "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T19:48:08.668303",
+   "updated": "2026-10-14T00:58:57.986513",
    "url": "https://www.qbitai.com/2026/10/502992.html",
    "points": [],
    "flags": {
@@ -334,7 +334,7 @@
    "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T19:48:08.668305",
+   "updated": "2026-10-14T00:58:57.986514",
    "url": "https://www.qbitai.com/2026/10/502954.html",
    "points": [
     "让材料感知压力，造出超薄高密度电子皮肤"
@@ -352,7 +352,7 @@
    "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T19:48:08.668308",
+   "updated": "2026-10-14T00:58:57.986515",
    "url": "https://www.qbitai.com/2026/10/502920.html",
    "points": [],
    "flags": {
@@ -368,7 +368,7 @@
    "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T19:48:08.668310",
+   "updated": "2026-10-14T00:58:57.986517",
    "url": "https://www.qbitai.com/2026/10/502907.html",
    "points": [
     "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
@@ -386,7 +386,7 @@
    "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13T19:48:08.668312",
+   "updated": "2026-10-14T00:58:57.986519",
    "url": "https://www.qbitai.com/2026/10/502784.html",
    "points": [],
    "flags": {
@@ -399,9 +399,27 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
+   "title": "OpenAI 员工因涉嫌在会议室植入窃听器而被捕",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-14",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+   "points": [
+    "OpenAI 员工因涉嫌在会议室植入窃听器而被捕"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
    "title": "道之道",
    "duration": "—",
-   "heat": 3,
+   "heat": 8,
    "updated": "2026-10-13",
    "url": "https://newsroom.ucla.edu/magazine/terence-tao-math-artificial-intelligence-alpha-research",
    "points": [
@@ -455,7 +473,7 @@
    "author": "Hacker News",
    "title": "Character.ai 申请破产",
    "duration": "—",
-   "heat": 144,
+   "heat": 145,
    "updated": "2026-10-13",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
    "points": [
@@ -473,29 +491,11 @@
    "author": "Hacker News",
    "title": "Character.ai 已启动自愿破产法第 11 章破产程序",
    "duration": "—",
-   "heat": 212,
+   "heat": 284,
    "updated": "2026-10-13",
    "url": "https://blog.character.ai/an-update-on-character-ai/",
    "points": [
     "Character.ai 已启动自愿破产法第 11 章破产程序"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "构建有利于工人的人工智能",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-13",
-   "url": "https://www.nber.org/papers/w34854",
-   "points": [
-    "构建有利于工人的人工智能"
    ],
    "flags": {
     "fav": false,
