@@ -1,26 +1,26 @@
 {
- "fetchedAt": "13:40",
+ "fetchedAt": "22:45",
  "fetchedDate": "2026-10-15",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "习近平主席向广交会致贺信传递高水平开放强音",
+   "theme": "医疗",
+   "title": "建成均衡普惠、优质高效的健康中国",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/15/ARTIHEwR0095S2zpLvlcLOdl261015.shtml",
-   "summary": "“十五五”开局之年，被誉为“中国第一展”的中国进出口商品交易会迎来创办70周年。",
+   "url": "https://news.cctv.com/2026/10/15/ARTIysSGStOyFV7Myik6iUsa261015.shtml",
+   "summary": "习近平总书记着眼于人民健康在党和国家事业发展中的重要地位，系统阐明了建成健康中国的目标任务、基本内涵，为实现到2035年建成健康中国目标提供重要指引。大家表示要持续提升六大核心能力，推进医疗、医保、医药协同发展和治理，夯实中国式现代化的健康根基。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "第140届广交会10月15日开展",
+   "title": "赓续长征精神 奋进复兴征程｜薪火相传向未来 治蜀兴川谱新篇",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/15/VIDEwi6vEK2xpeExpIehLvcH261015.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/10/15/ARTIyobc0qX9RTDCOFkMLa9u261015.shtml",
+   "summary": "e51bad13f91f,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -31,6 +31,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/15/ARTIGEZe8gY0fhx20KSg8L7i261015.shtml",
    "summary": "新鸭绿江大桥是两国互联互通重要设施，开通后将进一步促进两国经贸交流和人员往来，增进两国人民福祉。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "第140届广交会开展 七十载广交天下客 见证开放中国",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/15/VIDEfFxdJz2aU3p5FJDpPcF5261015.shtml",
+   "summary": "广东·第140届广交会10月15日开展：七十载广交天下客，见证开放中国。",
    "day": 0
   },
   {
@@ -46,40 +56,30 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国再添4处世界灌溉工程遗产 见证古代先民治水智慧",
+   "title": "全国秋粮收获进入高峰期 进度过六成",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/15/ARTIpuHINE6Y6zos5eGTNhZy261015.shtml",
-   "summary": "68b8aa9c1bb0,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/15/ARTI8wwNkFCMmN456Z6VXnhW261015.shtml",
+   "summary": "ccfe6dc3b127,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "红杉满目 秦岭林海迎来秋日盛景",
+   "theme": "政策",
+   "title": "首批国标发布 如何助力人形机器人“动得稳干得好”？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/15/VIDEqMvJAHDuJ2HZYf7YsM0k261015.shtml",
+   "url": "https://tv.cctv.com/2026/10/15/VIDEQc8XlN7geJYHEsd5Nm2k261015.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "前三季度我国外贸增势强劲 如何做到？",
+   "title": "银发经济新风向：社区康养 智造先行",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/15/VIDE6iXo7ewNT1ib8SKvy72q261015.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国农业发展银行2000亿信贷资金专项用于秋粮收购",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/15/ARTICKiR35F9O8VLh5KYemH3261015.shtml",
+   "url": "https://tv.cctv.com/2026/10/15/VIDEqIBjNmuml4f5Tr5DNK8o261015.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,51 +96,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "马斯克称美国政府可能是乌克兰无人机速度放缓的幕后黑手",
+   "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-   "summary": "乌克兰表示，星链接入已经有所改善，但仍面临速度限制，这扰乱了其战场“任务”。",
+   "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国退役将军呼吁五角大楼取消“野蛮”处决直播",
+   "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-   "summary": "直播尼达尔·哈桑的处决“将玷污使用它的军队以及允许这样做的国家的荣誉”，72 名前",
+   "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "白宫在新任新闻秘书的法律资格受到质疑时为她辩护",
+   "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+   "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "White House defends new press secretary over her legal credentials",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-   "summary": "凯蒂·扎卡里亚 (Katie Zacharia) 似乎没有在她居住过的任何州的律师协会注册。",
+   "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "“无处可逃”——印度尼西亚人分享橙色雾霾笼罩城镇的镜头",
+   "title": "Obama says drift towards extremism 'not inevitable'",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
-   "summary": "浓浓的橙色烟雾降临在印度尼西亚城市帕朗卡拉亚，附近野火继续肆虐。",
+   "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+   "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Anthropic 在股市首次亮相前向投资者宣布收入激增",
+   "title": "Brazil's Congress approves shorter working week in win for Lula",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-   "summary": "与此同时，一些投资者开始担心人工智能基础设施的投资金额。",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+   "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
    "day": 0
   },
   {
