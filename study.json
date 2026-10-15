@@ -1,146 +1,18 @@
 {
- "fetchedAt": "22:57",
- "fetchedDate": "2026-10-14",
+ "fetchedAt": "13:41",
+ "fetchedDate": "2026-10-15",
  "source": "zhiri-server",
  "items": [
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-13 08:56:12",
-   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-   "points": [
-    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek Solved AI’s Memory Problem",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-11 16:53:17",
-   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-   "points": [
-    "DeepSeek 解决了人工智能的内存问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07 13:29:33",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "points": [
-    "DeepMind 的新人工智能刚刚破解了生命密码"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
-   "points": [
-    "电话号码之谜"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:12:53",
-   "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-   "points": [
-    "最后一个 IMO 问题人工智能无法解决"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "open source AI is winning !",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-08 05:51:29",
-   "url": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
-   "points": [
-    "开源人工智能正在获胜！"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "GPT 6 Astra in 11 mins!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-04 00:00:19",
-   "url": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
-   "points": [
-    "11 分钟内完成 GPT 6 Astra！"
-   ],
+   "platform": "bilibili",
+   "author": "星落落_oi",
+   "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+   "duration": "2:15",
+   "heat": 1252220,
+   "updated": "2026-10-15T05:41:05.717120",
+   "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -150,12 +22,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "星落落_oi",
-   "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-   "duration": "2:15",
-   "heat": 1110089,
-   "updated": "2026-10-14T14:57:40.064262",
-   "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+   "author": "卡普迪姆",
+   "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
+   "duration": "54:57",
+   "heat": 441693,
+   "updated": "2026-10-15T05:41:05.717135",
+   "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
    "points": [],
    "flags": {
     "fav": false,
@@ -169,8 +41,8 @@
    "author": "蚊子-学做美食",
    "title": "跟着AI教学能否实现薯条自由？",
    "duration": "3:14",
-   "heat": 942749,
-   "updated": "2026-10-14T14:57:40.064274",
+   "heat": 989705,
+   "updated": "2026-10-15T05:41:05.717137",
    "url": "https://www.bilibili.com/video/BV17EpY6UEdL",
    "points": [],
    "flags": {
@@ -185,41 +57,9 @@
    "author": "阿丸焖居",
    "title": "当你和百万人一起挤景区【AI全民制作人】",
    "duration": "3:45",
-   "heat": 769956,
-   "updated": "2026-10-14T14:57:40.064276",
+   "heat": 821609,
+   "updated": "2026-10-15T05:41:05.717139",
    "url": "https://www.bilibili.com/video/BV1F2Wc6PE5X",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "卡普迪姆",
-   "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
-   "duration": "54:57",
-   "heat": 280758,
-   "updated": "2026-10-14T14:57:40.064278",
-   "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "陈要得",
-   "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
-   "duration": "2:08",
-   "heat": 4363997,
-   "updated": "2026-10-14T14:57:40.064279",
-   "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
    "points": [],
    "flags": {
     "fav": false,
@@ -233,8 +73,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391170,
-   "updated": "2026-10-14T14:57:40.064281",
+   "heat": 391171,
+   "updated": "2026-10-15T05:41:05.717141",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -250,7 +90,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653437,
-   "updated": "2026-10-14T14:57:40.064283",
+   "updated": "2026-10-15T05:41:05.717143",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -265,10 +105,44 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557563,
-   "updated": "2026-10-14T14:57:40.064285",
+   "heat": 557564,
+   "updated": "2026-10-15T05:41:05.717146",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155671,
+   "updated": "2026-10-15T05:41:05.717148",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "假如用AI生成贺峻霖",
+   "duration": "—",
+   "heat": 7691341,
+   "updated": "2026-10-15T05:41:05.717150",
+   "url": "https://www.douyin.com/search/%E5%81%87%E5%A6%82%E7%94%A8AI%E7%94%9F%E6%88%90%E8%B4%BA%E5%B3%BB%E9%9C%96?type=general",
+   "points": [
+    "热门话题「假如用AI生成贺峻霖」：相关视频 1 条"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -281,8 +155,8 @@
    "author": "抖音热榜",
    "title": "iPhone Duo已完成大模型备案",
    "duration": "—",
-   "heat": 8028024,
-   "updated": "2026-10-14T14:57:40.064287",
+   "heat": 7682096,
+   "updated": "2026-10-15T05:41:05.717152",
    "url": "https://www.douyin.com/search/iPhone%20Duo%E5%B7%B2%E5%AE%8C%E6%88%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%87%E6%A1%88?type=general",
    "points": [
     "热门话题「iPhone Duo已完成大模型备案」：相关视频 2 条"
@@ -297,10 +171,74 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-15T05:41:05.717155",
+   "url": "https://www.qbitai.com/2026/10/503350.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-15T05:41:05.717156",
+   "url": "https://www.qbitai.com/2026/10/503341.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-15T05:41:05.717158",
+   "url": "https://www.qbitai.com/2026/10/503326.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-15T05:41:05.717160",
+   "url": "https://www.qbitai.com/2026/10/503303.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-14T14:57:40.064289",
+   "updated": "2026-10-15T05:41:05.717161",
    "url": "https://www.qbitai.com/2026/10/503294.html",
    "points": [],
    "flags": {
@@ -316,7 +254,7 @@
    "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-14T14:57:40.064290",
+   "updated": "2026-10-15T05:41:05.717163",
    "url": "https://www.qbitai.com/2026/10/503244.html",
    "points": [
     "这妥妥是个物理版Agent啊！"
@@ -329,31 +267,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "八个州起诉 OpenAI，称 ChatGPT 对儿童不安全",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T14:57:40.064292",
-   "url": "https://www.qbitai.com/2026/10/503231.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T14:57:40.064293",
-   "url": "https://www.qbitai.com/2026/10/503211.html",
+   "heat": 7,
+   "updated": "2026-10-14",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
    "points": [
-    "从创意到成本，AI正在重写综艺的生产逻辑"
+    "八个州起诉 OpenAI，称 ChatGPT 对儿童不安全"
    ],
    "flags": {
     "fav": false,
@@ -363,15 +285,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Gartner：到 2030 年，80% 的 Neocloud 提供商将停止独立运营",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T14:57:40.064295",
-   "url": "https://www.qbitai.com/2026/10/503201.html",
+   "heat": 3,
+   "updated": "2026-10-14",
+   "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030",
    "points": [
-    "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
+    "Gartner：到 2030 年，80% 的 Neocloud 提供商将停止独立运营"
    ],
    "flags": {
     "fav": false,
@@ -381,15 +303,33 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能终结所有人工智能的宣言宣言",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-14T14:57:40.064296",
-   "url": "https://www.qbitai.com/2026/10/503198.html",
+   "heat": 4,
+   "updated": "2026-10-14",
+   "url": "https://www.nytimes.com/2026/10/14/opinion/artificial-intelligence-ai-manifesto.html",
    "points": [
-    "CMOS标准工艺兼容的1TnR技术路线加速研发。"
+    "人工智能终结所有人工智能的宣言宣言"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "物理学家表示，简单的数学可以预测人工智能何时将变得失控",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-14",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
+   "points": [
+    "物理学家表示，简单的数学可以预测人工智能何时将变得失控"
    ],
    "flags": {
     "fav": false,
@@ -426,78 +366,6 @@
    "url": "https://newsroom.ucla.edu/magazine/terence-tao-math-artificial-intelligence-alpha-research",
    "points": [
     "道之道"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "OpenAI 分享 722 份手稿和证明后，AI 引发数学界轩然大波",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-10-13",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
-   "points": [
-    "OpenAI 分享 722 份手稿和证明后，AI 引发数学界轩然大波"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "维基百科相信人工智能会来来去去。他们错了",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-10-13",
-   "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-   "points": [
-    "维基百科相信人工智能会来来去去。他们错了"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Character.ai 申请破产",
-   "duration": "—",
-   "heat": 145,
-   "updated": "2026-10-13",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "points": [
-    "Character.ai 申请破产"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Character.ai 已启动自愿破产法第 11 章破产程序",
-   "duration": "—",
-   "heat": 328,
-   "updated": "2026-10-13",
-   "url": "https://blog.character.ai/an-update-on-character-ai/",
-   "points": [
-    "Character.ai 已启动自愿破产法第 11 章破产程序"
    ],
    "flags": {
     "fav": false,
