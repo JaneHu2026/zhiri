@@ -1,36 +1,66 @@
 {
- "fetchedAt": "13:36",
+ "fetchedAt": "22:40",
  "fetchedDate": "2026-10-16",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "教育",
-   "title": "习近平致信祝贺湖南大学建校100周年",
+   "theme": "要闻",
+   "title": "习近平在内蒙古乌兰察布考察",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/16/ARTIrFCl9n7lDpNXVdNZPFlN261016.shtml",
-   "summary": "新华社北京10月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺湖南大学建校100周年，向全体师生员工和广大校友致以祝贺。",
+   "url": "https://news.cctv.com/2026/10/16/ARTIqHq16MJ5tYIK4bE2MitX261016.shtml",
+   "summary": "中共中央总书记、国家主席、中央军委主席习近平16日在内蒙古自治区乌兰察布市考察时强调，绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色发展之路。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "习近平：绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/16/ARTIqHq16MJ5tYIK4bE2MitX261016.shtml",
+   "summary": "中共中央总书记、国家主席、中央军委主席习近平16日在内蒙古自治区乌兰察布市考察时强调，绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色发展之路。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平：继承光荣革命传统，赓续千年书院学脉，弘扬“实事求是、敢为人先”的精神，不断提升办学质量和水平，努力培养更多经世致用的优秀人才｜",
+   "title": "【央视快评】努力培养更多经世致用的优秀人才",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/16/ARTIrFCl9n7lDpNXVdNZPFlN261016.shtml",
-   "summary": "新华社北京10月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺湖南大学建校100周年，向全体师生员工和广大校友致以祝贺。",
+   "url": "https://news.cctv.com/2026/10/16/ARTI3BIUx9eG0LCHI2VxqaQ2261016.shtml",
+   "summary": "从公元976年的岳麓书院，到1926年定名为湖南大学，千年书院学脉与百年大学薪火在湖南大学交相辉映，“实事求是、敢为人先”的精神底色历久弥新，经世致用的育人追求代代相传。在长期的办学历程中，湖南大学培育和熏陶了一大批彪炳史册的杰出人才。“惟楚有材，于斯为盛”成为学校人才辈出的生动写照。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "走近长征英雄部队｜从大渡铁索到战略通途",
+   "title": "【赓续长征精神 奋进复兴征程】青海：雪域传薪火 绿色启新程",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/16/VIDElouGmWBTQfJRv26NhJ3t261016.shtml",
-   "summary": "走近长征英雄部队·星耀征途——大道如磐：从大渡铁索到战略通途。",
+   "url": "https://tv.cctv.com/2026/10/16/VIDETbqpEd5lsfSeDBTeOoFM261016.shtml",
+   "summary": "【赓续长征精神，奋进复兴征程】青海：雪域传薪火，绿色启新程。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "大型纪录片《伟大远征》第2集 定向",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/16/VIDELU9001Kg83cBERVRHmwi261016.shtml",
+   "summary": "本集主要内容： 发源于湖南永州的湘江，使红军吞下了错误路线的苦果，蕴藏着对路在何方的叩问。流经遵义的湘江，映照着正确路线的光芒，诠释了一个朴素真理：方向决定道路，道路决定命运。（《伟大远征》 第2集 定向）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "多项数据再创新高！“进博时间”即将开启",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/16/ARTIpRSp3IeV6Z5KOgHryM3J261016.shtml",
+   "summary": "2c24dc3eca63,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -40,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/16/ARTIRyKpIUJHeNNbO7i5fi16261016.shtml",
-   "summary": "389f2a12d3f9,0,1,16:9,newPlayeree74a24c6a98,0,1,16:9,newPlayer",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -50,37 +80,37 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/16/ARTIhf3z7XZT6rbLCi14ipUK261016.shtml",
-   "summary": "ecb07463de33,0,1,16:9,newPlayere145650e64f7,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "法治保驾护航 建设公平竞争、充分开放的“大市场”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/16/ARTIFNEg8oNzNlcWICWOja8F261015.shtml",
-   "summary": "06d4555045f0,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "我国粮食市场总体保持平稳",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/16/VIDEO9dtZYRzUQoiOybX5o2D261016.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "最高检发布检察机关依法维护老年人合法权益典型案例",
-   "source": "央视新闻",
+   "theme": "教育",
+   "title": "南京财经大学建校70周年高质量发展大会举行",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/16/ARTIuBtc00GaQ8d3lDmqZINz261016.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/digital/20261016/387bc3a1a3b942a895686781de585715/c.html",
+   "summary": "南京财经大学建校70周年高质量发展大会举行-南京财经大学建校70周年高质量发展大会举行国家粮食和物资储备局党组成员、副局长秦玉云，中国粮油学会理事长卢景波，江苏省人大常委会副主任、党组副书记张爱军，江苏省政协副主席胡刚，南京大学校长、中国科学院院士谈哲敏，中国储备粮管理集团党组成员、副总经理王娟出席…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "广交会向新而行 智链全球",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20261016/fc2e7a7d420c4cc08cebd0845f8e3fe7/c.html",
+   "summary": "广交会向新而行 智链全球-新华社记者 卢汉欣 摄10月15日，在第140届广交会上，境外采购商在了解一款翻译机。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "新华网与知识产权出版社共探法治服务新图景",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20261016/4c7fbff259a0466ca7e81dd052565d3e/c.html",
+   "summary": "新华网与知识产权出版社共探法治服务新图景-新华网北京11月16日电（记者 陈延特）11月14日，新华网团队一行到访知识产权出版社开展深度业务交流，双方围绕知识产权大数据服务与新华网法治服务智能体平台融合发展展开务实探讨。",
    "day": 0
   },
   {
@@ -96,41 +126,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Three children and teacher killed in US primary school shooting",
+   "title": "泽伦斯基表示乌克兰有权在特朗普批评后为自己辩护",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-   "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+   "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "summary": "在唐纳德·特朗普表示乌克兰领导人“比普京更难合作”之后，欧盟领导人团结在乌克兰领导人周围。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+   "title": "“这真的很难相信”——俄勒冈州小学枪击事件是如何发生的",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-   "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+   "summary": "当地警方称，一名 16 岁嫌疑人在本德市开枪，造成三名 5 岁、8 岁和 11 岁的儿童以及一名教师死亡。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+   "title": "由于石油出口放缓，霍尔木兹附近的船只袭击报告创历史新高",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+   "summary": "BBC verify 对英国海事机构数据的分析显示，一周内有 12 艘船只遭到袭击。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "They fled Russia, but the West sent them back",
+   "title": "中国要求以色列停止“强行建立”约旦河西岸定居点",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking re",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+   "summary": "中国外交部长王毅在一次会议间隙与以色列总统赫尔佐格进行了交谈。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "两岁儿子在塞浦路斯酒店坠落身亡 父亲被罚款",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+   "summary": "约书亚·福斯特（Joshua Foster）在向儿子展示从窗户看到的水上公园的景色时“失去了控制”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国参议员呼吁对乌克兰星链限制进行调查",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰表示，星链互联网网络的临时速度限制扰乱了其战场任务。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "阿尔巴尼亚抗议演变成暴力：我们所知道的",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+   "summary": "阿尔巴尼亚首都地拉那反政府“火烈鸟”运动的抗议活动已持续数月，但从本周二开始的抗议活动是",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "南非疑似非法康复中心被锁链救出的患者",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+   "summary": "200 名患者中，有一些人被发现“全身长疮”，而且房间过于拥挤。",
    "day": 0
   },
   {
