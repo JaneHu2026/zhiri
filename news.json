@@ -1,22 +1,32 @@
 {
- "fetchedAt": "13:24",
+ "fetchedAt": "21:31",
  "fetchedDate": "2026-10-17",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平总书记乌兰察布行丨",
+   "title": "习近平在内蒙古乌兰察布考察",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/17/ARTIvAd6qhdBMl070IVbiAlT261017.shtml",
-   "summary": "16日上午，习近平来到位于乌兰察布市察哈尔右翼前旗的黄旗海自然保护区，听取内蒙古自治区加强生态环境保护和当地推进黄旗海环境综合治理、生态系统修复等情况汇报，并实地察看水岸滩涂生态、栖息鸟类等。",
+   "url": "https://news.cctv.com/2026/10/17/ARTI7BKWBBme9ZDUKrWGSJQ9261017.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "再到祖国北疆，习近平关注高质量发展底色丨",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/17/ARTIBOGCLn4Nir3bKTeO5Vqi261017.shtml",
+   "summary": "金秋十月，与北京直线距离240公里的草原小城乌兰察布迎来最美时节。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "科技",
-   "title": "抓住“东数西算”战略机遇 打造绿色算力产业沃土丨",
+   "title": "抓住“东数西算”战略机遇 打造绿色算力产业沃土",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/17/ARTIhQarVLwSADv62b8McYEW261017.shtml",
@@ -25,88 +35,68 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "一线调研丨平均通航时间减半 流程图看“黄金水道”改革破局",
+   "theme": "财经",
+   "title": "前八个月我国服务贸易保持较快增长",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/17/VIDERdTEcESkNYKf6cakKBxD261017.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "第140届广交会｜聚焦新质生产力 创新展品对接全球供需",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/17/VIDEu2P8y820yjLIm2sApnlP261017.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "“科技护航+精准服务”筑牢秋粮丰产底气 粮食安全有可靠保障",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/17/ARTIvkZwio4CDvMGHh9SNkBl261017.shtml",
-   "summary": "9511aec998d6,0,1,16:9,newPlayer4917857eb676,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/17/ARTIlmttkaE9fNenqYPwtAtr261017.shtml",
+   "summary": "547d21fc05de,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "智慧管护养海鱼、鲜活冷链通市场 感知“蓝色粮仓”澎湃新动能",
+   "title": "广交会：人工智能新品为外贸增长注入新动能",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/17/ARTIzcewIHYKTlTQpw2RTCBG261017.shtml",
-   "summary": "5146df7a96be,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/17/ARTI0aBLT6F9IRc2biebtQb1261017.shtml",
+   "summary": "a8271d1ad404,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "“全”释硬科技 我国科学家破解大脑灵活决策底层奥秘",
+   "theme": "社会",
+   "title": "各地优化服务 保障群众温暖过冬",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/17/VIDEppy6NlA4x7wpkClnhzgP261017.shtml",
+   "url": "https://news.cctv.com/2026/10/17/ARTIoaWMAdtkHUHks06j8cdh261017.shtml",
+   "summary": "117060cda6d4,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "【文化中国行·校馆弦歌】从征途课堂马背书香到新时代的长征路",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/17/ARTIJmz5l2MufTJU02KKWTkw261017.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "福建浦城：金秋时节丹桂香 赏桂品桂人气旺",
+   "title": "第十六届中国航展亮点抢先看：一展三区 陆海空亮相看点纷呈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/17/VIDEWrrd62EePs5Yaf0XVxkx261017.shtml",
+   "url": "https://tv.cctv.com/2026/10/17/VIDEzfkk2gN4pKXIdoRT0I1s261017.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "随着关键选举的临近，巴西亚马逊森林砍伐量创历史新高",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-   "summary": "亚马逊雨林是应对气候变化的重要缓冲地带，但在前总统博尔索纳罗的领导下，森林砍伐有所扩大。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着美国新法律生效，特朗普放弃了对俄罗斯的多项制裁",
+   "title": "随着与泽连斯基的争执加剧，特朗普放弃了多项俄罗斯制裁",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "summary": "特朗普表示，一项旨在惩罚莫斯科对乌克兰战争的新法律的部分内容违反了美国的国家利益。",
+   "summary": "美国总统暂时终止了国会最近因“国家安全”担忧而通过的多项对莫斯科的限制。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄勒冈州老师与学校袭击者战斗，武装父亲“多次”射杀嫌疑人",
+   "title": "俄勒冈州老师与学校袭击者搏斗，武装父亲“多次”射杀嫌疑人",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
@@ -126,31 +116,51 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "随着关键选举的临近，巴西亚马逊森林砍伐量创历史新高",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+   "summary": "亚马逊雨林是应对气候变化的重要缓冲地带，但在前总统博尔索纳罗的领导下，森林砍伐有所扩大。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "业余抢劫 100 年后，稀有粉红钻石在法国展出",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+   "summary": "这颗法国皇室珠宝自 1926 年失窃后被发现藏在苹果中以来，将首次公开展示。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "数百名儿童中毒，中国托儿所老板被判终身监禁",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+   "summary": "她和五名工作人员被发现在餐食中使用了不可食用的油漆，以使食物看起来更有吸引力。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "教皇肺癌手术几天后出院",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+   "summary": "教宗将于周日在圣彼得广场进行传统的三钟经祈祷和祝福。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "凯蒂·扎卡里亚 (Katie Zacharia) 上任不到五天就离开白宫",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "加拿大 30 只获救白鲸的未来充满不确定性",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-   "summary": "加拿大最后 30 头圈养鲸鱼的国际救援行动成为头条新闻。然后其中五人死亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "一千个口号在这里回荡——但这可能是德里标志性抗议场所的终结",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-   "summary": "简塔·曼塔天文台 (Jantar Mantar) 是一处建于 18 世纪的遗址，几乎是德里示威活动的代名词，现已被认定为抗议场所。",
+   "summary": "她作为新闻秘书的首次公开亮相以媒体对她的资历和准备工作的一系列批评而告终。",
    "day": 0
   }
  ]

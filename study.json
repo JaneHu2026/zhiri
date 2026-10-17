@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:25",
+ "fetchedAt": "21:32",
  "fetchedDate": "2026-10-17",
  "source": "zhiri-server",
  "items": [
@@ -14,6 +14,78 @@
    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "points": [
     "现在是学习数学的最佳时机"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-13 08:56:12",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "points": [
+    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek Solved AI’s Memory Problem",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-11 16:53:17",
+   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+   "points": [
+    "DeepSeek 解决了人工智能的内存问题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Robot Chonk Cleans the Floor",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08 16:04:24",
+   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+   "points": [
+    "机器人 chonk 清洁地板"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepMind's New AI Just Cracked The Code Of Life",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-07 13:29:33",
+   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+   "points": [
+    "DeepMind 的新人工智能刚刚破解了生命密码"
    ],
    "flags": {
     "fav": false,
@@ -42,14 +114,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
+   "author": "sentdex",
+   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
+   "updated": "2026-09-23 14:50:17",
+   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
    "points": [
-    "最后一个 IMO 问题人工智能无法解决"
+    "决策模型、DSV4.1 闪存和新基准"
    ],
    "flags": {
     "fav": false,
@@ -59,14 +131,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "卡普迪姆",
-   "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
-   "duration": "54:57",
-   "heat": 658195,
-   "updated": "2026-10-17T05:25:17.529301",
-   "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
-   "points": [],
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-19 15:35:20",
+   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+   "points": [
+    "Jev、Yang 和递归自我改进 - 人工智能的发展"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -79,9 +153,25 @@
    "author": "兰斯的画室LanceStudio",
    "title": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
    "duration": "7:15",
-   "heat": 1689714,
-   "updated": "2026-10-17T05:25:17.529326",
+   "heat": 1742330,
+   "updated": "2026-10-17T13:32:31.004442",
    "url": "https://www.bilibili.com/video/BV1HYp16oE8v",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "卡普迪姆",
+   "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
+   "duration": "54:57",
+   "heat": 684267,
+   "updated": "2026-10-17T13:32:31.004453",
+   "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
    "points": [],
    "flags": {
     "fav": false,
@@ -95,8 +185,8 @@
    "author": "星落落_oi",
    "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
    "duration": "2:15",
-   "heat": 1825769,
-   "updated": "2026-10-17T05:25:17.529328",
+   "heat": 1953638,
+   "updated": "2026-10-17T13:32:31.004461",
    "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
    "points": [],
    "flags": {
@@ -108,12 +198,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "鹤吱菌",
-   "title": "AI消失前的最后一天……",
-   "duration": "5:20",
-   "heat": 1950405,
-   "updated": "2026-10-17T05:25:17.529330",
-   "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
+   "author": "浪歌漫剧社",
+   "title": "AI自制《九幽定谳录-凉烟火》财神、月老、灶君加阎王，四神协作，三堂会审定和离。【AI全民制作人】",
+   "duration": "3:22",
+   "heat": 751016,
+   "updated": "2026-10-17T13:32:31.004464",
+   "url": "https://www.bilibili.com/video/BV1DMJC6sE6r",
    "points": [],
    "flags": {
     "fav": false,
@@ -127,25 +217,9 @@
    "author": "奶山苏苏",
    "title": "豆奶噬之殇【AI全民制作人】",
    "duration": "2:32",
-   "heat": 889569,
-   "updated": "2026-10-17T05:25:17.529331",
+   "heat": 1098383,
+   "updated": "2026-10-17T13:32:31.004466",
    "url": "https://www.bilibili.com/video/BV1zXpk6jE1R",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "旅行包_AI",
-   "title": "独创短视频学习法，无痛学ai",
-   "duration": "19:57",
-   "heat": 380642,
-   "updated": "2026-10-17T05:25:17.529332",
-   "url": "https://www.bilibili.com/video/BV14JpC6ZEUb",
    "points": [],
    "flags": {
     "fav": false,
@@ -159,8 +233,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391190,
-   "updated": "2026-10-17T05:25:17.529334",
+   "heat": 391195,
+   "updated": "2026-10-17T13:32:31.004468",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -175,9 +249,57 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653441,
-   "updated": "2026-10-17T05:25:17.529336",
+   "heat": 653442,
+   "updated": "2026-10-17T13:32:31.004470",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Jack-Cui",
+   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
+   "duration": "2:30",
+   "heat": 557569,
+   "updated": "2026-10-17T13:32:31.004472",
+   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "智谱新模型，懂法方面全球第一了",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-17T13:32:31.004475",
+   "url": "https://www.qbitai.com/2026/10/503965.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-17T13:32:31.004477",
+   "url": "https://www.qbitai.com/2026/10/503935.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -192,7 +314,7 @@
    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T05:25:17.529338",
+   "updated": "2026-10-17T13:32:31.004479",
    "url": "https://www.qbitai.com/2026/10/503880.html",
    "points": [
     "从搭载物理建模能力的世界模型切入"
@@ -210,7 +332,7 @@
    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T05:25:17.529339",
+   "updated": "2026-10-17T13:32:31.004481",
    "url": "https://www.qbitai.com/2026/10/503865.html",
    "points": [
     "VLA解决“能干”，世界模型解决“想清楚再干”"
@@ -228,7 +350,7 @@
    "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T05:25:17.529340",
+   "updated": "2026-10-17T13:32:31.004483",
    "url": "https://www.qbitai.com/2026/10/503861.html",
    "points": [
     "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议"
@@ -246,7 +368,7 @@
    "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T05:25:17.529342",
+   "updated": "2026-10-17T13:32:31.004485",
    "url": "https://www.qbitai.com/2026/10/503843.html",
    "points": [
     "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
@@ -259,15 +381,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "幻觉作为模型防御：论人工智能错误的本质",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-17T05:25:17.529343",
-   "url": "https://www.qbitai.com/2026/10/503829.html",
+   "heat": 1,
+   "updated": "2026-10-17",
+   "url": "https://medium.com/@smoking2man/hallucination-as-model-defense-on-the-nature-of-artificial-intelligence-errors-1186260be3be",
    "points": [
-    "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
+    "幻觉作为模型防御：论人工智能错误的本质"
    ],
    "flags": {
     "fav": false,
@@ -277,14 +399,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "无菌知识：人工智能和理解谱系",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-17T05:25:17.529344",
-   "url": "https://www.qbitai.com/2026/10/503815.html",
-   "points": [],
+   "heat": 2,
+   "updated": "2026-10-17",
+   "url": "https://medium.com/@smoking2man/sterile-knowledge-artificial-intelligence-models-and-the-genealogy-of-understanding-51d8e1355a04",
+   "points": [
+    "无菌知识：人工智能和理解谱系"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -297,7 +421,7 @@
    "author": "Hacker News",
    "title": "人工智能前沿的侵权法",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-17",
    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6979919",
    "points": [
@@ -333,7 +457,7 @@
    "author": "Hacker News",
    "title": "人工智能是资本主义的最终归宿",
    "duration": "—",
-   "heat": 110,
+   "heat": 115,
    "updated": "2026-10-16",
    "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
    "points": [
@@ -356,42 +480,6 @@
    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
    "points": [
     "迷你大脑类器官“阅读”盲文标志着迈向生物混合计算"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能、经济学、可持续性和不可逆转性",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-10-16",
-   "url": "https://www.alexahn.com/2026/10/artificial-intelligence-economics.html",
-   "points": [
-    "人工智能、经济学、可持续性和不可逆转性"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "分形递归、有界无穷和自适应系统",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-16",
-   "url": "https://medium.com/towards-artificial-intelligence/fractal-recursion-bounded-infinity-and-adapted-systems-b11046c9e1e1",
-   "points": [
-    "分形递归、有界无穷和自适应系统"
    ],
    "flags": {
     "fav": false,
