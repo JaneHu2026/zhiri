@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:31",
- "fetchedDate": "2026-10-17",
+ "fetchedAt": "07:51",
+ "fetchedDate": "2026-10-18",
  "source": "zhiri-server",
  "items": [
   {
@@ -35,22 +35,22 @@
   },
   {
    "group": "gn",
+   "theme": "科技",
+   "title": "联播+｜考察绿色算力 总书记强调两个“协同”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/17/ARTItohwuYEaqzpphrCPgUI3261017.shtml",
+   "summary": "10月16日，习近平总书记来到内蒙古自治区乌兰察布市考察。他深入察哈尔高新技术开发区，了解内蒙古自治区推进“东数西算”工程枢纽节点建设和绿色算力产业发展等情况。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "财经",
    "title": "前八个月我国服务贸易保持较快增长",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/17/ARTIlmttkaE9fNenqYPwtAtr261017.shtml",
    "summary": "547d21fc05de,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "广交会：人工智能新品为外贸增长注入新动能",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/17/ARTI0aBLT6F9IRc2biebtQb1261017.shtml",
-   "summary": "a8271d1ad404,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -65,22 +65,32 @@
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "【文化中国行·校馆弦歌】从征途课堂马背书香到新时代的长征路",
+   "theme": "财经",
+   "title": "【第140届广交会】AI新品为外贸增长注入新动能",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/17/ARTIJmz5l2MufTJU02KKWTkw261017.shtml",
+   "url": "https://tv.cctv.com/2026/10/17/VIDEx7UC7EiR2Cnhmtjyv45a261017.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "第十六届中国航展亮点抢先看：一展三区 陆海空亮相看点纷呈",
+   "title": "参与人数超过5亿 我国户外运动产业何以突破三万亿？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/17/VIDEzfkk2gN4pKXIdoRT0I1s261017.shtml",
+   "url": "https://tv.cctv.com/2026/10/17/VIDEkxdxDEgKJNTnxHUuE3MD261017.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国发生暴力冲突、抢劫和建筑物起火，抗议后逾千人被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+   "summary": "一天，全国各地城市爆发骚乱，超过五十万人参加了生活费用抗议活动。",
    "day": 0
   },
   {
@@ -96,7 +106,47 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "俄勒冈州老师与学校袭击者搏斗，武装父亲“多次”射杀嫌疑人",
+   "title": "欧洲外交官在约旦河西岸遭到以色列定居者袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+   "summary": "以色列军方谴责暴力行为，但总理办公室表示这是“抹黑”活动的一部分。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "阿尔巴尼亚反政府抗议者与警察发生冲突",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+   "summary": "周六，首都地拉那示威者与防暴警察之间发生暴力冲突。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度印度教节日活动被碾压 至少17人死亡",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+   "summary": "在印度加尔各答市举行的庆祝印度教节日的活动中，还有更多人受伤。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "照片显示金正恩避暑胜地附近设有 50m 泳池和水滑梯的豪华游船",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+   "summary": "卫星图像提供了金正恩如何度过假期的线索——这对大多数朝鲜人来说是遥不可及的。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "老师与美国学校袭击者战斗，武装父亲“多次”射杀嫌疑人",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
@@ -111,56 +161,6 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
    "summary": "杰克·罗宾逊和卡勒姆·罗宾逊兄弟以及他们的朋友卡特·罗德在一次冲浪旅行中被杀，这显然是一场拙劣的抢劫。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着关键选举的临近，巴西亚马逊森林砍伐量创历史新高",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-   "summary": "亚马逊雨林是应对气候变化的重要缓冲地带，但在前总统博尔索纳罗的领导下，森林砍伐有所扩大。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "业余抢劫 100 年后，稀有粉红钻石在法国展出",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
-   "summary": "这颗法国皇室珠宝自 1926 年失窃后被发现藏在苹果中以来，将首次公开展示。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "数百名儿童中毒，中国托儿所老板被判终身监禁",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-   "summary": "她和五名工作人员被发现在餐食中使用了不可食用的油漆，以使食物看起来更有吸引力。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "教皇肺癌手术几天后出院",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-   "summary": "教宗将于周日在圣彼得广场进行传统的三钟经祈祷和祝福。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "凯蒂·扎卡里亚 (Katie Zacharia) 上任不到五天就离开白宫",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-   "summary": "她作为新闻秘书的首次公开亮相以媒体对她的资历和准备工作的一系列批评而告终。",
    "day": 0
   }
  ]
