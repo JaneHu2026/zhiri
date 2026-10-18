@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:52",
+ "fetchedAt": "11:45",
  "fetchedDate": "2026-10-18",
  "source": "zhiri-server",
  "items": [
@@ -14,6 +14,60 @@
    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "points": [
     "现在是学习数学的最佳时机"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-13 08:56:12",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "points": [
+    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek Solved AI’s Memory Problem",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-11 16:53:17",
+   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+   "points": [
+    "DeepSeek 解决了人工智能的内存问题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepMind's New AI Just Cracked The Code Of Life",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-07 13:29:33",
+   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+   "points": [
+    "DeepMind 的新人工智能刚刚破解了生命密码"
    ],
    "flags": {
     "fav": false,
@@ -95,52 +149,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "AI Explained",
-   "title": "10 AI Tools to Make Your Work Easier",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2024-10-25 13:05:57",
-   "url": "https://www.youtube.com/watch?v=w2lRUYV1mps",
-   "points": [
-    "10 个让你的工作更轻松的人工智能工具"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Let's reproduce GPT-2 (124M)",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2024-06-09 23:31:35",
-   "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-   "points": [
-    "我们来重现GPT-2（124M）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "AI Explained",
-   "title": "Unlock Wealth with AI: Top 5 Strategies",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2024-05-23 19:09:54",
-   "url": "https://www.youtube.com/watch?v=qenhplEujf8",
-   "points": [
-    "利用 AI 释放财富：5 大策略"
-   ],
+   "platform": "bilibili",
+   "author": "浪歌漫剧社",
+   "title": "AI自制《九幽定谳录-凉烟火》财神、月老、灶君加阎王，四神协作，三堂会审定和离。【AI全民制作人】",
+   "duration": "3:22",
+   "heat": 906416,
+   "updated": "2026-10-18T03:45:42.722724",
+   "url": "https://www.bilibili.com/video/BV1DMJC6sE6r",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -153,25 +169,9 @@
    "author": "兰斯的画室LanceStudio",
    "title": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
    "duration": "7:15",
-   "heat": 1773034,
-   "updated": "2026-10-17T23:52:25.026496",
+   "heat": 1788375,
+   "updated": "2026-10-18T03:45:42.722737",
    "url": "https://www.bilibili.com/video/BV1HYp16oE8v",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "浪歌漫剧社",
-   "title": "AI自制《九幽定谳录-凉烟火》财神、月老、灶君加阎王，四神协作，三堂会审定和离。【AI全民制作人】",
-   "duration": "3:22",
-   "heat": 877008,
-   "updated": "2026-10-17T23:52:25.026510",
-   "url": "https://www.bilibili.com/video/BV1DMJC6sE6r",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,9 +185,25 @@
    "author": "咆哮丶土拨鼠",
    "title": "deepseek崩的时候大肥鱼在做的事：",
    "duration": "0:15",
-   "heat": 1775888,
-   "updated": "2026-10-17T23:52:25.026512",
+   "heat": 1859929,
+   "updated": "2026-10-18T03:45:42.722740",
    "url": "https://www.bilibili.com/video/BV1uaJy6ZE9P",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "鹤吱菌",
+   "title": "AI消失前的最后一天……",
+   "duration": "5:20",
+   "heat": 3811709,
+   "updated": "2026-10-18T03:45:42.722743",
+   "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
    "points": [],
    "flags": {
     "fav": false,
@@ -201,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391197,
-   "updated": "2026-10-17T23:52:25.026513",
+   "heat": 391200,
+   "updated": "2026-10-18T03:45:42.722745",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -218,7 +234,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653443,
-   "updated": "2026-10-17T23:52:25.026515",
+   "updated": "2026-10-18T03:45:42.722747",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -234,7 +250,7 @@
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
    "heat": 557572,
-   "updated": "2026-10-17T23:52:25.026517",
+   "updated": "2026-10-18T03:45:42.722749",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -250,24 +266,8 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155673,
-   "updated": "2026-10-17T23:52:25.026518",
+   "updated": "2026-10-18T03:45:42.722751",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611598,
-   "updated": "2026-10-17T23:52:25.026520",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,8 +281,8 @@
    "author": "抖音热榜",
    "title": "GAI杭州演唱会",
    "duration": "—",
-   "heat": 7693680,
-   "updated": "2026-10-17T23:52:25.026522",
+   "heat": 7652021,
+   "updated": "2026-10-18T03:45:42.722754",
    "url": "https://www.douyin.com/search/GAI%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
    "points": [
     "热门话题「GAI杭州演唱会」：相关视频 2 条"
@@ -300,7 +300,7 @@
    "title": "智谱新模型，懂法方面全球第一了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T23:52:25.026524",
+   "updated": "2026-10-18T03:45:42.722757",
    "url": "https://www.qbitai.com/2026/10/503965.html",
    "points": [],
    "flags": {
@@ -316,7 +316,7 @@
    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T23:52:25.026525",
+   "updated": "2026-10-18T03:45:42.722759",
    "url": "https://www.qbitai.com/2026/10/503935.html",
    "points": [],
    "flags": {
@@ -332,7 +332,7 @@
    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T23:52:25.026527",
+   "updated": "2026-10-18T03:45:42.722761",
    "url": "https://www.qbitai.com/2026/10/503880.html",
    "points": [
     "从搭载物理建模能力的世界模型切入"
@@ -350,7 +350,7 @@
    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T23:52:25.026528",
+   "updated": "2026-10-18T03:45:42.722763",
    "url": "https://www.qbitai.com/2026/10/503865.html",
    "points": [
     "VLA解决“能干”，世界模型解决“想清楚再干”"
@@ -368,7 +368,7 @@
    "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T23:52:25.026529",
+   "updated": "2026-10-18T03:45:42.722766",
    "url": "https://www.qbitai.com/2026/10/503861.html",
    "points": [
     "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议"
@@ -386,10 +386,28 @@
    "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-17T23:52:25.026531",
+   "updated": "2026-10-18T03:45:42.722768",
    "url": "https://www.qbitai.com/2026/10/503843.html",
    "points": [
     "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "阻止人工智能机器人可能是一把双刃剑",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-18",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "points": [
+    "阻止人工智能机器人可能是一把双刃剑"
    ],
    "flags": {
     "fav": false,
@@ -439,7 +457,7 @@
    "author": "Hacker News",
    "title": "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人",
    "duration": "—",
-   "heat": 17,
+   "heat": 20,
    "updated": "2026-10-17",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
    "points": [
@@ -480,24 +498,6 @@
    "url": "https://medium.com/@smoking2man/hallucination-as-model-defense-on-the-nature-of-artificial-intelligence-errors-1186260be3be",
    "points": [
     "幻觉作为模型防御：论人工智能错误的本质"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "无菌知识：人工智能和理解谱系",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-17",
-   "url": "https://medium.com/@smoking2man/sterile-knowledge-artificial-intelligence-models-and-the-genealogy-of-understanding-51d8e1355a04",
-   "points": [
-    "无菌知识：人工智能和理解谱系"
    ],
    "flags": {
     "fav": false,
