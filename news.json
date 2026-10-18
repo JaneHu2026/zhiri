@@ -1,5 +1,5 @@
 {
- "fetchedAt": "11:45",
+ "fetchedAt": "16:42",
  "fetchedDate": "2026-10-18",
  "source": "zhiri-server",
  "items": [
@@ -16,6 +16,16 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "甘肃会宁会师旧址焕新！红色赋能革命老区振兴新图景",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/18/VIDEzNIxWPSj9I3NGMRVb8FY261018.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "入列25年 福州舰首次回到福州",
    "source": "央视新闻",
    "time": "今天",
@@ -25,72 +35,82 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "300多万亩胡杨披金装 金秋胜景引客来",
+   "theme": "科技",
+   "title": "从0.05毫米样件到具身机器人 广交会见证中国制造硬核升级",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDEvqJi9Vxn7It8Z3RZtfJZ261018.shtml",
+   "url": "https://tv.cctv.com/2026/10/18/VIDErzbFWCqoPJJrXA9sFTxB261018.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "创新业态模式 家门口的消费场景不断丰富",
+   "theme": "环境",
+   "title": "从贸易到投资：中国车企融入欧洲汽车产业生态圈",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDEUB0F4YpcpuO4IKQMF499261018.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“红军寨”涌动创业潮",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/18/ARTIQLHQxDUWn74CMhtXARZ2261018.shtml",
-   "summary": "粉坊的铁锅里，热水翻滚。在宁夏西吉县将台堡镇毛家沟村“红军寨”，游客们围着灶台，跟村民学习做粉条。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "中国驻日使馆：日本当政者参拜靖国神社亵渎历史正义",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDEsltV0SxF63VjmL3I5YNs261018.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "神二十三乘组完成新一批水稻实验样品采集播种及存储",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDEYWltKzpSp50xSVbpJolx261018.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://tv.cctv.com/2026/10/18/VIDETCwVeKidngHdF3EfK4Ry261018.shtml?spm=C52448022284.P5Ttlwv9L2md.0.0",
+   "summary": "中国车企的“巴黎时刻”·从贸易到投资：中国车企融入欧洲汽车产业生态圈。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "民生",
-   "title": "农村养老新生活 农村县乡村三级养老服务网络不断健全",
+   "title": "以需求为牵引扩大优质供给 智慧养老让“老有所安”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDE7cJehz5ZnlYd2mfUKynz261018.shtml",
+   "url": "https://news.cctv.com/2026/10/18/ARTIlbEZCAhVYimxsg4u66er261018.shtml",
+   "summary": "0f73444ad671,0,1,16:9,newPlayer82c6c6bd3c76,0,1,16:9,newPlayera5ba70de295f,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "多元赛事变身全城消费“请柬” 成为经济活力增长极",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/18/ARTIJayDJxy2nCn60LN4grEB261018.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "多部委齐发力 推进银发经济高质量发展",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/18/VIDEUHjvLoABRYfcs5ICUqV2261018.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "加拿大军事基地发生致命火灾",
+   "title": "法国发生暴力冲突、抢劫和建筑物起火，抗议后1200多人被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+   "summary": "一天，全国各地城市爆发骚乱，超过五十万人参加了生活费用抗议活动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "自制合成毒品浪潮席卷美国并加深危机",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+   "summary": "在该国与致命的新毒品流行作斗争之际，BBC 新闻听取了用户、毒贩、监狱和康复人员的意见。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "加拿大军事基地发生重大火灾，造成多人死亡或受伤",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-   "summary": "国防部长戴维·麦坚蒂表示，总理称这是一起“严重事件”，造成人员伤亡。",
+   "summary": "官员们没有透露死因或死亡人数，称加拿大温赖特军事基地的局势“非常活跃和微妙”。",
    "day": 0
   },
   {
@@ -101,6 +121,36 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
    "summary": "美国总统暂时终止了国会最近因“国家安全”担忧而通过的多项对莫斯科的限制。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "教会为“一战英雄”牧师辩护",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
+   "summary": "威利·多伊尔神父在第一次世界大战期间在试图帮助受伤和垂死的士兵时被杀。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "“世界茶乡看浙江”国际交流活动在罗马举办",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1018/c1002-40816804.html",
+   "summary": "人民网罗马10月17日电（记者谢亚宏）由中国国际茶文化研究会、浙报集团潮新闻、浙江省国际传播中心主办，由《茶博览》承办的“东方浙茶·香约罗马——‘世界茶乡看浙江’”国际交流活动16日在位于罗马的联合国",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "十年授人以渔，鲁班工坊助各国青年“有技可依”",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1018/c1002-40816736.html",
+   "summary": "10月16日，与会者在中国职业教育专题展上参观。新华社记者李然摄 新华社天津10月17日电题：十年授人以渔，鲁班工坊助各国青年“有技可依” 新华社记者宋瑞、栗雅婷、马博文 在天津京清汽车产业园，",
    "day": 0
   }
  ]
