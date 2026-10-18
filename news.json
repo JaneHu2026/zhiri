@@ -1,8 +1,38 @@
 {
- "fetchedAt": "16:42",
+ "fetchedAt": "21:50",
  "fetchedDate": "2026-10-18",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "守护最美“夕阳红”丨",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/18/ARTIUjviHz1nrtzPoCUhUuB6261015.shtml",
+   "summary": "2026年7月15日，习近平总书记顶着酷暑走进刚刚完成旧房改造的上海半淞园路街道市民新村居民区。在社区综合服务点，总书记一边询问工作人员，一边拿起桌上一份适老化改造服务清单仔细察看。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "我国60岁以上人口超3.23亿 农村县乡村三级养老服务网络不断健全丨",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/18/VIDEhM5G1OObBWnf5YXsBFpN261018.shtml",
+   "summary": "我国60岁以上人口超3.23亿：农村县乡村三级养老服务网络不断健全。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "多方服务拧成“一股绳” 以实际行动让“老有所养”更有温度",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/18/ARTIT7dwuj5AagZqnxwskYKx261018.shtml",
+   "summary": "cac02e6e5235,0,1,16:9,newPlayerd1082bee0078,0,1,16:9,newPlayerfea2a0081dfb,0,1,16:9,newPlayerbbdfea741fec,0,1,16:9,newPlayer",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -11,6 +41,16 @@
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/18/ARTIUjviHz1nrtzPoCUhUuB6261015.shtml",
    "summary": "2026年7月15日，习近平总书记顶着酷暑走进刚刚完成旧房改造的上海半淞园路街道市民新村居民区。在社区综合服务点，总书记一边询问工作人员，一边拿起桌上一份适老化改造服务清单仔细察看。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "【新思想引领新征程】绘就幸福“夕阳红” 持续增进民生福祉",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/18/ARTInCx7gICMy7siMaZPnl9A261018.shtml",
+   "summary": "位于北京西城区的银龄老年公寓住着110多位老人。今年春节前夕，习近平总书记来到这里看望慰问老人，他要求，各级党委和政府要统筹各类资源，推动养老服务扩容提质、持续发展，努力为老年人安享幸福晚年创造更好条件。",
    "day": 0
   },
   {
@@ -44,53 +84,23 @@
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "环境",
-   "title": "从贸易到投资：中国车企融入欧洲汽车产业生态圈",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "抗议演变成骚乱和抢劫后，巴黎街道上的汽车被烧毁，玻璃被打碎",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDETCwVeKidngHdF3EfK4Ry261018.shtml?spm=C52448022284.P5Ttlwv9L2md.0.0",
-   "summary": "中国车企的“巴黎时刻”·从贸易到投资：中国车企融入欧洲汽车产业生态圈。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "以需求为牵引扩大优质供给 智慧养老让“老有所安”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/18/ARTIlbEZCAhVYimxsg4u66er261018.shtml",
-   "summary": "0f73444ad671,0,1,16:9,newPlayer82c6c6bd3c76,0,1,16:9,newPlayera5ba70de295f,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "多元赛事变身全城消费“请柬” 成为经济活力增长极",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/18/ARTIJayDJxy2nCn60LN4grEB261018.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "多部委齐发力 推进银发经济高质量发展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/18/VIDEUHjvLoABRYfcs5ICUqV2261018.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+   "summary": "全国抗议活动爆发暴力和破坏行为后，约 1,800 人被捕。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国发生暴力冲突、抢劫和建筑物起火，抗议后1200多人被捕",
+   "title": "圣彼得堡石油设施在夜间遭遇致命袭击",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-   "summary": "一天，全国各地城市爆发骚乱，超过五十万人参加了生活费用抗议活动。",
+   "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+   "summary": "袭击造成至少一人死亡，俄罗斯 Facebook 等公司使用的数据中心也遭到袭击。",
    "day": 0
   },
   {
@@ -101,6 +111,16 @@
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
    "summary": "在该国与致命的新毒品流行作斗争之际，BBC 新闻听取了用户、毒贩、监狱和康复人员的意见。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "欧洲外交官在约旦河西岸遭到以色列定居者袭击",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+   "summary": "以色列军方谴责暴力行为，但总理办公室表示这是“抹黑”活动的一部分。",
    "day": 0
   },
   {
@@ -126,11 +146,21 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "教会为“一战英雄”牧师辩护",
+   "title": "教皇利奥十四世在癌症手术后的首次活动中感谢祝福者",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
-   "summary": "威利·多伊尔神父在第一次世界大战期间在试图帮助受伤和垂死的士兵时被杀。",
+   "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+   "summary": "教皇在肺癌诊断和手术后的第一场活动中，他在阿波教堂的阳台上背诵了传统的三钟经祈祷",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴黎人醒来抗议商店遭到破坏和抢劫",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+   "summary": "周六，在针对学校条件和生活成本的示威活动的最后一天，法国各地爆发了暴力事件。",
    "day": 0
   },
   {
