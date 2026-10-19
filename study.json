@@ -1,19 +1,19 @@
 {
- "fetchedAt": "12:29",
- "fetchedDate": "2026-10-19",
+ "fetchedAt": "00:52",
+ "fetchedDate": "2026-10-20",
  "source": "zhiri-server",
  "items": [
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "There's never been a better time to go into math",
+   "author": "Two Minute Papers",
+   "title": "Gemini 4 Argon Really Surprised Me",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-16 16:15:20",
-   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "updated": "2026-10-19 08:49:21",
+   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
    "points": [
-    "现在是学习数学的最佳时机"
+    "Gemini 4 Argon 真的让我很惊讶"
    ],
    "flags": {
     "fav": false,
@@ -31,7 +31,7 @@
    "updated": "2026-10-13 08:56:12",
    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "points": [
-    "OpenAI的新AI正在做我们几乎不了解的事情"
+    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
    ],
    "flags": {
     "fav": false,
@@ -49,61 +49,7 @@
    "updated": "2026-10-11 16:53:17",
    "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
    "points": [
-    "DeepSeek解决了AI的记忆问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07 13:29:33",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "points": [
-    "DeepMind的新人工智能刚刚破解了生命密码"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
-   "points": [
-    "电话号码拼图"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "3Blue1Brown",
-   "title": "The last IMO problem AI could not solve",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-18 17:14:08",
-   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
-   "points": [
-    "最后一个IMO问题AI无法解决"
+    "DeepSeek 解决了人工智能的内存问题"
    ],
    "flags": {
     "fav": false,
@@ -121,7 +67,7 @@
    "updated": "2025-02-27 22:29:56",
    "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
    "points": [
-    "我如何使用LLM"
+    "我如何使用法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -139,7 +85,61 @@
    "updated": "2025-02-05 18:23:47",
    "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
    "points": [
-    "像ChatGPT一样深入了解LLM"
+    "深入研究 ChatGPT 等法学硕士"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "AI Explained",
+   "title": "10 AI Tools to Make Your Work Easier",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2024-10-25 13:05:57",
+   "url": "https://www.youtube.com/watch?v=w2lRUYV1mps",
+   "points": [
+    "10 个让你的工作更轻松的人工智能工具"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Let's reproduce GPT-2 (124M)",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2024-06-09 23:31:35",
+   "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+   "points": [
+    "我们来重现GPT-2（124M）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "AI Explained",
+   "title": "Unlock Wealth with AI: Top 5 Strategies",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2024-05-23 19:09:54",
+   "url": "https://www.youtube.com/watch?v=qenhplEujf8",
+   "points": [
+    "利用 AI 释放财富：5 大策略"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "含亮老师",
    "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
    "duration": "2:26",
-   "heat": 1309407,
-   "updated": "2026-10-19T04:29:21.458794",
+   "heat": 1988512,
+   "updated": "2026-10-19T16:52:22.057854",
    "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
    "points": [],
    "flags": {
@@ -169,9 +169,25 @@
    "author": "最后讲述者",
    "title": "星河外卖员：规则诡域 【AI月月抢位赛】",
    "duration": "13:55",
-   "heat": 1348235,
-   "updated": "2026-10-19T04:29:21.458808",
+   "heat": 1532413,
+   "updated": "2026-10-19T16:52:22.057868",
    "url": "https://www.bilibili.com/video/BV19pJY6NEuz",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "BlackDawn",
+   "title": "[opus5.5]一句话让claude花30亿token制作的千本樱mv",
+   "duration": "4:13",
+   "heat": 313152,
+   "updated": "2026-10-19T16:52:22.057870",
+   "url": "https://www.bilibili.com/video/BV16MJY6yEKq",
    "points": [],
    "flags": {
     "fav": false,
@@ -185,8 +201,8 @@
    "author": "浪歌漫剧社",
    "title": "AI自制《九幽定谳录-凉烟火》财神、月老、灶君加阎王，四神协作，三堂会审定和离。【AI全民制作人】",
    "duration": "3:22",
-   "heat": 1108578,
-   "updated": "2026-10-19T04:29:21.458810",
+   "heat": 1231263,
+   "updated": "2026-10-19T16:52:22.057872",
    "url": "https://www.bilibili.com/video/BV1DMJC6sE6r",
    "points": [],
    "flags": {
@@ -201,8 +217,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391209,
-   "updated": "2026-10-19T04:29:21.458812",
+   "heat": 391219,
+   "updated": "2026-10-19T16:52:22.057874",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -217,8 +233,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653445,
-   "updated": "2026-10-19T04:29:21.458814",
+   "heat": 653447,
+   "updated": "2026-10-19T16:52:22.057875",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -233,8 +249,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557578,
-   "updated": "2026-10-19T04:29:21.458816",
+   "heat": 557579,
+   "updated": "2026-10-19T16:52:22.057877",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -249,8 +265,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155674,
-   "updated": "2026-10-19T04:29:21.458818",
+   "heat": 155675,
+   "updated": "2026-10-19T16:52:22.057879",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -261,47 +277,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611605,
-   "updated": "2026-10-19T04:29:21.458820",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "谷歌开源RSI新成果！华人浓度爆表",
+   "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-19T04:29:21.458822",
-   "url": "https://www.qbitai.com/2026/10/504184.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-19T04:29:21.458824",
-   "url": "https://www.qbitai.com/2026/10/504136.html",
+   "updated": "2026-10-19T16:52:22.057882",
+   "url": "https://www.qbitai.com/2026/10/504277.html",
    "points": [
-    "让人人都能自由创造并体验可交互世界"
+    "同步搭建千比特规模量子算力云平台"
    ],
    "flags": {
     "fav": false,
@@ -313,61 +297,83 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "智谱新模型，懂法方面全球第一了",
+   "title": "通研院孵化的团队，也盯上了RSI",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-19T04:29:21.458826",
-   "url": "https://www.qbitai.com/2026/10/503965.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-19T04:29:21.458827",
-   "url": "https://www.qbitai.com/2026/10/503935.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-19T04:29:21.458828",
-   "url": "https://www.qbitai.com/2026/10/504116.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-19T04:29:21.458830",
-   "url": "https://www.qbitai.com/2026/10/503880.html",
+   "updated": "2026-10-19T16:52:22.057884",
+   "url": "https://www.qbitai.com/2026/10/504294.html",
    "points": [
-    "从搭载物理建模能力的世界模型切入"
+    "当AI越来越懂你，如何让智能真正属于你？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-19T16:52:22.057885",
+   "url": "https://www.qbitai.com/2026/10/504266.html",
+   "points": [
+    "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "全栈自研！国产高端互连芯片，稳了!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-19T16:52:22.057887",
+   "url": "https://www.qbitai.com/2026/10/504225.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "AI 开始挑战最复杂的系统：生命",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-19T16:52:22.057888",
+   "url": "https://www.qbitai.com/2026/10/504242.html",
+   "points": [
+    "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-19T16:52:22.057890",
+   "url": "https://www.qbitai.com/2026/10/504238.html",
+   "points": [
+    "10月19日，RISC-V中国峰会在深圳举行。"
    ],
    "flags": {
     "fav": false,
@@ -379,103 +385,103 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Weinan E教授的数学、科学和人工智能[视频]",
+   "title": "人工智能与人类音乐的未来（2023）",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-19",
+   "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
+   "points": [
+    "人工智能与人类音乐的未来（2023）"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能实验室在三个城市提供免费管道和暖通空调维修服务来培训机器人",
+   "duration": "—",
+   "heat": 25,
+   "updated": "2026-10-19",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+   "points": [
+    "人工智能实验室在三个城市提供免费管道和暖通空调维修服务来培训机器人"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja",
+   "duration": "—",
+   "heat": 34,
+   "updated": "2026-10-19",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+   "points": [
+    "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "卡尔·马克思在 170 年前就预言了人工智能吗？",
+   "duration": "—",
+   "heat": 5,
+   "updated": "2026-10-19",
+   "url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
+   "points": [
+    "卡尔·马克思在 170 年前就预言了人工智能吗？"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能会使科学民主化吗？来自 AlphaFold 的证据",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-19",
+   "url": "https://papers.ssrn.com/abstract=5130373",
+   "points": [
+    "人工智能会使科学民主化吗？来自 AlphaFold 的证据"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "鄂维南教授的《数学、科学与人工智能》[视频]",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-19",
    "url": "https://www.youtube.com/watch?v=70oUM-TdRds",
    "points": [
-    "Weinan E教授的数学、科学和人工智能[视频]"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "网站正在向人工智能代理敞开大门",
-   "duration": "—",
-   "heat": 135,
-   "updated": "2026-10-18",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "points": [
-    "网站正在向人工智能代理敞开大门"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "世界银行表示， “小型人工智能”可以改变发展中国家",
-   "duration": "—",
-   "heat": 17,
-   "updated": "2026-10-18",
-   "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-   "points": [
-    "世界银行表示， “小型人工智能”可以改变发展中国家"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Anthropic提出的人工智能安全法案仅适用于50人死亡或10亿美元损失的情况",
-   "duration": "—",
-   "heat": 158,
-   "updated": "2026-10-18",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-   "points": [
-    "Anthropic提出的人工智能安全法案仅适用于50人死亡或10亿美元损失的情况"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "阻挡AI机器人可以是一把双刃剑",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-18",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "points": [
-    "阻挡AI机器人可以是一把双刃剑"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能编码界面让审批变得容易，让理解变得困难",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-17",
-   "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
-   "points": [
-    "人工智能编码界面让审批变得容易，让理解变得困难"
+    "鄂维南教授的《数学、科学与人工智能》[视频]"
    ],
    "flags": {
     "fav": false,
