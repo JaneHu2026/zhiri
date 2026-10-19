@@ -1,6 +1,6 @@
 {
- "fetchedAt": "21:51",
- "fetchedDate": "2026-10-18",
+ "fetchedAt": "08:01",
+ "fetchedDate": "2026-10-19",
  "source": "zhiri-server",
  "items": [
   {
@@ -24,68 +24,14 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+   "author": "3Blue1Brown",
+   "title": "The Phone Number puzzle",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-13 08:56:12",
-   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "updated": "2026-09-25 13:35:02",
+   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
-    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepSeek Solved AI’s Memory Problem",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-11 16:53:17",
-   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-   "points": [
-    "DeepSeek 解决了人工智能的内存问题"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Robot Chonk Cleans the Floor",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-08 16:04:24",
-   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-   "points": [
-    "机器人 chonk 清洁地板"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Two Minute Papers",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-07 13:29:33",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "points": [
-    "DeepMind 的新人工智能刚刚破解了生命密码"
+    "电话号码拼图"
    ],
    "flags": {
     "fav": false,
@@ -97,13 +43,13 @@
    "id": "sv_ext",
    "platform": "youtube",
    "author": "3Blue1Brown",
-   "title": "The Phone Number puzzle",
+   "title": "The last IMO problem AI could not solve",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-09-25 13:35:02",
-   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
+   "updated": "2026-09-18 17:14:08",
+   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
    "points": [
-    "电话号码之谜"
+    "最后一个IMO问题AI无法解决"
    ],
    "flags": {
     "fav": false,
@@ -113,34 +59,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Decision Models, DSV4.1 Flash &amp; New Benchmarks",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-23 14:50:17",
-   "url": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-   "points": [
-    "决策模型、DSV4.1 闪存和新基准"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Jev, Yang &amp; Recursive Self Improvement - Happenings in AI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-09-19 15:35:20",
-   "url": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-   "points": [
-    "Jev、Yang 和递归自我改进 - 人工智能中发生的事情"
-   ],
+   "platform": "bilibili",
+   "author": "含亮老师",
+   "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
+   "duration": "2:26",
+   "heat": 978665,
+   "updated": "2026-10-19T00:01:04.024761",
+   "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -153,8 +79,8 @@
    "author": "浪歌漫剧社",
    "title": "AI自制《九幽定谳录-凉烟火》财神、月老、灶君加阎王，四神协作，三堂会审定和离。【AI全民制作人】",
    "duration": "3:22",
-   "heat": 1031547,
-   "updated": "2026-10-18T13:51:00.387541",
+   "heat": 1087362,
+   "updated": "2026-10-19T00:01:04.024772",
    "url": "https://www.bilibili.com/video/BV1DMJC6sE6r",
    "points": [],
    "flags": {
@@ -169,8 +95,8 @@
    "author": "咆哮丶土拨鼠",
    "title": "deepseek崩的时候大肥鱼在做的事：",
    "duration": "0:15",
-   "heat": 2062195,
-   "updated": "2026-10-18T13:51:00.387552",
+   "heat": 2152116,
+   "updated": "2026-10-19T00:01:04.024775",
    "url": "https://www.bilibili.com/video/BV1uaJy6ZE9P",
    "points": [],
    "flags": {
@@ -185,8 +111,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391204,
-   "updated": "2026-10-18T13:51:00.387554",
+   "heat": 391206,
+   "updated": "2026-10-19T00:01:04.024777",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -201,8 +127,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653443,
-   "updated": "2026-10-18T13:51:00.387556",
+   "heat": 653444,
+   "updated": "2026-10-19T00:01:04.024779",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -217,8 +143,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557574,
-   "updated": "2026-10-18T13:51:00.387558",
+   "heat": 557577,
+   "updated": "2026-10-19T00:01:04.024782",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -234,7 +160,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155674,
-   "updated": "2026-10-18T13:51:00.387560",
+   "updated": "2026-10-19T00:01:04.024784",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -249,25 +175,9 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611604,
-   "updated": "2026-10-18T13:51:00.387561",
+   "heat": 611605,
+   "updated": "2026-10-19T00:01:04.024786",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2660287,
-   "updated": "2026-10-18T13:51:00.387563",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
     "fav": false,
@@ -281,8 +191,8 @@
    "author": "抖音热榜",
    "title": "宋亚轩大战AI",
    "duration": "—",
-   "heat": 7699822,
-   "updated": "2026-10-18T13:51:00.387565",
+   "heat": 7643819,
+   "updated": "2026-10-19T00:01:04.024788",
    "url": "https://www.douyin.com/search/%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%A4%A7%E6%88%98AI?type=general",
    "points": [
     "热门话题「宋亚轩大战AI」：相关视频 1 条"
@@ -300,7 +210,7 @@
    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-18T13:51:00.387567",
+   "updated": "2026-10-19T00:01:04.024790",
    "url": "https://www.qbitai.com/2026/10/504136.html",
    "points": [
     "让人人都能自由创造并体验可交互世界"
@@ -318,7 +228,7 @@
    "title": "智谱新模型，懂法方面全球第一了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-18T13:51:00.387569",
+   "updated": "2026-10-19T00:01:04.024792",
    "url": "https://www.qbitai.com/2026/10/503965.html",
    "points": [],
    "flags": {
@@ -334,7 +244,7 @@
    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-18T13:51:00.387571",
+   "updated": "2026-10-19T00:01:04.024794",
    "url": "https://www.qbitai.com/2026/10/503935.html",
    "points": [],
    "flags": {
@@ -350,7 +260,7 @@
    "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-18T13:51:00.387572",
+   "updated": "2026-10-19T00:01:04.024796",
    "url": "https://www.qbitai.com/2026/10/504116.html",
    "points": [],
    "flags": {
@@ -366,7 +276,7 @@
    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-18T13:51:00.387574",
+   "updated": "2026-10-19T00:01:04.024798",
    "url": "https://www.qbitai.com/2026/10/503880.html",
    "points": [
     "从搭载物理建模能力的世界模型切入"
@@ -384,7 +294,7 @@
    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-18T13:51:00.387576",
+   "updated": "2026-10-19T00:01:04.024800",
    "url": "https://www.qbitai.com/2026/10/503865.html",
    "points": [
     "VLA解决“能干”，世界模型解决“想清楚再干”"
@@ -399,13 +309,67 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "阻止人工智能机器人可能是一把双刃剑",
+   "title": "网站正在向人工智能代理敞开大门",
+   "duration": "—",
+   "heat": 133,
+   "updated": "2026-10-18",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "points": [
+    "网站正在向人工智能代理敞开大门"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "世界银行表示， “小型人工智能”可以改变发展中国家",
+   "duration": "—",
+   "heat": 16,
+   "updated": "2026-10-18",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+   "points": [
+    "世界银行表示， “小型人工智能”可以改变发展中国家"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Anthropic提出的人工智能安全法案仅适用于50人死亡或10亿美元损失的情况",
+   "duration": "—",
+   "heat": 152,
+   "updated": "2026-10-18",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+   "points": [
+    "Anthropic提出的人工智能安全法案仅适用于50人死亡或10亿美元损失的情况"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "阻挡AI机器人可以是一把双刃剑",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-18",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
    "points": [
-    "阻止人工智能机器人可能是一把双刃剑"
+    "阻挡AI机器人可以是一把双刃剑"
    ],
    "flags": {
     "fav": false,
@@ -417,13 +381,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "AI编码接口，让审批变得容易，理解变得困难",
+   "title": "人工智能编码界面让审批变得容易，让理解变得困难",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-17",
    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
    "points": [
-    "AI编码接口，让审批变得容易，理解变得困难"
+    "人工智能编码界面让审批变得容易，让理解变得困难"
    ],
    "flags": {
     "fav": false,
@@ -435,67 +399,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "为什么人工智能的创造者不理解自己的创造",
+   "title": "为什么人工智能的创造者不了解他们自己的创作",
    "duration": "—",
    "heat": 3,
    "updated": "2026-10-17",
    "url": "https://news.ycombinator.com/item?id=50132747",
    "points": [
-    "为什么人工智能的创造者不理解自己的创造"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人",
-   "duration": "—",
-   "heat": 20,
-   "updated": "2026-10-17",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-   "points": [
-    "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "网站正在向人工智能代理关闭大门",
-   "duration": "—",
-   "heat": 4,
-   "updated": "2026-10-17",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "points": [
-    "网站正在向人工智能代理关闭大门"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "幻觉作为模型防御：论人工智能错误的本质",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-17",
-   "url": "https://medium.com/@smoking2man/hallucination-as-model-defense-on-the-nature-of-artificial-intelligence-errors-1186260be3be",
-   "points": [
-    "幻觉作为模型防御：论人工智能错误的本质"
+    "为什么人工智能的创造者不了解他们自己的创作"
    ],
    "flags": {
     "fav": false,
