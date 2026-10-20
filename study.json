@@ -1,8 +1,116 @@
 {
- "fetchedAt": "13:54",
+ "fetchedAt": "22:50",
  "fetchedDate": "2026-10-20",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Gemini 4 Argon Is Not What I Expected",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-19 08:49:21",
+   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+   "points": [
+    "Gemini 4 Argon 不是我所期望的"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "There's never been a better time to go into math",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-16 16:15:20",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "points": [
+    "现在是学习数学的最佳时机"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-13 08:56:12",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "points": [
+    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek Solved AI’s Memory Problem",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-11 16:53:17",
+   "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+   "points": [
+    "DeepSeek 解决了人工智能的内存问题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The Phone Number puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-25 13:35:02",
+   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
+   "points": [
+    "电话号码之谜"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The last IMO problem AI could not solve",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-09-18 17:14:08",
+   "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
+   "points": [
+    "最后一个 IMO 问题人工智能无法解决"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "youtube",
@@ -13,7 +121,7 @@
    "updated": "2025-02-27 22:29:56",
    "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
    "points": [
-    "How I use LLMs"
+    "我如何使用法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -31,25 +139,7 @@
    "updated": "2025-02-05 18:23:47",
    "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
    "points": [
-    "Deep Dive into LLMs like ChatGPT"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "Andrej Karpathy",
-   "title": "Let's reproduce GPT-2 (124M)",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2024-06-09 23:31:35",
-   "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-   "points": [
-    "Let's reproduce GPT-2 (124M)"
+    "深入研究 ChatGPT 等法学硕士"
    ],
    "flags": {
     "fav": false,
@@ -63,8 +153,8 @@
    "author": "含亮老师",
    "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
    "duration": "2:26",
-   "heat": 2165690,
-   "updated": "2026-10-20T05:54:46.332477",
+   "heat": 2424009,
+   "updated": "2026-10-20T14:50:13.859767",
    "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
    "points": [],
    "flags": {
@@ -79,25 +169,9 @@
    "author": "最后讲述者",
    "title": "星河外卖员：规则诡域 【AI月月抢位赛】",
    "duration": "13:55",
-   "heat": 1603362,
-   "updated": "2026-10-20T05:54:46.332486",
+   "heat": 1683682,
+   "updated": "2026-10-20T14:50:13.859778",
    "url": "https://www.bilibili.com/video/BV19pJY6NEuz",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "BlackDawn",
-   "title": "[opus5.5]一句话让claude花30亿token制作的千本樱mv",
-   "duration": "4:13",
-   "heat": 352701,
-   "updated": "2026-10-20T05:54:46.332488",
-   "url": "https://www.bilibili.com/video/BV16MJY6yEKq",
    "points": [],
    "flags": {
     "fav": false,
@@ -111,8 +185,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391226,
-   "updated": "2026-10-20T05:54:46.332490",
+   "heat": 391240,
+   "updated": "2026-10-20T14:50:13.859780",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -127,8 +201,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653449,
-   "updated": "2026-10-20T05:54:46.332492",
+   "heat": 653450,
+   "updated": "2026-10-20T14:50:13.859782",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -143,8 +217,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557584,
-   "updated": "2026-10-20T05:54:46.332494",
+   "heat": 557586,
+   "updated": "2026-10-20T14:50:13.859784",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -160,7 +234,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155675,
-   "updated": "2026-10-20T05:54:46.332496",
+   "updated": "2026-10-20T14:50:13.859785",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -175,10 +249,98 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611607,
-   "updated": "2026-10-20T05:54:46.332497",
+   "heat": 611609,
+   "updated": "2026-10-20T14:50:13.859787",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "闪电飞船",
+   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
+   "duration": "2:55",
+   "heat": 2660345,
+   "updated": "2026-10-20T14:50:13.859789",
+   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-20T14:50:13.859791",
+   "url": "https://www.qbitai.com/2026/10/504517.html",
+   "points": [
+    "兔皮底下，竟然是MiniMax！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-20T14:50:13.859792",
+   "url": "https://www.qbitai.com/2026/10/504452.html",
+   "points": [
+    "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-20T14:50:13.859793",
+   "url": "https://www.qbitai.com/2026/10/504435.html",
+   "points": [
+    "当地时间10月12日，2026巴黎国际车展正式启幕。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-20T14:50:13.859795",
+   "url": "https://www.qbitai.com/2026/10/504421.html",
+   "points": [
+    "最新发布TokenFleet调度框架"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -192,7 +354,7 @@
    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-20T05:54:46.332499",
+   "updated": "2026-10-20T14:50:13.859796",
    "url": "https://www.qbitai.com/2026/10/504415.html",
    "points": [
     "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
@@ -210,7 +372,7 @@
    "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-20T05:54:46.332501",
+   "updated": "2026-10-20T14:50:13.859798",
    "url": "https://www.qbitai.com/2026/10/504395.html",
    "points": [],
    "flags": {
@@ -221,69 +383,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Show HN：标准主题 – 人工智能和 RSS 驱动的新闻和资源平台",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-20T05:54:46.332502",
-   "url": "https://www.qbitai.com/2026/10/504372.html",
+   "heat": 1,
+   "updated": "2026-10-20",
+   "url": "https://www.standardtopic.com/",
    "points": [
-    "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-20T05:54:46.332504",
-   "url": "https://www.qbitai.com/2026/10/504314.html",
-   "points": [
-    "OpenAI只掏出一个6.1 Terra…"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-20T05:54:46.332506",
-   "url": "https://www.qbitai.com/2026/10/504277.html",
-   "points": [
-    "同步搭建千比特规模量子算力云平台"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "通研院孵化的团队，也盯上了RSI",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-20T05:54:46.332508",
-   "url": "https://www.qbitai.com/2026/10/504294.html",
-   "points": [
-    "当AI越来越懂你，如何让智能真正属于你？"
+    "Show HN：标准主题 – 人工智能和 RSS 驱动的新闻和资源平台"
    ],
    "flags": {
     "fav": false,
@@ -295,13 +403,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "AI and the future of human made music (2023)",
+   "title": "训练自己的模型是一个愚蠢的想法",
+   "duration": "—",
+   "heat": 4,
+   "updated": "2026-10-20",
+   "url": "https://www.artificialintelligencemadesimple.com/p/training-your-own-models-is-an-incredibly",
+   "points": [
+    "训练自己的模型是一个愚蠢的想法"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能与人类音乐的未来（2023）",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-19",
    "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
    "points": [
-    "AI and the future of human made music (2023)"
+    "人工智能与人类音乐的未来（2023）"
    ],
    "flags": {
     "fav": false,
@@ -313,13 +439,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+   "title": "人工智能实验室在三个城市提供免费管道和暖通空调维修服务来培训机器人",
    "duration": "—",
    "heat": 33,
    "updated": "2026-10-19",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
    "points": [
-    "AI lab offers free plumbing and HVAC repairs across three cities to train robots"
+    "人工智能实验室在三个城市提供免费管道和暖通空调维修服务来培训机器人"
    ],
    "flags": {
     "fav": false,
@@ -331,13 +457,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "title": "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja",
    "duration": "—",
    "heat": 59,
    "updated": "2026-10-19",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
    "points": [
-    "A hacker broke into John Deere and SharkNinja with an army of AI agents"
+    "一名黑客带着一群人工智能特工闯入了约翰迪尔和 SharkNinja"
    ],
    "flags": {
     "fav": false,
@@ -349,49 +475,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Cairn: Open windows into AI-driven cyber operations",
+   "title": "凯恩：打开人工智能驱动的网络运营的窗口",
    "duration": "—",
-   "heat": 27,
+   "heat": 29,
    "updated": "2026-10-19",
    "url": "https://norforge.com/blog/inside_cairn",
    "points": [
-    "Cairn: Open windows into AI-driven cyber operations"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
-   "duration": "—",
-   "heat": 7,
-   "updated": "2026-10-19",
-   "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
-   "points": [
-    "One hacker used AI agents and a few thousand dollars to break into 100 sites"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-10-19",
-   "url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
-   "points": [
-    "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?"
+    "凯恩：打开人工智能驱动的网络运营的窗口"
    ],
    "flags": {
     "fav": false,
