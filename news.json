@@ -1,8 +1,38 @@
 {
- "fetchedAt": "08:57",
+ "fetchedAt": "13:53",
  "fetchedDate": "2026-10-20",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "一湖之变，连着总书记的牵挂",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/20/ARTI6GJ9OCLzqQAGIUzqvffz261020.shtml",
+   "summary": "10月16日，习近平总书记来到黄旗海自然保护区，深入了解当地推进黄旗海环境综合治理、生态系统修复等情况，实地察看水岸滩涂生态、栖息鸟类等。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "从三季度报里读懂“中国信心” 数据背后写满向新向优的发展答卷",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/20/ARTIUPWGJKCj7OXzVbNn5ePv261020.shtml",
+   "summary": "c30d98eb22fb,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "第140届广交会一期收官 中国“智”造焕新远航",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/20/VIDE2Fwn6O3ZwRGKtckQ78fa261020.shtml",
+   "summary": "聚焦广交会·记者观察：第140届广交会一期收官，中国“智”造焕新远航。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -15,32 +45,142 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "调查：约三成日本大企业承认 曾泄露或疑似泄露数据",
+   "theme": "科技",
+   "title": "良渚考古公布新进展 良渚反山复原出高等级建筑三维模型图",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/20/ARTIuf2VZRn6qizj9zLb6Lol261020.shtml",
-   "summary": "一项最新调查19日显示，将近三分之一日本大企业曾发生数据泄露或疑似泄露事件，原因包括人为过失和遭黑客攻击等。",
+   "url": "https://tv.cctv.com/2026/10/20/VIDEP5ryEoyFpORhfSbn2vae261020.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "外国人眼中的长征｜7000公里骑行路 一名德国作家的长征寻迹",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/20/VIDESlnQhjj7DwHEoSX1qnVU261020.shtml",
+   "summary": "外国人眼中的长征：7000公里骑行路，一名德国作家的长征寻迹。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "中国外交部：再次严正要求日方正视历史 反省罪责",
+   "title": "湖南张家界：多地现壮阔云海景象",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/20/VIDEAl7d5Tejv4k5l7Sk2iI1261020.shtml",
+   "url": "https://tv.cctv.com/2026/10/20/VIDEnnkitSeJ0XECtNE5PfuK261020.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "习近平致信祝贺中央社会主义学院建院70周年",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/20/ARTIUxAMyJgmaMEpHycTD6TA261020.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【文明中国·看河南】我的行走日记（之一）",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261020/15e00914ef824d75a2131c19173b898e/c.html",
+   "summary": "【文明中国·看河南】我的行走日记（之一）-新华网张群 摄第三站是黄河文化公园。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "新版医保钱包升级 个人账户跨省共济全面落地",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261020/e4d0479841c2483f9a438f0c01e3b67e/c.html",
+   "summary": "新版医保钱包升级 个人账户跨省共济全面落地-\"“医保钱包2.0版破解了被共济人使用共济资金的区域限制，由过去省内使用扩展到支持跨省使用。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "美国教会在打击毒品的前线被称为“镇静剂”",
+   "title": "Seventh day of violent clashes between Albanian protesters and police",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+   "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mea",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+   "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "How is the US economy really doing under President Trump?",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in ",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+   "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US church on frontline of battle against drug known as 'tranq'",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-   "summary": "芬太尼等合成阿片类药物功效更强大，供应充足，它们改变了毒品格局。",
+   "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "厄尔尼诺引发强降雨 智利沙漠花海盛放",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1020/c1002-40817947.html",
+   "summary": "新华社圣地亚哥10月19日电（记者朱雨博）因常年干旱少雨，南半球国家智利北部的阿塔卡马沙漠被称为“世界旱极”，今年10月，这里再现罕见的“沙漠开花”景观。研究人员说，在厄尔尼诺现象作用下，今年智利",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "国际观察丨地区多国声援沙特：各自考量牵动局势走向",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1020/c1002-40817934.html",
+   "summary": "新华社开罗/北京10月19日电（记者徐皓夫 姚兵 蔺妍）近期，沙特阿拉伯与也门胡塞武装加大互袭力度，埃及、土耳其、巴基斯坦等国纷纷表态将向沙特提供支持。 分析人士认为，地区多国声援沙特，背后有着",
    "day": 0
   }
  ]
