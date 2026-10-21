@@ -1,26 +1,186 @@
 {
- "fetchedAt": "08:26",
+ "fetchedAt": "13:49",
  "fetchedDate": "2026-10-21",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "医保钱包升级！个人账户资金如何跨省供亲属使用？一文看懂",
+   "theme": "环境",
+   "title": "我国应对气候变化取得显著成效",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/21/ARTIp4wkNNH2bmYnBuurFKHR261021.shtml",
-   "summary": "有笔钱，在外工作的年轻人可能一直没当回事。它躺在个人医保账户里，一年也用不上两三回。而在异乡，上了年纪的父母，因为看病次数比较多，医药开销比较大，医保个人账户已经见底。一边是年轻人的医保个人账户用不完，另一边是老年人的就医负担重，这两笔账能不能放在一块儿算？答案是，可以。",
+   "url": "https://tv.cctv.com/2026/10/21/VIDE7UGkHM7VhRCvOGHhMrVP261021.shtml",
+   "summary": "《中国应对气候变化的政策与行动2026年度报告》发布：我国应对气候变化取得显著成效。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "借助“稳、新、韧”关键字解读中国经济秋季报",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/21/ARTI5ZRxTZWpwi1MHlJDgboY261021.shtml",
+   "summary": "30a4747cddc8,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "医保钱包2.0版上线 这笔钱怎么用？",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/21/VIDEqIvqgYi9Zf0fWmAjU2wp261021.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "伊朗新任防长：伊朗准备迎接第四轮战争",
+   "title": "谷神星一号海射型遥八运载火箭发射成功",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/21/VIDETOKx4mvdLLD3NKuewt7q261021.shtml",
+   "url": "https://tv.cctv.com/2026/10/21/VIDEG1LtV7crzQurwv6rE1IJ261021.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "车轮上的丰收季｜中老列车+冷链 新鲜蔬菜送出国",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/21/VIDEFeQVErorMSAMbGMKuKt5261021.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "彩叶进入最佳观赏期 北京多个景区将迎客流高峰",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/21/VIDEQ795tXc7UvqnOWNKcgsk261021.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "财经",
+   "title": "感知中国活力 区域外贸规模创新高",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/21/ARTIMdRmyNFtxwT5QVunxlqV261021.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "台当局禁赴大陆参加孙中山诞辰纪念活动 国台办回应",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/21/ARTIErwLOdHvuXAZE9uz8F30261021.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【文明中国·看河南】我的行走日记（之二）",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261021/a51143b05bb84102b88079fd19ddb8e5/c.html",
+   "summary": "【文明中国·看河南】我的行走日记（之二）-新华网张群 摄郑州市嵩阳书院“大将军柏”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "三部门部署防控儿童青少年高度近视",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261021/e0c78926496f4d059183d098ca262ddd/c.html",
+   "summary": "三部门部署防控儿童青少年高度近视-\"通知要求，医疗机构、中小学校为高度近视的学生建立视觉健康档案，规范记录眼轴长度、眼底检查、矫正视力等信息，及时发现高度近视并发症风险并进行针对性干预。\"",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "美国特使将在俄罗斯会见普京，泽连斯基表示情报共享“现在有效”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰指责美国扣留关键情报，但华盛顿方面驳斥了这一说法，认为这是“可耻的”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国对于周末骚乱应归咎于谁以及从中吸取什么教训存在分歧",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+   "summary": "在法国及其他地区，对于是什么导致了法国城市现代历史上最严重的骚乱，存在着广泛的分歧。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "埃隆·马斯克为何要合并特斯拉和 SpaceX？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "summary": "担任两家公司首席执行官的马斯克表示，此次合并“将带来很多好处”，这将是历史上规模最大的合并。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "海地移民改变了这座美国小镇——特朗普的驱逐行动正在再次重塑它",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+   "summary": "总统因虚假的宠物食用行为将俄亥俄州斯普林菲尔德推到了聚光灯下 - 多年后，它仍然是移民的中心",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "“垃圾岛”还是华盛顿的地标？高尔夫球场如何让特朗普陷入混乱的法律纠纷",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+   "summary": "特朗普表示，他计划将华盛顿特区一座拥有 106 年历史的公共高尔夫球场改造成适合职业选手参加比赛的高尔夫球场，但当地",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "BBC在澳大利亚法庭内被控袭击国会​​议员的男子在第一次听证会上保持沉默",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC 的凯蒂·沃森 (Katy Watson) 描述了旺加拉塔发生的事情，当时 43 岁的布伦丹·纽金特 (Brendan Nugent) 因涉嫌袭击海伦而出庭",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "罗马尼亚新政府宣誓就职",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1021/c1002-40818768.html",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "印尼一客轮起火 船上460人全部撤离",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1021/c1002-40818769.html",
+   "summary": "新华社雅加达10月20日电（记者李嘉聪）印度尼西亚万丹省搜救部门20日晚通报，当天下午在爪哇岛西端附近海域发生的客轮火灾事故中，船上460人已全部安全撤离。10月20日，在印度尼西亚爪哇岛西端附近",
    "day": 0
   }
  ]
