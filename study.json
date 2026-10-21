@@ -1,5 +1,5 @@
 {
- "fetchedAt": "13:49",
+ "fetchedAt": "22:57",
  "fetchedDate": "2026-10-21",
  "source": "zhiri-server",
  "items": [
@@ -9,25 +9,9 @@
    "author": "含亮老师",
    "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
    "duration": "2:26",
-   "heat": 2599133,
-   "updated": "2026-10-21T05:49:57.400051",
+   "heat": 2765037,
+   "updated": "2026-10-21T14:57:40.978298",
    "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "BlackDawn",
-   "title": "[opus5.5]一句话让claude花30亿token制作的千本樱mv",
-   "duration": "4:13",
-   "heat": 438836,
-   "updated": "2026-10-21T05:49:57.400065",
-   "url": "https://www.bilibili.com/video/BV16MJY6yEKq",
    "points": [],
    "flags": {
     "fav": false,
@@ -41,9 +25,41 @@
    "author": "Foyege弗曳哥",
    "title": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
    "duration": "4:51",
-   "heat": 791211,
-   "updated": "2026-10-21T05:49:57.400068",
+   "heat": 1097152,
+   "updated": "2026-10-21T14:57:40.978310",
    "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "BlackDawn",
+   "title": "[opus5.5]一句话让claude花30亿token制作的千本樱mv",
+   "duration": "4:13",
+   "heat": 474620,
+   "updated": "2026-10-21T14:57:40.978312",
+   "url": "https://www.bilibili.com/video/BV16MJY6yEKq",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "天不生我六酱",
+   "title": "里昂叔叔带你通关生化危机爆发夜【AI全民制作人】",
+   "duration": "14:51",
+   "heat": 828629,
+   "updated": "2026-10-21T14:57:40.978314",
+   "url": "https://www.bilibili.com/video/BV1HNnj6iEQL",
    "points": [],
    "flags": {
     "fav": false,
@@ -57,9 +73,25 @@
    "author": "DeepSeek鲸鱼娘在运营",
    "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
    "duration": "1:23",
-   "heat": 1342869,
-   "updated": "2026-10-21T05:49:57.400070",
+   "heat": 1613844,
+   "updated": "2026-10-21T14:57:40.978315",
    "url": "https://www.bilibili.com/video/BV1pGnn67EC2",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Git源宝",
+   "title": "【热门拆解】为什么你老能刷到AI动画科普视频？它是怎么做的？vibe动画是什么意思？",
+   "duration": "3:40",
+   "heat": 530427,
+   "updated": "2026-10-21T14:57:40.978317",
+   "url": "https://www.bilibili.com/video/BV1ALnw6YEM7",
    "points": [],
    "flags": {
     "fav": false,
@@ -73,8 +105,8 @@
    "author": "抑止之力",
    "title": "邪教大小姐Claude与被爱包围天才少女Deepseek",
    "duration": "4:18",
-   "heat": 498601,
-   "updated": "2026-10-21T05:49:57.400071",
+   "heat": 558445,
+   "updated": "2026-10-21T14:57:40.978319",
    "url": "https://www.bilibili.com/video/BV1Gsnj6XE9M",
    "points": [],
    "flags": {
@@ -86,12 +118,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "最后讲述者",
-   "title": "星河外卖员：规则诡域 【AI月月抢位赛】",
-   "duration": "13:55",
-   "heat": 1764551,
-   "updated": "2026-10-21T05:49:57.400073",
-   "url": "https://www.bilibili.com/video/BV19pJY6NEuz",
+   "author": "晚点LatePost",
+   "title": "揭秘新兴赛博生意：谁在给机器人“卖命”？【晚点LatePost】",
+   "duration": "4:46",
+   "heat": 1046356,
+   "updated": "2026-10-21T14:57:40.978321",
+   "url": "https://www.bilibili.com/video/BV1V9J46SEd9",
    "points": [],
    "flags": {
     "fav": false,
@@ -101,14 +133,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "玄离199",
-   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
-   "duration": "6:34",
-   "heat": 391245,
-   "updated": "2026-10-21T05:49:57.400075",
-   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-21T14:57:40.978323",
+   "url": "https://www.qbitai.com/2026/10/504730.html",
+   "points": [
+    "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -117,14 +151,34 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "优设AIGC",
-   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
-   "duration": "0:54",
-   "heat": 653457,
-   "updated": "2026-10-21T05:49:57.400077",
-   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-21T14:57:40.978325",
+   "url": "https://www.qbitai.com/2026/10/504653.html",
+   "points": [
+    "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-21T14:57:40.978327",
+   "url": "https://www.qbitai.com/2026/10/504638.html",
+   "points": [
+    "百万台搭载打底，智驾普及与安全并重"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -138,7 +192,7 @@
    "title": "实探宁德时代总部：“去宁化”是喊太大声了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-21T05:49:57.400080",
+   "updated": "2026-10-21T14:57:40.978329",
    "url": "https://www.qbitai.com/2026/10/504618.html",
    "points": [],
    "flags": {
@@ -154,7 +208,7 @@
    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-21T05:49:57.400081",
+   "updated": "2026-10-21T14:57:40.978331",
    "url": "https://www.qbitai.com/2026/10/504608.html",
    "points": [],
    "flags": {
@@ -170,7 +224,7 @@
    "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-21T05:49:57.400083",
+   "updated": "2026-10-21T14:57:40.978333",
    "url": "https://www.qbitai.com/2026/10/504551.html",
    "points": [
     "电池、电驱、超充一把梭，冬天多跑30公里"
@@ -183,15 +237,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能 (ADI) – 家电嵌入式智能",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-21T05:49:57.400085",
-   "url": "https://www.qbitai.com/2026/10/504517.html",
+   "heat": 1,
+   "updated": "2026-10-21",
+   "url": "https://github.com/Tem-Degu/adi",
    "points": [
-    "兔皮底下，竟然是MiniMax！"
+    "人工智能 (ADI) – 家电嵌入式智能"
    ],
    "flags": {
     "fav": false,
@@ -201,15 +255,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能帝国：全球新秩序的兴衰",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-21T05:49:57.400087",
-   "url": "https://www.qbitai.com/2026/10/504452.html",
+   "heat": 4,
+   "updated": "2026-10-21",
+   "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
    "points": [
-    "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+    "人工智能帝国：全球新秩序的兴衰"
    ],
    "flags": {
     "fav": false,
@@ -219,15 +273,15 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "谷歌 DeepMind 称四位 AI 代理在 27 小时内击败了 Minecraft",
    "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-21T05:49:57.400088",
-   "url": "https://www.qbitai.com/2026/10/504435.html",
+   "heat": 3,
+   "updated": "2026-10-21",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
    "points": [
-    "当地时间10月12日，2026巴黎国际车展正式启幕。"
+    "谷歌 DeepMind 称四位 AI 代理在 27 小时内击败了 Minecraft"
    ],
    "flags": {
     "fav": false,
@@ -282,60 +336,6 @@
    "url": "https://www.standardtopic.com/",
    "points": [
     "Show HN：标准主题 – 人工智能和 RSS 驱动的新闻和资源平台"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "训练自己的模型是一个愚蠢的想法",
-   "duration": "—",
-   "heat": 5,
-   "updated": "2026-10-20",
-   "url": "https://www.artificialintelligencemadesimple.com/p/training-your-own-models-is-an-incredibly",
-   "points": [
-    "训练自己的模型是一个愚蠢的想法"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能与人类音乐的未来（2023）",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-19",
-   "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
-   "points": [
-    "人工智能与人类音乐的未来（2023）"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能实验室在三个城市提供免费管道和暖通空调维修服务来培训机器人",
-   "duration": "—",
-   "heat": 34,
-   "updated": "2026-10-19",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-   "points": [
-    "人工智能实验室在三个城市提供免费管道和暖通空调维修服务来培训机器人"
    ],
    "flags": {
     "fav": false,
