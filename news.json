@@ -1,56 +1,76 @@
 {
- "fetchedAt": "13:51",
+ "fetchedAt": "22:57",
  "fetchedDate": "2026-10-22",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "独家视频丨纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话",
+   "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIjYAnNYaYHJJq90Zp1nip261022.shtml",
+   "url": "https://news.cctv.com/2026/10/22/ARTI1QeRF5s1rsVsFuk0sxJJ261022.shtml",
+   "summary": "纪念中国工农红军长征胜利90周年大会22日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，铭记历史方能开创未来。全党全军全国各族人民要更加紧密地团结在党中央周围，大力弘扬伟大长征精神，接续奋斗、砥砺前行，把革命前辈开创的伟大事业不断推向前进，在新的长征路上…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【央视快评】在新的长征路上奋力创造新的辉煌",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/22/ARTIcFWa24PTnAHMLcjNewSI261022.shtml",
+   "summary": "总书记的重要讲话高屋建瓴、思想深邃，具有很强的政治性、思想性和指导性，为全党全军全国各族人民在新征程上弘扬伟大长征精神、奋力走好新的长征路指明了前进方向、提供了强大动力。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "天天学习｜历史长卷里的“红飘带”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/22/ARTIoGMN9MtkAyX3kNvoPpAO261020.shtml",
+   "summary": "这抹血色，是平均每300米就有一名红军战士牺牲的悲壮，是平均年龄仅20岁的年轻人用脚板丈量的信仰，是20.6万余人出发、仅5.7万余人抵达的生死淬炼。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "大型政论专题片《新的长征之路》第5集 遍地英雄",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/22/VIDEPS0BQtrJ5IQG6VPtch5t261022.shtml",
+   "summary": "本集主要内容： 伟大长征精神，就是紧紧依靠人民群众，同人民群众生死相依、患难与共、艰苦奋斗的精神。今天，我们走在新的长征之路上，这条中国式现代化道路就是为了让人民过上好日子的奋斗之路。（《新的长征之路》 第5集 遍地英雄）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "国新办发布会｜推动商务高质量发展取得新成效",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/22/VIDEojluBQiHlgqNdM8mzoxf261022.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行",
+   "title": "活力中国调研行｜一港联通内外 激发自贸新活力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIjYAnNYaYHJJq90Zp1nip261022.shtml",
+   "url": "https://tv.cctv.com/2026/10/22/VIDE9thulu38Pw5nmimLY5YB261022.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "多地举行纪念中国工农红军长征胜利90周年活动 长征精神代代相传",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDEU2tH5Wq40GjX5Ao3aFXd261022.shtml",
-   "summary": "纪念中国工农红军长征胜利90周年：多地举行纪念活动，长征精神代代相传。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "三季度经济观察：跨国企业共享中国创新机遇",
+   "title": "国民经济重要增长极 “数”看海洋经济发展“成绩单”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDEgMriEQlNwMHe5Ahr7Mz3261022.shtml",
-   "summary": "三季度经济观察：跨国企业共享中国创新机遇，海外高管来华寻找机器人“中国方案”。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "星火成炬｜当惊世界殊",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIqDyrisGCd3s2H0lvGOtL261022.shtml",
-   "summary": "江河奔涌，古今同章。回望华夏治水历程，从古时的都江堰、大运河，到新时代的白鹤滩、平陆运河，这些世界级水利工程，控洪水、调清水、送绿电、通江海，不仅承载东方治水智慧，更彰显大国工程的硬核实力，“功在当代，利在千秋”。",
+   "url": "https://news.cctv.com/2026/10/22/ARTIGLF1ElC7actOXlS1E7b8261022.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -60,26 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/22/ARTIcgDS3JiPyorOtrzTAnnO261022.shtml",
-   "summary": "a09319efbebe,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "胡杨林披金 大漠秋景引客来",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDEJihXKKhMItgOeslX2zGT261022.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "产业基础能力提升“十五五”规划发布",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIgkZVPHCXw7jO5jlBO2er261022.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -94,63 +94,93 @@
    "day": 0
   },
   {
-   "group": "gj",
-   "theme": "国际",
-   "title": "How Arab parties could hold critical balance of power in Israeli election",
-   "source": "BBC",
+   "group": "gn",
+   "theme": "政策",
+   "title": "河北衡水：政策赋能多点发力活跃县域消费",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+   "url": "https://www.news.cn/government/20261022/126e80d5a6374621a1ad99eb18e1ce4b/c.html",
+   "summary": "河北衡水：政策赋能多点发力活跃县域消费- 自今年8月份商务部等9部门出台活跃县域消费18条举措以来，河北省衡水市立足域内各县市区资源禀赋，多点发力，激发县域消费活力，吸引本地和外地游客“奔县游”。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Governments working to identify exposure after global cyber-security warning",
+   "title": "警方在“不当”指控后调查澳大利亚一见钟情婚姻",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public",
+   "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+   "summary": "新南威尔士州警方表示，“在收到有关分享不当内容的报告后”进行了调查。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "title": "法国南部暴风雨引发洪水 至少四人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+   "summary": "死亡事件包括两名在罗纳河口地区的一个地窖里溺水身亡的妇女。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "title": "两名在尼日尔被囚禁一年多的欧洲妇女在利比亚获释",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-   "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+   "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+   "summary": "瑞士政府告诉英国广播公司，获释的国民正在返回瑞士的途中。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "No order, no seat: Starbucks China rolls out new store policy",
+   "title": "俄勒冈州枪击案老师称她为了生存而假装死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-   "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+   "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+   "summary": "老师说她无法帮助孩子们，因为她被袭击者伤得很重。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "US embassy accuses Canada of election meddling ahead of midterms",
+   "title": "当局称，胡塞武装袭击沙特阿拉伯东部机场，造成两人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+   "summary": "这是胡塞运动针对沙特境内机场和其他地点发动的一系列袭击中的最新一起。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "伊尔汗·奥马尔表示，黎明前对她家的“奇怪”袭击迫使她搬出",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+   "summary": "这位女议员表示，作为联邦调查的一部分，联邦特工查获了十几件物品，包括手机和笔记本电脑。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "印度著名金融影响者自杀后 YouTuber 被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+   "summary": "V Harish 是 Instagram 上广受欢迎的账户“Finance with Harish”的运营者，他于周二被发现死亡。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "被引导出韩国运河的名人鲨鱼拒绝游出海",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+   "summary": "几周前，在釜山的一条运河中发现鲨鱼“Bukangi”后，它出人意料地引起了轰动。",
    "day": 0
   },
   {
