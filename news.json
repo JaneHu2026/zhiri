@@ -1,86 +1,176 @@
 {
- "fetchedAt": "08:29",
+ "fetchedAt": "13:51",
  "fetchedDate": "2026-10-22",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "政策",
-   "title": "三问日本执政联盟拟修订“安保三文件”",
+   "theme": "要闻",
+   "title": "独家视频丨纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平出席大会并发表重要讲话",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIPqNNAEmE96z7IrMqeaZX261022.shtml",
-   "summary": "e8e58ccc14c8,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/22/ARTIjYAnNYaYHJJq90Zp1nip261022.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/22/ARTIjYAnNYaYHJJq90Zp1nip261022.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "多地举行纪念中国工农红军长征胜利90周年活动 长征精神代代相传",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/22/VIDEU2tH5Wq40GjX5Ao3aFXd261022.shtml",
+   "summary": "纪念中国工农红军长征胜利90周年：多地举行纪念活动，长征精神代代相传。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "前三季度全社会用电量同比增长3.9%",
+   "title": "三季度经济观察：跨国企业共享中国创新机遇",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDEH8aeUngBRg5q1wIZqZap261022.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://tv.cctv.com/2026/10/22/VIDEgMriEQlNwMHe5Ahr7Mz3261022.shtml",
+   "summary": "三季度经济观察：跨国企业共享中国创新机遇，海外高管来华寻找机器人“中国方案”。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "400多件长征文物将在国博开展 这些藏品有多珍贵？",
+   "title": "星火成炬｜当惊世界殊",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIQ97fM3A4oD9dXaJEXr3e261022.shtml",
-   "summary": "由中国国家博物馆、退役军人事务部烈士纪念设施保护中心联合主办的“英名永存 薪火长歌——纪念中国工农红军长征胜利90周年文物联展”，将于10月30日在国博开幕，31日起正式对公众展出，展期至2027年3月15日。",
+   "url": "https://news.cctv.com/2026/10/22/ARTIqDyrisGCd3s2H0lvGOtL261022.shtml",
+   "summary": "江河奔涌，古今同章。回望华夏治水历程，从古时的都江堰、大运河，到新时代的白鹤滩、平陆运河，这些世界级水利工程，控洪水、调清水、送绿电、通江海，不仅承载东方治水智慧，更彰显大国工程的硬核实力，“功在当代，利在千秋”。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“十五五”如何做好现代化应急体系建设？多部门详解",
+   "title": "特色产业助农增收 看秋日好“丰”景",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIEWxVzJELkWAeu9KZglr1261022.shtml",
-   "summary": "10月21日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，应急管理部新闻发言人、副部长宋元明，国家消防救援局新闻发言人、副局长宋树欣，国家矿山安全监察局副局长张瑞庭，中国地震局副局长张勤介绍奋力推进“十五五”时期国家应急管理体系和能力现代化建设有关情况，并答记者问。新华社记者 殷刚…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "北方出现大风降温天气 多地提前供暖",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTI4nxXmNnEu1u3w49ew2uR261022.shtml",
-   "summary": "ce01da51c099,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全国秋粮大面积收获进行时！各地特色产业助农增收",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTI4icXuDEVimzkIdxQplh6261022.shtml",
+   "url": "https://news.cctv.com/2026/10/22/ARTIcgDS3JiPyorOtrzTAnnO261022.shtml",
    "summary": "a09319efbebe,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "民生",
-   "title": "定点药店迎最强监管 “3盒回流药”直接解除医保协议",
+   "theme": "要闻",
+   "title": "胡杨林披金 大漠秋景引客来",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIYpuHx7jhYVSw2Iwpoe3F261022.shtml",
+   "url": "https://tv.cctv.com/2026/10/22/VIDEJihXKKhMItgOeslX2zGT261022.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "产业基础能力提升“十五五”规划发布",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/22/ARTIgkZVPHCXw7jO5jlBO2er261022.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "极危植物景东翅子树首次现身云南永德大雪山保护区",
-   "source": "央视新闻",
+   "title": "【文明中国·看河南】我的行走日记（之三）",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIGTFMWQv3Z5QU7mSQ21Dh261022.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20261022/8601861962b04999adb577b44684d8a0/c.html",
+   "summary": "【文明中国·看河南】我的行走日记（之三）-新华网张群 摄广阔天地乡，邱庄村村口，“夸媳妇·贺娘家”特色文明品牌的宣传栏醒目、突出。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "How Arab parties could hold critical balance of power in Israeli election",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Governments working to identify exposure after global cyber-security warning",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+   "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "No order, no seat: Starbucks China rolls out new store policy",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+   "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US embassy accuses Canada of election meddling ahead of midterms",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "观天下丨借法兰西之乱，解共和党之困？",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1022/c1002-40819405.html",
+   "summary": "新华社北京10月21日电 法国日前发生严重骚乱，美国总统特朗普、副总统万斯以及一些保守派人士以此做文章，警告类似骚乱可能会在美国发生。 一些分析师说，特朗普阵营试图以法国骚乱强化其移民和边境政策",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "环境",
+   "title": "急纾能源之困 英国批准搁置多年的北海气田项目",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1022/c1002-40819404.html",
+   "summary": "新华社北京10月21日电 英国政府21日批准一项因环保争议搁置多年的北海天然气田项目，最早有望本月底投产；按其最高产量估算，可使英国天然气总产量增加约6%。 据多家媒体报道，获批的寒鸦气田坐落于",
    "day": 0
   }
  ]

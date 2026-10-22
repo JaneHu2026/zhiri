@@ -1,32 +1,16 @@
 {
- "fetchedAt": "08:31",
+ "fetchedAt": "13:52",
  "fetchedDate": "2026-10-22",
  "source": "zhiri-server",
  "items": [
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "含亮老师",
-   "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
-   "duration": "2:26",
-   "heat": 2824160,
-   "updated": "2026-10-22T00:31:25.379445",
-   "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "Foyege弗曳哥",
    "title": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
    "duration": "4:51",
-   "heat": 1221143,
-   "updated": "2026-10-22T00:31:25.379461",
+   "heat": 1329831,
+   "updated": "2026-10-22T05:52:30.129813",
    "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
    "points": [],
    "flags": {
@@ -38,12 +22,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "天不生我六酱",
-   "title": "里昂叔叔带你通关生化危机爆发夜【AI全民制作人】",
-   "duration": "14:51",
-   "heat": 858172,
-   "updated": "2026-10-22T00:31:25.379463",
-   "url": "https://www.bilibili.com/video/BV1HNnj6iEQL",
+   "author": "含亮老师",
+   "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
+   "duration": "2:26",
+   "heat": 2854077,
+   "updated": "2026-10-22T05:52:30.129829",
+   "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
    "points": [],
    "flags": {
     "fav": false,
@@ -57,9 +41,25 @@
    "author": "DeepSeek鲸鱼娘在运营",
    "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
    "duration": "1:23",
-   "heat": 1714977,
-   "updated": "2026-10-22T00:31:25.379465",
+   "heat": 1817359,
+   "updated": "2026-10-22T05:52:30.129832",
    "url": "https://www.bilibili.com/video/BV1pGnn67EC2",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "天不生我六酱",
+   "title": "里昂叔叔带你通关生化危机爆发夜【AI全民制作人】",
+   "duration": "14:51",
+   "heat": 870125,
+   "updated": "2026-10-22T05:52:30.129834",
+   "url": "https://www.bilibili.com/video/BV1HNnj6iEQL",
    "points": [],
    "flags": {
     "fav": false,
@@ -73,8 +73,8 @@
    "author": "Git源宝",
    "title": "【热门拆解】为什么你老能刷到AI动画科普视频？它是怎么做的？vibe动画是什么意思？",
    "duration": "3:40",
-   "heat": 570211,
-   "updated": "2026-10-22T00:31:25.379467",
+   "heat": 588103,
+   "updated": "2026-10-22T05:52:30.129836",
    "url": "https://www.bilibili.com/video/BV1ALnw6YEM7",
    "points": [],
    "flags": {
@@ -89,8 +89,8 @@
    "author": "晚点LatePost",
    "title": "揭秘新兴赛博生意：谁在给机器人“卖命”？【晚点LatePost】",
    "duration": "4:46",
-   "heat": 1160905,
-   "updated": "2026-10-22T00:31:25.379469",
+   "heat": 1206546,
+   "updated": "2026-10-22T05:52:30.129838",
    "url": "https://www.bilibili.com/video/BV1V9J46SEd9",
    "points": [],
    "flags": {
@@ -102,12 +102,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "BlackDawn",
-   "title": "[opus5.5]一句话让claude花30亿token制作的千本樱mv",
-   "duration": "4:13",
-   "heat": 492927,
-   "updated": "2026-10-22T00:31:25.379470",
-   "url": "https://www.bilibili.com/video/BV16MJY6yEKq",
+   "author": "奶山苏苏",
+   "title": "豆奶虫之殇【AI全民制作人】",
+   "duration": "1:44",
+   "heat": 1466009,
+   "updated": "2026-10-22T05:52:30.129840",
+   "url": "https://www.bilibili.com/video/BV1ponw6vEB9",
    "points": [],
    "flags": {
     "fav": false,
@@ -121,8 +121,8 @@
    "author": "抑止之力",
    "title": "邪教大小姐Claude与被爱包围天才少女Deepseek",
    "duration": "4:18",
-   "heat": 586724,
-   "updated": "2026-10-22T00:31:25.379472",
+   "heat": 606774,
+   "updated": "2026-10-22T05:52:30.129842",
    "url": "https://www.bilibili.com/video/BV1Gsnj6XE9M",
    "points": [],
    "flags": {
@@ -138,7 +138,7 @@
    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-22T00:31:25.379474",
+   "updated": "2026-10-22T05:52:30.129844",
    "url": "https://www.qbitai.com/2026/10/504730.html",
    "points": [
     "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
@@ -156,7 +156,7 @@
    "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-22T00:31:25.379476",
+   "updated": "2026-10-22T05:52:30.129846",
    "url": "https://www.qbitai.com/2026/10/504653.html",
    "points": [
     "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
@@ -174,7 +174,7 @@
    "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-22T00:31:25.379478",
+   "updated": "2026-10-22T05:52:30.129848",
    "url": "https://www.qbitai.com/2026/10/504638.html",
    "points": [
     "百万台搭载打底，智驾普及与安全并重"
@@ -192,7 +192,7 @@
    "title": "实探宁德时代总部：“去宁化”是喊太大声了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-22T00:31:25.379479",
+   "updated": "2026-10-22T05:52:30.129850",
    "url": "https://www.qbitai.com/2026/10/504618.html",
    "points": [],
    "flags": {
@@ -208,7 +208,7 @@
    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-22T00:31:25.379481",
+   "updated": "2026-10-22T05:52:30.129852",
    "url": "https://www.qbitai.com/2026/10/504608.html",
    "points": [],
    "flags": {
@@ -224,10 +224,28 @@
    "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-22T00:31:25.379482",
+   "updated": "2026-10-22T05:52:30.129854",
    "url": "https://www.qbitai.com/2026/10/504551.html",
    "points": [
     "电池、电驱、超充一把梭，冬天多跑30公里"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "数据中心可以抹去数十年的空气质量提升",
+   "duration": "—",
+   "heat": 20,
+   "updated": "2026-10-22",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+   "points": [
+    "数据中心可以抹去数十年的空气质量提升"
    ],
    "flags": {
     "fav": false,
@@ -318,24 +336,6 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
    "points": [
     "谷歌DeepMind称四名人工智能代理在27小时内击败了Minecraft"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "市场是否梦想着人工智能？ （ DNB工作文件）",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-20",
-   "url": "https://www.dnb.nl/en/publications/research-publications/working-paper-2026/871-do-markets-dream-of-artificial-intelligence-macroeconomic-effects-and-international-spillovers-of-ai-news-shocks/",
-   "points": [
-    "市场是否梦想着人工智能？ （ DNB工作文件）"
    ],
    "flags": {
     "fav": false,
