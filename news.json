@@ -1,206 +1,106 @@
 {
- "fetchedAt": "22:57",
- "fetchedDate": "2026-10-22",
+ "fetchedAt": "08:27",
+ "fetchedDate": "2026-10-23",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
+   "title": "号称抑菌保鲜 网红钛制品真的靠谱吗？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTI1QeRF5s1rsVsFuk0sxJJ261022.shtml",
-   "summary": "纪念中国工农红军长征胜利90周年大会22日上午在北京人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话强调，铭记历史方能开创未来。全党全军全国各族人民要更加紧密地团结在党中央周围，大力弘扬伟大长征精神，接续奋斗、砥砺前行，把革命前辈开创的伟大事业不断推向前进，在新的长征路上…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "【央视快评】在新的长征路上奋力创造新的辉煌",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIcFWa24PTnAHMLcjNewSI261022.shtml",
-   "summary": "总书记的重要讲话高屋建瓴、思想深邃，具有很强的政治性、思想性和指导性，为全党全军全国各族人民在新征程上弘扬伟大长征精神、奋力走好新的长征路指明了前进方向、提供了强大动力。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "天天学习｜历史长卷里的“红飘带”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIoGMN9MtkAyX3kNvoPpAO261020.shtml",
-   "summary": "这抹血色，是平均每300米就有一名红军战士牺牲的悲壮，是平均年龄仅20岁的年轻人用脚板丈量的信仰，是20.6万余人出发、仅5.7万余人抵达的生死淬炼。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "大型政论专题片《新的长征之路》第5集 遍地英雄",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDEPS0BQtrJ5IQG6VPtch5t261022.shtml",
-   "summary": "本集主要内容： 伟大长征精神，就是紧紧依靠人民群众，同人民群众生死相依、患难与共、艰苦奋斗的精神。今天，我们走在新的长征之路上，这条中国式现代化道路就是为了让人民过上好日子的奋斗之路。（《新的长征之路》 第5集 遍地英雄）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "国新办发布会｜推动商务高质量发展取得新成效",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDEojluBQiHlgqNdM8mzoxf261022.shtml",
+   "url": "https://tv.cctv.com/2026/10/23/VIDEIi0fFcn2LQCIDuZ5YQwI261023.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "活力中国调研行｜一港联通内外 激发自贸新活力",
+   "title": "“十五五”期间 推动自贸区建设全面提升",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/22/VIDE9thulu38Pw5nmimLY5YB261022.shtml",
+   "url": "https://tv.cctv.com/2026/10/23/VIDEZWXg0LvKNU0KTPbkPjsT261023.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "2026金融街论坛年会闭幕 发布百余项成果",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/23/VIDEe1Quqj9PPZUdSEMO6efh261023.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "国民经济重要增长极 “数”看海洋经济发展“成绩单”",
+   "title": "全国居民用电量罕见负增长背后：极端天气导致降温",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIGLF1ElC7actOXlS1E7b8261022.shtml",
+   "url": "https://news.cctv.com/2026/10/23/ARTIPoSkvYjVewa935nkcYxP261023.shtml",
+   "summary": "国家能源局10月21日发布数据，9月份，全国全社会用电量8997亿千瓦时，同比增长1.2%。其中，第一产业、第二产业、第三产业和城乡居民生活用电量分别同比增长4.1%、1.7%、4.9%和-6.0%。1-9月，全社会用电量累计80734亿千瓦时，同比增长3.9%。其中，一产、二产、三产、城乡居民生活…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "西藏那曲市巴青县发生7.0级地震",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/23/VIDEyjkpBNTnTad2uSc7frdS261023.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "特色产业助农增收 看秋日好“丰”景",
+   "title": "两部门启动四级应急响应",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/22/ARTIcgDS3JiPyorOtrzTAnnO261022.shtml",
+   "url": "https://tv.cctv.com/2026/10/23/VIDETAsDSoAvxR4iCrnGclcr261023.shtml",
+   "summary": "西藏那曲市巴青县发生7.0级地震：两部门启动国家地震灾害四级应急响应。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "各方救援力量连夜开展救援",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/23/VIDEh9la5WAc5USJ7fyTE2Sd261023.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "【文明中国·看河南】我的行走日记（之三）",
-   "source": "新华网",
+   "title": "留学项目完成学业却难获认证 责任谁来担？法院判了",
+   "source": "央视新闻",
    "time": "今天",
-   "url": "https://www.news.cn/government/20261022/8601861962b04999adb577b44684d8a0/c.html",
-   "summary": "【文明中国·看河南】我的行走日记（之三）-新华网张群 摄广阔天地乡，邱庄村村口，“夸媳妇·贺娘家”特色文明品牌的宣传栏醒目、突出。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "河北衡水：政策赋能多点发力活跃县域消费",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/government/20261022/126e80d5a6374621a1ad99eb18e1ce4b/c.html",
-   "summary": "河北衡水：政策赋能多点发力活跃县域消费- 自今年8月份商务部等9部门出台活跃县域消费18条举措以来，河北省衡水市立足域内各县市区资源禀赋，多点发力，激发县域消费活力，吸引本地和外地游客“奔县游”。",
+   "url": "https://news.cctv.com/2026/10/23/ARTIofXjOszmsOuMyyzgcfEg261023.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "警方在“不当”指控后调查澳大利亚一见钟情婚姻",
+   "title": "西藏发生强烈地震，造成16人死亡",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-   "summary": "新南威尔士州警方表示，“在收到有关分享不当内容的报告后”进行了调查。",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+   "summary": "地震发生在中国所谓的西藏自治区的一个人口稀少的山区。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国南部暴风雨引发洪水 至少四人死亡",
+   "title": "特朗普被要求在 BBC 诉讼中宣誓回答问题",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-   "summary": "死亡事件包括两名在罗纳河口地区的一个地窖里溺水身亡的妇女。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "两名在尼日尔被囚禁一年多的欧洲妇女在利比亚获释",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-   "summary": "瑞士政府告诉英国广播公司，获释的国民正在返回瑞士的途中。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "俄勒冈州枪击案老师称她为了生存而假装死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-   "summary": "老师说她无法帮助孩子们，因为她被袭击者伤得很重。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "当局称，胡塞武装袭击沙特阿拉伯东部机场，造成两人死亡",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-   "summary": "这是胡塞运动针对沙特境内机场和其他地点发动的一系列袭击中的最新一起。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "伊尔汗·奥马尔表示，黎明前对她家的“奇怪”袭击迫使她搬出",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-   "summary": "这位女议员表示，作为联邦调查的一部分，联邦特工查获了十几件物品，包括手机和笔记本电脑。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "印度著名金融影响者自杀后 YouTuber 被捕",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-   "summary": "V Harish 是 Instagram 上广受欢迎的账户“Finance with Harish”的运营者，他于周二被发现死亡。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "被引导出韩国运河的名人鲨鱼拒绝游出海",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-   "summary": "几周前，在釜山的一条运河中发现鲨鱼“Bukangi”后，它出人意料地引起了轰动。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "观天下丨借法兰西之乱，解共和党之困？",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/1022/c1002-40819405.html",
-   "summary": "新华社北京10月21日电 法国日前发生严重骚乱，美国总统特朗普、副总统万斯以及一些保守派人士以此做文章，警告类似骚乱可能会在美国发生。 一些分析师说，特朗普阵营试图以法国骚乱强化其移民和边境政策",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "环境",
-   "title": "急纾能源之困 英国批准搁置多年的北海气田项目",
-   "source": "人民网",
-   "time": "今天",
-   "url": "https://world.people.com.cn/n1/2026/1022/c1002-40819404.html",
-   "summary": "新华社北京10月21日电 英国政府21日批准一项因环保争议搁置多年的北海天然气田项目，最早有望本月底投产；按其最高产量估算，可使英国天然气总产量增加约6%。 据多家媒体报道，获批的寒鸦气田坐落于",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+   "summary": "特朗普正在起诉 BBC，原因是《全景》中的一集将他 2021 年演讲的两个不同部分剪辑在一起。",
    "day": 0
   }
  ]
