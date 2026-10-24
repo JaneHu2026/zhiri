@@ -1,8 +1,28 @@
 {
- "fetchedAt": "08:23",
+ "fetchedAt": "13:32",
  "fetchedDate": "2026-10-24",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "热解读｜四种力量，映照长征精神",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/24/ARTIskvrH8r0qUJrJWLZae0d261023.shtml",
+   "summary": "10月22日，纪念中国工农红军长征胜利90周年大会在北京人民大会堂隆重举行。“伟大长征精神充分彰显了忠诚的力量、真理的力量、正义的力量、团结的力量。”习近平总书记用四种“力量”，点出伟大长征精神的核心要义。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "第140届广交会二期开展 近64万件绿色低碳产品亮相",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/24/ARTIVCvqqlYHfgQy9EOCJCxX261024.shtml",
+   "summary": "5a1bce7a7303,0,1,16:9,newPlayer",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -16,71 +36,111 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "我国成功发射遥感五十三号07-09星、遥感五十六号19-21星",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/24/VIDEvUhHILCXLyUDzppdf9vs261024.shtml",
+   "summary": "我国成功发射遥感五十三号07-09星、遥感五十六号19-21星，主要用于科学试验国土资源普查等领域。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "港珠澳大桥正式通车八周年 “通勤桥”筑就大湾区一小时生活圈",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/24/VIDEsociWOjVn9VGlHiYEk1Y261024.shtml",
+   "summary": "港珠澳大桥正式通车八周年：“通勤桥”筑就大湾区一小时生活圈。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国长城博物馆试运行 新面貌迎客",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/24/VIDEGeojOQj3x5XPBELVzetB261024.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "国务院安委办、应急管理部视频调度近期安全防范工作",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/24/ARTIBBWeUI0VO28HTprGv3AE261023.shtml",
-   "summary": "10月23日下午，国务院安委办、应急管理部视频调度近期安全防范工作。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "农业农村部：全国秋粮收获过八成",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/24/ARTIZM4ufOsPzuVItWBxlmZm261023.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "遥感五十三号07-09星、遥感五十六号19-21星发射成功",
+   "theme": "财经",
+   "title": "我国电子商务蓬勃发展“枝繁叶茂” 经济韧性不断增强",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/24/ARTIuYeY8yyOv42Nqjo0bdkY261024.shtml",
-   "summary": "10月24日3时25分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19-21星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "AI影视兴起 从“挑模型”到“搭片场”影视制作全流程重构",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/24/ARTIpYsjZFu3XM5nUCh9mssW261023.shtml",
-   "summary": "33c93077b179,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "西藏那曲市地震救援全力进行中",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/24/VIDEEyD9Vp6X6KQmXZz9JwgQ261024.shtml",
-   "summary": "西藏那曲市巴青县发生7.0级地震：震级高、震源浅、震感强，救援全力进行中。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "台风“蔷琵”逼近我国 专家解读秋台风为何“猛于虎”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/24/ARTIHna7JRxl0AzcNneOwYjN261023.shtml",
+   "url": "https://news.cctv.com/2026/10/24/ARTIkn6U5B6gSfvrCl14lRjc261024.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "超过40%的癌症可有效预防！这些风险信号要注意",
-   "source": "央视新闻",
+   "group": "gj",
+   "theme": "国际",
+   "title": "法国全国骚乱一周后准备抗议日",
+   "source": "BBC",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/24/ARTIEqyvOzun176tQoRpHk3u261023.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "summary": "由于担心抗议者会无视对示威活动的限制，将部署 7 万多名警察。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "65 岁妇女成为肯尼亚第二名死于埃博拉病毒的患者",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+   "summary": "她是第一位受害者的近亲，受害者是一名来自刚果民主共和国的男子。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "希特勒鹰巢撤退发生火灾后被捕",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "summary": "大约 200 名急救人员被部署前往德国纳粹独裁者阿尔卑斯山住所灭火。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "澳大利亚议员在涉嫌汽车袭击后病情有所好转",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+   "summary": "据墨尔本医院称，这位独立议员目前情况严重但稳定。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "人工智能选举广告在美国中期选举中的兴起",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC verify 跟踪了数十个人工智能广告，以评估中期选举中的竞选活动如何使用它们。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴西不断变化的工人阶级如何重塑总统竞选",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+   "summary": "在周日的第二轮选举中，变革的呼声对卢拉总统构成了挑战。",
    "day": 0
   }
  ]
