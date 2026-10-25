@@ -1,6 +1,6 @@
 {
- "fetchedAt": "22:10",
- "fetchedDate": "2026-10-25",
+ "fetchedAt": "07:57",
+ "fetchedDate": "2026-10-26",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,8 +9,8 @@
    "author": "ByeByeBlueBerry",
    "title": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
    "duration": "4:05",
-   "heat": 3307445,
-   "updated": "2026-10-25T14:10:45.395543",
+   "heat": 3406762,
+   "updated": "2026-10-25T23:57:52.846867",
    "url": "https://www.bilibili.com/video/BV1Cdni6AEQB",
    "points": [],
    "flags": {
@@ -25,9 +25,27 @@
    "author": "王高兴A",
    "title": "招豆包当客服也是没救了",
    "duration": "4:13",
-   "heat": 2000919,
-   "updated": "2026-10-25T14:10:45.395557",
+   "heat": 2120908,
+   "updated": "2026-10-25T23:57:52.846879",
    "url": "https://www.bilibili.com/video/BV1UznF6MEop",
+   "points": [
+    "-"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "以尘动画",
+   "title": "大肥鱼，你怎么穿着Claude的衣服",
+   "duration": "0:43",
+   "heat": 1032603,
+   "updated": "2026-10-25T23:57:52.846882",
+   "url": "https://www.bilibili.com/video/BV1LBnb6aERV",
    "points": [],
    "flags": {
     "fav": false,
@@ -41,8 +59,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391412,
-   "updated": "2026-10-25T14:10:45.395559",
+   "heat": 391424,
+   "updated": "2026-10-25T23:57:52.846884",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -57,8 +75,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653510,
-   "updated": "2026-10-25T14:10:45.395561",
+   "heat": 653515,
+   "updated": "2026-10-25T23:57:52.846887",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -73,8 +91,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557611,
-   "updated": "2026-10-25T14:10:45.395563",
+   "heat": 557613,
+   "updated": "2026-10-25T23:57:52.846889",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -90,7 +108,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155683,
-   "updated": "2026-10-25T14:10:45.395565",
+   "updated": "2026-10-25T23:57:52.846892",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -105,8 +123,8 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611630,
-   "updated": "2026-10-25T14:10:45.395568",
+   "heat": 611631,
+   "updated": "2026-10-25T23:57:52.846894",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
    "points": [],
    "flags": {
@@ -117,14 +135,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2660470,
-   "updated": "2026-10-25T14:10:45.395570",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
-   "points": [],
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "S16进入大AI时代",
+   "duration": "—",
+   "heat": 10069829,
+   "updated": "2026-10-25T23:57:52.846897",
+   "url": "https://www.douyin.com/search/S16%E8%BF%9B%E5%85%A5%E5%A4%A7AI%E6%97%B6%E4%BB%A3?type=general",
+   "points": [
+    "热门话题「S16进入大AI时代」：相关视频 1 条"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -138,7 +158,7 @@
    "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-25T14:10:45.395572",
+   "updated": "2026-10-25T23:57:52.846899",
    "url": "https://www.qbitai.com/2026/10/505083.html",
    "points": [
     "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕"
@@ -156,7 +176,7 @@
    "title": "企业AI需要两个世界模型",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-25T14:10:45.395574",
+   "updated": "2026-10-25T23:57:52.846901",
    "url": "https://www.qbitai.com/2026/10/505032.html",
    "points": [
     "特赞想让企业Agent真正懂业务"
@@ -174,7 +194,7 @@
    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-25T14:10:45.395575",
+   "updated": "2026-10-25T23:57:52.846903",
    "url": "https://www.qbitai.com/2026/10/504931.html",
    "points": [],
    "flags": {
@@ -190,7 +210,7 @@
    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-25T14:10:45.395577",
+   "updated": "2026-10-25T23:57:52.846905",
    "url": "https://www.qbitai.com/2026/10/504930.html",
    "points": [],
    "flags": {
@@ -206,7 +226,7 @@
    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-25T14:10:45.395579",
+   "updated": "2026-10-25T23:57:52.846907",
    "url": "https://www.qbitai.com/2026/10/504915.html",
    "points": [],
    "flags": {
@@ -222,7 +242,7 @@
    "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-25T14:10:45.395580",
+   "updated": "2026-10-25T23:57:52.846909",
    "url": "https://www.qbitai.com/2026/10/504913.html",
    "points": [
     "10月23日，iRTE2026实时智能大会在北京举行。"
@@ -237,13 +257,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "r/open source 刚刚禁止了人工智能、非英语使用者等",
+   "title": "r/open source 刚刚禁止了人工智能、非英语人士等",
    "duration": "—",
-   "heat": 1,
+   "heat": 3,
    "updated": "2026-10-25",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
    "points": [
-    "r/open source 刚刚禁止了人工智能、非英语使用者等"
+    "r/open source 刚刚禁止了人工智能、非英语人士等"
    ],
    "flags": {
     "fav": false,
@@ -257,7 +277,7 @@
    "author": "Hacker News",
    "title": "人工智能帝国：全球新秩序的兴衰",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-25",
    "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
    "points": [
@@ -275,7 +295,7 @@
    "author": "Hacker News",
    "title": "为了让人工智能在道德上变得美好，科技公司正在转向宗教",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-25",
    "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
    "points": [
@@ -309,13 +329,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Mace AI 创始人警告银行检测未经授权的人工智能，人工智能双重代理",
+   "title": "Mace AI 创始人警告银行检测未经授权的人工智能，存在人工智能双重代理",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-24",
    "url": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
    "points": [
-    "Mace AI 创始人警告银行检测未经授权的人工智能，人工智能双重代理"
+    "Mace AI 创始人警告银行检测未经授权的人工智能，存在人工智能双重代理"
    ],
    "flags": {
     "fav": false,
