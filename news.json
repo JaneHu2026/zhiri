@@ -1,22 +1,12 @@
 {
- "fetchedAt": "13:48",
+ "fetchedAt": "22:10",
  "fetchedDate": "2026-10-25",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTIyy3fqpNUUoBXd3ugpYjm261025.shtml",
-   "summary": "105年栉风沐雨，从嘉兴南湖一叶红船启航，到领航中国号巨轮破浪前行，中国共产党之所以历经沧桑而风华正茂、饱经磨难而生生不息，正在于始终坚持党要管党、全面从严治党。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "三个维度读懂全面从严治党丨",
+   "title": "时政微观察丨三个维度读懂全面从严治党",
    "source": "央视新闻",
    "time": "今天",
    "url": "https://news.cctv.com/2026/10/25/ARTIb4iZvlqSVkOeOOnwFi9p261025.shtml",
@@ -26,21 +16,41 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "不虚此行，坚定合作信心！开展即开单 广交会订单密集落地",
+   "title": "【持之以恒推进全面从严治党】用党的创新理论凝心铸魂",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTIKPObKk3rNlECkdjpOn5d261025.shtml",
-   "summary": "db857f2c6120,0,1,16:9,newPlayer4693bd5690d1,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/25/ARTIIz9vBPvLJop0Q8BPAyG3261025.shtml",
+   "summary": "今年是红军长征胜利90周年，连日来，从“伟大的远征”主题展览到各地红色场馆，人们走进长征出发地、纪念园，回望长征历史，感悟初心使命，赓续长征精神。",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "一根纱线“缝”出千亿级产业集群 红色热土续写新时代长征故事",
+   "title": "我国造船业持续领跑全球",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTI0QOpooSmvaXcPW68T4vF261025.shtml",
-   "summary": "5bd16dd90fb8,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/25/ARTIJmlaeIYEZ8nwc6N2U9xK261025.shtml",
+   "summary": "079398a5aae3,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "全国一刻钟便民生活圈提质升级",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/25/ARTIkvgAElWYQxYMqSyccJ73261025.shtml",
+   "summary": "5634c090a8b4,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "我国成功发射卫星互联网低轨28组卫星",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/25/VIDEEoQL5qKB0PPYkyBxZ8Oo261025.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -51,16 +61,6 @@
    "time": "今天",
    "url": "https://tv.cctv.com/2026/10/25/VIDEDkl8zi2zdQYTpzcwfpAQ261025.shtml",
    "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“一桥连三地”车轮畅行伶仃洋 “牵起”桑榆与青春",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTIzeMuiKJcbtDVx8smf9sb261025.shtml",
-   "summary": "8c0320f943ca,0,1,16:9,newPlayer",
    "day": 0
   },
   {
@@ -86,11 +86,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "法国各地大规模抗议活动又发生一天，冲突导致近千人被捕",
+   "title": "法国各地大规模抗议活动又发生一天，冲突导致逾 1,300 人被捕",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
    "summary": "法国有数十万人参加示威活动，其他欧洲国家也发生了抗议活动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "随着镇压升级，以色列将在选举日关闭西岸过境点",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+   "summary": "以色列国防军宣布在周二选举前夕限制巴勒斯坦工人的行动。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "巴西选民前往投票，卢拉与博尔索纳罗的儿子对决",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+   "summary": "巴西被监禁的前总统之子弗拉维奥·博尔索纳罗正在挑战正在寻求第四个任期的卢拉。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "马斯克表示，随着服务恢复，SpaceX限制了乌克兰的星链连接",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位科技亿万富翁指责乌克兰利用该网络进行军事活动，违反了其服务条款。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "尼日利亚东北部武装分子杀害至少 10 名村民并抢劫商店",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+   "summary": "警方正在寻找其他伤亡人员，官员警告实际死亡人数可能会进一步上升。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "萨尔瓦多总统称在海地发现的尸体不是人质",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+   "summary": "纳伊布·布克莱表示，在搜寻上周被绑架的萨尔瓦多人时，交付给士兵的尸体“不是我们的人”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "奥巴马在中期选举前为民主党竞选时攻击特朗普",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+   "summary": "奥巴马表示，这次选举是“至少遏制本届政府的一些愚蠢行为的最后最好机会”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "为什么乌克兰如此依赖星链，欧洲能否弥补这一差距？",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+   "summary": "乌克兰需要另一种卫星互联网服务，但埃隆·马斯克网络的合适替代品目前还不存在。",
    "day": 0
   },
   {
