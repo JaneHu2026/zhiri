@@ -1,92 +1,112 @@
 {
- "fetchedAt": "07:57",
+ "fetchedAt": "12:29",
  "fetchedDate": "2026-10-26",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "时政微观察丨三个维度读懂全面从严治党",
+   "title": "总书记讲过的长征故事｜他就是军需处长……",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTIb4iZvlqSVkOeOOnwFi9p261025.shtml",
-   "summary": "2026年7月1日，在庆祝中国共产党成立105周年大会上，习近平总书记发表重要讲话，将“注重强健自身，始终充满生机活力”列为我们党的优秀特质之一，强调全面从严治党永远在路上。",
+   "url": "https://news.cctv.com/2026/10/26/ARTIXyK2wP9wJ58Unx3ohMCC261020.shtml",
+   "summary": "这是红军长征途中翻越的第一座大雪山。夹金山海拔4000余米，终年积雪，空气稀薄，被当地百姓称为“鬼门关”。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "民生",
+   "title": "“智慧”水利建设为服务民生与经济发展夯实“硬支撑”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/26/ARTIHAY8hda3E0FLwgzzezoM261026.shtml",
+   "summary": "e77297680593,0,1,16:9,newPlayer48ce3866577d,0,1,16:9,newPlayer5ce7ec21cf4d,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "【持之以恒推进全面从严治党】用党的创新理论凝心铸魂",
+   "title": "看见历史“触摸”烽火记忆 红色旅游释放新“潮”活力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTIIz9vBPvLJop0Q8BPAyG3261025.shtml",
-   "summary": "今年是红军长征胜利90周年，连日来，从“伟大的远征”主题展览到各地红色场馆，人们走进长征出发地、纪念园，回望长征历史，感悟初心使命，赓续长征精神。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "多项工程取得进展 国家水网加速成型",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/25/VIDEdM5XnYyyXqlJqVfefLCM261025.shtml",
+   "url": "https://news.cctv.com/2026/10/26/ARTIbseEIwHQgHwdFJ0iInqK261026.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "我国造船业持续领跑全球",
+   "title": "从红色渡口到“硒”望田野 长征，永远在路上",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/25/ARTIJmlaeIYEZ8nwc6N2U9xK261025.shtml",
-   "summary": "079398a5aae3,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/26/ARTIcV5WnSW1HxZG8eFxRHB2261026.shtml",
+   "summary": "83de97b0420f,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "政策“组合拳”托底破局 城市公交焕发新生机",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/26/ARTItWU6RNBoiZIUrfCtISJb261026.shtml",
+   "summary": "454f64c0e361,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "面对面丨让荣耀不再沉默 揭秘在台隐蔽战线英烈往事",
+   "title": "第140届广交会丨贸投融合 从产品出海迈向产业出海",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/26/ARTINLVIVHgtPKQQ2XaVAbra261026.shtml",
-   "summary": "10月25日是台湾光复纪念日。81年前，台湾重归祖国版图。然而，全面内战的硝烟击碎了和平，一场无声的暗战悄然铺开。《面对面》专访隐蔽战线在台牺牲英烈后人，让荣耀不再沉默。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "从“卖出去”到“扎下去” 贸投融合助推中企产业出海",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/26/VIDEPKebrjAzVIK1hTn3m1Vw261026.shtml",
+   "url": "https://tv.cctv.com/2026/10/26/VIDEUKnJJfiV0QCeGa2onyBj261026.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "建设平安中国 护航高质量发展",
+   "title": "在希望的田野上｜呼伦贝尔：智能机械助力秋收跑出加速度",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/25/VIDEy01O8Vqz04SBQ0B2mxss261025.shtml",
+   "url": "https://tv.cctv.com/2026/10/26/VIDEHXnBZAaXwGWXau9YKQox261026.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "响应式运营、接驳提质、适老化升级 多地探索公交新模式",
+   "title": "“一站式”窗口到底能办啥？",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/26/ARTIGNJEArW6roRVtMmxpvsu261025.shtml",
+   "url": "https://news.cctv.com/2026/10/26/ARTIQAH0LdhaUevoTPGzvCLf261026.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【文明中国·看甘肃】读懂八步沙三代人的治沙初心",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261026/d89b6a3f4f794ad7964a20b05d2f78e1/c.html",
+   "summary": "【文明中国·看甘肃】读懂八步沙三代人的治沙初心-甘肃古浪八步沙，从第一代“六老汉”按下治沙手印，到第二代以郭万刚为代表的坚守大漠，再到第三代以郭玺为代表的接续传承，三代人四十余年接力耕耘，矢志将漫漫黄沙化作片片绿洲。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "文化",
+   "title": "福建：中医药文化周开启惠民体验",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261026/e02ba8fd23034fbdbf9dc0b3913c26c3/c.html",
+   "summary": "福建：中医药文化周开启惠民体验- 10月25日，2026年福建省中医药文化周专题活动在福州举行。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "塞尔维亚资深统治者武契奇承认学生领导的抗议运动当选",
+   "title": "资深统治者武契奇承认学生领导的抗议运动后，塞尔维亚各地欢欣鼓舞",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -96,17 +116,7 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "分裂严重的以色列准备迎接关键选举",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-   "summary": "露西·威廉姆森写道，经过三年的地区战争，以色列一直都知道这场战斗即将到来。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "委内瑞拉反对派领导人玛丽亚·马查多流亡数月后返回",
+   "title": "委内瑞拉反对派领导人玛丽亚·马查多在流亡数月后返回",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
@@ -115,72 +125,22 @@
   },
   {
    "group": "gj",
-   "theme": "国际",
-   "title": "马斯克表示，随着服务恢复，SpaceX限制了乌克兰的星链连接",
-   "source": "BBC",
+   "theme": "要闻",
+   "title": "武契奇承认前进党在塞尔维亚议会选举中败选",
+   "source": "人民网",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位科技亿万富翁指责乌克兰利用该网络进行军事活动，违反了其服务条款。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "巴黎郊区致命枪击案嫌疑人被送往精神观察",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-   "summary": "当局表示，将对他进行观察，以评估他的“精神健康状况是否适合对其进行审讯”。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "随着镇压升级，以色列将在选举日关闭西岸过境点",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列国防军宣布在周二选举前限制巴勒斯坦工人的行动。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "加蓬表示在八个月的禁令后恢复了对社交媒体的访问",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-   "summary": "当局称该禁令是合理的，称网络内容正在助长冲突，而反对派则谴责其滥用权力。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "萨尔瓦多总统称在海地发现的尸体不是人质",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-   "summary": "纳伊布·布克莱表示，在搜寻上周被绑架的萨尔瓦多人时，交付给士兵的尸体“不是我们的人”。",
+   "url": "https://world.people.com.cn/n1/2026/1026/c1002-40821576.html",
+   "summary": "塞尔维亚前总统武契奇25日晚承认，由塞尔维亚前进党主导的选举联盟在当天举行的议会选举中败选。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "要闻",
-   "title": "墨西哥：采收万寿菊 迎接亡灵节",
+   "title": "保加利亚举行总统选举",
    "source": "人民网",
    "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1025/c1002-40821045.html",
-   "summary": "10月22日，在墨西哥首都墨西哥城，工人给万寿菊浇水。新华社发（弗朗西斯科·卡涅多摄）pagebreak 十月下旬以来，万寿菊的金黄色成为墨西哥中部最璀璨的色彩。每年的11月1日和2日是墨西哥的传统",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "要闻",
-   "title": "古巴国家主席：古巴人民决心捍卫独立",
-   "source": "人民网",
-   "time": "今天",
-   "url": "http://world.people.com.cn/n1/2026/1025/c1002-40821080.html",
-   "summary": "10月23日，在古巴首都哈瓦那，汽车驶过美国驻古巴大使馆。新华社发（华金·埃尔南德斯摄） 针对美国政府威胁言论，古巴国家主席迪亚斯-卡内尔10月23日在社交媒体上回应说，古巴人民决心捍卫国家独立。",
+   "url": "https://world.people.com.cn/n1/2026/1026/c1002-40821620.html",
+   "summary": "保加利亚10月25日举行总统选举，包括现任总统约托娃在内27名候选人参选。",
    "day": 0
   }
  ]
