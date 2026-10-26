@@ -1,8 +1,28 @@
 {
- "fetchedAt": "12:29",
- "fetchedDate": "2026-10-26",
+ "fetchedAt": "00:39",
+ "fetchedDate": "2026-10-27",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/26/ARTIxPWUHyCbMMf75L0c9AT8261026.shtml",
+   "summary": "中国共产党第二十届中央委员会第五次全体会议26日上午在北京开始举行。中央委员会总书记习近平代表中央政治局向全会作工作报告，并就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定（讨论稿）》向全会作了说明。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中央委员会总书记习近平代表中央政治局向全会作工作报告，并就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定（讨论稿）》向全会作了说明",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/26/ARTIxPWUHyCbMMf75L0c9AT8261026.shtml",
+   "summary": "中国共产党第二十届中央委员会第五次全体会议26日上午在北京开始举行。中央委员会总书记习近平代表中央政治局向全会作工作报告，并就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定（讨论稿）》向全会作了说明。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -25,41 +45,21 @@
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "看见历史“触摸”烽火记忆 红色旅游释放新“潮”活力",
+   "theme": "科技",
+   "title": "从“密集上岗”转向“全球交付” 人形机器人迎来量产“大考”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/26/ARTIbseEIwHQgHwdFJ0iInqK261026.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://news.cctv.com/2026/10/26/ARTIZGU0Kb4qRQ4Hsznrt168261026.shtml",
+   "summary": "ffd1d37e924a,0,1,16:9,newPlayer9b1e763c6d82,0,1,16:9,newPlayer6daeed49920d,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "从红色渡口到“硒”望田野 长征，永远在路上",
+   "title": "老产业“活起来” 古法酿造赋能乡村游",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/26/ARTIcV5WnSW1HxZG8eFxRHB2261026.shtml",
-   "summary": "83de97b0420f,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "政策",
-   "title": "政策“组合拳”托底破局 城市公交焕发新生机",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/26/ARTItWU6RNBoiZIUrfCtISJb261026.shtml",
-   "summary": "454f64c0e361,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "第140届广交会丨贸投融合 从产品出海迈向产业出海",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/26/VIDEUKnJJfiV0QCeGa2onyBj261026.shtml",
+   "url": "https://tv.cctv.com/2026/10/26/VIDE8eS078PwPF2t3sa9nxbJ261026.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -76,10 +76,10 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "“一站式”窗口到底能办啥？",
+   "title": "从红色渡口到“硒”望田野 长征，永远在路上",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/26/ARTIQAH0LdhaUevoTPGzvCLf261026.shtml",
+   "url": "https://news.cctv.com/2026/10/26/ARTIcV5WnSW1HxZG8eFxRHB2261026.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -95,32 +95,92 @@
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "福建：中医药文化周开启惠民体验",
+   "theme": "社会",
+   "title": "“还是一个码”——上海基层公共服务融合记",
    "source": "新华网",
    "time": "今天",
-   "url": "https://www.news.cn/government/20261026/e02ba8fd23034fbdbf9dc0b3913c26c3/c.html",
-   "summary": "福建：中医药文化周开启惠民体验- 10月25日，2026年福建省中医药文化周专题活动在福州举行。",
+   "url": "https://www.news.cn/government/20261026/2b3cb18d8cea4355931f01c305bd6280/c.html",
+   "summary": "“还是一个码”——上海基层公共服务融合记-\"（资料照片，受访单位供图）“还是一个码”，可以收集到居民、商户的多元意见和诉求。\"",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "资深统治者武契奇承认学生领导的抗议运动后，塞尔维亚各地欢欣鼓舞",
+   "title": "Lula wins fourth term in dramatic Brazil election comeback",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+   "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "summary": "这位执政12年的民粹主义右翼领导人表示，“很明显”他的政党在这场被称为对国家未来的公投中失败了。",
+   "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "委内瑞拉反对派领导人玛丽亚·马查多在流亡数月后返回",
+   "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+   "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "US Marine indicted for murder and robbery of woman in Japan",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-   "summary": "就在美国政府逮捕委内瑞拉总统尼古拉斯·马杜罗的一个月前，马查多离开了该国。",
+   "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Part of Antarctica named after former BBC science correspondent",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+   "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
    "day": 0
   },
   {
@@ -141,6 +201,16 @@
    "time": "今天",
    "url": "https://world.people.com.cn/n1/2026/1026/c1002-40821620.html",
    "summary": "保加利亚10月25日举行总统选举，包括现任总统约托娃在内27名候选人参选。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "武契奇承认前进党在塞尔维亚议会选举…",
+   "source": "人民网",
+   "time": "今天",
+   "url": "http://world.people.com.cn/n1/2026/1026/c1002-40821576.html",
+   "summary": "塞尔维亚前总统武契奇25日晚承认，由塞尔维亚前进党主导的选举联盟在当天举行的议会选举中败选。",
    "day": 0
   }
  ]
