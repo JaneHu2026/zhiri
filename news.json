@@ -1,86 +1,196 @@
 {
- "fetchedAt": "09:17",
+ "fetchedAt": "17:41",
  "fetchedDate": "2026-10-27",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
+   "theme": "要闻",
+   "title": "这样的苹果，习近平说“现在也不能吃”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/27/ARTIQQNokP8nblzTzPrbXAIG261027.shtml",
+   "summary": "那是1948年秋，辽沈战役期间，锦州乡间的苹果已经熟了，行军路过的解放军战士虽然饥渴难耐，却一个都没有摘。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "热解读｜每一笔“小账”，百姓都记在心上",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/27/ARTIbFwZYMCFrvdSigODnepm261020.shtml",
+   "summary": "总书记曾深刻指出：相对于“远在天边”的“老虎”，群众对“近在眼前”嗡嗡乱飞的“蝇贪”感受更为真切。“微腐败”也可能成为“大祸害”，它损害的是老百姓切身利益，啃食的是群众获得感，挥霍的是基层群众对党的信任。",
+   "day": 0
+  },
+  {
+   "group": "gn",
    "theme": "科技",
-   "title": "新闻1+1丨人工智能时代，如何减缓岗位替代？",
+   "title": "六网织新篇｜算力网加速织就 八大枢纽各展所长",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTIddHPUOg3bu1izcSQht4K261027.shtml",
-   "summary": "27598d5f4231,0,0,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "从AI监测到办理“飞行护照” 各地为候鸟迁徙保驾护航",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTIZIzQkpYU8YgGLYIM6vGR261026.shtml",
-   "summary": "c5927c55ea14,0,1,16:9,newPlayera897d75f1b12,0,1,16:9,newPlayer4491e1c452ad,0,1,16:9,newPlayer94cfac5b046e,0,1,16:9,newPlayer6d11ea75ec56,0,1,16:9,newP…",
+   "url": "https://news.cctv.com/2026/10/27/ARTIbPIqq61hlzZsu9jFjXYr261027.shtml",
+   "summary": "a774e7894889,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "1至9月全国纪检监察机关立案省部级及以上干部73人",
+   "title": "“线上+线下”有效联动 “展览+海外直播”架起广交会“云上桥梁”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTIutcaqu0dUkIwLWVmrWdT261027.shtml",
-   "summary": "2026年1至9月，全国纪检监察机关运用“四种形态”批评教育和处理138.5万人次。其中，运用第一种形态批评教育和处理69.6万人次，占总人次的50.2%；运用第二种形态处理56.9万人次，占41%；运用第三种形态处理6.5万人次，占4.7%；运用第四种形态处理5.6万人次，占4.1%。",
+   "url": "https://news.cctv.com/2026/10/27/ARTIsk1myrBGD6MFershD7iM261027.shtml",
+   "summary": "6e14d1df7b01,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "345万人通过2027年国家公务员考试资格审查",
+   "title": "粤港澳大湾区重大工程狮子洋通道建设迎新进展",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTIZFWjYMCrSpZgQuojmlgN261026.shtml",
-   "summary": "中央机关及其直属机构2027年度考试录用公务员注册认证、网上报名与资格审查工作分别于2026年10月23日18:00、10月24日18:00和10月26日18:00结束。截止到10月23日18:00注册认证423万人，截止到10月24日18:00网上报名393.5万人，截止到10月26日18:00通…",
+   "url": "https://tv.cctv.com/2026/10/27/VIDEdeTePXtar0fKKM5lIjSF261027.shtml",
+   "summary": "粤港澳大湾区重大工程狮子洋通道建设迎新进展：虎门港互通立交下部结构施工顺利完工。",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "文化",
-   "title": "总票房破315亿！“跟着电影去运动”解锁消费新场景",
+   "theme": "民生",
+   "title": "“多点发力”破解服务管理难题 让新就业群体生活更舒心",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTImDPm8otDkiB0o66AbFWc261026.shtml",
-   "summary": "今年以来，电影市场持续火热，从元旦档、春节档，到五一档、暑期档，再到刚刚结束的中秋档、国庆档，400多部影片涵盖喜剧、动作、科幻、悬疑、动画等多种类型。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "12306上线新功能 买团体票更方便",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTIH2UOZ4VTqCdo66qxHXWx261026.shtml",
-   "summary": "铁路团体票办理车站继续现场受理团体旅客购买火车票业务，各类研学、演出、赛事等团体旅客集中购票出行更加方便。",
+   "url": "https://news.cctv.com/2026/10/27/ARTIY2spFyGDb0lUy193ekru261027.shtml",
+   "summary": "be4cbae0e213,0,1,16:9,newPlayer20022ec467b7,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "诈骗百万 伪造病历“以孕避刑” 法院：数罪并罚",
+   "title": "“蛟龙”号迭代升级 顺利完成7000米级海试",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTINXr8LCSwQiOnYVBXFAQT261026.shtml",
+   "url": "https://tv.cctv.com/2026/10/27/VIDESoYJtbAQ70ZqwOGp53bS261027.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "冷空气来袭！多地陆续供暖，这几件事要提前了解",
+   "title": "从“锁边”到“富边” 新疆沙漠产业结出“累累硕果”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/27/ARTI5cONjAOITzSXgxENONX3261027.shtml",
+   "url": "https://news.cctv.com/2026/10/27/ARTIUutSygHfqmj32Wx9Sv9K261027.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "【文明中国·看四川】守护千年古柏 赓续古道文脉",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261027/4bff48f501d746918824e2a425245a72/c.html",
+   "summary": "【文明中国·看四川】守护千年古柏 赓续古道文脉-\"护林员张玉富的巡护日记。\"",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "铁路12306上线新功能 买团体票更方便",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/government/20261027/e46d432ca33840efb055ac64dc3adf1b/c.html",
+   "summary": "铁路12306上线新功能 买团体票更方便-\"旅客可在铁路12306客户端“温馨服务”版块和网站“信息查询”版块，检索团体票办理车站、办公电话和营业时间。\"",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Israel heads to polls for pivotal election defined by security and democracy",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may l",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "summary": "The ceasefire in Oleshky, secured by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+   "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Ex-FBI chief James Comey faces federal charges for third time",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Jay-Z to perform at Super Bowl half-time show",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+   "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+   "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Meghan to co-host Junior MasterChef Australia",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "橄榄成熟时，巴勒斯坦人坚守土地",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1027/c1002-40822297.html",
+   "summary": "新华社拉姆安拉10月26日电 中东战地手记｜橄榄成熟时，巴勒斯坦人坚守土地 新华社记者徐泽宇这是10月21日在约旦河西岸纳布卢斯附近的东卢班村拍摄的橄榄。新华社发（艾曼·诺巴尼摄） 在约旦河西",
    "day": 0
   }
  ]

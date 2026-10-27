@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:18",
+ "fetchedAt": "17:42",
  "fetchedDate": "2026-10-27",
  "source": "zhiri-server",
  "items": [
@@ -9,8 +9,8 @@
    "author": "以尘动画",
    "title": "大肥鱼，你怎么穿着Claude的衣服",
    "duration": "0:43",
-   "heat": 1556952,
-   "updated": "2026-10-27T01:18:34.337259",
+   "heat": 1709673,
+   "updated": "2026-10-27T09:42:17.927437",
    "url": "https://www.bilibili.com/video/BV1LBnb6aERV",
    "points": [],
    "flags": {
@@ -25,9 +25,25 @@
    "author": "老奇好好奇",
    "title": "AI不会告诉你，王虹到底证明了什么",
    "duration": "57:45",
-   "heat": 649383,
-   "updated": "2026-10-27T01:18:34.337292",
+   "heat": 724136,
+   "updated": "2026-10-27T09:42:17.927451",
    "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "永远の蓬莱neet",
+   "title": "《赵本山 Dangerous》 某不存在的联欢晚会现场（笑）【AI MV大赛】",
+   "duration": "1:35",
+   "heat": 1485278,
+   "updated": "2026-10-27T09:42:17.927454",
+   "url": "https://www.bilibili.com/video/BV17pHK6ME2u",
    "points": [],
    "flags": {
     "fav": false,
@@ -41,8 +57,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391460,
-   "updated": "2026-10-27T01:18:34.337295",
+   "heat": 391474,
+   "updated": "2026-10-27T09:42:17.927457",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -57,8 +73,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653521,
-   "updated": "2026-10-27T01:18:34.337297",
+   "heat": 653522,
+   "updated": "2026-10-27T09:42:17.927459",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -73,8 +89,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557620,
-   "updated": "2026-10-27T01:18:34.337300",
+   "heat": 557622,
+   "updated": "2026-10-27T09:42:17.927461",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -90,7 +106,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155683,
-   "updated": "2026-10-27T01:18:34.337301",
+   "updated": "2026-10-27T09:42:17.927463",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -105,25 +121,9 @@
    "author": "花生説",
    "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
    "duration": "12:45",
-   "heat": 611635,
-   "updated": "2026-10-27T01:18:34.337303",
+   "heat": 611638,
+   "updated": "2026-10-27T09:42:17.927465",
    "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "闪电飞船",
-   "title": "AI时代，英语学习已经变的无比简单！【闪电飞船】",
-   "duration": "2:55",
-   "heat": 2660500,
-   "updated": "2026-10-27T01:18:34.337305",
-   "url": "https://www.bilibili.com/video/BV1igSdY7EFE",
    "points": [],
    "flags": {
     "fav": false,
@@ -137,29 +137,11 @@
    "author": "抖音热榜",
    "title": "老干妈HR回应AI裁员传闻",
    "duration": "—",
-   "heat": 7707324,
-   "updated": "2026-10-27T01:18:34.337307",
+   "heat": 7719745,
+   "updated": "2026-10-27T09:42:17.927467",
    "url": "https://www.douyin.com/search/%E8%80%81%E5%B9%B2%E5%A6%88HR%E5%9B%9E%E5%BA%94AI%E8%A3%81%E5%91%98%E4%BC%A0%E9%97%BB?type=general",
    "points": [
-    "热门话题「老干妈HR回应AI裁员传闻」：相关视频 4 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "S16进入大AI时代",
-   "duration": "—",
-   "heat": 7689304,
-   "updated": "2026-10-27T01:18:34.337310",
-   "url": "https://www.douyin.com/search/S16%E8%BF%9B%E5%85%A5%E5%A4%A7AI%E6%97%B6%E4%BB%A3?type=general",
-   "points": [
-    "热门话题「S16进入大AI时代」：相关视频 1 条"
+    "热门话题「老干妈HR回应AI裁员传闻」：相关视频 7 条"
    ],
    "flags": {
     "fav": false,
@@ -171,47 +153,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+   "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T01:18:34.337312",
-   "url": "https://www.qbitai.com/2026/10/505551.html",
-   "points": [
-    "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-27T01:18:34.337314",
-   "url": "https://www.qbitai.com/2026/10/505539.html",
-   "points": [
-    "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "OpenAI开始断网训练最强模型：“安全起见”",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-27T01:18:34.337316",
-   "url": "https://www.qbitai.com/2026/10/505529.html",
+   "updated": "2026-10-27T09:42:17.927469",
+   "url": "https://www.qbitai.com/2026/10/505773.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -223,13 +169,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "A社联创演讲：AI奇点已来",
+   "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T01:18:34.337318",
-   "url": "https://www.qbitai.com/2026/10/505521.html",
+   "updated": "2026-10-27T09:42:17.927471",
+   "url": "https://www.qbitai.com/2026/10/505719.html",
    "points": [
-    "所谓奇点，或许是AI跃过人类的那个点。"
+    "同一天，OpenAI还甩出3项AI科学新发现"
    ],
    "flags": {
     "fav": false,
@@ -241,11 +187,11 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "NeoLab第一个商业模式：转售GPU",
+   "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T01:18:34.337319",
-   "url": "https://www.qbitai.com/2026/10/505478.html",
+   "updated": "2026-10-27T09:42:17.927473",
+   "url": "https://www.qbitai.com/2026/10/505694.html",
    "points": [],
    "flags": {
     "fav": false,
@@ -257,12 +203,48 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "中国近50%的新云生意，竟被这家公司包揽！",
+   "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T01:18:34.337321",
-   "url": "https://www.qbitai.com/2026/10/505454.html",
+   "updated": "2026-10-27T09:42:17.927475",
+   "url": "https://www.qbitai.com/2026/10/505687.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-27T09:42:17.927476",
+   "url": "https://www.qbitai.com/2026/10/505635.html",
+   "points": [
+    "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-27T09:42:17.927478",
+   "url": "https://www.qbitai.com/2026/10/505615.html",
+   "points": [
+    "GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -275,7 +257,7 @@
    "author": "Hacker News",
    "title": "人工智能帝国",
    "duration": "—",
-   "heat": 1,
+   "heat": 2,
    "updated": "2026-10-26",
    "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
    "points": [
@@ -311,7 +293,7 @@
    "author": "Hacker News",
    "title": "R/opensource禁止人工智能制作和以人工智能为重点的项目以及非英语人士",
    "duration": "—",
-   "heat": 19,
+   "heat": 20,
    "updated": "2026-10-26",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
    "points": [
