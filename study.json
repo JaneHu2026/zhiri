@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:03",
+ "fetchedAt": "18:26",
  "fetchedDate": "2026-10-28",
  "source": "zhiri-server",
  "items": [
@@ -9,8 +9,8 @@
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 1375282,
-   "updated": "2026-10-28T01:03:19.933472",
+   "heat": 1928396,
+   "updated": "2026-10-28T10:26:39.550723",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
    "points": [],
    "flags": {
@@ -25,8 +25,8 @@
    "author": "老奇好好奇",
    "title": "AI不会告诉你，王虹到底证明了什么",
    "duration": "57:45",
-   "heat": 868116,
-   "updated": "2026-10-28T01:03:19.933501",
+   "heat": 903202,
+   "updated": "2026-10-28T10:26:39.550733",
    "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
    "points": [],
    "flags": {
@@ -41,25 +41,9 @@
    "author": "以尘动画",
    "title": "大肥鱼，你怎么穿着Claude的衣服",
    "duration": "0:43",
-   "heat": 1905494,
-   "updated": "2026-10-28T01:03:19.933505",
+   "heat": 2047735,
+   "updated": "2026-10-28T10:26:39.550735",
    "url": "https://www.bilibili.com/video/BV1LBnb6aERV",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "永远の蓬莱neet",
-   "title": "《赵本山 Dangerous》 某不存在的联欢晚会现场（笑）【AI MV大赛】",
-   "duration": "1:35",
-   "heat": 1578203,
-   "updated": "2026-10-28T01:03:19.933507",
-   "url": "https://www.bilibili.com/video/BV17pHK6ME2u",
    "points": [],
    "flags": {
     "fav": false,
@@ -73,8 +57,8 @@
    "author": "三颗门牙X",
    "title": "为什么你的DeepSeek，和别人不一样？【实测揭秘】",
    "duration": "16:55",
-   "heat": 740493,
-   "updated": "2026-10-28T01:03:19.933509",
+   "heat": 856600,
+   "updated": "2026-10-28T10:26:39.550736",
    "url": "https://www.bilibili.com/video/BV1btH36uEru",
    "points": [],
    "flags": {
@@ -89,8 +73,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391495,
-   "updated": "2026-10-28T01:03:19.933511",
+   "heat": 391498,
+   "updated": "2026-10-28T10:26:39.550738",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -106,7 +90,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653523,
-   "updated": "2026-10-28T01:03:19.933513",
+   "updated": "2026-10-28T10:26:39.550740",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -121,9 +105,25 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557625,
-   "updated": "2026-10-28T01:03:19.933515",
+   "heat": 557629,
+   "updated": "2026-10-28T10:26:39.550742",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "影石Insta360",
+   "title": "影石超旗舰 AI 全景相机，限时发售！",
+   "duration": "5:04",
+   "heat": 155684,
+   "updated": "2026-10-28T10:26:39.550743",
+   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
     "fav": false,
@@ -135,13 +135,13 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
-   "title": "AI小狗男主进入白切黑时代",
+   "title": "外媒解读华为手机芯片自研突破",
    "duration": "—",
-   "heat": 7666366,
-   "updated": "2026-10-28T01:03:19.933517",
-   "url": "https://www.douyin.com/search/AI%E5%B0%8F%E7%8B%97%E7%94%B7%E4%B8%BB%E8%BF%9B%E5%85%A5%E7%99%BD%E5%88%87%E9%BB%91%E6%97%B6%E4%BB%A3?type=general",
+   "heat": 7752478,
+   "updated": "2026-10-28T10:26:39.550745",
+   "url": "https://www.douyin.com/search/%E5%A4%96%E5%AA%92%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%87%AA%E7%A0%94%E7%AA%81%E7%A0%B4?type=general",
    "points": [
-    "热门话题「AI小狗男主进入白切黑时代」：相关视频 2 条"
+    "热门话题「外媒解读华为手机芯片自研突破」：相关视频 1 条"
    ],
    "flags": {
     "fav": false,
@@ -153,13 +153,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+   "title": "威卡：用数据集链接具身智能和工程机械",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T01:03:19.933519",
-   "url": "https://www.qbitai.com/2026/10/505865.html",
+   "updated": "2026-10-28T10:26:39.550747",
+   "url": "https://www.qbitai.com/2026/10/506063.html",
    "points": [
-    "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
+    "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
    ],
    "flags": {
     "fav": false,
@@ -171,13 +171,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "印奇把4D雷达也端到端了",
+   "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T01:03:19.933521",
-   "url": "https://www.qbitai.com/2026/10/505852.html",
+   "updated": "2026-10-28T10:26:39.550748",
+   "url": "https://www.qbitai.com/2026/10/506055.html",
    "points": [
-    "毫米波雷达，AI算力10TOPS"
+    "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计"
    ],
    "flags": {
     "fav": false,
@@ -189,13 +189,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+   "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T01:03:19.933522",
-   "url": "https://www.qbitai.com/2026/10/505830.html",
+   "updated": "2026-10-28T10:26:39.550750",
+   "url": "https://www.qbitai.com/2026/10/506042.html",
    "points": [
-    "顶尖智能汽车玩家的终局，不会停在智能汽车"
+    "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
    ],
    "flags": {
     "fav": false,
@@ -207,29 +207,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+   "title": "华为双十一焕新季・全场景新品发布会：焕新启航，聚势新生！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T01:03:19.933524",
-   "url": "https://www.qbitai.com/2026/10/505773.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-28T01:03:19.933525",
-   "url": "https://www.qbitai.com/2026/10/505719.html",
+   "updated": "2026-10-28T10:26:39.550751",
+   "url": "https://www.qbitai.com/2026/10/506016.html",
    "points": [
-    "同一天，OpenAI还甩出3项AI科学新发现"
+    "华为双十一焕新季·全场景新品发布会上，华为Mate90 系列、华为Pura90 Plus、华为畅享100 系列、华为FreeClip 2 潮玩拼色、华为路由 X2 Pro等多款新品焕新而来。"
    ],
    "flags": {
     "fav": false,
@@ -241,12 +225,32 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+   "title": "四川最牛便利连锁超市搞机器人售货，黄了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T01:03:19.933527",
-   "url": "https://www.qbitai.com/2026/10/505694.html",
-   "points": [],
+   "updated": "2026-10-28T10:26:39.550752",
+   "url": "https://www.qbitai.com/2026/10/505955.html",
+   "points": [
+    "来到真实的货架前，机器人依然表现得笨拙与无措。"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-28T10:26:39.550753",
+   "url": "https://www.qbitai.com/2026/10/505956.html",
+   "points": [
+    "Agent开始参与GPU底层算子优化"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -257,13 +261,67 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "特朗普表示，他将禁止术语人工智能",
+   "title": "人工智能分析智能指数 v5.0",
    "duration": "—",
-   "heat": 10,
+   "heat": 38,
+   "updated": "2026-10-28",
+   "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+   "points": [
+    "人工智能分析智能指数 v5.0"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Show HN：2026 年如何使用 AI 视频生成器制作 AI UGC 广告",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-28",
+   "url": "https://www.aivideosugc.com/",
+   "points": [
+    "Show HN：2026 年如何使用 AI 视频生成器制作 AI UGC 广告"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能分析智能指数 v5",
+   "duration": "—",
+   "heat": 57,
+   "updated": "2026-10-28",
+   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+   "points": [
+    "人工智能分析智能指数 v5"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "特朗普称他将禁止“人工智能”一词",
+   "duration": "—",
+   "heat": 14,
    "updated": "2026-10-27",
    "url": "https://www.reuters.com/world/trump-says-he-will-ban-term-artificial-intelligence-2026-10-27/",
    "points": [
-    "特朗普表示，他将禁止术语人工智能"
+    "特朗普称他将禁止“人工智能”一词"
    ],
    "flags": {
     "fav": false,
@@ -277,7 +335,7 @@
    "author": "Hacker News",
    "title": "人工智能巨头[...]他们可以从核工业中学到很多东西",
    "duration": "—",
-   "heat": 1,
+   "heat": 3,
    "updated": "2026-10-27",
    "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
    "points": [
@@ -293,67 +351,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "美国总统表示，他将禁止“人工智能”一词",
+   "title": "美国总统表示将禁止“人工智能”一词",
    "duration": "—",
-   "heat": 77,
+   "heat": 90,
    "updated": "2026-10-27",
    "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
    "points": [
-    "美国总统表示，他将禁止“人工智能”一词"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "特朗普表示，他将禁止所有人使用“人工智能”一词",
-   "duration": "—",
-   "heat": 31,
-   "updated": "2026-10-27",
-   "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html",
-   "points": [
-    "特朗普表示，他将禁止所有人使用“人工智能”一词"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "亚马逊在持续失败后正在淘汰其人工智能部门",
-   "duration": "—",
-   "heat": 246,
-   "updated": "2026-10-27",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "points": [
-    "亚马逊在持续失败后正在淘汰其人工智能部门"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能帝国",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-26",
-   "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
-   "points": [
-    "人工智能帝国"
+    "美国总统表示将禁止“人工智能”一词"
    ],
    "flags": {
     "fav": false,

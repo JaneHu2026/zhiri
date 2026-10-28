@@ -1,96 +1,156 @@
 {
- "fetchedAt": "09:02",
+ "fetchedAt": "18:26",
  "fetchedDate": "2026-10-28",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "新闻1+1｜陪诊国标即将实施，将改变什么？",
+   "title": "透过亮眼数据看第140届广交会第二期展会成绩单",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTIR8aqgxKe4VXfuuD3Jxcp261027.shtml",
-   "summary": "504180878b20,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/28/ARTILtLYyO3omxWbnfxVeDr1261028.shtml",
+   "summary": "9a05fcb12450,0,1,16:9,newPlayer0c9bd013ed2f,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "秋色正浓 赏秋正当时",
+   "title": "智能化模式、新装备“显身手” 描绘出一幅幅“数字秋种图”",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTIR6cl7EiDx37vMC6bU0jy261027.shtml",
-   "summary": "130f93be1ddb,0,1,16:9,newPlayer",
+   "url": "https://news.cctv.com/2026/10/28/ARTISTNDd0C11zeM0GTxwhH6261028.shtml",
+   "summary": "6b1e21ea1e73,0,1,16:9,newPlayer82bc54872fb8,0,1,16:9,newPlayere5574acef720,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "探访火箭制造基地 看新一代通信网在太空的运力支撑",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/28/VIDEqFzollipv640NI97TrJI261028.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "153支风电叶片 扬州港刷新单船出口纪录",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/28/VIDE9Nqif5EO57Q9T1bKLl3O261028.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "云南迪庆：秋色浸染普达措 迎最美赏秋时节",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/28/VIDEJiCO7MAVZtMETvCWu6jK261028.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "全国秋粮收获已过八成 同比快于上年",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/28/VIDE2HqFAWjt4GmQ42OPGAwS261028.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "国台办：祖国终将统一也必将统一的历史大势不可阻挡",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/28/ARTImozHyal4b2OAA4dq7w8Q261028.shtml",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "财经",
-   "title": "多维度数据看前三季度中国经济活力",
+   "title": "前三季度规模以上工业企业利润持续保持两位数增长",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTIoSFFXp0Ir7OwAiwotmwJ261028.shtml",
+   "url": "https://tv.cctv.com/2026/10/28/VIDEyUNgGnaxfixVFTpwqr8M261028.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
-   "source": "央视新闻",
+   "theme": "政策",
+   "title": "一批新文件发布助力城市全域数字化转型",
+   "source": "新华网",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTIb0STFrKIKEhPx5OXizNo261027.shtml",
-   "summary": "8f7e0b6d1fca,0,1,16:9,newPlayer14c07ea961c5,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "算力网加速织就 一批项目建设迎新进展",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTISACixeHdzCisvUeC1DKf261027.shtml",
-   "summary": "641340d4992d,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "收获季新农技｜无人机“上山下地” 缓解人力紧缺",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTIL8EWfw0y7OKo6BkjZ6KD261027.shtml",
-   "summary": "a42af0f587d4,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "落叶缓扫留住秋韵 北京推出这些赏秋点位",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTIGKZHWwQKUbhBMdU24k3K261027.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "广东深圳：APEC会议临近 布设旗帜迎宾客",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTInKshnMajqV2kEYfvsi9F261027.shtml",
-   "summary": "（点击查看原文）",
+   "url": "https://www.news.cn/government/20261028/143eb75dbd20461eb907c4a0cdad0b94/c.html",
+   "summary": "一批新文件发布助力城市全域数字化转型- 【简介】近日，全国数据标准化技术委员会发布了《城市全域数字化转型标准体系研究报告》及《城市全域数字化转型 城市感知体系建设导则》等12项技术文件。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Watch: What happens now after close vote in Israeli election?",
+   "title": "由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Villa Vie Odyssey 号暂停航行，并正在与乘客进行“临时生活安排”。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "金在加勒比之旅开始时承认“过去的痛苦”",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+   "summary": "国王正在进行为期九天的访问，将前往三个国家，包括巴哈马、圭亚那以及安提瓜和巴布达。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "亚历山大兄弟因性交易案各被判入狱30年",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "summary": "这三人——其中两人是备受瞩目的美国房地产大亨——被判有罪，利用其社会地位引诱女性参加派对和聚会。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "观看：以色列大选投票结果接近之后会发生什么？",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+   "summary": "以色列大选投票已经结束，但还没有明显的赢家。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "数学家之间的争吵加剧了人们对人工智能可能破坏科学的担忧",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+   "summary": "人工智能取得了一些令人惊叹的科学发现。但现在，人们对其准确性提出质疑",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "内塔尼亚胡和艾森科特都面临着艰难的权力之路，因为他们都没有赢得多数席位",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+   "summary": "两个主要集团的席位似乎太少，无法在不依赖阿拉伯政党的情况下组建下一届政府。",
    "day": 0
   }
  ]
