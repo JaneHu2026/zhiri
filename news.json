@@ -1,8 +1,38 @@
 {
- "fetchedAt": "18:26",
- "fetchedDate": "2026-10-28",
+ "fetchedAt": "02:42",
+ "fetchedDate": "2026-10-29",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "“只要触犯了党纪国法，都要受到严肃追究和严厉惩处”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/28/ARTItzJ1Byofy08CXMs3fvY9261028.shtml",
+   "summary": "“只要触犯了党纪国法，都要受到严肃追究和严厉惩处”。党的十八大以来，习近平总书记高度重视党风廉政建设和反腐败斗争。有案必查、有贪必肃，进入新时代，反腐败力度和规模之大，世所罕见、史所罕见。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "严明纪律规矩 推动营造风清气正的政治生态｜",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/28/ARTIxCilA4gZDWuLDcS3xlWb261028.shtml",
+   "summary": "群众身边的不正之风和腐败问题，侵蚀群众获得感和党的执政根基。新时代以来，全面从严治党不断向基层延伸。自2024年开始，按照党中央部署，中央纪委国家监委在全国开展群众身边不正之风和腐败问题集中整治，推动解决群众“急难愁盼”问题。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "严明纪律规矩 推动营造风清气正的政治生态",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/28/VIDEhKU45XsMemFa02wG4CLv261028.shtml",
+   "summary": "【持之以恒推进全面从严治党】严明纪律规矩，推动营造风清气正的政治生态。",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -26,60 +56,30 @@
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "探访火箭制造基地 看新一代通信网在太空的运力支撑",
+   "title": "我国数个重大工程项目建设“热气腾腾”澎湃发展活力",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/28/VIDEqFzollipv640NI97TrJI261028.shtml",
+   "url": "https://news.cctv.com/2026/10/28/ARTIx9mYM92Il9G4Cq71prBr261028.shtml",
+   "summary": "8d43a350b9de,0,1,16:9,newPlayerac99cced11de,0,1,16:9,newPlayerdbe7628eb137,0,1,16:9,newPlayer",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "西藏那曲巴青县安置板房正陆续搭建 配套设施完善“暖心+便民”",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/28/ARTIHinoFUSCzSTrreV7Tklp261028.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "153支风电叶片 扬州港刷新单船出口纪录",
+   "title": "国家记忆｜红军长征在阿坝 生死存亡",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/28/VIDE9Nqif5EO57Q9T1bKLl3O261028.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "云南迪庆：秋色浸染普达措 迎最美赏秋时节",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/28/VIDEJiCO7MAVZtMETvCWu6jK261028.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "全国秋粮收获已过八成 同比快于上年",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/28/VIDE2HqFAWjt4GmQ42OPGAwS261028.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "国台办：祖国终将统一也必将统一的历史大势不可阻挡",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/28/ARTImozHyal4b2OAA4dq7w8Q261028.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "前三季度规模以上工业企业利润持续保持两位数增长",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/28/VIDEyUNgGnaxfixVFTpwqr8M261028.shtml",
+   "url": "https://tv.cctv.com/2026/10/28/VIDExevNvulE33bhApTCcjJl261028.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,61 +96,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨",
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Villa Vie Odyssey 号暂停航行，并正在与乘客进行“临时生活安排”。",
+   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "金在加勒比之旅开始时承认“过去的痛苦”",
+   "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+   "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+   "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-   "summary": "国王正在进行为期九天的访问，将前往三个国家，包括巴哈马、圭亚那以及安提瓜和巴布达。",
+   "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "亚历山大兄弟因性交易案各被判入狱30年",
+   "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "summary": "这三人——其中两人是备受瞩目的美国房地产大亨——被判有罪，利用其社会地位引诱女性参加派对和聚会。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "观看：以色列大选投票结果接近之后会发生什么？",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-   "summary": "以色列大选投票已经结束，但还没有明显的赢家。",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "数学家之间的争吵加剧了人们对人工智能可能破坏科学的担忧",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-   "summary": "人工智能取得了一些令人惊叹的科学发现。但现在，人们对其准确性提出质疑",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "内塔尼亚胡和艾森科特都面临着艰难的权力之路，因为他们都没有赢得多数席位",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-   "summary": "两个主要集团的席位似乎太少，无法在不依赖阿拉伯政党的情况下组建下一届政府。",
+   "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+   "summary": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
    "day": 0
   }
  ]

@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:26",
- "fetchedDate": "2026-10-28",
+ "fetchedAt": "02:43",
+ "fetchedDate": "2026-10-29",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,8 +9,8 @@
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 1928396,
-   "updated": "2026-10-28T10:26:39.550723",
+   "heat": 2300087,
+   "updated": "2026-10-28T18:43:16.230501",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
    "points": [],
    "flags": {
@@ -22,28 +22,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "老奇好好奇",
-   "title": "AI不会告诉你，王虹到底证明了什么",
-   "duration": "57:45",
-   "heat": 903202,
-   "updated": "2026-10-28T10:26:39.550733",
-   "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "以尘动画",
-   "title": "大肥鱼，你怎么穿着Claude的衣服",
-   "duration": "0:43",
-   "heat": 2047735,
-   "updated": "2026-10-28T10:26:39.550735",
-   "url": "https://www.bilibili.com/video/BV1LBnb6aERV",
+   "author": "Dennis飞昊",
+   "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
+   "duration": "9:20",
+   "heat": 528440,
+   "updated": "2026-10-28T18:43:16.230512",
+   "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
    "points": [],
    "flags": {
     "fav": false,
@@ -57,9 +41,25 @@
    "author": "三颗门牙X",
    "title": "为什么你的DeepSeek，和别人不一样？【实测揭秘】",
    "duration": "16:55",
-   "heat": 856600,
-   "updated": "2026-10-28T10:26:39.550736",
+   "heat": 972276,
+   "updated": "2026-10-28T18:43:16.230515",
    "url": "https://www.bilibili.com/video/BV1btH36uEru",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "老奇好好奇",
+   "title": "AI不会告诉你，王虹到底证明了什么",
+   "duration": "57:45",
+   "heat": 932228,
+   "updated": "2026-10-28T18:43:16.230517",
+   "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
    "points": [],
    "flags": {
     "fav": false,
@@ -73,8 +73,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391498,
-   "updated": "2026-10-28T10:26:39.550738",
+   "heat": 391505,
+   "updated": "2026-10-28T18:43:16.230519",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -89,8 +89,8 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653523,
-   "updated": "2026-10-28T10:26:39.550740",
+   "heat": 653524,
+   "updated": "2026-10-28T18:43:16.230521",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -105,8 +105,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557629,
-   "updated": "2026-10-28T10:26:39.550742",
+   "heat": 557630,
+   "updated": "2026-10-28T18:43:16.230523",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -121,8 +121,8 @@
    "author": "影石Insta360",
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
-   "heat": 155684,
-   "updated": "2026-10-28T10:26:39.550743",
+   "heat": 155685,
+   "updated": "2026-10-28T18:43:16.230525",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -135,10 +135,46 @@
    "id": "sv_ext",
    "platform": "douyin",
    "author": "抖音热榜",
+   "title": "一张全国算力网重塑生产生活",
+   "duration": "—",
+   "heat": 11082231,
+   "updated": "2026-10-28T18:43:16.230527",
+   "url": "https://www.douyin.com/search/%E4%B8%80%E5%BC%A0%E5%85%A8%E5%9B%BD%E7%AE%97%E5%8A%9B%E7%BD%91%E9%87%8D%E5%A1%91%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB?type=general",
+   "points": [
+    "热门话题「一张全国算力网重塑生产生活」：相关视频 1 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "我国智能算力规模全球第二",
+   "duration": "—",
+   "heat": 9118483,
+   "updated": "2026-10-28T18:43:16.230529",
+   "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%99%BA%E8%83%BD%E7%AE%97%E5%8A%9B%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C?type=general",
+   "points": [
+    "热门话题「我国智能算力规模全球第二」：相关视频 1 条"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
    "title": "外媒解读华为手机芯片自研突破",
    "duration": "—",
-   "heat": 7752478,
-   "updated": "2026-10-28T10:26:39.550745",
+   "heat": 7729417,
+   "updated": "2026-10-28T18:43:16.230531",
    "url": "https://www.douyin.com/search/%E5%A4%96%E5%AA%92%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%87%AA%E7%A0%94%E7%AA%81%E7%A0%B4?type=general",
    "points": [
     "热门话题「外媒解读华为手机芯片自研突破」：相关视频 1 条"
@@ -156,7 +192,7 @@
    "title": "威卡：用数据集链接具身智能和工程机械",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T10:26:39.550747",
+   "updated": "2026-10-28T18:43:16.230533",
    "url": "https://www.qbitai.com/2026/10/506063.html",
    "points": [
     "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
@@ -174,7 +210,7 @@
    "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T10:26:39.550748",
+   "updated": "2026-10-28T18:43:16.230535",
    "url": "https://www.qbitai.com/2026/10/506055.html",
    "points": [
     "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计"
@@ -192,7 +228,7 @@
    "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T10:26:39.550750",
+   "updated": "2026-10-28T18:43:16.230537",
    "url": "https://www.qbitai.com/2026/10/506042.html",
    "points": [
     "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
@@ -210,7 +246,7 @@
    "title": "华为双十一焕新季・全场景新品发布会：焕新启航，聚势新生！",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T10:26:39.550751",
+   "updated": "2026-10-28T18:43:16.230539",
    "url": "https://www.qbitai.com/2026/10/506016.html",
    "points": [
     "华为双十一焕新季·全场景新品发布会上，华为Mate90 系列、华为Pura90 Plus、华为畅享100 系列、华为FreeClip 2 潮玩拼色、华为路由 X2 Pro等多款新品焕新而来。"
@@ -228,7 +264,7 @@
    "title": "四川最牛便利连锁超市搞机器人售货，黄了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T10:26:39.550752",
+   "updated": "2026-10-28T18:43:16.230541",
    "url": "https://www.qbitai.com/2026/10/505955.html",
    "points": [
     "来到真实的货架前，机器人依然表现得笨拙与无措。"
@@ -246,7 +282,7 @@
    "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-28T10:26:39.550753",
+   "updated": "2026-10-28T18:43:16.230542",
    "url": "https://www.qbitai.com/2026/10/505956.html",
    "points": [
     "Agent开始参与GPU底层算子优化"
@@ -261,13 +297,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能分析智能指数 v5.0",
+   "title": "人工智能分析智能指数v5",
    "duration": "—",
-   "heat": 38,
+   "heat": 2,
    "updated": "2026-10-28",
-   "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+   "url": "https://artificialanalysis.ai/#intelligence-efficiency-tabs",
    "points": [
-    "人工智能分析智能指数 v5.0"
+    "人工智能分析智能指数v5"
    ],
    "flags": {
     "fav": false,
@@ -279,85 +315,85 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "Show HN：2026 年如何使用 AI 视频生成器制作 AI UGC 广告",
+   "title": "Comer调查特拉华州创建人工智能公司的计划",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-28",
+   "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+   "points": [
+    "Comer调查特拉华州创建人工智能公司的计划"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "特朗普誓言禁止“人工智能”一词",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-28",
+   "url": "https://www.forbes.com/sites/fionariley/2026/10/27/trump-vows-to-ban-term-artificial-intelligence/",
+   "points": [
+    "特朗普誓言禁止“人工智能”一词"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Meta推出“AI宠物日记”应用",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-28",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+   "points": [
+    "Meta推出“AI宠物日记”应用"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能分析智能指数V5.0",
+   "duration": "—",
+   "heat": 39,
+   "updated": "2026-10-28",
+   "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
+   "points": [
+    "人工智能分析智能指数V5.0"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "展示HN ：如何使用AI视频生成器在2026年制作AI UGC广告",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-28",
    "url": "https://www.aivideosugc.com/",
    "points": [
-    "Show HN：2026 年如何使用 AI 视频生成器制作 AI UGC 广告"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能分析智能指数 v5",
-   "duration": "—",
-   "heat": 57,
-   "updated": "2026-10-28",
-   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
-   "points": [
-    "人工智能分析智能指数 v5"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "特朗普称他将禁止“人工智能”一词",
-   "duration": "—",
-   "heat": 14,
-   "updated": "2026-10-27",
-   "url": "https://www.reuters.com/world/trump-says-he-will-ban-term-artificial-intelligence-2026-10-27/",
-   "points": [
-    "特朗普称他将禁止“人工智能”一词"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能巨头[...]他们可以从核工业中学到很多东西",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-10-27",
-   "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
-   "points": [
-    "人工智能巨头[...]他们可以从核工业中学到很多东西"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "美国总统表示将禁止“人工智能”一词",
-   "duration": "—",
-   "heat": 90,
-   "updated": "2026-10-27",
-   "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
-   "points": [
-    "美国总统表示将禁止“人工智能”一词"
+    "展示HN ：如何使用AI视频生成器在2026年制作AI UGC广告"
    ],
    "flags": {
     "fav": false,
