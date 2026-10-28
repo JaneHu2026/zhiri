@@ -1,6 +1,6 @@
 {
- "fetchedAt": "23:47",
- "fetchedDate": "2026-10-27",
+ "fetchedAt": "09:03",
+ "fetchedDate": "2026-10-28",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,8 +9,8 @@
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 1024099,
-   "updated": "2026-10-27T15:47:45.246116",
+   "heat": 1375282,
+   "updated": "2026-10-28T01:03:19.933472",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
    "points": [],
    "flags": {
@@ -25,8 +25,8 @@
    "author": "老奇好好奇",
    "title": "AI不会告诉你，王虹到底证明了什么",
    "duration": "57:45",
-   "heat": 832613,
-   "updated": "2026-10-27T15:47:45.246130",
+   "heat": 868116,
+   "updated": "2026-10-28T01:03:19.933501",
    "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
    "points": [],
    "flags": {
@@ -41,8 +41,8 @@
    "author": "以尘动画",
    "title": "大肥鱼，你怎么穿着Claude的衣服",
    "duration": "0:43",
-   "heat": 1834157,
-   "updated": "2026-10-27T15:47:45.246133",
+   "heat": 1905494,
+   "updated": "2026-10-28T01:03:19.933505",
    "url": "https://www.bilibili.com/video/BV1LBnb6aERV",
    "points": [],
    "flags": {
@@ -57,9 +57,25 @@
    "author": "永远の蓬莱neet",
    "title": "《赵本山 Dangerous》 某不存在的联欢晚会现场（笑）【AI MV大赛】",
    "duration": "1:35",
-   "heat": 1551763,
-   "updated": "2026-10-27T15:47:45.246135",
+   "heat": 1578203,
+   "updated": "2026-10-28T01:03:19.933507",
    "url": "https://www.bilibili.com/video/BV17pHK6ME2u",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "三颗门牙X",
+   "title": "为什么你的DeepSeek，和别人不一样？【实测揭秘】",
+   "duration": "16:55",
+   "heat": 740493,
+   "updated": "2026-10-28T01:03:19.933509",
+   "url": "https://www.bilibili.com/video/BV1btH36uEru",
    "points": [],
    "flags": {
     "fav": false,
@@ -73,8 +89,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391489,
-   "updated": "2026-10-27T15:47:45.246137",
+   "heat": 391495,
+   "updated": "2026-10-28T01:03:19.933511",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -90,7 +106,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653523,
-   "updated": "2026-10-27T15:47:45.246139",
+   "updated": "2026-10-28T01:03:19.933513",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -105,8 +121,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557624,
-   "updated": "2026-10-27T15:47:45.246142",
+   "heat": 557625,
+   "updated": "2026-10-28T01:03:19.933515",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -117,14 +133,16 @@
   },
   {
    "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155683,
-   "updated": "2026-10-27T15:47:45.246144",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [],
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI小狗男主进入白切黑时代",
+   "duration": "—",
+   "heat": 7666366,
+   "updated": "2026-10-28T01:03:19.933517",
+   "url": "https://www.douyin.com/search/AI%E5%B0%8F%E7%8B%97%E7%94%B7%E4%B8%BB%E8%BF%9B%E5%85%A5%E7%99%BD%E5%88%87%E9%BB%91%E6%97%B6%E4%BB%A3?type=general",
+   "points": [
+    "热门话题「AI小狗男主进入白切黑时代」：相关视频 2 条"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -138,7 +156,7 @@
    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T15:47:45.246146",
+   "updated": "2026-10-28T01:03:19.933519",
    "url": "https://www.qbitai.com/2026/10/505865.html",
    "points": [
     "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
@@ -156,7 +174,7 @@
    "title": "印奇把4D雷达也端到端了",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T15:47:45.246148",
+   "updated": "2026-10-28T01:03:19.933521",
    "url": "https://www.qbitai.com/2026/10/505852.html",
    "points": [
     "毫米波雷达，AI算力10TOPS"
@@ -174,7 +192,7 @@
    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T15:47:45.246150",
+   "updated": "2026-10-28T01:03:19.933522",
    "url": "https://www.qbitai.com/2026/10/505830.html",
    "points": [
     "顶尖智能汽车玩家的终局，不会停在智能汽车"
@@ -192,7 +210,7 @@
    "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T15:47:45.246152",
+   "updated": "2026-10-28T01:03:19.933524",
    "url": "https://www.qbitai.com/2026/10/505773.html",
    "points": [],
    "flags": {
@@ -208,7 +226,7 @@
    "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T15:47:45.246154",
+   "updated": "2026-10-28T01:03:19.933525",
    "url": "https://www.qbitai.com/2026/10/505719.html",
    "points": [
     "同一天，OpenAI还甩出3项AI科学新发现"
@@ -226,9 +244,99 @@
    "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-27T15:47:45.246155",
+   "updated": "2026-10-28T01:03:19.933527",
    "url": "https://www.qbitai.com/2026/10/505694.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "特朗普表示，他将禁止术语人工智能",
+   "duration": "—",
+   "heat": 10,
+   "updated": "2026-10-27",
+   "url": "https://www.reuters.com/world/trump-says-he-will-ban-term-artificial-intelligence-2026-10-27/",
+   "points": [
+    "特朗普表示，他将禁止术语人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能巨头[...]他们可以从核工业中学到很多东西",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-27",
+   "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
+   "points": [
+    "人工智能巨头[...]他们可以从核工业中学到很多东西"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "美国总统表示，他将禁止“人工智能”一词",
+   "duration": "—",
+   "heat": 77,
+   "updated": "2026-10-27",
+   "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+   "points": [
+    "美国总统表示，他将禁止“人工智能”一词"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "特朗普表示，他将禁止所有人使用“人工智能”一词",
+   "duration": "—",
+   "heat": 31,
+   "updated": "2026-10-27",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html",
+   "points": [
+    "特朗普表示，他将禁止所有人使用“人工智能”一词"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "亚马逊在持续失败后正在淘汰其人工智能部门",
+   "duration": "—",
+   "heat": 246,
+   "updated": "2026-10-27",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "points": [
+    "亚马逊在持续失败后正在淘汰其人工智能部门"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -246,96 +354,6 @@
    "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
    "points": [
     "人工智能帝国"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "R/开源刚刚禁止人工智能、非英语人士等",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-26",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-   "points": [
-    "R/开源刚刚禁止人工智能、非英语人士等"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "R/开源禁止人工智能制造和专注于人工智能的项目以及非英语人士",
-   "duration": "—",
-   "heat": 20,
-   "updated": "2026-10-26",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
-   "points": [
-    "R/开源禁止人工智能制造和专注于人工智能的项目以及非英语人士"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "r/open source 刚刚禁止了人工智能、非英语人士等",
-   "duration": "—",
-   "heat": 3,
-   "updated": "2026-10-25",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-   "points": [
-    "r/open source 刚刚禁止了人工智能、非英语人士等"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能帝国：全球新秩序的兴衰",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-25",
-   "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
-   "points": [
-    "人工智能帝国：全球新秩序的兴衰"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "为了让人工智能在道德上变得美好，科技公司正在转向宗教",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-25",
-   "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
-   "points": [
-    "为了让人工智能在道德上变得美好，科技公司正在转向宗教"
    ],
    "flags": {
     "fav": false,
