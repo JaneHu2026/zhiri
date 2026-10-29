@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:47",
- "fetchedDate": "2026-10-29",
+ "fetchedAt": "02:51",
+ "fetchedDate": "2026-10-30",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,10 +9,12 @@
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 2612398,
-   "updated": "2026-10-29T10:47:21.992194",
+   "heat": 2780511,
+   "updated": "2026-10-29T18:51:45.766162",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
-   "points": [],
+   "points": [
+    "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -25,8 +27,8 @@
    "author": "Dennis飞昊",
    "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
    "duration": "9:20",
-   "heat": 844878,
-   "updated": "2026-10-29T10:47:21.992210",
+   "heat": 992612,
+   "updated": "2026-10-29T18:51:45.766176",
    "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
    "points": [],
    "flags": {
@@ -38,14 +40,48 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "三颗门牙X",
-   "title": "为什么你的DeepSeek，和别人不一样？【实测揭秘】",
-   "duration": "16:55",
-   "heat": 1088160,
-   "updated": "2026-10-29T10:47:21.992213",
-   "url": "https://www.bilibili.com/video/BV1btH36uEru",
+   "author": "我是日行一扇",
+   "title": "忙着跟生活对线的你，有多久没上号了？谨以此片，致和游戏一起长大的我们。【AI全民制作人】",
+   "duration": "3:54",
+   "heat": 1280281,
+   "updated": "2026-10-29T18:51:45.766179",
+   "url": "https://www.bilibili.com/video/BV1uGxj68EKt",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "Raymondsese",
+   "title": "强子刚来啊，等你二十年了【AI MV大赛】",
+   "duration": "5:31",
+   "heat": 902107,
+   "updated": "2026-10-29T18:51:45.766181",
+   "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
    "points": [
-    "同一个 DeepSeek 模型，换个工具，为什么交出的结果差这么多？ 这期从七款工具的同题实测出发，一口气讲清大模型、Agent 和 Harness 的关系。再打开 DeepSeek Harness 的执行轨迹，看看一句"
+    "-"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "墨小郎",
+   "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
+   "duration": "61:57",
+   "heat": 855997,
+   "updated": "2026-10-29T18:51:45.766183",
+   "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
+   "points": [
+    "第八十五回：白展堂偷懒遭算计 穿越人两世解死局 久等了，各位看官，新鲜爆笑悬疑的第八十五回奉上，剧情和莫小贝穿越影视城有一定的关联，各位看官可以重温一遍。编剧依旧是@雪月猫猫 的"
    ],
    "flags": {
     "fav": false,
@@ -59,10 +95,12 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391512,
-   "updated": "2026-10-29T10:47:21.992216",
+   "heat": 391517,
+   "updated": "2026-10-29T18:51:45.766186",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
+   "points": [
+    "视频里搭的智能体已经上线了，扣子搜“GitHub查询器”、“暴打弱智吧”就可以体验"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -75,10 +113,12 @@
    "author": "优设AIGC",
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
-   "heat": 653524,
-   "updated": "2026-10-29T10:47:21.992218",
+   "heat": 653526,
+   "updated": "2026-10-29T18:51:45.766189",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
+   "points": [
+    "几年前，一群兴奋的年轻人向动画大师宫崎骏展示了一段由AI生成的动画，这段动画看起来非常鬼畜，但在当时，仍然是非常先进的技术，在看完这段动画后，宫崎骏并没有展现出这群年轻人预期的神情，反而想起了一位残疾朋友，他严肃的说到："
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -91,60 +131,10 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557632,
-   "updated": "2026-10-29T10:47:21.992220",
+   "heat": 557633,
+   "updated": "2026-10-29T18:51:45.766191",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "影石Insta360",
-   "title": "影石超旗舰 AI 全景相机，限时发售！",
-   "duration": "5:04",
-   "heat": 155685,
-   "updated": "2026-10-29T10:47:21.992222",
-   "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "花生説",
-   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
-   "duration": "12:45",
-   "heat": 611645,
-   "updated": "2026-10-29T10:47:21.992224",
-   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "薛之谦称要与AI音乐对峙到底",
-   "duration": "—",
-   "heat": 7641832,
-   "updated": "2026-10-29T10:47:21.992227",
-   "url": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A7%B0%E8%A6%81%E4%B8%8EAI%E9%9F%B3%E4%B9%90%E5%AF%B9%E5%B3%99%E5%88%B0%E5%BA%95?type=general",
-   "points": [
-    "热门话题「薛之谦称要与AI音乐对峙到底」：相关视频 3 条"
-   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -158,7 +148,7 @@
    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T10:47:21.992229",
+   "updated": "2026-10-29T18:51:45.766194",
    "url": "https://www.qbitai.com/2026/10/506554.html",
    "points": [
     "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
@@ -176,7 +166,7 @@
    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T10:47:21.992231",
+   "updated": "2026-10-29T18:51:45.766197",
    "url": "https://www.qbitai.com/2026/10/506550.html",
    "points": [
     "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
@@ -194,7 +184,7 @@
    "title": "AI安全是AI规模化应用“加速器”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T10:47:21.992233",
+   "updated": "2026-10-29T18:51:45.766199",
    "url": "https://www.qbitai.com/2026/10/506544.html",
    "points": [
     "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
@@ -212,7 +202,7 @@
    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T10:47:21.992235",
+   "updated": "2026-10-29T18:51:45.766201",
    "url": "https://www.qbitai.com/2026/10/506478.html",
    "points": [
     "All in one、任何人都能用"
@@ -230,7 +220,7 @@
    "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T10:47:21.992237",
+   "updated": "2026-10-29T18:51:45.766202",
    "url": "https://www.qbitai.com/2026/10/506477.html",
    "points": [
     "MIT最后一位三学位天才出手了。"
@@ -248,9 +238,81 @@
    "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T10:47:21.992239",
+   "updated": "2026-10-29T18:51:45.766204",
    "url": "https://www.qbitai.com/2026/10/506468.html",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "如何使人工智能更具环境可持续性",
+   "duration": "—",
+   "heat": 1,
+   "updated": "2026-10-29",
+   "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/",
+   "points": [
+    "如何使人工智能更具环境可持续性"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Gemini 4 Carbon在人工智能指数v5中排名第一",
+   "duration": "—",
+   "heat": 311,
+   "updated": "2026-10-29",
+   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "points": [
+    "Gemini 4 Carbon在人工智能指数v5中排名第一"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "男性赢得首例宗教豁免在工作中强制使用人工智能",
+   "duration": "—",
+   "heat": 4,
+   "updated": "2026-10-29",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+   "points": [
+    "男性赢得首例宗教豁免在工作中强制使用人工智能"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "Perspectiva Kogui ：来自Kogui人的人工智能信息",
+   "duration": "—",
+   "heat": 119,
+   "updated": "2026-10-29",
+   "url": "https://sonidoselva.com/perspectiva-kogui",
+   "points": [
+    "Perspectiva Kogui ：来自Kogui人的人工智能信息"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -286,78 +348,6 @@
    "url": "https://artificialanalysis.ai/#intelligence-efficiency-tabs",
    "points": [
     "人工智能分析智能指数v5"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Comer调查特拉华州创建人工智能公司的计划",
-   "duration": "—",
-   "heat": 2,
-   "updated": "2026-10-28",
-   "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
-   "points": [
-    "Comer调查特拉华州创建人工智能公司的计划"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "特朗普誓言禁止“人工智能”一词",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-28",
-   "url": "https://www.forbes.com/sites/fionariley/2026/10/27/trump-vows-to-ban-term-artificial-intelligence/",
-   "points": [
-    "特朗普誓言禁止“人工智能”一词"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Meta推出“AI宠物日记”应用",
-   "duration": "—",
-   "heat": 1,
-   "updated": "2026-10-28",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-   "points": [
-    "Meta推出“AI宠物日记”应用"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "人工智能分析智能指数V5.0",
-   "duration": "—",
-   "heat": 39,
-   "updated": "2026-10-28",
-   "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
-   "points": [
-    "人工智能分析智能指数V5.0"
    ],
    "flags": {
     "fav": false,

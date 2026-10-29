@@ -1,6 +1,6 @@
 {
- "fetchedAt": "18:46",
- "fetchedDate": "2026-10-29",
+ "fetchedAt": "02:50",
+ "fetchedDate": "2026-10-30",
  "source": "zhiri-server",
  "items": [
   {
@@ -9,7 +9,7 @@
    "title": "中国共产党第二十届中央委员会第五次全体会议公报",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIxwbR1oXdhSPcTXWDG2lA261029.shtml",
+   "url": "https://news.cctv.com/2026/10/29/ARTIp7OfHlqeSB3QgqOtdEdV261029.shtml",
    "summary": "（2026年10月29日中国共产党第二十届中央委员会第五次全体会议通过）",
    "day": 0
   },
@@ -36,6 +36,36 @@
   {
    "group": "gn",
    "theme": "要闻",
+   "title": "中国共产党第二十届中央委员会第五次全体会议在京举行",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/29/ARTIp7OfHlqeSB3QgqOtdEdV261029.shtml",
+   "summary": "（2026年10月29日中国共产党第二十届中央委员会第五次全体会议通过）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "不断开创新时代管党治党、兴党强党新局面",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/29/ARTIs3GtCjuHcbi2ZHq1TiMW261029.shtml",
+   "summary": "与会同志们表示，全会对持之以恒推进全面从严治党作出系统部署，充分体现了百年大党永葆生机活力的清醒坚定，彰显了走好新的赶考之路的历史主动。要励精图治，奋发图强，不断开创新时代管党治党、兴党强党新局面。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "聚力先进制造 筑牢产业根基",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/29/VIDE3JgTsbvhT1S3JwA1Ub6S261029.shtml",
+   "summary": "本期节目主要内容： “十五五”开局，中国制造多点突围。AI赋能高端数控机床创新突破，实现自主学习迭代；商业航天完成“一箭十星”发射，火箭回收利用加速推进；储能电池订单爆发，全品类机器人加速出海。中国制造在布局未来、推进绿色转型的过程中重塑竞争实力。 （《经济半小时》 20261029 聚力先进制造 …",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
    "title": "向“数”而行 数据要素激活海洋新质生产力",
    "source": "央视新闻",
    "time": "今天",
@@ -55,46 +85,6 @@
   },
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "科技赋能铺就富民新赛道 多样化特色农产品“钱”景广阔",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIgOL6obrYdzx7Z5gSDuni261029.shtml",
-   "summary": "104a633e20b3,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "民生",
-   "title": "以“小而美”项目托起“大民生” 百姓身边无小事细节之处暖人心",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIsyfiv6hq7PZ6ToZVlXfr261029.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“由治及美” 祁连山下青绿蝶变",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/29/VIDEUNa8rVQbpcTKy3pPqvYR261029.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "环境",
-   "title": "神木能源铁路专用线项目顺利通过终验收",
-   "source": "新华网",
-   "time": "今天",
-   "url": "https://www.news.cn/digital/20261029/612e321739594f4f8dcf15eaf429ebd1/c.html",
-   "summary": "神木能源铁路专用线项目顺利通过终验收-\"面对神木西信号室范围内80条信号、通信、电力光电缆迁改难题，历时3个月安全完成。\"",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "要闻",
    "title": "百姓有望在“家门口”体验到15项以上中医适宜技术",
    "source": "新华网",
@@ -106,81 +96,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-   "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-   "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations o",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+   "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+   "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+   "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+   "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+   "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-   "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+   "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including German",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-   "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-   "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Princ",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-   "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-   "summary": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
-   "day": 0
-  },
-  {
-   "group": "gj",
-   "theme": "国际",
-   "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
-   "source": "BBC",
-   "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
-   "summary": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
    "day": 0
   },
   {
