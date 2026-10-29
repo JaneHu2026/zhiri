@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:39",
+ "fetchedAt": "18:47",
  "fetchedDate": "2026-10-29",
  "source": "zhiri-server",
  "items": [
@@ -9,8 +9,8 @@
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 2385959,
-   "updated": "2026-10-29T01:39:32.470696",
+   "heat": 2612398,
+   "updated": "2026-10-29T10:47:21.992194",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
    "points": [],
    "flags": {
@@ -25,8 +25,8 @@
    "author": "Dennis飞昊",
    "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
    "duration": "9:20",
-   "heat": 652042,
-   "updated": "2026-10-29T01:39:32.470714",
+   "heat": 844878,
+   "updated": "2026-10-29T10:47:21.992210",
    "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
    "points": [],
    "flags": {
@@ -41,26 +41,12 @@
    "author": "三颗门牙X",
    "title": "为什么你的DeepSeek，和别人不一样？【实测揭秘】",
    "duration": "16:55",
-   "heat": 1013857,
-   "updated": "2026-10-29T01:39:32.470716",
+   "heat": 1088160,
+   "updated": "2026-10-29T10:47:21.992213",
    "url": "https://www.bilibili.com/video/BV1btH36uEru",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "老奇好好奇",
-   "title": "AI不会告诉你，王虹到底证明了什么",
-   "duration": "57:45",
-   "heat": 936583,
-   "updated": "2026-10-29T01:39:32.470718",
-   "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
-   "points": [],
+   "points": [
+    "同一个 DeepSeek 模型，换个工具，为什么交出的结果差这么多？ 这期从七款工具的同题实测出发，一口气讲清大模型、Agent 和 Harness 的关系。再打开 DeepSeek Harness 的执行轨迹，看看一句"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -73,8 +59,8 @@
    "author": "玄离199",
    "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
    "duration": "6:34",
-   "heat": 391511,
-   "updated": "2026-10-29T01:39:32.470719",
+   "heat": 391512,
+   "updated": "2026-10-29T10:47:21.992216",
    "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
    "points": [],
    "flags": {
@@ -90,7 +76,7 @@
    "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
    "duration": "0:54",
    "heat": 653524,
-   "updated": "2026-10-29T01:39:32.470722",
+   "updated": "2026-10-29T10:47:21.992218",
    "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
    "points": [],
    "flags": {
@@ -105,8 +91,8 @@
    "author": "Jack-Cui",
    "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
    "duration": "2:30",
-   "heat": 557631,
-   "updated": "2026-10-29T01:39:32.470723",
+   "heat": 557632,
+   "updated": "2026-10-29T10:47:21.992220",
    "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
    "points": [],
    "flags": {
@@ -122,7 +108,7 @@
    "title": "影石超旗舰 AI 全景相机，限时发售！",
    "duration": "5:04",
    "heat": 155685,
-   "updated": "2026-10-29T01:39:32.470725",
+   "updated": "2026-10-29T10:47:21.992222",
    "url": "https://www.bilibili.com/video/BV1AXZ4YvEXY",
    "points": [],
    "flags": {
@@ -133,34 +119,14 @@
   },
   {
    "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "一张全国算力网重塑生产生活",
-   "duration": "—",
-   "heat": 10774864,
-   "updated": "2026-10-29T01:39:32.470727",
-   "url": "https://www.douyin.com/search/%E4%B8%80%E5%BC%A0%E5%85%A8%E5%9B%BD%E7%AE%97%E5%8A%9B%E7%BD%91%E9%87%8D%E5%A1%91%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB?type=general",
-   "points": [
-    "热门话题「一张全国算力网重塑生产生活」：相关视频 1 条"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "douyin",
-   "author": "抖音热榜",
-   "title": "我国智能算力规模全球第二",
-   "duration": "—",
-   "heat": 7800257,
-   "updated": "2026-10-29T01:39:32.470729",
-   "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%99%BA%E8%83%BD%E7%AE%97%E5%8A%9B%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C?type=general",
-   "points": [
-    "热门话题「我国智能算力规模全球第二」：相关视频 1 条"
-   ],
+   "platform": "bilibili",
+   "author": "花生説",
+   "title": "华为智慧屏 S6 Pro新品开箱：鸿蒙AI电视完全体？",
+   "duration": "12:45",
+   "heat": 611645,
+   "updated": "2026-10-29T10:47:21.992224",
+   "url": "https://www.bilibili.com/video/BV19JfKY8Eev",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -173,11 +139,11 @@
    "author": "抖音热榜",
    "title": "薛之谦称要与AI音乐对峙到底",
    "duration": "—",
-   "heat": 7642460,
-   "updated": "2026-10-29T01:39:32.470731",
+   "heat": 7641832,
+   "updated": "2026-10-29T10:47:21.992227",
    "url": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A7%B0%E8%A6%81%E4%B8%8EAI%E9%9F%B3%E4%B9%90%E5%AF%B9%E5%B3%99%E5%88%B0%E5%BA%95?type=general",
    "points": [
-    "热门话题「薛之谦称要与AI音乐对峙到底」：相关视频 2 条"
+    "热门话题「薛之谦称要与AI音乐对峙到底」：相关视频 3 条"
    ],
    "flags": {
     "fav": false,
@@ -189,13 +155,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+   "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T01:39:32.470733",
-   "url": "https://www.qbitai.com/2026/10/506246.html",
+   "updated": "2026-10-29T10:47:21.992229",
+   "url": "https://www.qbitai.com/2026/10/506554.html",
    "points": [
-    "理想今年最后一场发布会，自研电池芯片全部上车"
+    "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
    ],
    "flags": {
     "fav": false,
@@ -207,13 +173,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+   "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T01:39:32.470734",
-   "url": "https://www.qbitai.com/2026/10/506227.html",
+   "updated": "2026-10-29T10:47:21.992231",
+   "url": "https://www.qbitai.com/2026/10/506550.html",
    "points": [
-    "能连肝数日修Bug，免疫提示词注入"
+    "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
    ],
    "flags": {
     "fav": false,
@@ -225,13 +191,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "威卡：用数据集链接具身智能和工程机械",
+   "title": "AI安全是AI规模化应用“加速器”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T01:39:32.470736",
-   "url": "https://www.qbitai.com/2026/10/506063.html",
+   "updated": "2026-10-29T10:47:21.992233",
+   "url": "https://www.qbitai.com/2026/10/506544.html",
    "points": [
-    "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
+    "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
    ],
    "flags": {
     "fav": false,
@@ -243,13 +209,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+   "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T01:39:32.470738",
-   "url": "https://www.qbitai.com/2026/10/506055.html",
+   "updated": "2026-10-29T10:47:21.992235",
+   "url": "https://www.qbitai.com/2026/10/506478.html",
    "points": [
-    "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计"
+    "All in one、任何人都能用"
    ],
    "flags": {
     "fav": false,
@@ -261,13 +227,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+   "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T01:39:32.470740",
-   "url": "https://www.qbitai.com/2026/10/506042.html",
+   "updated": "2026-10-29T10:47:21.992237",
+   "url": "https://www.qbitai.com/2026/10/506477.html",
    "points": [
-    "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
+    "MIT最后一位三学位天才出手了。"
    ],
    "flags": {
     "fav": false,
@@ -279,14 +245,12 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "华为双十一焕新季・全场景新品发布会：焕新启航，聚势新生！",
+   "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-29T01:39:32.470741",
-   "url": "https://www.qbitai.com/2026/10/506016.html",
-   "points": [
-    "华为双十一焕新季·全场景新品发布会上，华为Mate90 系列、华为Pura90 Plus、华为畅享100 系列、华为FreeClip 2 潮玩拼色、华为路由 X2 Pro等多款新品焕新而来。"
-   ],
+   "updated": "2026-10-29T10:47:21.992239",
+   "url": "https://www.qbitai.com/2026/10/506468.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -299,7 +263,7 @@
    "author": "Hacker News",
    "title": "德克萨斯州选民一致认为：他们讨厌数据中心",
    "duration": "—",
-   "heat": 5,
+   "heat": 6,
    "updated": "2026-10-29",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
    "points": [

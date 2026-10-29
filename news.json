@@ -1,86 +1,96 @@
 {
- "fetchedAt": "09:38",
+ "fetchedAt": "18:46",
  "fetchedDate": "2026-10-29",
  "source": "zhiri-server",
  "items": [
   {
    "group": "gn",
-   "theme": "科技",
-   "title": "在希望的田野上｜科技赋能 秋收秋种有序推进",
+   "theme": "要闻",
+   "title": "中国共产党第二十届中央委员会第五次全体会议公报",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIPD9bI45f4EOS7hBECR42261028.shtml",
+   "url": "https://news.cctv.com/2026/10/29/ARTIxwbR1oXdhSPcTXWDG2lA261029.shtml",
+   "summary": "（2026年10月29日中国共产党第二十届中央委员会第五次全体会议通过）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/29/ARTIOs0CWtBvKWM9JzYOO6xb261029.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "丨中共中央将于30日上午举行新闻发布会",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/29/ARTIubJVlQm4vexs9c335njE261029.shtml",
+   "summary": "新华社北京10月29日电 中共中央将于10月30日上午10时举行新闻发布会，介绍和解读党的二十届五中全会精神。中央广播电视总台及人民网、新华网、中国网等将对新闻发布会进行直播。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "向“数”而行 数据要素激活海洋新质生产力",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/29/VIDEvo6c5oTi9Cfwnvt4OqZl261029.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "山河映彩美如画 千年蜀道串起自然风光与历史遗存引客来",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/29/ARTILTO8c2KSXdU4RQJt8Rng261029.shtml",
+   "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "科技",
+   "title": "科技赋能铺就富民新赛道 多样化特色农产品“钱”景广阔",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/29/ARTIgOL6obrYdzx7Z5gSDuni261029.shtml",
    "summary": "104a633e20b3,0,1,16:9,newPlayer",
    "day": 0
   },
   {
    "group": "gn",
-   "theme": "要闻",
-   "title": "宋陵石刻头像归来 三十年后麦田守望者终于“回家”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIgOHJogVjgvAMgOHWlZS0261028.shtml",
-   "summary": "30e633aa2a15,0,1,16:9,newPlayer0a6dc6ce1523,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "一问到底｜秋叶正斑斓 背后藏着哪些气象密码？",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIBqxs7gcJ9ZnI0U0kTdQU261028.shtml",
-   "summary": "077137ae0c28,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "“红军锅”见证鱼水情",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIy8bvsbvUsTyWenw3h8UD261029.shtml",
-   "summary": "从胜利山下的台阶拾级而上，登上胜利山顶，中央红军长征胜利纪念碑岿然矗立，纪念园依山而建、层叠铺展。1935年10月19日，中央红军历经二万五千里长征抵达吴起镇，这片土地由此成为中央红军长征胜利的落脚点。",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "接驳车、地铁、网约车配齐！进博会交通攻略请收好",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIMwvKVRSDIO27fonC7iC6261028.shtml",
-   "summary": "第九届中国国际进口博览会将于11月5日至10日在上海国家会展中心举办。目前，周边各项交通服务保障工作进入最后冲刺阶段。本届进博会除展客商外，还面向社会观众开放，怎样才能高效便捷抵达场馆？",
-   "day": 0
-  },
-  {
-   "group": "gn",
    "theme": "民生",
-   "title": "多地以旧换新上新 最高补贴2000元",
+   "title": "以“小而美”项目托起“大民生” 百姓身边无小事细节之处暖人心",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTIfjeA6Ehhz6dGddM8LUAB261029.shtml",
-   "summary": "10月28日，商务部召开全国消费品以旧换新工作推进电视电话会议。数据显示，2026年以来，消费品以旧换新带动相关品类销售额超2万亿元，惠及超2.5亿人次。近日，河南、山西、天津、黑龙江、四川等地出台以旧换新自主品类补贴政策，将智能门锁、智能净水机、运动相机、助听器等智能家居、适老产品纳入补贴范围，部…",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "科技",
-   "title": "全国首个AI服务一条街开放 机器人“租着用 按图造”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTI7Ormy10a8uqiuaCa2UmO261028.shtml",
+   "url": "https://news.cctv.com/2026/10/29/ARTIsyfiv6hq7PZ6ToZVlXfr261029.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
   {
    "group": "gn",
    "theme": "要闻",
-   "title": "16.8万尾标志鱼放流舟山海域 开展海洋生命补给",
+   "title": "“由治及美” 祁连山下青绿蝶变",
    "source": "央视新闻",
    "time": "今天",
-   "url": "https://news.cctv.com/2026/10/29/ARTISAEhCVKe8S4FbQ2AfEg5261028.shtml",
+   "url": "https://tv.cctv.com/2026/10/29/VIDEUNa8rVQbpcTKy3pPqvYR261029.shtml",
    "summary": "（点击查看原文）",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "环境",
+   "title": "神木能源铁路专用线项目顺利通过终验收",
+   "source": "新华网",
+   "time": "今天",
+   "url": "https://www.news.cn/digital/20261029/612e321739594f4f8dcf15eaf429ebd1/c.html",
+   "summary": "神木能源铁路专用线项目顺利通过终验收-\"面对神木西信号室范围内80条信号、通信、电力光电缆迁改难题，历时3个月安全完成。\"",
    "day": 0
   },
   {
@@ -96,11 +106,101 @@
   {
    "group": "gj",
    "theme": "国际",
+   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+   "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
    "source": "BBC",
    "time": "今天",
    "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
    "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations o",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+   "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+   "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+   "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Princ",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+   "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+   "summary": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "国际",
+   "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+   "source": "BBC",
+   "time": "今天",
+   "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+   "summary": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "直击西班牙列车相撞事故现场",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1029/c1002-40823771.html",
+   "summary": "西班牙卡斯蒂利亚-拉曼查自治区政府10月28日说，当天上午在其首府托莱多发生的高速铁路列车相撞事故死亡人数上升至64人。",
+   "day": 0
+  },
+  {
+   "group": "gj",
+   "theme": "要闻",
+   "title": "日本自民党副总裁被曝政治资金丑闻",
+   "source": "人民网",
+   "time": "今天",
+   "url": "https://world.people.com.cn/n1/2026/1029/c1002-40823710.html",
+   "summary": "新华社北京10月28日电 日本执政党自由民主党副总裁麻生太郎近期被曝政治资金争议，其领导的派阀被指利用政治资金派对筹款约20亿日元（约合8454万元人民币），并将部分资金支付给一家私人会所。 麻",
    "day": 0
   }
  ]
