@@ -1,18 +1,164 @@
 {
- "fetchedAt": "09:43",
+ "fetchedAt": "18:46",
  "fetchedDate": "2026-10-30",
  "source": "zhiri-server",
  "items": [
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "DeepSeek's New AI Is An Absolute Monster",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-28 17:32:40",
+   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "points": [
+    "DeepSeek 的新人工智能绝对是怪物"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "1littlecoder",
+   "title": "Unlimited OCR 2 is here!",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-27 15:12:33",
+   "url": "https://www.youtube.com/watch?v=OneYJJWDnNA",
+   "points": [
+    "无限 OCR 2 就在这里！"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "The Sphere Intersection Puzzle",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-25 14:30:46",
+   "url": "https://www.youtube.com/watch?v=V_uq3v6xK-4",
+   "points": [
+    "球体相交谜题"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "Gemini 4 Argon Is Not What I Expected",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-19 08:49:21",
+   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+   "points": [
+    "Gemini 4 Argon 不是我所期望的"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-18 22:01:38",
+   "url": "https://www.youtube.com/watch?v=cCEAQiueLwo",
+   "points": [
+    "家庭数据中心 - GB300 GPU - 带 Asus DGX Station (ET900N G3)"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "3Blue1Brown",
+   "title": "There's never been a better time to go into math",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-16 16:15:20",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "points": [
+    "现在是学习数学的最佳时机"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Two Minute Papers",
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-13 08:56:12",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "points": [
+    "OpenAI 的新人工智能正在做我们几乎无法理解的事情"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "sentdex",
+   "title": "Robot Chonk Cleans the Floor",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-08 16:04:24",
+   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+   "points": [
+    "机器人 chonk 清洁地板"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
   {
    "id": "sv_ext",
    "platform": "bilibili",
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 2823543,
-   "updated": "2026-10-30T01:43:47.175720",
+   "heat": 2964668,
+   "updated": "2026-10-30T10:46:41.806869",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
-   "points": [],
+   "points": [
+    "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -25,8 +171,8 @@
    "author": "Dennis飞昊",
    "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
    "duration": "9:20",
-   "heat": 1041226,
-   "updated": "2026-10-30T01:43:47.175738",
+   "heat": 1174569,
+   "updated": "2026-10-30T10:46:41.806883",
    "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
    "points": [],
    "flags": {
@@ -41,10 +187,44 @@
    "author": "我是日行一扇",
    "title": "忙着跟生活对线的你，有多久没上号了？谨以此片，致和游戏一起长大的我们。【AI全民制作人】",
    "duration": "3:54",
-   "heat": 1368470,
-   "updated": "2026-10-30T01:43:47.175741",
+   "heat": 1934725,
+   "updated": "2026-10-30T10:46:41.806884",
    "url": "https://www.bilibili.com/video/BV1uGxj68EKt",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "AAA宇宙边角料",
+   "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
+   "duration": "13:46",
+   "heat": 1045339,
+   "updated": "2026-10-30T10:46:41.806886",
+   "url": "https://www.bilibili.com/video/BV1zRx76SEJQ",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "小朱佩琪66",
+   "title": "吴站长&梅姐《Trouble Maker》【AI MV大赛】",
+   "duration": "2:40",
+   "heat": 1556053,
+   "updated": "2026-10-30T10:46:41.806888",
+   "url": "https://www.bilibili.com/video/BV1dEsX6TEGx",
+   "points": [
+    "AI生成视频，仅供娱乐"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -57,10 +237,12 @@
    "author": "Raymondsese",
    "title": "强子刚来啊，等你二十年了【AI MV大赛】",
    "duration": "5:31",
-   "heat": 1019480,
-   "updated": "2026-10-30T01:43:47.175743",
+   "heat": 1272886,
+   "updated": "2026-10-30T10:46:41.806890",
    "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
-   "points": [],
+   "points": [
+    "-"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -73,10 +255,12 @@
    "author": "墨小郎",
    "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
    "duration": "61:57",
-   "heat": 943853,
-   "updated": "2026-10-30T01:43:47.175745",
+   "heat": 1106462,
+   "updated": "2026-10-30T10:46:41.806892",
    "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
-   "points": [],
+   "points": [
+    "第八十五回：白展堂偷懒遭算计 穿越人两世解死局 久等了，各位看官，新鲜爆笑悬疑的第八十五回奉上，剧情和莫小贝穿越影视城有一定的关联，各位看官可以重温一遍。编剧依旧是@雪月猫猫 的"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -86,78 +270,32 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "玄离199",
-   "title": "语音、画图、PPT、联动全网，我这个完美版的DeepSeek，你们都没有用过！",
-   "duration": "6:34",
-   "heat": 391520,
-   "updated": "2026-10-30T01:43:47.175747",
-   "url": "https://www.bilibili.com/video/BV1cUoDYaEdb",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "优设AIGC",
-   "title": "GPT4o用嘴P图成为现实，设计部名存实亡？",
-   "duration": "0:54",
-   "heat": 653526,
-   "updated": "2026-10-30T01:43:47.175749",
-   "url": "https://www.bilibili.com/video/BV1PoZhYEEbT",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Jack-Cui",
-   "title": "苏妈杀疯，AMD笔记本跑爆236B大模型！",
-   "duration": "2:30",
-   "heat": 557634,
-   "updated": "2026-10-30T01:43:47.175750",
-   "url": "https://www.bilibili.com/video/BV1W5fAYTEMk",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-30T01:43:47.175753",
-   "url": "https://www.qbitai.com/2026/10/506569.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-30T01:43:47.175754",
-   "url": "https://www.qbitai.com/2026/10/506554.html",
+   "author": "冬冰",
+   "title": "那我坐上面当秤砣【AI全民制作人】",
+   "duration": "3:20",
+   "heat": 839196,
+   "updated": "2026-10-30T10:46:41.806893",
+   "url": "https://www.bilibili.com/video/BV1ZDxL6CEko",
    "points": [
-    "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
+    "视频内容仅供娱乐，不代表对任何AI产品的商业评价或技术评测。角色形象参考来自b站up：﻿﻿﻿﻿﻿﻿﻿﻿@ZipZipPipe ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿﻿﻿﻿﻿﻿﻿﻿@这个刀子真甜 ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "douyin",
+   "author": "抖音热榜",
+   "title": "AI珍珠圣女妆",
+   "duration": "—",
+   "heat": 7692013,
+   "updated": "2026-10-30T10:46:41.806895",
+   "url": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86?type=general",
+   "points": [
+    "热门话题「AI珍珠圣女妆」：相关视频 10 条"
    ],
    "flags": {
     "fav": false,
@@ -169,13 +307,29 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+   "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T01:43:47.175757",
-   "url": "https://www.qbitai.com/2026/10/506550.html",
+   "updated": "2026-10-30T10:46:41.806897",
+   "url": "https://www.qbitai.com/2026/10/506771.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-30T10:46:41.806899",
+   "url": "https://www.qbitai.com/2026/10/506747.html",
    "points": [
-    "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
+    "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
    ],
    "flags": {
     "fav": false,
@@ -187,13 +341,13 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "AI安全是AI规模化应用“加速器”",
+   "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T01:43:47.175758",
-   "url": "https://www.qbitai.com/2026/10/506544.html",
+   "updated": "2026-10-30T10:46:41.806901",
+   "url": "https://www.qbitai.com/2026/10/506743.html",
    "points": [
-    "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
+    "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
    ],
    "flags": {
     "fav": false,
@@ -205,14 +359,12 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+   "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T01:43:47.175760",
-   "url": "https://www.qbitai.com/2026/10/506478.html",
-   "points": [
-    "All in one、任何人都能用"
-   ],
+   "updated": "2026-10-30T10:46:41.806902",
+   "url": "https://www.qbitai.com/2026/10/506686.html",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -223,13 +375,45 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
-   "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
+   "title": "Claude新模型曝光：新Fable，新Opus…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T01:43:47.175762",
-   "url": "https://www.qbitai.com/2026/10/506477.html",
+   "updated": "2026-10-30T10:46:41.806903",
+   "url": "https://www.qbitai.com/2026/10/506674.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-30T10:46:41.806905",
+   "url": "https://www.qbitai.com/2026/10/506662.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "在计划削减 50% 遭到强烈反对后，OpenAI 将 ChatGPT Pro 使用限制提高了一倍",
+   "duration": "—",
+   "heat": 2,
+   "updated": "2026-10-30",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
    "points": [
-    "MIT最后一位三学位天才出手了。"
+    "在计划削减 50% 遭到强烈反对后，OpenAI 将 ChatGPT Pro 使用限制提高了一倍"
    ],
    "flags": {
     "fav": false,
@@ -279,7 +463,7 @@
    "author": "Hacker News",
    "title": "Gemini 4 Carbon 在人工智能分析智能指数 v5 中排名新一",
    "duration": "—",
-   "heat": 328,
+   "heat": 336,
    "updated": "2026-10-29",
    "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
    "points": [
@@ -320,24 +504,6 @@
    "url": "https://sonidoselva.com/perspectiva-kogui",
    "points": [
     "Perspectiva Kogui：Kogui 人关于人工智能的信息"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "德克萨斯州选民一致认为：他们讨厌数据中心",
-   "duration": "—",
-   "heat": 6,
-   "updated": "2026-10-29",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-   "points": [
-    "德克萨斯州选民一致认为：他们讨厌数据中心"
    ],
    "flags": {
     "fav": false,
