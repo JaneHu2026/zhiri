@@ -1,8 +1,58 @@
 {
- "fetchedAt": "18:45",
- "fetchedDate": "2026-10-30",
+ "fetchedAt": "02:28",
+ "fetchedDate": "2026-10-31",
  "source": "zhiri-server",
  "items": [
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/30/ARTIhbAYSDYLbML6sEn0ec2H261030.shtml",
+   "summary": "在认真听取大家发言后，习近平发表重要讲话。他指出，中共中央就党的重要文件和国家重大方针政策听取各民主党派中央、全国工商联负责人和无党派人士的意见，是全过程人民民主特别是社会主义协商民主的重要体现。今年2月，中共中央委托中央统战部专门征求了党外人士对中共二十届五中全会议题的意见。大家在刚才发言中提出了…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "政策",
+   "title": "征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/30/ARTIhbAYSDYLbML6sEn0ec2H261030.shtml",
+   "summary": "在认真听取大家发言后，习近平发表重要讲话。他指出，中共中央就党的重要文件和国家重大方针政策听取各民主党派中央、全国工商联负责人和无党派人士的意见，是全过程人民民主特别是社会主义协商民主的重要体现。今年2月，中共中央委托中央统战部专门征求了党外人士对中共二十届五中全会议题的意见。大家在刚才发言中提出了…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "社会",
+   "title": "丨确保中国共产党始终成为中国特色社会主义事业的坚强领导核心",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://news.cctv.com/2026/10/30/ARTIhbAYSDYLbML6sEn0ec2H261030.shtml",
+   "summary": "在认真听取大家发言后，习近平发表重要讲话。他指出，中共中央就党的重要文件和国家重大方针政策听取各民主党派中央、全国工商联负责人和无党派人士的意见，是全过程人民民主特别是社会主义协商民主的重要体现。今年2月，中共中央委托中央统战部专门征求了党外人士对中共二十届五中全会议题的意见。大家在刚才发言中提出了…",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平同德国总统会谈",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/30/VIDEmNq24lDR7JJOkHrEwr91261030.shtml",
+   "summary": "习近平向施泰因迈尔介绍了中共二十届五中全会的情况。习近平指出，治国必先治党，党兴才能国强。持之以恒推进全面从严治党必将得到人民群众的广泛拥护和支持。中国共产党愿同包括德国在内的世界各国主要政党开展治国理政经验交流。",
+   "day": 0
+  },
+  {
+   "group": "gn",
+   "theme": "要闻",
+   "title": "习近平会见瑞士联邦主席",
+   "source": "央视新闻",
+   "time": "今天",
+   "url": "https://tv.cctv.com/2026/10/30/VIDEMTnssQwReyuVTLLRWLYg261030.shtml",
+   "summary": "习近平指出，瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。在单边主义、保护主义逆流涌动的当下，自由贸易合作成为中瑞关系最亮眼的名片，充分体现了两国坚持开放合作的政治勇气和担当，彰显了双方推动建设开放型世界经济的独特引领作用。各国经济相通则共进，相闭则各退。中方愿同瑞方一道，高举开放旗帜，…",
+   "day": 0
+  },
   {
    "group": "gn",
    "theme": "要闻",
@@ -20,7 +70,7 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/10/30/VIDE3AHLPBtr7fiPtWz1Auef261030.shtml",
-   "summary": "本期节目主要内容： 2026年10月30日10时，中共中央举行新闻发布会，介绍和解读党的二十届五中全会精神。（《中共中央新闻发布会》 20261030 介绍和解读党的二十届五中全会精神）",
+   "summary": "（点击查看原文）",
    "day": 0
   },
   {
@@ -30,56 +80,6 @@
    "source": "央视新闻",
    "time": "今天",
    "url": "https://tv.cctv.com/2026/10/30/VIDEQUmP0q6UpnWRypoovZrF261030.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "社会",
-   "title": "2026年发电供热用煤需求平稳 多举措“组合拳”攒足迎峰度冬保障底气",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/30/ARTI4Yd1EjJDc1vddLhnlKhf261030.shtml",
-   "summary": "46c1b0aa1f73,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "热力不减！海外游客借助“秋韵美景+特色研学”沉浸式“体验中国”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/30/ARTIOchLA9AMJYCJfNofD0l7261030.shtml",
-   "summary": "ca9c4a8b7e31,0,1,16:9,newPlayera2137513c351,0,1,16:9,newPlayer",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "要闻",
-   "title": "APEC深圳之约｜广州港南沙港区：亚太绿色港口的中国方案",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://tv.cctv.com/2026/10/30/VIDEYEXhHxtjFm526kh3NEut261030.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "“5G+AI”赋能海洋经济向“智”而行 “海上牧场”产出“大经济”",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/30/ARTIxn84wuckeTYErY4cPjbM261030.shtml",
-   "summary": "（点击查看原文）",
-   "day": 0
-  },
-  {
-   "group": "gn",
-   "theme": "财经",
-   "title": "产线“搬进”课堂 高校向“新”育才匹配市场刚需",
-   "source": "央视新闻",
-   "time": "今天",
-   "url": "https://news.cctv.com/2026/10/30/ARTIoFJxrBdWxSrFl3MFl3Z7261030.shtml",
    "summary": "（点击查看原文）",
    "day": 0
   },
@@ -96,81 +96,81 @@
   {
    "group": "gj",
    "theme": "国际",
-   "title": "蘑菇凶手在澳大利亚法庭挑战中未能推翻定罪",
+   "title": "加密货币巨头币安试图追回在与朝鲜有关的黑客攻击中被盗的 63 亿美元",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-   "summary": "艾琳·帕特森因七个理由辩称她的审判不公平，但三名上诉法官全部驳回。",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "summary": "该公司称这次网络攻击非常复杂，据信是有史以来规模最大的一次网络攻击。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "由于危机挑战阿萨德后的复苏，叙利亚人在物价飞涨中挣扎",
+   "title": "美国囚犯克里斯塔·派克 (Christa Pike) 表示，在执行失败后，她醒来时感到“困惑和痛苦”",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-   "summary": "补贴的终止和价格上涨引发了不满，考验着艾哈迈德·沙拉政府的支持度。",
+   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+   "summary": "这是派克自 9 月份在注射死刑中幸存以来首次发表公开声明。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "肯尼亚人如何陷入价值 1.3 亿美元的美国幽灵学生骗局",
+   "title": "乌克兰罕见停火期间数百人从俄罗斯占领的奥列什基撤离",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-   "summary": "据称，该计划利用被盗身份来索取美国学生援助，其中包括肯尼亚人。",
+   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "summary": "据了解，尽管存在危险，仍有数百人留在前线城镇。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "载有六人的直升机在印度北部邦坠毁",
+   "title": "俄罗斯著名报纸在当局压力下关闭",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-   "summary": "据报道，这架飞机于周五下午从印度教朝圣地巴德里纳特起飞，随后失去联系。",
+   "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+   "summary": "过去三十年来，《新报》一直是俄罗斯最引人注目的独立新闻媒体之一。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "巴基斯坦人权律师夫妇被判10年监禁",
+   "title": "西班牙交通部长表示不会因高铁灾难而辞职",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-   "summary": "伊曼·马扎里 (Imaan Mazari) 和哈迪·阿里·查塔 (Hadi Ali Chattha) 因 2024 年英格兰板球队在巴基斯坦巡回演出时发生的一起事件而受到指控。",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+   "summary": "本周早些时候，两列高铁相撞，造成至少 69 人死亡，奥斯卡·普恩特 (Óscar Puente) 面临辞职的呼声。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "习近平在中国政治集会上强调“党纪”，清洗人数创历史新高",
+   "title": "教皇利奥十四世成为首位在美国大选中投票的教皇",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-   "summary": "观察人士称，习近平的反腐败运动已成为“巩固和维护权威的努力”。",
+   "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+   "summary": "这位出生于芝加哥的教皇与特朗普关系紧张，他邮寄了一张中期选举选票，该选举将决定对特朗普的控制权。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "塞尔维亚学生支持的选举获胜者要求全面辞职",
+   "title": "随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-   "summary": "将亚历山大·武契奇 (Aleksandar Vučić) 的政党赶下台几天后，学生名单议员呼吁高层人物下台。",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "summary": "英特尔股价继续下跌，而以科技股为主的纳斯达克指数开盘创下两个多月以来的最低水平。",
    "day": 0
   },
   {
    "group": "gj",
    "theme": "国际",
-   "title": "中期选举提前投票激增，迄今为止已投出超过 4300 万张选票",
+   "title": "俄罗斯部长出席抗议引发G20“全家福”取消",
    "source": "BBC",
    "time": "今天",
-   "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
-   "summary": "拉美裔选民帮助推动了提前投票的人数，在一些战场上，这一数字似乎超过了之前选举的总体投票率",
+   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+   "summary": "欧洲外交部长拒绝在亚特兰大举行的峰会上与谢尔盖·拉夫罗夫合影。",
    "day": 0
   },
   {
