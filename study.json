@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:28",
+ "fetchedAt": "18:16",
  "fetchedDate": "2026-10-31",
  "source": "zhiri-server",
  "items": [
@@ -150,46 +150,12 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "极客湾Geekerwan",
-   "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
-   "duration": "57:15",
-   "heat": 3122618,
-   "updated": "2026-10-31T01:28:39.939619",
-   "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
-   "points": [
-    "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
    "author": "我是日行一扇",
    "title": "忙着跟生活对线的你，有多久没上号了？谨以此片，致和游戏一起长大的我们。【AI全民制作人】",
    "duration": "3:54",
-   "heat": 2497682,
-   "updated": "2026-10-31T01:28:39.939633",
+   "heat": 2826447,
+   "updated": "2026-10-31T10:16:53.874382",
    "url": "https://www.bilibili.com/video/BV1uGxj68EKt",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "bilibili",
-   "author": "Dennis飞昊",
-   "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
-   "duration": "9:20",
-   "heat": 1350223,
-   "updated": "2026-10-31T01:28:39.939636",
-   "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
    "points": [],
    "flags": {
     "fav": false,
@@ -203,10 +169,28 @@
    "author": "AAA宇宙边角料",
    "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
    "duration": "13:46",
-   "heat": 1621481,
-   "updated": "2026-10-31T01:28:39.939638",
+   "heat": 1798281,
+   "updated": "2026-10-31T10:16:53.874398",
    "url": "https://www.bilibili.com/video/BV1zRx76SEJQ",
    "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
+   "author": "极客湾Geekerwan",
+   "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+   "duration": "57:15",
+   "heat": 3214188,
+   "updated": "2026-10-31T10:16:53.874402",
+   "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
+   "points": [
+    "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌"
+   ],
    "flags": {
     "fav": false,
     "watched": false,
@@ -219,8 +203,8 @@
    "author": "小朱佩琪66",
    "title": "吴站长&梅姐《Trouble Maker》【AI MV大赛】",
    "duration": "2:40",
-   "heat": 2184215,
-   "updated": "2026-10-31T01:28:39.939640",
+   "heat": 2385677,
+   "updated": "2026-10-31T10:16:53.874405",
    "url": "https://www.bilibili.com/video/BV1dEsX6TEGx",
    "points": [
     "AI生成视频，仅供娱乐"
@@ -234,15 +218,13 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "Raymondsese",
-   "title": "强子刚来啊，等你二十年了【AI MV大赛】",
-   "duration": "5:31",
-   "heat": 1472543,
-   "updated": "2026-10-31T01:28:39.939642",
-   "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
-   "points": [
-    "-"
-   ],
+   "author": "Dennis飞昊",
+   "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
+   "duration": "9:20",
+   "heat": 1448850,
+   "updated": "2026-10-31T10:16:53.874408",
+   "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
+   "points": [],
    "flags": {
     "fav": false,
     "watched": false,
@@ -255,8 +237,8 @@
    "author": "青时晚",
    "title": "奶龙＆豆包《Trouble Maker》token没啦【AI MV大赛】",
    "duration": "1:57",
-   "heat": 2095239,
-   "updated": "2026-10-31T01:28:39.939644",
+   "heat": 2638451,
+   "updated": "2026-10-31T10:16:53.874410",
    "url": "https://www.bilibili.com/video/BV1stsZ6iESz",
    "points": [
     "奶龙和豆包……他们的朋友也来支持啦！ 《token没啦》"
@@ -270,11 +252,29 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
+   "author": "Raymondsese",
+   "title": "强子刚来啊，等你二十年了【AI MV大赛】",
+   "duration": "5:31",
+   "heat": 1600950,
+   "updated": "2026-10-31T10:16:53.874412",
+   "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
+   "points": [
+    "-"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "bilibili",
    "author": "墨小郎",
    "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
    "duration": "61:57",
-   "heat": 1340454,
-   "updated": "2026-10-31T01:28:39.939646",
+   "heat": 1438552,
+   "updated": "2026-10-31T10:16:53.874415",
    "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
    "points": [
     "第八十五回：白展堂偷懒遭算计 穿越人两世解死局 久等了，各位看官，新鲜爆笑悬疑的第八十五回奉上，剧情和莫小贝穿越影视城有一定的关联，各位看官可以重温一遍。编剧依旧是@雪月猫猫 的"
@@ -291,8 +291,8 @@
    "author": "抖音热榜",
    "title": "AI珍珠圣女妆",
    "duration": "—",
-   "heat": 7735594,
-   "updated": "2026-10-31T01:28:39.939649",
+   "heat": 7671550,
+   "updated": "2026-10-31T10:16:53.874417",
    "url": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86?type=general",
    "points": [
     "热门话题「AI珍珠圣女妆」：相关视频 10 条"
@@ -307,10 +307,58 @@
    "id": "sv_ext",
    "platform": "qbitai",
    "author": "量子位",
+   "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-31T10:16:53.874420",
+   "url": "https://www.qbitai.com/2026/10/506884.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-31T10:16:53.874422",
+   "url": "https://www.qbitai.com/2026/10/506866.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
+   "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2026-10-31T10:16:53.874424",
+   "url": "https://www.qbitai.com/2026/10/506855.html",
+   "points": [],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "qbitai",
+   "author": "量子位",
    "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-31T01:28:39.939651",
+   "updated": "2026-10-31T10:16:53.874425",
    "url": "https://www.qbitai.com/2026/10/506779.html",
    "points": [
     "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。"
@@ -328,7 +376,7 @@
    "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-31T01:28:39.939653",
+   "updated": "2026-10-31T10:16:53.874427",
    "url": "https://www.qbitai.com/2026/10/506771.html",
    "points": [],
    "flags": {
@@ -344,7 +392,7 @@
    "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-31T01:28:39.939655",
+   "updated": "2026-10-31T10:16:53.874430",
    "url": "https://www.qbitai.com/2026/10/506747.html",
    "points": [
     "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
@@ -357,61 +405,11 @@
   },
   {
    "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-31T01:28:39.939657",
-   "url": "https://www.qbitai.com/2026/10/506743.html",
-   "points": [
-    "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-31T01:28:39.939659",
-   "url": "https://www.qbitai.com/2026/10/506686.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "qbitai",
-   "author": "量子位",
-   "title": "Claude新模型曝光：新Fable，新Opus…",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-31T01:28:39.939661",
-   "url": "https://www.qbitai.com/2026/10/506674.html",
-   "points": [],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
    "title": "人工智能领域最大的争斗",
    "duration": "—",
-   "heat": 2,
+   "heat": 3,
    "updated": "2026-10-30",
    "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
    "points": [
