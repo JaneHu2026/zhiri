@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:29",
+ "fetchedAt": "09:28",
  "fetchedDate": "2026-10-31",
  "source": "zhiri-server",
  "items": [
@@ -13,7 +13,7 @@
    "updated": "2026-10-30 15:57:16",
    "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
    "points": [
-    "OpenAI 声称它刚刚完成了不可能的任务"
+    "OpenAI声称它只是做了不可能的事情"
    ],
    "flags": {
     "fav": false,
@@ -31,25 +31,7 @@
    "updated": "2026-10-28 17:32:40",
    "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
    "points": [
-    "DeepSeek 的新人工智能绝对是怪物"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "1littlecoder",
-   "title": "Unlimited OCR 2 is here!",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-27 15:12:33",
-   "url": "https://www.youtube.com/watch?v=OneYJJWDnNA",
-   "points": [
-    "无限 OCR 2 就在这里！"
+    "DeepSeek的新人工智能是一个绝对的怪物"
    ],
    "flags": {
     "fav": false,
@@ -67,7 +49,7 @@
    "updated": "2026-10-25 14:30:46",
    "url": "https://www.youtube.com/watch?v=V_uq3v6xK-4",
    "points": [
-    "球体相交谜题"
+    "球体交叉拼图"
    ],
    "flags": {
     "fav": false,
@@ -85,25 +67,7 @@
    "updated": "2026-10-19 08:49:21",
    "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
    "points": [
-    "Gemini 4 Argon 不是我所期望的"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "youtube",
-   "author": "sentdex",
-   "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
-   "duration": "—",
-   "heat": 0,
-   "updated": "2026-10-18 22:01:38",
-   "url": "https://www.youtube.com/watch?v=cCEAQiueLwo",
-   "points": [
-    "家庭数据中心 - GB300 GPU - 带 Asus DGX Station (ET900N G3)"
+    "双子座4氩气不是我所期望的"
    ],
    "flags": {
     "fav": false,
@@ -132,14 +96,50 @@
   {
    "id": "sv_ext",
    "platform": "youtube",
-   "author": "sentdex",
-   "title": "Robot Chonk Cleans the Floor",
+   "author": "3Blue1Brown",
+   "title": "The Phone Number puzzle",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-08 16:04:24",
-   "url": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+   "updated": "2026-09-25 13:35:02",
+   "url": "https://www.youtube.com/watch?v=ausLKMojXaY",
    "points": [
-    "机器人 chonk 清洁地板"
+    "电话号码拼图"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "How I use LLMs",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-27 22:29:56",
+   "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "points": [
+    "我如何使用LLM"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "youtube",
+   "author": "Andrej Karpathy",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "duration": "—",
+   "heat": 0,
+   "updated": "2025-02-05 18:23:47",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "points": [
+    "像ChatGPT一样深入了解LLM"
    ],
    "flags": {
     "fav": false,
@@ -153,8 +153,8 @@
    "author": "极客湾Geekerwan",
    "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
    "duration": "57:15",
-   "heat": 3094706,
-   "updated": "2026-10-30T18:29:04.592374",
+   "heat": 3122618,
+   "updated": "2026-10-31T01:28:39.939619",
    "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
    "points": [
     "终于来了！2026年旗舰手机芯片谁最强？我们今天凑齐了苹果A20 Pro、高通骁龙8 Elite Extreme Gen6、联发科天玑9600 Pro、小米玄戒O3四大旗舰手机芯片，也一同找来了麒麟9050 Pro和谷歌"
@@ -171,8 +171,8 @@
    "author": "我是日行一扇",
    "title": "忙着跟生活对线的你，有多久没上号了？谨以此片，致和游戏一起长大的我们。【AI全民制作人】",
    "duration": "3:54",
-   "heat": 2405621,
-   "updated": "2026-10-30T18:29:04.592388",
+   "heat": 2497682,
+   "updated": "2026-10-31T01:28:39.939633",
    "url": "https://www.bilibili.com/video/BV1uGxj68EKt",
    "points": [],
    "flags": {
@@ -187,8 +187,8 @@
    "author": "Dennis飞昊",
    "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
    "duration": "9:20",
-   "heat": 1309853,
-   "updated": "2026-10-30T18:29:04.592391",
+   "heat": 1350223,
+   "updated": "2026-10-31T01:28:39.939636",
    "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
    "points": [],
    "flags": {
@@ -203,8 +203,8 @@
    "author": "AAA宇宙边角料",
    "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
    "duration": "13:46",
-   "heat": 1542528,
-   "updated": "2026-10-30T18:29:04.592393",
+   "heat": 1621481,
+   "updated": "2026-10-31T01:28:39.939638",
    "url": "https://www.bilibili.com/video/BV1zRx76SEJQ",
    "points": [],
    "flags": {
@@ -219,8 +219,8 @@
    "author": "小朱佩琪66",
    "title": "吴站长&梅姐《Trouble Maker》【AI MV大赛】",
    "duration": "2:40",
-   "heat": 2104669,
-   "updated": "2026-10-30T18:29:04.592396",
+   "heat": 2184215,
+   "updated": "2026-10-31T01:28:39.939640",
    "url": "https://www.bilibili.com/video/BV1dEsX6TEGx",
    "points": [
     "AI生成视频，仅供娱乐"
@@ -237,8 +237,8 @@
    "author": "Raymondsese",
    "title": "强子刚来啊，等你二十年了【AI MV大赛】",
    "duration": "5:31",
-   "heat": 1428065,
-   "updated": "2026-10-30T18:29:04.592398",
+   "heat": 1472543,
+   "updated": "2026-10-31T01:28:39.939642",
    "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
    "points": [
     "-"
@@ -252,14 +252,14 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "墨小郎",
-   "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
-   "duration": "61:57",
-   "heat": 1281976,
-   "updated": "2026-10-30T18:29:04.592400",
-   "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
+   "author": "青时晚",
+   "title": "奶龙＆豆包《Trouble Maker》token没啦【AI MV大赛】",
+   "duration": "1:57",
+   "heat": 2095239,
+   "updated": "2026-10-31T01:28:39.939644",
+   "url": "https://www.bilibili.com/video/BV1stsZ6iESz",
    "points": [
-    "第八十五回：白展堂偷懒遭算计 穿越人两世解死局 久等了，各位看官，新鲜爆笑悬疑的第八十五回奉上，剧情和莫小贝穿越影视城有一定的关联，各位看官可以重温一遍。编剧依旧是@雪月猫猫 的"
+    "奶龙和豆包……他们的朋友也来支持啦！ 《token没啦》"
    ],
    "flags": {
     "fav": false,
@@ -270,14 +270,14 @@
   {
    "id": "sv_ext",
    "platform": "bilibili",
-   "author": "青时晚",
-   "title": "奶龙＆豆包《Trouble Maker》token没啦【AI MV大赛】",
-   "duration": "1:57",
-   "heat": 1882574,
-   "updated": "2026-10-30T18:29:04.592403",
-   "url": "https://www.bilibili.com/video/BV1stsZ6iESz",
+   "author": "墨小郎",
+   "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
+   "duration": "61:57",
+   "heat": 1340454,
+   "updated": "2026-10-31T01:28:39.939646",
+   "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
    "points": [
-    "奶龙和豆包……他们的朋友也来支持啦！ 《token没啦》"
+    "第八十五回：白展堂偷懒遭算计 穿越人两世解死局 久等了，各位看官，新鲜爆笑悬疑的第八十五回奉上，剧情和莫小贝穿越影视城有一定的关联，各位看官可以重温一遍。编剧依旧是@雪月猫猫 的"
    ],
    "flags": {
     "fav": false,
@@ -291,8 +291,8 @@
    "author": "抖音热榜",
    "title": "AI珍珠圣女妆",
    "duration": "—",
-   "heat": 7897146,
-   "updated": "2026-10-30T18:29:04.592406",
+   "heat": 7735594,
+   "updated": "2026-10-31T01:28:39.939649",
    "url": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86?type=general",
    "points": [
     "热门话题「AI珍珠圣女妆」：相关视频 10 条"
@@ -310,7 +310,7 @@
    "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T18:29:04.592409",
+   "updated": "2026-10-31T01:28:39.939651",
    "url": "https://www.qbitai.com/2026/10/506779.html",
    "points": [
     "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。"
@@ -328,7 +328,7 @@
    "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T18:29:04.592411",
+   "updated": "2026-10-31T01:28:39.939653",
    "url": "https://www.qbitai.com/2026/10/506771.html",
    "points": [],
    "flags": {
@@ -344,7 +344,7 @@
    "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T18:29:04.592413",
+   "updated": "2026-10-31T01:28:39.939655",
    "url": "https://www.qbitai.com/2026/10/506747.html",
    "points": [
     "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
@@ -362,7 +362,7 @@
    "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T18:29:04.592415",
+   "updated": "2026-10-31T01:28:39.939657",
    "url": "https://www.qbitai.com/2026/10/506743.html",
    "points": [
     "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
@@ -380,7 +380,7 @@
    "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T18:29:04.592417",
+   "updated": "2026-10-31T01:28:39.939659",
    "url": "https://www.qbitai.com/2026/10/506686.html",
    "points": [],
    "flags": {
@@ -396,7 +396,7 @@
    "title": "Claude新模型曝光：新Fable，新Opus…",
    "duration": "—",
    "heat": 0,
-   "updated": "2026-10-30T18:29:04.592419",
+   "updated": "2026-10-31T01:28:39.939661",
    "url": "https://www.qbitai.com/2026/10/506674.html",
    "points": [],
    "flags": {
@@ -409,13 +409,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "奥特曼同情数学家，但表示 OAI 的数学攻击不会停止",
+   "title": "人工智能领域最大的争斗",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-30",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
    "points": [
-    "奥特曼同情数学家，但表示 OAI 的数学攻击不会停止"
+    "人工智能领域最大的争斗"
    ],
    "flags": {
     "fav": false,
@@ -427,13 +427,31 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "人工智能、就业和社会：到目前为止我们所知道的",
+   "title": "奥尔特曼同情数学家，但表示OAI的数学冲击不会停止",
+   "duration": "—",
+   "heat": 3,
+   "updated": "2026-10-30",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "points": [
+    "奥尔特曼同情数学家，但表示OAI的数学冲击不会停止"
+   ],
+   "flags": {
+    "fav": false,
+    "watched": false,
+    "later": false
+   }
+  },
+  {
+   "id": "sv_ext",
+   "platform": "hn",
+   "author": "Hacker News",
+   "title": "人工智能、就业和社会：迄今为止我们所知道的",
    "duration": "—",
    "heat": 1,
    "updated": "2026-10-30",
    "url": "https://employment-social-affairs.ec.europa.eu/artificial-intelligence-jobs-and-society-what-we-know-so-far_en",
    "points": [
-    "人工智能、就业和社会：到目前为止我们所知道的"
+    "人工智能、就业和社会：迄今为止我们所知道的"
    ],
    "flags": {
     "fav": false,
@@ -445,13 +463,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "在计划削减 50% 遭到强烈反对后，OpenAI 将 ChatGPT Pro 使用限制提高了一倍",
+   "title": "OpenAI将ChatGPT Pro的使用限制在计划削减50 ％后增加一倍",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-30",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
    "points": [
-    "在计划削减 50% 遭到强烈反对后，OpenAI 将 ChatGPT Pro 使用限制提高了一倍"
+    "OpenAI将ChatGPT Pro的使用限制在计划削减50 ％后增加一倍"
    ],
    "flags": {
     "fav": false,
@@ -463,13 +481,13 @@
    "id": "sv_ext",
    "platform": "hn",
    "author": "Hacker News",
-   "title": "男子首次获得宗教豁免，禁止在工作中强制使用人工智能",
+   "title": "男性首次获得宗教豁免，禁止在工作中强制使用人工智能",
    "duration": "—",
    "heat": 2,
    "updated": "2026-10-29",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
    "points": [
-    "男子首次获得宗教豁免，禁止在工作中强制使用人工智能"
+    "男性首次获得宗教豁免，禁止在工作中强制使用人工智能"
    ],
    "flags": {
     "fav": false,
@@ -488,24 +506,6 @@
    "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/",
    "points": [
     "如何使人工智能更具环境可持续性"
-   ],
-   "flags": {
-    "fav": false,
-    "watched": false,
-    "later": false
-   }
-  },
-  {
-   "id": "sv_ext",
-   "platform": "hn",
-   "author": "Hacker News",
-   "title": "Gemini 4 Carbon 在人工智能分析智能指数 v5 中名列第一",
-   "duration": "—",
-   "heat": 336,
-   "updated": "2026-10-29",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-   "points": [
-    "Gemini 4 Carbon 在人工智能分析智能指数 v5 中名列第一"
    ],
    "flags": {
     "fav": false,
